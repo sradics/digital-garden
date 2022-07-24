@@ -60,7 +60,8 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       end
         
     current_note.content.gsub!(/!\[\[(.*)(\.png|\.jpeg|\.gif|\.jpg)\]\]/, "<img src='assets/\\1\\2'>")
-    Jekyll.logger.warn "1xxx9 test basti"
+    current_note.content.gsub!(/!\[\[(.*)\]\]/, "<a href='assets/\\1'>\\1</a>")
+    Jekyll.logger.warn "1xxx10 test basti"
 
       # At this point, all remaining double-bracket-wrapped words are
       # pointing to non-existing pages, so let's turn them into disabled

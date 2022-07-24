@@ -19,7 +19,7 @@ tags:
 ![[Pasted image 20220606160301.png]]
 
 ## The illusion of local optima
-https://fortelabs.co/blog/theory-of-constraints-102-local-optima/
+[https://fortelabs.co/blog/theory-of-constraints-102-local-optima/](https://fortelabs.co/blog/theory-of-constraints-102-local-optima/)
 
 > [!danger] 
 > _Any_ improvement not at the constraint is an illusion.
@@ -39,7 +39,7 @@ Meanwhile, the same situation is going on in the downstream work centers: they f
 ![[Pasted image 20220606161109.png]]
 
 ## The Four Fundamental principles of Flow
-https://fortelabs.co/blog/theory-of-constraints-103-the-four-fundamental-principles-of-flow/
+[https://fortelabs.co/blog/theory-of-constraints-103-the-four-fundamental-principles-of-flow/](https://fortelabs.co/blog/theory-of-constraints-103-the-four-fundamental-principles-of-flow/)
 
 ![[Pasted image 20220606161859.png]]
 
@@ -55,10 +55,10 @@ The processing rate of the bottleneck, strategically placed buffers, and the tim
 In all these creative fields, work moves not through the sequential, linear flow of an assembly line, but the even more rigid, even more linear flow of time.
 
 ## The Five focussing steps
-https://fortelabs.co/blog/theory-of-constraints-106-the-five-focusing-steps/
+[https://fortelabs.co/blog/theory-of-constraints-106-the-five-focusing-steps/](https://fortelabs.co/blog/theory-of-constraints-106-the-five-focusing-steps/)
 
 ### IDENTIFY THE CONSTRAINT
-https://fortelabs.co/blog/theory-of-constraints-107-identifying-the-constraint/
+[https://fortelabs.co/blog/theory-of-constraints-107-identifying-the-constraint/](https://fortelabs.co/blog/theory-of-constraints-107-identifying-the-constraint/)
 The reassuring truth is that you don’t have to identify it perfectly from the very beginning. This is a self-correcting process, not a waterfall where small errors in the beginning become huge mistakes by the end. The advantage of working with a dynamic, interconnected system is that it responds very quickly to changes. The behavior of the system tells you whether you chose correctly.
 
 Instead of collecting vast amounts of data on every aspect of the business, we make our best guess as to where the constraint lies, and let reality be our guide. Instead of spending vast amounts of time making a detailed plan covering every contingency, we acknowledge that we don’t have answers, only hypotheses.
@@ -86,7 +86,7 @@ A freakishly dysfunctional machine would quickly collapse under the laws of phys
 It is not difficult at this point to convince everyone that their job is to do whatever it takes to maximize the constraint’s productivity, instead of working as many hours as possible.
 
 ### OPTIMIZE THE CONSTRAINT
-https://fortelabs.co/blog/theory-of-constraints-108-optimizing-the-constraint/
+[https://fortelabs.co/blog/theory-of-constraints-108-optimizing-the-constraint/](https://fortelabs.co/blog/theory-of-constraints-108-optimizing-the-constraint/)
 
 Before adding capacity, we need to use the capacity we already have. “Optimize” in this sense means “doing everything possible to use the constraint to its fullest capacity.”
 
@@ -113,7 +113,7 @@ Andon is really about creating a culture that treats problems as “jewels to be
 
 
 ### SUBORDINATE THE NON-CONSTRAINTS
-https://fortelabs.co/blog/theory-of-constraints-109-the-psychology-of-subordination/
+[https://fortelabs.co/blog/theory-of-constraints-109-the-psychology-of-subordination/](https://fortelabs.co/blog/theory-of-constraints-109-the-psychology-of-subordination/)
 The job of all non-constraints is to subordinate their decisions to the constraint’s needs. They should optimize for constraint (and thus system) performance, not their own individual performance
 
 And they need to do it fast, before an interruption strikes again. They can only do this if they have **excess (or sprint) capacity**. This is why for even one part of a system to be fully utilized (the bottleneck), _every other part_ must have excess capacity.
@@ -128,7 +128,7 @@ Another example of subordination is **expediting**. It is a decision to subordi
 When a non-constraint overproduces and piles up a bunch of knowledge work inventory in front of a constraint, it is like a grocery store supplier piling up a mountain of ice cream tubs outside the freezer because they didn’t bother to find out how much capacity it had. When this ice cream melts (the ideas and requirements become outdated), the entire cost of producing them (researching, analyzing, updating, reviewing, summarizing, etc.) has to be written off as operating expense, instead of counted as investment.
 
 ### ELEVATE THE CONSTRAINT
-https://fortelabs.co/blog/theory-of-constraints-110-elevating-the-constraint/
+[https://fortelabs.co/blog/theory-of-constraints-110-elevating-the-constraint/](https://fortelabs.co/blog/theory-of-constraints-110-elevating-the-constraint/)
 Only once we’ve completed the previous steps does it make sense to add more constraint capacity, and thereby increase system performance. Because adding capacity is tremendously expensive in terms of time and money, we do it as a last resort, not a first resort.
 
 #### TRACKING PERFORMANCE DATA
@@ -156,7 +156,7 @@ They are the blindspots and the assumptions, the worldviews and the filters that
 ### RETURN TO STEP 1
 
 ## Balance Flow, Not Capacity - Drum Buffer Rope
-https://fortelabs.co/blog/theory-of-constraints-104-balance-flow-not-capacity/
+[https://fortelabs.co/blog/theory-of-constraints-104-balance-flow-not-capacity/](https://fortelabs.co/blog/theory-of-constraints-104-balance-flow-not-capacity/)
 
 How do we operate the system to achieve maximum throughput?
 

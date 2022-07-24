@@ -1,0 +1,2072 @@
+  Logging at level: debug
+    Jekyll Version: 4.2.0
+Configuration file: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_config.yml
+  Logging at level: debug
+    Jekyll Version: 4.2.0
+         Requiring: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_plugins/open_external_links_in_new_tab.rb
+         Requiring: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_plugins/image_url_replacer.rb
+         Requiring: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_plugins/embed_tweets.rb
+         Requiring: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_plugins/markdown-highlighter.rb
+         Requiring: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_plugins/empty_front_matter_note_injector.rb
+         Requiring: jekyll-last-modified-at
+            Source: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template
+       Destination: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+           Reading: /_layouts/page.html
+           Reading: /_layouts/default.html
+           Reading: /_layouts/note.html
+       EntryFilter: excluded /Gemfile
+       EntryFilter: excluded /Gemfile.lock
+       EntryFilter: excluded /.jekyll-cache
+           Reading: _pages/index.md
+           Reading: _pages/about.md
+           Reading: 404.html
+           Reading: styles.scss
+           Reading: _notes/Some quizzes.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+           Reading: _notes/안녕하세요.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+           Reading: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+           Reading: _notes/How to design the perfect day.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+           Reading: _notes/your-first-note.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+           Reading: _notes/animals/cats.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+           Reading: _notes/animals/tigers.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+           Reading: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+           Reading: _notes/testnote.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+           Reading: _notes/move your body every day.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+           Reading: _notes/Point and Untell.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+           Reading: _notes/Build a network of Bibs.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+Globbed Scope Path: _notes/Build a network of Bibs.md
+           Reading: _notes/How to begin.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+Globbed Scope Path: _notes/Build a network of Bibs.md
+Globbed Scope Path: _notes/How to begin.md
+           Reading: _notes/Multipliers.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+Globbed Scope Path: _notes/Build a network of Bibs.md
+Globbed Scope Path: _notes/How to begin.md
+Globbed Scope Path: _notes/Multipliers.md
+           Reading: _notes/Forte Labs - Theory of Contraints Blog Series.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+Globbed Scope Path: _notes/Build a network of Bibs.md
+Globbed Scope Path: _notes/How to begin.md
+Globbed Scope Path: _notes/Multipliers.md
+Globbed Scope Path: _notes/Forte Labs - Theory of Contraints Blog Series.md
+           Reading: _notes/consistency.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+Globbed Scope Path: _notes/Build a network of Bibs.md
+Globbed Scope Path: _notes/How to begin.md
+Globbed Scope Path: _notes/Multipliers.md
+Globbed Scope Path: _notes/Forte Labs - Theory of Contraints Blog Series.md
+Globbed Scope Path: _notes/consistency.md
+        Generating: TweetEmbedGenerator finished in 5.0e-06 seconds.
+         Rendering: _notes/2022-07-24_Sun.md
+  Pre-Render Hooks: _notes/2022-07-24_Sun.md
+  Rendering Markup: _notes/2022-07-24_Sun.md
+Post-Convert Hooks: _notes/2022-07-24_Sun.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/2022-07-24_Sun.md
+         Rendering: _notes/2022-07-24_Sun.md/#excerpt
+  Pre-Render Hooks: _notes/2022-07-24_Sun.md/#excerpt
+  Rendering Markup: _notes/2022-07-24_Sun.md/#excerpt
+Post-Convert Hooks: _notes/2022-07-24_Sun.md/#excerpt
+         Rendering: _notes/Build a network of Bibs.md
+  Pre-Render Hooks: _notes/Build a network of Bibs.md
+  Rendering Markup: _notes/Build a network of Bibs.md
+Post-Convert Hooks: _notes/Build a network of Bibs.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/Build a network of Bibs.md
+         Rendering: _notes/Build a network of Bibs.md/#excerpt
+  Pre-Render Hooks: _notes/Build a network of Bibs.md/#excerpt
+  Rendering Markup: _notes/Build a network of Bibs.md/#excerpt
+Post-Convert Hooks: _notes/Build a network of Bibs.md/#excerpt
+         Rendering: _notes/Forte Labs - Theory of Contraints Blog Series.md
+  Pre-Render Hooks: _notes/Forte Labs - Theory of Contraints Blog Series.md
+  Rendering Markup: _notes/Forte Labs - Theory of Contraints Blog Series.md
+Post-Convert Hooks: _notes/Forte Labs - Theory of Contraints Blog Series.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/Forte Labs - Theory of Contraints Blog Series.md
+         Rendering: _notes/Forte Labs - Theory of Contraints Blog Series.md/#excerpt
+  Pre-Render Hooks: _notes/Forte Labs - Theory of Contraints Blog Series.md/#excerpt
+  Rendering Markup: _notes/Forte Labs - Theory of Contraints Blog Series.md/#excerpt
+Post-Convert Hooks: _notes/Forte Labs - Theory of Contraints Blog Series.md/#excerpt
+         Rendering: _notes/How to begin.md
+  Pre-Render Hooks: _notes/How to begin.md
+  Rendering Markup: _notes/How to begin.md
+Post-Convert Hooks: _notes/How to begin.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/How to begin.md
+         Rendering: _notes/How to begin.md/#excerpt
+  Pre-Render Hooks: _notes/How to begin.md/#excerpt
+  Rendering Markup: _notes/How to begin.md/#excerpt
+Post-Convert Hooks: _notes/How to begin.md/#excerpt
+         Rendering: _notes/How to design the perfect day.md
+  Pre-Render Hooks: _notes/How to design the perfect day.md
+  Rendering Markup: _notes/How to design the perfect day.md
+Post-Convert Hooks: _notes/How to design the perfect day.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/How to design the perfect day.md
+         Rendering: _notes/How to design the perfect day.md/#excerpt
+  Pre-Render Hooks: _notes/How to design the perfect day.md/#excerpt
+  Rendering Markup: _notes/How to design the perfect day.md/#excerpt
+Post-Convert Hooks: _notes/How to design the perfect day.md/#excerpt
+         Rendering: _notes/Multipliers.md
+  Pre-Render Hooks: _notes/Multipliers.md
+  Rendering Markup: _notes/Multipliers.md
+Post-Convert Hooks: _notes/Multipliers.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/Multipliers.md
+         Rendering: _notes/Multipliers.md/#excerpt
+  Pre-Render Hooks: _notes/Multipliers.md/#excerpt
+  Rendering Markup: _notes/Multipliers.md/#excerpt
+Post-Convert Hooks: _notes/Multipliers.md/#excerpt
+         Rendering: _notes/Point and Untell.md
+  Pre-Render Hooks: _notes/Point and Untell.md
+  Rendering Markup: _notes/Point and Untell.md
+Post-Convert Hooks: _notes/Point and Untell.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/Point and Untell.md
+         Rendering: _notes/Point and Untell.md/#excerpt
+  Pre-Render Hooks: _notes/Point and Untell.md/#excerpt
+  Rendering Markup: _notes/Point and Untell.md/#excerpt
+Post-Convert Hooks: _notes/Point and Untell.md/#excerpt
+         Rendering: _notes/Some quizzes.md
+  Pre-Render Hooks: _notes/Some quizzes.md
+  Rendering Markup: _notes/Some quizzes.md
+Post-Convert Hooks: _notes/Some quizzes.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/Some quizzes.md
+         Rendering: _notes/Some quizzes.md/#excerpt
+  Pre-Render Hooks: _notes/Some quizzes.md/#excerpt
+  Rendering Markup: _notes/Some quizzes.md/#excerpt
+Post-Convert Hooks: _notes/Some quizzes.md/#excerpt
+         Rendering: _notes/What are Self-Managing Teams-.md
+  Pre-Render Hooks: _notes/What are Self-Managing Teams-.md
+  Rendering Markup: _notes/What are Self-Managing Teams-.md
+Post-Convert Hooks: _notes/What are Self-Managing Teams-.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/What are Self-Managing Teams-.md
+         Rendering: _notes/What are Self-Managing Teams-.md/#excerpt
+  Pre-Render Hooks: _notes/What are Self-Managing Teams-.md/#excerpt
+  Rendering Markup: _notes/What are Self-Managing Teams-.md/#excerpt
+Post-Convert Hooks: _notes/What are Self-Managing Teams-.md/#excerpt
+         Rendering: _notes/animals/cats.md
+  Pre-Render Hooks: _notes/animals/cats.md
+  Rendering Markup: _notes/animals/cats.md
+Post-Convert Hooks: _notes/animals/cats.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/animals/cats.md
+         Rendering: _notes/animals/cats.md/#excerpt
+  Pre-Render Hooks: _notes/animals/cats.md/#excerpt
+  Rendering Markup: _notes/animals/cats.md/#excerpt
+Post-Convert Hooks: _notes/animals/cats.md/#excerpt
+         Rendering: _notes/animals/tigers.md
+  Pre-Render Hooks: _notes/animals/tigers.md
+  Rendering Markup: _notes/animals/tigers.md
+Post-Convert Hooks: _notes/animals/tigers.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/animals/tigers.md
+         Rendering: _notes/animals/tigers.md/#excerpt
+  Pre-Render Hooks: _notes/animals/tigers.md/#excerpt
+  Rendering Markup: _notes/animals/tigers.md/#excerpt
+Post-Convert Hooks: _notes/animals/tigers.md/#excerpt
+         Rendering: _notes/consistency.md
+  Pre-Render Hooks: _notes/consistency.md
+  Rendering Markup: _notes/consistency.md
+Post-Convert Hooks: _notes/consistency.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/consistency.md
+         Rendering: _notes/consistency.md/#excerpt
+  Pre-Render Hooks: _notes/consistency.md/#excerpt
+  Rendering Markup: _notes/consistency.md/#excerpt
+Post-Convert Hooks: _notes/consistency.md/#excerpt
+         Rendering: _notes/move your body every day.md
+  Pre-Render Hooks: _notes/move your body every day.md
+  Rendering Markup: _notes/move your body every day.md
+Post-Convert Hooks: _notes/move your body every day.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/move your body every day.md
+         Rendering: _notes/move your body every day.md/#excerpt
+  Pre-Render Hooks: _notes/move your body every day.md/#excerpt
+  Rendering Markup: _notes/move your body every day.md/#excerpt
+Post-Convert Hooks: _notes/move your body every day.md/#excerpt
+         Rendering: _notes/testnote.md
+  Pre-Render Hooks: _notes/testnote.md
+  Rendering Markup: _notes/testnote.md
+Post-Convert Hooks: _notes/testnote.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/testnote.md
+         Rendering: _notes/testnote.md/#excerpt
+  Pre-Render Hooks: _notes/testnote.md/#excerpt
+  Rendering Markup: _notes/testnote.md/#excerpt
+Post-Convert Hooks: _notes/testnote.md/#excerpt
+         Rendering: _notes/your-first-note.md
+  Pre-Render Hooks: _notes/your-first-note.md
+  Rendering Markup: _notes/your-first-note.md
+Post-Convert Hooks: _notes/your-first-note.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/your-first-note.md
+         Rendering: _notes/your-first-note.md/#excerpt
+  Pre-Render Hooks: _notes/your-first-note.md/#excerpt
+  Rendering Markup: _notes/your-first-note.md/#excerpt
+Post-Convert Hooks: _notes/your-first-note.md/#excerpt
+         Rendering: _notes/안녕하세요.md
+  Pre-Render Hooks: _notes/안녕하세요.md
+  Rendering Markup: _notes/안녕하세요.md
+Post-Convert Hooks: _notes/안녕하세요.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _notes/안녕하세요.md
+         Rendering: _notes/안녕하세요.md/#excerpt
+  Pre-Render Hooks: _notes/안녕하세요.md/#excerpt
+  Rendering Markup: _notes/안녕하세요.md/#excerpt
+Post-Convert Hooks: _notes/안녕하세요.md/#excerpt
+         Rendering: 404.html
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+Globbed Scope Path: _notes/Build a network of Bibs.md
+Globbed Scope Path: _notes/How to begin.md
+Globbed Scope Path: _notes/Multipliers.md
+Globbed Scope Path: _notes/Forte Labs - Theory of Contraints Blog Series.md
+Globbed Scope Path: _notes/consistency.md
+  Pre-Render Hooks: 404.html
+  Rendering Markup: 404.html
+Post-Convert Hooks: 404.html
+  Rendering Layout: 404.html
+         Rendering: _pages/about.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+Globbed Scope Path: _notes/Build a network of Bibs.md
+Globbed Scope Path: _notes/How to begin.md
+Globbed Scope Path: _notes/Multipliers.md
+Globbed Scope Path: _notes/Forte Labs - Theory of Contraints Blog Series.md
+Globbed Scope Path: _notes/consistency.md
+  Pre-Render Hooks: _pages/about.md
+  Rendering Markup: _pages/about.md
+Post-Convert Hooks: _pages/about.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _pages/about.md
+         Rendering: _pages/index.md
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+Globbed Scope Path: _notes/Build a network of Bibs.md
+Globbed Scope Path: _notes/How to begin.md
+Globbed Scope Path: _notes/Multipliers.md
+Globbed Scope Path: _notes/Forte Labs - Theory of Contraints Blog Series.md
+Globbed Scope Path: _notes/consistency.md
+  Pre-Render Hooks: _pages/index.md
+  Rendering Markup: _pages/index.md
+Post-Convert Hooks: _pages/index.md
+    xxx2 test basti 
+    xxx2 test basti 
+  Rendering Layout: _pages/index.md
+         Rendering: styles.scss
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+Globbed Scope Path: _notes/Build a network of Bibs.md
+Globbed Scope Path: _notes/How to begin.md
+Globbed Scope Path: _notes/Multipliers.md
+Globbed Scope Path: _notes/Forte Labs - Theory of Contraints Blog Series.md
+Globbed Scope Path: _notes/consistency.md
+  Pre-Render Hooks: styles.scss
+  Rendering Markup: styles.scss
+Post-Convert Hooks: styles.scss
+         Rendering: styles.css.map
+Globbed Scope Path: _includes
+Globbed Scope Path: _includes/notes_graph.json
+Globbed Scope Path: _includes/link-previews.html
+Globbed Scope Path: _includes/head.html
+Globbed Scope Path: _includes/notes_graph.html
+Globbed Scope Path: _includes/footer.html
+Globbed Scope Path: _includes/nav.html
+Globbed Scope Path: LICENSE
+Globbed Scope Path: netlify.toml
+Globbed Scope Path: 404.html
+Globbed Scope Path: styles.scss
+Globbed Scope Path: _layouts
+Globbed Scope Path: _layouts/page.html
+Globbed Scope Path: _layouts/default.html
+Globbed Scope Path: _layouts/note.html
+Globbed Scope Path: README.md
+Globbed Scope Path: _pages
+Globbed Scope Path: _pages/index.md
+Globbed Scope Path: _pages/about.md
+Globbed Scope Path: markdown-highlighter.rb
+Globbed Scope Path: _site
+Globbed Scope Path: _site/your-first-note.html
+Globbed Scope Path: _site/move-your-body-every-day.html
+Globbed Scope Path: _site/forte-labs-theory-of-contraints-blog-series.html
+Globbed Scope Path: _site/some-quizzes.html
+Globbed Scope Path: _site/what-are-self-managing-teams.html
+Globbed Scope Path: _site/index.html
+Globbed Scope Path: _site/LICENSE
+Globbed Scope Path: _site/netlify.toml
+Globbed Scope Path: _site/2022-07-24-sun.html
+Globbed Scope Path: _site/styles.css
+Globbed Scope Path: _site/about.html
+Globbed Scope Path: _site/how-to-design-the-perfect-day.html
+Globbed Scope Path: _site/build-a-network-of-bibs.html
+Globbed Scope Path: _site/how-to-begin.html
+Globbed Scope Path: _site/404.html
+Globbed Scope Path: _site/multipliers.html
+Globbed Scope Path: _site/testnote.html
+Globbed Scope Path: _site/README.md
+Globbed Scope Path: _site/cats.html
+Globbed Scope Path: _site/markdown-highlighter.rb
+Globbed Scope Path: _site/test.txt
+Globbed Scope Path: _site/tigers.html
+Globbed Scope Path: _site/안녕하세요.html
+Globbed Scope Path: _site/styles.css.map
+Globbed Scope Path: _site/assets
+Globbed Scope Path: _site/assets/bidirectional_links_generator.rb
+Globbed Scope Path: _site/assets/Pasted image 20220606165006.png
+Globbed Scope Path: _site/assets/Pasted image 20220625093603.png
+Globbed Scope Path: _site/assets/Pasted image 20220606165049.png
+Globbed Scope Path: _site/assets/Pasted image 20220705102700.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160847.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161032.png
+Globbed Scope Path: _site/assets/Pasted image 20220606160301.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161859.png
+Globbed Scope Path: _site/assets/Pasted image 20220606162950.png
+Globbed Scope Path: _site/assets/Pasted image 20220606161109.png
+Globbed Scope Path: _site/assets/image.jpg
+Globbed Scope Path: _site/point-and-untell.html
+Globbed Scope Path: _site/consistency.html
+Globbed Scope Path: _plugins
+Globbed Scope Path: _plugins/open_external_links_in_new_tab.rb
+Globbed Scope Path: _plugins/image_url_replacer.rb
+Globbed Scope Path: _plugins/embed_tweets.rb
+Globbed Scope Path: _plugins/markdown-highlighter.rb
+Globbed Scope Path: _plugins/empty_front_matter_note_injector.rb
+Globbed Scope Path: _config.yml
+Globbed Scope Path: Gemfile
+Globbed Scope Path: Gemfile.lock
+Globbed Scope Path: test.txt
+Globbed Scope Path: _sass
+Globbed Scope Path: _sass/_code.scss
+Globbed Scope Path: _sass/_style.scss
+Globbed Scope Path: _sass/_normalize.scss
+Globbed Scope Path: assets
+Globbed Scope Path: assets/bidirectional_links_generator.rb
+Globbed Scope Path: assets/Pasted image 20220606165006.png
+Globbed Scope Path: assets/Pasted image 20220625093603.png
+Globbed Scope Path: assets/Pasted image 20220606165049.png
+Globbed Scope Path: assets/Pasted image 20220705102700.png
+Globbed Scope Path: assets/Pasted image 20220606160847.png
+Globbed Scope Path: assets/Pasted image 20220606161032.png
+Globbed Scope Path: assets/Pasted image 20220606160301.png
+Globbed Scope Path: assets/Pasted image 20220606161859.png
+Globbed Scope Path: assets/Pasted image 20220606162950.png
+Globbed Scope Path: assets/Pasted image 20220606161109.png
+Globbed Scope Path: assets/image.jpg
+Globbed Scope Path: _notes
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/_staging
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+Globbed Scope Path: _notes/attachments
+Globbed Scope Path: _notes/Build a network of Bibs.md
+Globbed Scope Path: _notes/How to begin.md
+Globbed Scope Path: _notes/Multipliers.md
+Globbed Scope Path: _notes/Forte Labs - Theory of Contraints Blog Series.md
+Globbed Scope Path: _notes/consistency.md
+Globbed Scope Path: _notes/Some quizzes.md
+Globbed Scope Path: _notes/안녕하세요.md
+Globbed Scope Path: _notes/2022-07-24_Sun.md
+Globbed Scope Path: _notes/How to design the perfect day.md
+Globbed Scope Path: _notes/your-first-note.md
+Globbed Scope Path: _notes/animals/cats.md
+Globbed Scope Path: _notes/animals/tigers.md
+Globbed Scope Path: _notes/What are Self-Managing Teams-.md
+Globbed Scope Path: _notes/testnote.md
+Globbed Scope Path: _notes/move your body every day.md
+Globbed Scope Path: _notes/Point and Untell.md
+Globbed Scope Path: _notes/Build a network of Bibs.md
+Globbed Scope Path: _notes/How to begin.md
+Globbed Scope Path: _notes/Multipliers.md
+Globbed Scope Path: _notes/Forte Labs - Theory of Contraints Blog Series.md
+Globbed Scope Path: _notes/consistency.md
+  Pre-Render Hooks: styles.css.map
+  Rendering Markup: styles.css.map
+Post-Convert Hooks: styles.css.map
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/404.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/about.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/index.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/styles.css
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/styles.css.map
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/2022-07-24-sun.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/build-a-network-of-bibs.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/forte-labs-theory-of-contraints-blog-series.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/how-to-begin.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/how-to-design-the-perfect-day.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/multipliers.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/point-and-untell.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/some-quizzes.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/what-are-self-managing-teams.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/cats.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/tigers.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/consistency.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/move-your-body-every-day.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/testnote.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/your-first-note.html
+           Writing: /Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template/_site/안녕하세요.html
+                    done in 0.695 seconds.
+         Requiring: jekyll-watch
+           Watcher: Ignoring (?-mix:^_config\.yml)
+           Watcher: Ignoring (?-mix:^_site\/)
+           Watcher: Ignoring (?-mix:^_includes\/notes_graph\.json)
+           Watcher: Ignoring (?-mix:^\.jekyll\-cache\/)
+           Watcher: Ignoring (?-mix:^Gemfile)
+           Watcher: Ignoring (?-mix:^Gemfile\.lock)
+ Auto-regeneration: enabled for '/Users/sebastianradics/Documents/GitHub/digital-garden-jekyll-template'
+[2022-07-24 21:06:30] INFO  WEBrick 1.7.0
+[2022-07-24 21:06:30] INFO  ruby 2.6.8 (2021-07-07) [universal.x86_64-darwin21]
+[2022-07-24 21:06:30] DEBUG WEBrick::HTTPServlet::FileHandler is mounted on /.
+[2022-07-24 21:06:30] DEBUG unmount .
+[2022-07-24 21:06:30] DEBUG Jekyll::Commands::Serve::Servlet is mounted on .
+    Server address: http://127.0.0.1:4000/
+[2022-07-24 21:06:30] INFO  WEBrick::HTTPServer#start: pid=47160 port=4000
+  Server running... press ctrl-c to stop.
+[2022-07-24 21:06:40] DEBUG close TCPSocket(127.0.0.1, 4000)
+[2022-07-24 21:06:40] INFO  going to shutdown ...
+[2022-07-24 21:06:40] INFO  WEBrick::HTTPServer#start done.

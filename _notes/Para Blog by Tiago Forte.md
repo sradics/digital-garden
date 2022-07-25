@@ -8,14 +8,14 @@ tags:
 ---
 # Para Blog by Tiago Forte
 ## Based on
-+ Intro - https://fortelabs.co/blog/para
-+ Operations Manual - https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/
-+ Building a random idea generator - https://fortelabs.co/blog/p-a-r-a-iii-building-an-idea-generator/
-+ Setup Guide - https://fortelabs.co/blog/para-setup-guide/
-+ Exercise Project List Mindsweep - https://fortelabs.co/blog/p-a-r-a-v-the-project-list-mindsweep/
-+ Small batch projects - https://fortelabs.co/blog/p-a-r-a-part-vi-small-batch-projects-for-focus-creativity-and-perspective/
-+ Creating a project network - https://fortelabs.co/blog/p-a-r-a-part-vii-creating-a-project-network/
-+ Core principles - https://fortelabs.co/blog/p-a-r-a-viii-core-principles/
++ Intro - [https://fortelabs.co/blog/para](https://fortelabs.co/blog/para)
++ Operations Manual - [https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/](https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/)
++ Building a random idea generator - [https://fortelabs.co/blog/p-a-r-a-iii-building-an-idea-generator/](https://fortelabs.co/blog/p-a-r-a-iii-building-an-idea-generator/)
++ Setup Guide - [https://fortelabs.co/blog/para-setup-guide/](https://fortelabs.co/blog/para-setup-guide/)
++ Exercise Project List Mindsweep - [https://fortelabs.co/blog/p-a-r-a-v-the-project-list-mindsweep/](https://fortelabs.co/blog/p-a-r-a-v-the-project-list-mindsweep/)
++ Small batch projects - [https://fortelabs.co/blog/p-a-r-a-part-vi-small-batch-projects-for-focus-creativity-and-perspective/](https://fortelabs.co/blog/p-a-r-a-part-vi-small-batch-projects-for-focus-creativity-and-perspective/)
++ Creating a project network - [https://fortelabs.co/blog/p-a-r-a-part-vii-creating-a-project-network/](https://fortelabs.co/blog/p-a-r-a-part-vii-creating-a-project-network/)
++ Core principles - [https://fortelabs.co/blog/p-a-r-a-viii-core-principles/](https://fortelabs.co/blog/p-a-r-a-viii-core-principles/)
 
 ## PARA in a nutshell
 

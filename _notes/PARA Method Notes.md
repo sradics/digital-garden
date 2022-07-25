@@ -72,4 +72,4 @@ An organizational system can't be deployed all at once, it needs to start as a s
 
 
 ## Sources
-https://www.lucapallotta.com/para/
+[https://www.lucapallotta.com/para/](https://www.lucapallotta.com/para/)

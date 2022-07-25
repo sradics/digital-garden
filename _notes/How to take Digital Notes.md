@@ -68,7 +68,7 @@ Avoid just becoming a digital hoarder
 Everything is project centric.
 And only some take active moment to reflect on all the projects that are going on. Getting conscious about the projects going on programs subconscious mindset and now on everything is paying more attention too.
 
-https://fortelabs.co/blog/para
+[https://fortelabs.co/blog/para](https://fortelabs.co/blog/para)
 
 ## Next
 * Course - Building a Second Brain ... enroll in this course

@@ -8,7 +8,7 @@ tags:
 - digital_garden
 ---
 # The Power of Habit
-https://www.blinkist.com/en/nc/new-reader/the-power-of-habit-en
+[https://www.blinkist.com/en/nc/new-reader/the-power-of-habit-en](https://www.blinkist.com/en/nc/new-reader/the-power-of-habit-en)
 
 ## Highlights
 40 percent of the actions we perform each day are based on habits

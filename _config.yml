@@ -30,6 +30,7 @@ jekyll_analytics:
     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 
+
 plugins:
   - jekyll-last-modified-at
   - jekyll-news-sitemap

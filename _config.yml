@@ -21,9 +21,19 @@ embed_tweets: false
 
 permalink:           pretty
 relative_permalinks: false
+url: "https://digital-garden.ontheagilepath.net" # the base hostname & protocol for your site
+publisher: "Sebastian Kamilli"
+
+jekyll_analytics:
+    GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-7BHW6B6Z78          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-news-sitemap
+  - jekyll-analytics
 
 sass:
   sass_dir:          _sass

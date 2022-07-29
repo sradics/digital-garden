@@ -30,6 +30,7 @@ publisher: "Sebastian Kamilli"
 plugins:
   - jekyll-last-modified-at
   - jekyll-news-sitemap
+  - jekyll-spaceship
 
 sass:
   sass_dir:          _sass

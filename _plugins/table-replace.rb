@@ -16,26 +16,5 @@ end
 def replaceTable(doc)
   
     
-    doc.content.gsub!(/(\| \-)+/,"|")
-    doc.content.gsub!(/(\- \|)+/,"|")
-    doc.content.gsub!(/^\|(\-+\|)+\n/,"")
-
-    doc.content.gsub!(/(\| —)+/,"|")
-    doc.content.gsub!(/(— \|)+/,"|")
-    doc.content.gsub!(/^\|(—+\|)+\n/,"")
-
-
-    doc.content.gsub!(/\|\n/,"|EOLS")
-    doc.content.gsub!(/^(\|)(.*)[(\|EOLS\n)]$/,"<table class=\"table table-striped\">\n|\\2\n</table>\n")
-    doc.content.gsub!(/(\|EOLS)/,"|\n")
-
-
-    doc.content.gsub!(/(\|.*)+\|/) do |test|
-      test.gsub!(/[\r\n]+/,"")
-      test.gsub!(/(\|)([\s][^\|]*)/,"<td>\\2</td>")
-      test.gsub!("|","")
-      '<tr>'+test+'</tr>'
-    end
-
-    doc.content.gsub!("</tr>EOL","</tr>")
+    
 end

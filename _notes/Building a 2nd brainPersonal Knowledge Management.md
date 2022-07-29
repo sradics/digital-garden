@@ -30,3 +30,6 @@ How should I structure myself?
 ## My level of expertise
 
 Advanced
+
+## Linking
++ [[MOC Building a 2nd brain]]

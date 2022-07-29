@@ -25,7 +25,7 @@ tags:
  - [[Eisenhower Matrix]]
  - [[Facilitation of your Workshop]]
  - [[Facilitation]]
- - - [[Getting Things Done]]
+ - [[Getting Things Done]]
  - [[Habit building]]
  - [[ICE prioritization]]
  - [[Jira Agile]]

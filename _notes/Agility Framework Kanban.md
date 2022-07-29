@@ -35,3 +35,7 @@ How can I increase my personal productivity and task management by applying Pers
 ## My level of expertise
 
 Master
+
+## Linking
++ [[Kanban - An overview]]
++ 

@@ -37,3 +37,8 @@ Contributor to establishing product trios. Providing an Observer point of view.
 ## My level of expertise
 
 Advanced
+
+## Linking
++ [[Continuous Discovery Habits - Book Summary]]
++ [[Interview questions - Continuous Discovery Habits]]
++ [[Opportunity Solution Tree Learning Session]]

@@ -26,3 +26,6 @@ Sparring partner for exchanging on topics from the education.
 ## My level of expertise
 
 Advanced
+
+## Linking
++ [[PowerMBA Booklist including Blinkist Blinks]]

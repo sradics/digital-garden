@@ -10,4 +10,3 @@ gem "webrick", "~> 1.7"
 gem "nokogiri"
 gem 'bootstrap', '~> 5.2.0'
 gem 'jekyll-news-sitemap'
-gem 'jekyll-analytics'

@@ -2,12 +2,21 @@
 layout: default
 ---
 
-<content>
-  {{ content }}
-</content>
+<div class="container">
+  <div class="row">
+    <div class="col">
+       {% for page in site.notes %}
+        <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
+        {% endfor %}  
+    </div>
+    <div class="col-md-auto">
+     <content>
+        {{ content }}
+     </content>
+        
+     <p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
+     {% include notes_graph.html %}    
+    </div>        
+  </div>
+</div> 
 
-<hr>
-
-<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
-
-{% include notes_graph.html %}

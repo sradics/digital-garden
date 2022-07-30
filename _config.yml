@@ -25,6 +25,12 @@ url: "https://digital-garden.ontheagilepath.net" # the base hostname & protocol 
 publisher: "Sebastian Kamilli"
 
 
+jekyll-spaceship:
+  element-processor:
+    css:
+      - table:                                     # Replace all `a` tags
+          props:
+            class: ['(^.*$)', '\0 table table-striped']   # Add `ext-link` to class by regex pattern
 
 
 plugins:

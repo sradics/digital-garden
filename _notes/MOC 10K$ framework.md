@@ -32,6 +32,7 @@ Full credits for this well designed 4 weeks training to [Khe Why](https://radrea
 - Lesson 11 - [[Becoming indispensable- a pandemic power move]]
 - Lesson 12 - [[[$10K Training Lesson 12] Using leverage to grow your career (while you sleep)]]
 - Lesson 13 - [[[$10K Training Lesson 13] A portfolio approach to $10K Work]]
+- Lesson 14 - [[[$10K Training Lesson 14] Closing Thoughts & What's next]]
 
 ## Weekly Assignments
 + [[Week 1 - Assignment]]

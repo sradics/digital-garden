@@ -4,12 +4,12 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="col">
+    <div class="col-sm-4">
        {% for page in site.notes %}
         <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
         {% endfor %}  
     </div>
-    <div class="col-md-auto">
+    <div class="col-sm-8">
      <content>
         {{ content }}
      </content>

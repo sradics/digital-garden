@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+        
+<div>
+<h1>{{ page.title }}</h1>
+</div>
+
+<div id="simle-container">
+<content>
+  {{ content }}
+</content>
+</div>
+
+<hr>
+
+<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
+
+{% include notes_graph.html %}

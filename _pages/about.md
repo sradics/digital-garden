@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: simple
 title: About
 permalink: /about
 ---
+I'm **Sebastian Kamilli** - Agile Evangelist, product nerd and curious explorer. 
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+[please find further details on my LinkedIn Profile](https://www.linkedin.com/in/sebastiankamilli)

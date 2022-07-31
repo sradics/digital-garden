@@ -292,8 +292,12 @@
       ticked();
         
       active = svg.selectAll("circle").filter((_d, i, nodes) => d3.select(nodes[i]).attr("active"));
-        if (active) {
-            zoomHandler.translateTo(active,active.attr("cx"),active.attr("cy"));
+        if (active != null && active!=undefined) {
+            try {
+              zoomHandler.translateTo(active,active.attr("cx"),active.attr("cy"));
+            } catch (error) {
+              //ignore
+            }
         }      
     };
 

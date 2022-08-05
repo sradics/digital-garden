@@ -14,6 +14,7 @@ tags:
 * Opportunity Solution Tree 
 	* [Learning Session in Miro](https://miro.com/app/board/o9J_lh4DogY=/)
 	* [[Opportunity Solution Tree Learning Session]]
+	* [[Product Development Lifecycle]]
 
 ## Habit building - as foundation for Idea evaluation
 + [Blinkist BiB Hooked](https://www.blinkist.com/en/nc/browse/books/hooked-en?r=1&st=hook+mod)

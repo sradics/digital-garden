@@ -17,6 +17,9 @@ tags:
 + Creating a project network - [https://fortelabs.co/blog/p-a-r-a-part-vii-creating-a-project-network/](https://fortelabs.co/blog/p-a-r-a-part-vii-creating-a-project-network/)
 + Core principles - [https://fortelabs.co/blog/p-a-r-a-viii-core-principles/](https://fortelabs.co/blog/p-a-r-a-viii-core-principles/)
 
+## Attribution
+Thanks to [Tiago Forte](https://fortelabs.co/) for the inspiration with your **Building a 2nd brain** movement and your rich set of description, your amazing book and all your love and efforts you put into this topic.
+
 ## PARA in a nutshell
 
 

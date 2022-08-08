@@ -16,7 +16,7 @@ tags:
 |Cycle through Panes|Cycle through your open Panes with `ctrl + Tab`, just like with Tabs in your Browser!, ctrl+shift+Tab for Reverse|[https://github.com/phibr0](https://github.com/phibr0)| rarely used|
 |Dataview|Complex data views for the data-obsessed.|[https://github.com/blacksmithgu](https://github.com/blacksmithgu)| when needed highly useful|
 |Editor Commands Remap|Map hotkeys to editor commands.|[https://github.com/c4ctus5](https://github.com/c4ctus5)| when needed highly useful|
-|Emoji Shortcodes|This Plugin enables the use of Markdown Emoji Shortcodes :smile:|[https://github.com/phibr0](https://github.com/phibr0)|when needed highly useful |
+|Emoji Shortcodes|This Plugin enables the use of Markdown Emoji Shortcodes|[https://github.com/phibr0](https://github.com/phibr0)|when needed highly useful |
 |ExcaliBrain|A clean, intuitive and editable graph view for Obsidian|[https://zsolt.blog](https://zsolt.blog)| when needed highly useful|
 |Extract Highlights|Create, extract and leverage your markdown highlights|[https://publish.obsidian.md/alexisrondeau](https://publish.obsidian.md/alexisrondeau)| rarely used|
 |Extract url content|Extract url converting content into markdown|[https://github.com/trashhalo](https://github.com/trashhalo)| rarely used|

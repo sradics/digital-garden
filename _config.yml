@@ -24,7 +24,15 @@ relative_permalinks: false
 url: "https://digital-garden.ontheagilepath.net" # the base hostname & protocol for your site
 publisher: "Sebastian Kamilli"
 
-
+algolia:
+  application_id: 90JEGHMONX
+  index_name: digital_garden
+  search_only_api_key: 695dbadc21f53c60f39763540d9a395f
+  files_to_exclude:
+    - /a-perfect-organizational-system
+    - a-perfect-organizational-system.html
+    - /a-perfect-organizational-system.html
+  
 jekyll-spaceship:
   element-processor:
     css:

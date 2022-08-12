@@ -1,0 +1,62 @@
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
+
+
+<script>
+
+const algoliaClient = algoliasearch('{{ site.algolia.application_id }}', '{{ site.algolia.search_only_api_key }}');
+
+const searchClient = {
+    search(requests) {
+      if (requests[0].params.query === "") {
+        return [];
+      }
+      return algoliaClient.search(requests);
+    },
+  };
+    
+    
+const search = instantsearch({
+  indexName: '{{ site.algolia.index_name }}',    
+  searchClient,    
+});
+    
+const hitTemplate = function(hit) {
+  let url = `{{ site.baseurl }}${hit.url}`;
+  const title = hit.title;
+  const excerpt_html = hit.excerpt_html;    
+
+  return `
+    <div class="post-item">
+      <h2><a class="post-link" href="${url}">${title}</a></h2>
+      <div class="post-snippet">${excerpt_html}</div>
+    </div>
+  `;
+}    
+    
+
+search.addWidgets([
+  instantsearch.widgets.searchBox({
+    container: '#searchbox',
+    placeholder: 'Search this garden ...',
+    searchAsYouType: false,
+    poweredBy: true // This is required if you're on the free Community plan  
+  }),
+
+  instantsearch.widgets.hits({
+    container: '#hits',
+    templates: {
+      item: hitTemplate
+    }  
+  })
+]);
+    
+    try {
+      search.start();
+    } catch (error) {
+      //ignore
+    }
+
+    
+    
+</script>

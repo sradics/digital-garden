@@ -11,3 +11,7 @@ gem "nokogiri"
 gem 'bootstrap', '~> 5.2.0'
 gem 'jekyll-news-sitemap'
 gem 'jekyll-spaceship'
+
+group :jekyll_plugins do
+  gem 'jekyll-algolia'
+end

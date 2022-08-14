@@ -50,21 +50,24 @@ A plan of what to do to achieve certain outcomes and to make sure planned action
 Strategy is a system of expedients. It is more than science, is it the application of knowledge to practical life, the evolution of an original guiding idea under constantly changing circumstances, that art of taking action under the pressure of the most difficult conditions. A strategy enables people to reflect on activity and gives them a rationale for deciding what to do next.
 
 How are we going to compete?
+![[Pasted image 20220814140233.png]]
+
 
 **A strategy needs to phrase an intent: An intent is the decision to do something now (a task) in order to achieve an outcome (a purpose).** This is different from a plan as with the 3 gaps we cannot plan an outcome but only express the will to achieve it.
 
-3 major gaps - see [[Trinity of Directing, Leadership and Management]]
+## 3 major gaps 
+![[Pasted image 20220814140154.png]]
 
 ## Principles
 + Decide what really matters
-+ The business environment is unpredictable and uncertain, so we should expect the unexpected and should not plan beyond the circumstances we can foresee
-+ Work out the outcomes to achieve
-+ Define strategy as an intent
+	+ The business environment is unpredictable and uncertain, so we should expect the unexpected and should not plan beyond the circumstances we can foresee
+	+ Work out the outcomes to achieve
+	+ Define strategy as an intent
 + Get the message across
-+ Explain intentions and don’t tell what to doExplain the WHY
-+ Ask for what they are going to do
+	+ Explain intentions and don’t tell what to doExplain the WHY
+	+ Ask for what they are going to do
 + Give people space and support
-+ Provide broad boundaries
+	+ Provide broad boundaries
 
 
 ## Main claims

@@ -35,3 +35,7 @@ Sparring Partner in creating Causal Loop diagrams for your topic
 ## My level of expertise
 
 Advanced
+
+## Linking
++ [[Fleeting Note for Causal Loop Diagram]]
++ [[Causal Loop examples pictures]]

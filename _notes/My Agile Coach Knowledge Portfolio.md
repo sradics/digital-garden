@@ -37,7 +37,7 @@ tags:
  - [[Management 3.0 - Management for Complex Domain]]
  - [[Miro]]
  - [[Obsidian - PKMS - 2nd Brain]]
- - [[OODA Loops]]
+ - [[S01 Personal/030-039 Areas/31 Me/31.01 Knowledge Portfolio/OODA Loops]]
  - [[Personal Systemic Coaching]]
  - [[Principles of Product Development Flow]]
  - [[Product Discovery]]

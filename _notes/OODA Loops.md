@@ -33,7 +33,8 @@ Sparring partner for your systemic approach to change
 Advanced
 
 ## Linking
-[[Good StrategyBad Strategy]]
-[[Military Strategy]]
-[[Team of Teams]]
-[[THE ART OF STRATEGY]]
++ [[OODA Loops Knowledge]]
++ [[Good StrategyBad Strategy]]
++ [[Military Strategy]]
++ [[Team of Teams]]
++ [[THE ART OF STRATEGY]]

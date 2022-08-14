@@ -6,6 +6,8 @@ tags:
 **What do you want me to do?**
 Are important strategic and operational decisions quickly translated into action?
 
+## 3 Levels - Strategy, Operations/Execution and Tactics
+![[Pasted image 20220814140635.png]]
 The higher the level of command, the shorter and more general orders should be. 
 
 The next level should add whatever further specification feels to be necessary, and the details of execution are left to verbal instructions or perhaps a word of command. This ensures that everyone retains freedom of movement and decision within the bounds of their authority. And order should contain all, but also only, what subordinates cannot determine for themselves to achieve a particular purpose.

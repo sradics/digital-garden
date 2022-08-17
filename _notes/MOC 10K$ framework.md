@@ -7,7 +7,7 @@ tags:
 
 Full credits for this well designed 4 weeks training to [Khe Why](https://radreads.co/) - *Supercharge your productivity by working smarter (and on the right things)*
 
-
+## Extract from an article
 [[Focus on the right work]]
 
 ## Extracts from the 4 weeks training lessons

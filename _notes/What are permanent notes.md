@@ -5,6 +5,7 @@ tags:
 ---
 # _What are permanent notes
 [Source](https://fortelabs.co/blog/how-to-take-smart-notes/)
+
 Permanent notes are the third type of note, and make up the long-term knowledge that give the slip-box its value.
 
 This step starts with looking through the first two kinds of notes that you’ve created: fleeting notes and literature notes. Ahrens recommends doing this about once a day, before you completely forget what they contain.

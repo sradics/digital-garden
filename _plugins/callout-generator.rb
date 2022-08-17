@@ -46,7 +46,7 @@ class CalloutGenerator < Jekyll::Generator
                 test.gsub!("> ","")
                 test.gsub!("\n","<br>")
 
-            '<div class="alert '+value+'" role="alert">'+test+'</div>'
+            '<div class="alert '+value+'" role="alert"><span markdown="1">'+test+'</span></div>'
             end
         end 
       end

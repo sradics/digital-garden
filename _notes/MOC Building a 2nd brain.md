@@ -4,6 +4,7 @@ tags:
 - MOC
 ---
 # MOC Building a 2nd brain
+
 ## Attribution
 Thanks to [Tiago Forte](https://fortelabs.co/) for the inspiration with your **Building a 2nd brain** movement and your rich set of description, your amazing book and all your love and efforts you put into this topic.
 

@@ -5,7 +5,24 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-       {% for page in site.notes %}
+        
+        {{ "#### Maps of Content" | markdownify }}
+        
+        
+        {% for page in  site.notes %}
+  
+         {% for tag in  page.tags %}
+          {% if tag == 'MOC' %}
+            <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
+          {% endif %}
+
+         {% endfor %}
+
+        {% endfor %}
+        
+        {{ "---" | markdownify }}
+        {{ "#### Pages" | markdownify }}
+        {% for page in site.notes %}
         <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
         {% endfor %}  
     </div>

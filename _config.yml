@@ -34,6 +34,9 @@ algolia:
     - /a-perfect-organizational-system.html
   
 jekyll-spaceship:
+  processors:
+    - table-processor
+    - element-processor
   element-processor:
     css:
       - table:                                     # Replace all `a` tags

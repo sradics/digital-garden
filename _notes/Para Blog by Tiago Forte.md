@@ -23,7 +23,7 @@ Thanks to [Tiago Forte](https://fortelabs.co/) for the inspiration with your **B
 ## PARA in a nutshell
 
 
-![[A perfect organizational system]]
+[[A perfect organizational system]]
 
 ![[Pasted image 20220605063004.png]]
 

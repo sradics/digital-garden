@@ -19,8 +19,8 @@
         return link.target.id === node.id || link.source.id === node.id
     }
 
-    var width = $('#chartArea').innerWidth(); //$(window).width();
-    var height = $('#chartArea').innerHeight(); //$(window).height();
+    var width = $('#chartArea').width(); //$(window).width();
+    var height = $('#chartArea').height(); //$(window).height();
 
     var svg = d3.select('#chartArea')
         .append('svg')
@@ -52,6 +52,8 @@
     const linkStrength = 0.4;
     const force_strength = -300;
     const force_collide = 70;
+    
+    const event = jQuery.Event('onGraphCreated');
 
     function showNeighbors(selectedNode){
         var neighbors = getNeighbors(selectedNode)
@@ -338,6 +340,8 @@
         // last but not least, we call updateSimulation
         // to trigger the initial render
         updateSimulation()
+        
+        jQuery( "body" ).trigger( event );
 
     }
 

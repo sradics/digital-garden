@@ -42,15 +42,32 @@ layout: default
         </p>
       </div>
       {% endif %}
+        
+        <div id="chartArea" style='display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);width:416px;height: 400px;margin-top: 10px;'></div>
     </side>
   </div>
 </article>
 
 <hr>
 
-<div id="chartArea"></div>
-{% include renderGraph.html %}  
+<script>
+    $( "body" ).on( "onGraphCreated", function() {
+        const pageUrl = '{{ page.url }}'
+        var currentNode = null;
+        for (let node of baseNodes){
+            if (node.path === pageUrl){
+                currentNode = node;
+                break;
+            }
+        }
+        selectNode(currentNode);
+    });
 
+
+</script>
+
+
+{% include renderGraph.html %}  
 
 
   {% include algolia.html %}

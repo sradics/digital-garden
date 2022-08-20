@@ -1,6 +1,7 @@
 ---
 tags: 
 - digital_garden
+- MOC
 ---
 # MOC Product Discovery
 ## Overall Product Discovery

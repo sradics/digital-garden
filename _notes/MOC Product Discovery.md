@@ -23,6 +23,7 @@ tags:
 
 ## Measurements for Product Discovery
 + [[How Much Discovery is Enough-2nd pass]]
++ [[10 Popular Product Frameworks - A brief guide]]
 
 ## Jira invests currently a lot in Product Discovery
 + [Explore Jira whiteboards](https://marketplace.atlassian.com/apps/1223211/whiteboards-for-jira-team-collaboration?tab=overview&hosting=cloud&utm_source=google&utm_medium=cpc&utm_campaign=whiteboards_jira_search&gclid=Cj0KCQjwof6WBhD4ARIsAOi65ah_gq9uoGJfi3EXEN9WXf3MXI5x3trxK-WLxvbM0vTz4ouHnaDZJjkaAqpzEALw_wcB) (as an option to build highly integrated Opportunity Solution Trees)

@@ -149,3 +149,37 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+
+text.graphlink {
+        text-decoration-line: underline;
+        text-decoration-thickness: 10px;
+        text-decoration-color: red;
+        font-size: 0.7rem;
+        font-weight: lighter;
+        font-family: Monospace;
+}
+
+#chartArea {
+    background-color: ghostwhite;
+    width: 1000px;
+    height: 800px;
+}
+
+line.linkline {
+    stroke: darkgray;
+    stroke-width: 0.3;
+}
+
+line.linklineHighlighted {
+    stroke: orangered;
+    stroke-width: 0.7;
+}
+
+circle.nodecircle {
+    fill: dodgerblue;
+}
+
+circle.nodecircleHighlighted {
+    fill: orangered;
+}

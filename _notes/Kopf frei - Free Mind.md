@@ -5,6 +5,8 @@ tags:
 ---
 # Kopf frei - Free Mind
 ## Book information
+[Available at Blinkist](https://www.blinkist.com/en/nc/browse/books/kopf-frei-de?r=1&st=kopf+frei)
+
 title: Kopf frei!
 author: Volker Busch
 category: Self-Help

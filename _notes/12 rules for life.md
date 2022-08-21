@@ -32,7 +32,7 @@ Komm für die wirklich wichtigen Schritte ins Handeln.
 > Dazu gehört auch die Konfrontation mit negativen Eigenschaften und Verhaltensweisen.
 
 Ein Team wird hinzunehmen eines Underperformers geschwächt. Die Idee, dass andere eine schwaches Teammitglied mitziehen funktioniert meist nicht.
-## Vergleiche dich mit die selbst
+## Vergleiche dich mit dir selbst
 + Selbstkritik bringt Antrieb, Motivation und Ansporn.
 + kleine Schritte
 + betrachte alle Bereiche

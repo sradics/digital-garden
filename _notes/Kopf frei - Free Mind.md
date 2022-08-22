@@ -20,6 +20,7 @@ tags:
 ## Problem
 + information is addictive
 + we tend to second screen behavior and through that loose the deeper connection to topics
+
 ## Try
 + provide more attention to what actually happens around you
 + give information more time to sink in

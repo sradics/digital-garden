@@ -1,4 +1,3 @@
-
 ---
 tags: 
 - digital_garden

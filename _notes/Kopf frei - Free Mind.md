@@ -7,10 +7,10 @@ tags:
 ## Book information
 [Available at Blinkist](https://www.blinkist.com/en/nc/browse/books/kopf-frei-de?r=1&st=kopf+frei)
 
-title: Kopf frei!
-author: Volker Busch
-category: Self-Help
-isbn13: 9783426462744
++ title: Kopf frei!
++ author: Volker Busch
++ category: Self-Help
++ isbn13: 9783426462744
 
 ## Purpose
 + focus on the important
@@ -40,6 +40,7 @@ Nixen - do nothing and let you mind wander. This leads to our Default Mode Netwo
 + creating associations
 + opens room for *new* solutions to problems
 
+## 1st pass notes
 
 ![[Kopf frei.pdf]]
 

@@ -12,8 +12,7 @@ tags:
 To listen and follow your own inner voice
 
 > [!important]
-> 
-We determine who we are and what we feel through our **own** thoughts.
+> We determine who we are and what we feel through our **own** thoughts.
 
 Long term happiness results from who/what we are instead of what we possess.
 
@@ -23,12 +22,10 @@ Ability to observe yourself, your thoughts and emotions. By watching yourself an
 Our Action starts with a thought followed by an emotion. (*I'm not so sure about that as other sources mention that our unconscious mind already created an answer before we think consciously.*)
 
 > [!question]
-> 
-Who do you really want to be?
+> Who do you really want to be?
 
 > [!question]
-> 
-How do you really want to be?
+> How do you really want to be?
 
 Connect with our **gut feeling**, a network of nerves around our solar plexus that is directly linked with our ancestor reptile brain. It is lightening fast and unconscious.
 

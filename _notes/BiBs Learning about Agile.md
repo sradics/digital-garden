@@ -188,3 +188,7 @@ Wie Sie Ihr Unternehmen in acht Schritten erfolgreich verändern
 Getting Up to Speed Quickly in Today’s Ever-Changing Sales World
 
 [Better than a summary “Agile Selling” book by Jill Konrath](https://blinki.st/135e30d2c55f?blinkspack=agile-selling-en)
+
+
+## Linking
++ [[Best Agile Books]]

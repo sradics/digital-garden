@@ -5,6 +5,7 @@ tags:
 ---
 # MOC Teams
 ## Resources about teams
++ [[High Performance Teams]]
 + [[Bibs about Teams]]
 + [[Effective Team - Research by Google]]
 + [[What are Self-Managing Teams-]]

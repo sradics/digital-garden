@@ -9,6 +9,7 @@ tags:
 + [[Bibs about Teams]]
 + [[Effective Team - Research by Google]]
 + [[What are Self-Managing Teams-]]
++ [[Cross Functional Teams - Ideo Shopping Cart example]]
 
 ## Exercises with teams
 + [[Team Starter Exercise]]

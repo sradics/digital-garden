@@ -10,6 +10,7 @@ tags:
 + [[Effective Team - Research by Google]]
 + [[What are Self-Managing Teams-]]
 + [[Cross Functional Teams - Ideo Shopping Cart example]]
++ [[Agile for Starters Learning Path with Blinkist]]
 
 ## Exercises with teams
 + [[Team Starter Exercise]]

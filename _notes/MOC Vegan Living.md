@@ -36,3 +36,5 @@ This MOC provides an overview on several sources I've used since I started my Ve
 
 ## Receipts
 + [[MOC Receipts]]
++ [[Die vegane Kochschule - Sebastian Copien Hansi Heckmair]] good basics about vegan cooking
++ [[Deftig vegan - Anne-Katrin Weber]] nice receipts, sugar free and with special Umami insights

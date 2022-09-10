@@ -29,5 +29,10 @@ This MOC provides an overview on several sources I've used since I started my Ve
 ### Gardening
 + [[PERMAKULTUR. Der Leitfaden für Einsteiger]]
 
+## Further sources
++ [Beyond Carnism](https://carnism.org/) a great source to understand why we need to educate ourselves to understand the system around meat production
++ [The Game Changers](https://www.imdb.com/title/tt7455754/) inspired me as a great source about sports and being vegan. I have been to one of the live cinema sessions in Berlin. For me the first time with standing ovations in a cinema. 
+	+ [And I bought a version on Vimeo](https://vimeo.com/ondemand/thegamechangers)
+
 ## Receipts
 + [[MOC Receipts]]

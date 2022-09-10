@@ -10,7 +10,7 @@ This MOC provides an overview on several sources I've used since I started my Ve
 
 
 ### Vegan - Building behavior
-+ [[Book Notes - Hooked.pdf]] great source to understand how one can build a behavior. And vegan living is a lot about changing old behaviors.
++ [[Hook Model]] great source to understand how one can build a behavior. And vegan living is a lot about changing old behaviors.
 
 ### Nutrition
 + [[The Optimum Nutrition Bible]] helped me a lot in understanding different aspects of nutrition and how it connects to our health and body

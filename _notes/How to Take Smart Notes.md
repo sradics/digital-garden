@@ -11,6 +11,7 @@ kindle-sync:
   highlightsCount: 404
 tags:
   - digital_garden
+  - processed
 ---
 # How to Take Smart Notes
 ## Metadata
@@ -615,7 +616,7 @@ reliable and standardised working environment is less taxing on our attention, c
 **decision-making is one of the most tiring and wearying tasks**, — location: [1131](kindle://book?action=open&asin=B09V5M8FR5&location=1131) ^ref-14487
 
 ---
-In the way we organise our research and writing, we too can significantly reduce the number of decisions we have to make. — location: [1133](kindle://book?action=open&asin=B09V5M8FR5&location=1133) ^ref-12362
+In the way we organise our research and writing, **we too can significantly reduce the number of decisions we have to make**. — location: [1133](kindle://book?action=open&asin=B09V5M8FR5&location=1133) ^ref-12362
 
 ---
 By always using the same notebook for making quick notes, always extracting the main ideas from a text in the same way and always turning them into the same kind of permanent notes, which are always dealt with in the same manner, the number of decisions during a work session can be greatly reduced. — location: [1136](kindle://book?action=open&asin=B09V5M8FR5&location=1136) ^ref-56963
@@ -648,7 +649,7 @@ Translating means to give the truest possible account of the original work using
 the mere copying of quotes almost always changes their meaning by stripping them of context, even though the words aren’t changed. This is a common beginner mistake, which can only lead to a patchwork of ideas, but never a coherent thought. — location: [1169](kindle://book?action=open&asin=B09V5M8FR5&location=1169) ^ref-45506
 
 ---
-It means that I always read with an eye towards possible connections in the slip-box.” — location: [1175](kindle://book?action=open&asin=B09V5M8FR5&location=1175) ^ref-49762
+It means that I always **read with an eye towards possible connections in the slip-box**.” — location: [1175](kindle://book?action=open&asin=B09V5M8FR5&location=1175) ^ref-49762
 
 ---
 more elaborate notes make sense in more challenging cases, — location: [1178](kindle://book?action=open&asin=B09V5M8FR5&location=1178) ^ref-34973
@@ -663,7 +664,7 @@ You need to take some form of literature note that captures your understanding o
 Literature notes are short and meant to help with writing slip-box notes. — location: [1200](kindle://book?action=open&asin=B09V5M8FR5&location=1200) ^ref-27750
 
 ---
-Handwriting is slower and can’t be corrected as quickly as electronic notes. Because students can’t write fast enough to keep up with everything that is said in a lecture, they are forced to focus on the gist of what is being said, not the details. — location: [1208](kindle://book?action=open&asin=B09V5M8FR5&location=1208) ^ref-16083
+Handwriting is slower and can’t be corrected as quickly as electronic notes. Because students can’t write fast enough to keep up with everything that is said in a lecture, they are forced to **focus on the gist of what is being said**, not the details. — location: [1208](kindle://book?action=open&asin=B09V5M8FR5&location=1208) ^ref-16083
 
 ---
 Handwriting makes pure copying impossible, but instead facilitates the translation of what is said (or written) into one’s own words. — location: [1211](kindle://book?action=open&asin=B09V5M8FR5&location=1211) ^ref-41063
@@ -678,7 +679,7 @@ a new observation or thought came across me, which was opposed to my general res
 We should be able to focus on the most insightful ideas we encounter and welcome the most surprising turns of events without jeopardizing our progress — location: [1250](kindle://book?action=open&asin=B09V5M8FR5&location=1250) ^ref-40664
 
 ---
-but the only criterion is the question of whether something adds to a discussion in the slip-box. — location: [1257](kindle://book?action=open&asin=B09V5M8FR5&location=1257) ^ref-42248
+but the **only criterion is the question of whether something adds to a discussion in the slip-box**. — location: [1257](kindle://book?action=open&asin=B09V5M8FR5&location=1257) ^ref-42248
 
 ---
 Everything can contribute to the development of thoughts within the slip-box: an addition as well as a contradiction, the questioning of a seemingly obvious idea as well as the differentiation of an argument. — location: [1258](kindle://book?action=open&asin=B09V5M8FR5&location=1258) ^ref-46695
@@ -693,7 +694,7 @@ disconfirming data becomes suddenly very attractive, because it opens up more po
 Extracting the gist of a text or an idea and giving an account in writing is for academics what daily practice on the piano is for pianists: — location: [1278](kindle://book?action=open&asin=B09V5M8FR5&location=1278) ^ref-1787
 
 ---
-Dare to know! (Sapere aude.) ‘Have the courage to use your own understanding,’ is therefore the motto of the Enlightenment.” (Kant 1784) — location: [1292](kindle://book?action=open&asin=B09V5M8FR5&location=1292) ^ref-49187
+**Dare to know! (Sapere aude.) ‘Have the courage to use your own understanding,’ is therefore the motto of the Enlightenment.” (Kant 1784)** — location: [1292](kindle://book?action=open&asin=B09V5M8FR5&location=1292) ^ref-49187
 
 ---
 One has to read extremely selectively and extract widespread and connected references. One has to be able to follow recurrences. — location: [1298](kindle://book?action=open&asin=B09V5M8FR5&location=1298) ^ref-16545
@@ -702,13 +703,13 @@ One has to read extremely selectively and extract widespread and connected refer
 the best method is to take notes – not excerpts, but condensed reformulated accounts of a text. — location: [1299](kindle://book?action=open&asin=B09V5M8FR5&location=1299) ^ref-43410
 
 ---
-What is not meant, what is excluded if a certain claim is made? — location: [1302](kindle://book?action=open&asin=B09V5M8FR5&location=1302) ^ref-20836
+**What is not meant, what is excluded if a certain claim is made**? — location: [1302](kindle://book?action=open&asin=B09V5M8FR5&location=1302) ^ref-20836
 
 ---
 Not only will the readers of your text appreciate your ability to explain something clearly, those you talk to will benefit from this ability as well, as it is not limited to writing. It spills over into speaking and thinking. — location: [1308](kindle://book?action=open&asin=B09V5M8FR5&location=1308) ^ref-6313
 
 ---
-It is proven that readers regard an author and an audience a speaker as more intelligent the more clear and to the point their expressions are — location: [1310](kindle://book?action=open&asin=B09V5M8FR5&location=1310) ^ref-2394
+**It is proven that readers regard an author and an audience a speaker as more intelligent the more clear and to the point their expressions are** — location: [1310](kindle://book?action=open&asin=B09V5M8FR5&location=1310) ^ref-2394
 
 ---
 Taking smart notes is the deliberate practice of these skills. Mere reading, underlining sentences and hoping to remember the content is not. — location: [1315](kindle://book?action=open&asin=B09V5M8FR5&location=1315) ^ref-53856
@@ -732,28 +733,28 @@ they apply the very method research has shown again (Karpicke, Butler, and Roedi
 coach is not there to do the work, but to show us how to use our time and effort in the most effective way. — location: [1357](kindle://book?action=open&asin=B09V5M8FR5&location=1357) ^ref-10829
 
 ---
-“The one who does the work does the learning,” writes Doyle (2008, 63). — location: [1359](kindle://book?action=open&asin=B09V5M8FR5&location=1359) ^ref-21785
+**“The one who does the work does the learning,” writes Doyle** (2008, 63). — location: [1359](kindle://book?action=open&asin=B09V5M8FR5&location=1359) ^ref-21785
 
 ---
 make learning easier for their students by prearranging information, sorting it into modules, categories and themes. By doing that, they achieve the opposite of what they intend to do. — location: [1362](kindle://book?action=open&asin=B09V5M8FR5&location=1362) ^ref-27961
 
 ---
-taking away the opportunity to build meaningful connections and to make sense of something by translating it into one’s own language. — location: [1364](kindle://book?action=open&asin=B09V5M8FR5&location=1364) ^ref-58561
+**taking away the opportunity to build meaningful connections and to make sense of something by translating it into one’s own language**. — location: [1364](kindle://book?action=open&asin=B09V5M8FR5&location=1364) ^ref-58561
 
 ---
 “Manipulations such as variation, spacing, introducing contextual interference, and using tests, rather than presentations, as learning events, all share the property that they appear during the learning process to impede learning, but they then often enhance learning as measured by post-training tests of retention and transfer. — location: [1370](kindle://book?action=open&asin=B09V5M8FR5&location=1370) ^ref-10650
 
 ---
-When we try to answer a question before we know how to, we will later remember the answer better, even if our attempt failed — location: [1375](kindle://book?action=open&asin=B09V5M8FR5&location=1375) ^ref-13670
+**When we try to answer a question before we know how to, we will later remember the answer better, even if our attempt failed** — location: [1375](kindle://book?action=open&asin=B09V5M8FR5&location=1375) ^ref-13670
 
 ---
-Admittedly, cramming does get information into your head for a short while – usually long enough to stay in there to pass a test. But cramming won’t help you learn. As Terry Doyle and Todd Zakrajsek put it: “If learning is your goal, cramming is an irrational act” (Doyle and Zakrajsek 2013).25 — location: [1381](kindle://book?action=open&asin=B09V5M8FR5&location=1381) ^ref-44137
+Admittedly, cramming does get information into your head for a short while – usually long enough to stay in there to pass a test. But cramming won’t help you learn. **As Terry Doyle and Todd Zakrajsek put it: “If learning is your goal, cramming is an irrational act” (Doyle and Zakrajsek 2013)**.25 — location: [1381](kindle://book?action=open&asin=B09V5M8FR5&location=1381) ^ref-44137
 
 ---
 Elaboration means nothing other than really thinking about the meaning of what we read, how it could inform different questions and topics and how it could be combined with other knowledge. — location: [1389](kindle://book?action=open&asin=B09V5M8FR5&location=1389) ^ref-17208
 
 ---
-“Writing for Learning” is the name of an “elaboration method” (Gunel, Hand, and Prain 2007). — location: [1390](kindle://book?action=open&asin=B09V5M8FR5&location=1390) ^ref-13457
+**“Writing for Learning”** is the name of an “elaboration method” (Gunel, Hand, and Prain 2007). — location: [1390](kindle://book?action=open&asin=B09V5M8FR5&location=1390) ^ref-13457
 
 ---
 The objection that it takes too much time to take notes and sort them into the slip-box is therefore short-sighted. — location: [1399](kindle://book?action=open&asin=B09V5M8FR5&location=1399) ^ref-43634
@@ -792,7 +793,7 @@ Then he would write at least 250 words every 15 minutes. — location: [1429](ki
 Academic or nonfiction texts are not written like this because in addition to the writing, there is the reading, the research, the thinking and the tinkering with ideas. — location: [1431](kindle://book?action=open&asin=B09V5M8FR5&location=1431) ^ref-32280
 
 ---
-he wrote six notes a day from the day he started to work with his slip-box until he died. — location: [1449](kindle://book?action=open&asin=B09V5M8FR5&location=1449) ^ref-33026
+**he wrote six notes a day from the day he started to work with his slip-box until he died.** — location: [1449](kindle://book?action=open&asin=B09V5M8FR5&location=1449) ^ref-33026
 
 ---
 You could therefore measure your daily productivity by the number of notes written. — location: [1454](kindle://book?action=open&asin=B09V5M8FR5&location=1454) ^ref-4031
@@ -804,10 +805,10 @@ Writing here, too, is not copying, but translating (from one context and from on
 When we take permanent notes, it is much more a form of thinking within the medium of writing and in dialogue with the already existing notes within the slip-box than a protocol of preconceived ideas. — location: [1461](kindle://book?action=open&asin=B09V5M8FR5&location=1461) ^ref-44463
 
 ---
-only if something is written down is it fixed enough to be discussed independently from the author. — location: [1463](kindle://book?action=open&asin=B09V5M8FR5&location=1463) ^ref-58638
+only **if something is written down is it fixed enough to be discussed independently from the author**. — location: [1463](kindle://book?action=open&asin=B09V5M8FR5&location=1463) ^ref-58638
 
 ---
-As we write notes with an eye towards existing notes, we take more into account than the information that is already available in our internal memory. — location: [1466](kindle://book?action=open&asin=B09V5M8FR5&location=1466) ^ref-9659
+As we write notes with an eye towards existing notes, **we take more into account than the information that is already available in our internal memory**. — location: [1466](kindle://book?action=open&asin=B09V5M8FR5&location=1466) ^ref-9659
 
 ---
 The brain also doesn’t store information neurally and objectively. We reinvent and rewrite our memory every time we try to retrieve information. — location: [1468](kindle://book?action=open&asin=B09V5M8FR5&location=1468) ^ref-54073
@@ -816,7 +817,7 @@ The brain also doesn’t store information neurally and objectively. We reinvent
 “Somehow one has to mark differences, keep track of distinctions, either explicitly or implicitly in concepts,” — location: [1491](kindle://book?action=open&asin=B09V5M8FR5&location=1491) ^ref-37602
 
 ---
-A common way to embed an idea into the context of the slip-box is by writing out the reasons of its importance for your own lines of thought. — location: [1493](kindle://book?action=open&asin=B09V5M8FR5&location=1493) ^ref-17797
+**A common way to embed an idea into the context of the slip-box is by writing out the reasons of its importance for your own lines of thought**. — location: [1493](kindle://book?action=open&asin=B09V5M8FR5&location=1493) ^ref-17797
 
 ---
 had questions in mind like: Is this convincing? What methods do they use? Which of the references are familiar? — location: [1501](kindle://book?action=open&asin=B09V5M8FR5&location=1501) ^ref-16551
@@ -846,16 +847,16 @@ Transferring ideas into the external memory also allows us to forget them. And e
 How “accessible it is at a given point in time” therefore depends on “how entrenched or interassociated that representation is with related representations in memory” — location: [1578](kindle://book?action=open&asin=B09V5M8FR5&location=1578) ^ref-30811
 
 ---
-Learning would be not so much about saving information, like on a hard disk, but about building connections and bridges between pieces of information to enable circumventing the inhibition mechanism in the right moment. — location: [1579](kindle://book?action=open&asin=B09V5M8FR5&location=1579) ^ref-49800
+**Learning would be not so much about saving information, like on a hard disk, but about building connections and bridges between pieces of information to enable circumventing the inhibition mechanism in the right moment**. — location: [1579](kindle://book?action=open&asin=B09V5M8FR5&location=1579) ^ref-49800
 
 ---
 This is what learning psychologists have rightfully given the derogative term “cramming”: the attempt to reinforce and solidify information in the brain by repetition. — location: [1584](kindle://book?action=open&asin=B09V5M8FR5&location=1584) ^ref-30608
 
 ---
-start to think strategically about what kind of cues should trigger the retrieval of a memory and how to increase the interconnectedness of information. — location: [1588](kindle://book?action=open&asin=B09V5M8FR5&location=1588) ^ref-59969
+start to **think strategically about what kind of cues should trigger the retrieval of a memory and how to increase the interconnectedness of information.** — location: [1588](kindle://book?action=open&asin=B09V5M8FR5&location=1588) ^ref-59969
 
 ---
-What does help for true, useful learning is to connect a piece of information to as many meaningful contexts as possible, which is what we do when we connect our notes in the slip-box with other notes. — location: [1598](kindle://book?action=open&asin=B09V5M8FR5&location=1598) ^ref-36770
+What does help for true, useful learning is to c**onnect a piece of information to as many meaningful contexts as possible**, which is what we do when we connect our notes in the slip-box with other notes. — location: [1598](kindle://book?action=open&asin=B09V5M8FR5&location=1598) ^ref-36770
 
 ---
 Memory artists instead attach meaning to information and connect it to already known networks of connections in a meaningful way. — location: [1612](kindle://book?action=open&asin=B09V5M8FR5&location=1612) ^ref-40630
@@ -925,13 +926,13 @@ As these indexed notes are then linked further
 The organisation of the notes is in the network of references in the slip-box, so all we need from the index are entry points. A few wisely chosen notes are sufficient for each entry point. — location: [1700](kindle://book?action=open&asin=B09V5M8FR5&location=1700) ^ref-5634
 
 ---
-The archivist asks: Which keyword is the most fitting? A writer asks: In which circumstances will I want to stumble upon this note, even if I forget about it? — location: [1712](kindle://book?action=open&asin=B09V5M8FR5&location=1712) ^ref-64993
+The archivist asks: Which keyword is the most fitting? A writer asks: **In which circumstances will I want to stumble upon this note,** even if I forget about it? — location: [1712](kindle://book?action=open&asin=B09V5M8FR5&location=1712) ^ref-64993
 
 ---
 Keywords should always be assigned with an eye towards the topics you are working on or interested in, never by looking at the note in isolation. — location: [1734](kindle://book?action=open&asin=B09V5M8FR5&location=1734) ^ref-14278
 
 ---
-Assigning keywords is much more than just a bureaucratic act. It is a crucial part of the thinking process, which often leads to a deeper elaboration of the note itself and the connection to other notes. — location: [1741](kindle://book?action=open&asin=B09V5M8FR5&location=1741) ^ref-2936
+**Assigning keywords is much more than just a bureaucratic act. It is a crucial part of the thinking process, which often leads to a deeper elaboration of the note itself** and the connection to other notes. — location: [1741](kindle://book?action=open&asin=B09V5M8FR5&location=1741) ^ref-2936
 
 ---
 making good cross-references is a matter of serious thinking and a crucial part of the development of thoughts. — location: [1744](kindle://book?action=open&asin=B09V5M8FR5&location=1744) ^ref-46407
@@ -983,7 +984,7 @@ Charlie Munger, Warren Buffett’s partner and vice chairman of Berkshire Hathaw
 looking out for the most powerful concepts in every discipline and to try to understand them so thoroughly that they become part of our thinking. — location: [1835](kindle://book?action=open&asin=B09V5M8FR5&location=1835) ^ref-46460
 
 ---
-You’ve got to hang experience on a latticework of models in your head.” (Munger 1994). — location: [1843](kindle://book?action=open&asin=B09V5M8FR5&location=1843) ^ref-15504
+**You’ve got to hang experience on a latticework of models in your head.” (Munger 1994)**. — location: [1843](kindle://book?action=open&asin=B09V5M8FR5&location=1843) ^ref-15504
 
 A source of birkenbihl
 
@@ -991,7 +992,7 @@ A source of birkenbihl
 A truly wise person is not someone who knows everything, but someone who is able to make sense of things by drawing from an extended resource of interpretation schemes. — location: [1844](kindle://book?action=open&asin=B09V5M8FR5&location=1844) ^ref-54952
 
 ---
-It is much better to learn from the experiences of others – especially when this experience is reflected on and turned into versatile “mental models” that can be used in different situations. — location: [1846](kindle://book?action=open&asin=B09V5M8FR5&location=1846) ^ref-49881
+**It is much better to learn from the experiences of others** – especially when this experience is reflected on and turned into versatile “mental models” that can be used in different situations. — location: [1846](kindle://book?action=open&asin=B09V5M8FR5&location=1846) ^ref-49881
 
 ---
 If we practice learning not as a pure accumulation of knowledge, but as an attempt to build up a latticework of theories and mental models to which information can stick, we enter a virtuous circle where learning facilitates learning. — location: [1853](kindle://book?action=open&asin=B09V5M8FR5&location=1853) ^ref-27787
@@ -1003,10 +1004,10 @@ The more we know, the more information (hooks) we have to connect new informatio
 instructions for the slip-box: — location: [1864](kindle://book?action=open&asin=B09V5M8FR5&location=1864) ^ref-52880
 
 ---
-1. Pay attention to what you want to remember. 2. Properly encode the information you want to keep. (This includes thinking about suitable cues.) 3. Practice recall. (Ibid., 31) — location: [1864](kindle://book?action=open&asin=B09V5M8FR5&location=1864) ^ref-4684
+1. **Pay attention to what you want to remember. 2. Properly encode the information you want to keep. (This includes thinking about suitable cues.) 3. Practice recall. (Ibid., 31)** — location: [1864](kindle://book?action=open&asin=B09V5M8FR5&location=1864) ^ref-4684
 
 ---
-We learn something not only when we connect it to prior knowledge and try to understand its broader implications (elaboration), but also when we try to retrieve it at different times (spacing) in different contexts (variation), — location: [1867](kindle://book?action=open&asin=B09V5M8FR5&location=1867) ^ref-2780
+We learn something not only when we connect it to prior knowledge and try to understand its broader implications (elaboration), **but also when we try to retrieve it at different times (spacing) in different contexts (variation)**, — location: [1867](kindle://book?action=open&asin=B09V5M8FR5&location=1867) ^ref-2780
 
 ---
 It is the intuition that comes from the intimate knowledge of a practice that can lead us to new insights. We might not be able to explicitly state why it is more promising to follow one idea instead of another, but being experienced, we somehow know – which is enough. — location: [1887](kindle://book?action=open&asin=B09V5M8FR5&location=1887) ^ref-26056
@@ -1015,7 +1016,7 @@ It is the intuition that comes from the intimate knowledge of a practice that ca
 I would add the slip-box as such a space in which ideas can mingle freely, so they can give birth to new ones. — location: [1897](kindle://book?action=open&asin=B09V5M8FR5&location=1897) ^ref-18937
 
 ---
-Even groundbreaking paradigm shifts are most often the consequence of many small moves in the right direction instead of one big idea. This is why the search for small differences is key. — location: [1899](kindle://book?action=open&asin=B09V5M8FR5&location=1899) ^ref-62709
+Even groundbreaking paradigm shifts are most often the consequence of many small moves in the right direction instead of one big idea. T**his is why the search for small differences is key**. — location: [1899](kindle://book?action=open&asin=B09V5M8FR5&location=1899) ^ref-62709
 
 ---
 It is such an important skill to see differences between seemingly similar concepts, or connections between seemingly different ideas. — location: [1900](kindle://book?action=open&asin=B09V5M8FR5&location=1900) ^ref-12961
@@ -1042,7 +1043,7 @@ The real enemy of independent thinking is not an external authority, but our own
 The ability to generate new ideas has more to do with breaking with old habits of thinking than with coming up with as many ideas as possible. — location: [1937](kindle://book?action=open&asin=B09V5M8FR5&location=1937) ^ref-41186
 
 ---
-“The 5 Elements of Effective Thinking,” the mathematicians Edward B. Burger and Michael Starbird collected different strategies to do that (2012). — location: [1943](kindle://book?action=open&asin=B09V5M8FR5&location=1943) ^ref-46809
+**“The 5 Elements of Effective Thinking,” the mathematicians Edward B. Burger and Michael Starbird collected different strategies to do that** (2012). — location: [1943](kindle://book?action=open&asin=B09V5M8FR5&location=1943) ^ref-46809
 
 ---
 importance of feedback loops and the need to find ways to confront ourselves with our errors, mistakes and misunderstandings. — location: [1944](kindle://book?action=open&asin=B09V5M8FR5&location=1944) ^ref-38691
@@ -1057,7 +1058,7 @@ Make sure that you really see what you think you see and describe it as plainly 
 We always perceive something as something – our interpretation is instantaneous. — location: [1951](kindle://book?action=open&asin=B09V5M8FR5&location=1951) ^ref-58473
 
 ---
-To really understand a text is therefore a constant revision of our first interpretation. — location: [1957](kindle://book?action=open&asin=B09V5M8FR5&location=1957) ^ref-64734
+To really understand a text is therefore a constant r**evision of our first interpretation**. — location: [1957](kindle://book?action=open&asin=B09V5M8FR5&location=1957) ^ref-64734
 
 ---
 We have to train ourselves to get used to seeing this difference and to hold back our ingrained urge to jump to conclusions. — location: [1958](kindle://book?action=open&asin=B09V5M8FR5&location=1958) ^ref-47283
@@ -1096,7 +1097,7 @@ What kind of answer can you expect from asking a question in this particular way
 We check if what we understood from a text is really in the text by having our understanding in written form in front of our eyes. — location: [2009](kindle://book?action=open&asin=B09V5M8FR5&location=2009) ^ref-14518
 
 ---
-We learn to focus on the gist of an idea by restricting ourselves in terms of space. We can make it a habit to always think about what is missing when we write down our own ideas. — location: [2010](kindle://book?action=open&asin=B09V5M8FR5&location=2010) ^ref-16567
+We learn to focus on the gist of an idea by restricting ourselves in terms of space. **We can make it a habit to always think about what is missing when we write down our own ideas**. — location: [2010](kindle://book?action=open&asin=B09V5M8FR5&location=2010) ^ref-16567
 
 ---
 And we can practice asking good questions when we sort our notes into the slip-box and connect them with other notes. — location: [2011](kindle://book?action=open&asin=B09V5M8FR5&location=2011) ^ref-4166
@@ -1105,7 +1106,7 @@ And we can practice asking good questions when we sort our notes into the slip-b
 highly recommend treating a digital note as if the space were limited. — location: [2017](kindle://book?action=open&asin=B09V5M8FR5&location=2017) ^ref-15300
 
 ---
-restrict ourselves to just one idea per note and force ourselves to be as precise and brief as possible. — location: [2018](kindle://book?action=open&asin=B09V5M8FR5&location=2018) ^ref-26986
+**restrict ourselves to just one idea per note and force ourselves to be as precise and brief as possible**. — location: [2018](kindle://book?action=open&asin=B09V5M8FR5&location=2018) ^ref-26986
 
 ---
 Each note should fit onto the screen and there should be no need of scrolling. — location: [2020](kindle://book?action=open&asin=B09V5M8FR5&location=2020) ^ref-21344
@@ -1114,16 +1115,16 @@ Each note should fit onto the screen and there should be no need of scrolling. �
 Not having to think about the organisation is really good news for brains like ours. — location: [2024](kindle://book?action=open&asin=B09V5M8FR5&location=2024) ^ref-56645
 
 ---
-“The Paradox of Choice,” Barry Schwartz — location: [2028](kindle://book?action=open&asin=B09V5M8FR5&location=2028) ^ref-63968
+**“The Paradox of Choice,**” Barry Schwartz — location: [2028](kindle://book?action=open&asin=B09V5M8FR5&location=2028) ^ref-63968
 
 ---
 less choice can not only increase our productivity, but also our freedom and make it easier to be in the moment and enjoy it — location: [2029](kindle://book?action=open&asin=B09V5M8FR5&location=2029) ^ref-57430
 
 ---
-Thinking and creativity can flourish under restricted conditions and there are plenty of studies to back that claim (cf. Stokes 2001; Rheinberger 1997). — location: [2032](kindle://book?action=open&asin=B09V5M8FR5&location=2032) ^ref-26508
+**Thinking and creativity can flourish under restricted conditions** and there are plenty of studies to back that claim (cf. Stokes 2001; Rheinberger 1997). — location: [2032](kindle://book?action=open&asin=B09V5M8FR5&location=2032) ^ref-26508
 
 ---
-The biggest threat to creativity and scientific progress is therefore the opposite: a lack of structure and restrictions. — location: [2045](kindle://book?action=open&asin=B09V5M8FR5&location=2045) ^ref-35525
+**The biggest threat to creativity and scientific progress is therefore the opposite: a lack of structure and restrictions**. — location: [2045](kindle://book?action=open&asin=B09V5M8FR5&location=2045) ^ref-35525
 
 ---
 Without structure, we cannot differentiate, compare or experiment with ideas. Without restrictions, we would never be forced to make the decision on what is worth pursuing and what is not. — location: [2046](kindle://book?action=open&asin=B09V5M8FR5&location=2046) ^ref-58671
@@ -1132,28 +1133,28 @@ Without structure, we cannot differentiate, compare or experiment with ideas. Wi
 Indifference is the worst environment for insight. — location: [2047](kindle://book?action=open&asin=B09V5M8FR5&location=2047) ^ref-10289
 
 ---
-the slip-box is, above all, a tool for enforcing distinctions, decisions and making differences visible. — location: [2048](kindle://book?action=open&asin=B09V5M8FR5&location=2048) ^ref-31036
+the **slip-box is, above all, a tool for enforcing distinctions, decisions and making differences visible.** — location: [2048](kindle://book?action=open&asin=B09V5M8FR5&location=2048) ^ref-31036
 
 ---
 
 I’m never sure what I think until I see what I write. — location: [2052](kindle://book?action=open&asin=B09V5M8FR5&location=2052) ^ref-44455
 
 ---
-the analysis part of you kicks in when you sit down to construct a story or a paragraph or a sentence. You think, ‘Oh, that can’t be right.’ — location: [2053](kindle://book?action=open&asin=B09V5M8FR5&location=2053) ^ref-58963
+the **analysis part of you kicks in when you sit down to construct a story or a paragraph or a sentence.** You think, ‘Oh, that can’t be right.’ — location: [2053](kindle://book?action=open&asin=B09V5M8FR5&location=2053) ^ref-58963
 
 ---
 there is no need to worry about finding a topic to write about. Just look into your slip-box and see where clusters have been built up. — location: [2057](kindle://book?action=open&asin=B09V5M8FR5&location=2057) ^ref-16984
 
 ---
-While we want to find topics that are important, interesting and can be dealt with using the material we have available, the brain prioritises ideas that are easily available in the moment. — location: [2074](kindle://book?action=open&asin=B09V5M8FR5&location=2074) ^ref-60021
+While we want to find topics that are important, interesting and can be dealt with using the material we have available, **the brain prioritises ideas that are easily available in the moment**. — location: [2074](kindle://book?action=open&asin=B09V5M8FR5&location=2074) ^ref-60021
 
 Good argumentation against brainstorming
 
 ---
-we tend to like our first ideas the best and are very reluctant to let go of them, irrespective of their actual relevance — location: [2079](kindle://book?action=open&asin=B09V5M8FR5&location=2079) ^ref-56403
+we **tend to like our first ideas the best and are very reluctant to let go of them, irrespective of their actual relevance** — location: [2079](kindle://book?action=open&asin=B09V5M8FR5&location=2079) ^ref-56403
 
 ---
-More people in a brainstorming group usually come up with less good ideas and restrict themselves inadvertently to a narrower range of topics (Mullen, Johnson, and Salas 1991). — location: [2081](kindle://book?action=open&asin=B09V5M8FR5&location=2081) ^ref-25992
+**[[Why Brainstorming fails]]**. — location: [2081](kindle://book?action=open&asin=B09V5M8FR5&location=2081) ^ref-25992
 
 ---
 We can just look into our slip-box instead. If we had a good idea before (and it is certainly more likely that we will come up with a good idea over the course of several months rather than within a couple of minutes), it will be in there. — location: [2086](kindle://book?action=open&asin=B09V5M8FR5&location=2086) ^ref-42624
@@ -1177,7 +1178,7 @@ Nothing motivates us more than seeing a project we can identify with moving forw
 risk of losing interest in what we do is high when we decide up front on a long-term project without much clue about what to expect. — location: [2134](kindle://book?action=open&asin=B09V5M8FR5&location=2134) ^ref-15653
 
 ---
-“What is interesting about this?” and everything we read with the question, “What is so relevant about this that it is worth noting down?” — location: [2137](kindle://book?action=open&asin=B09V5M8FR5&location=2137) ^ref-59068
+**“What is interesting about this?” and everything we read with the question, “What is so relevant about this that it is worth noting down?”** — location: [2137](kindle://book?action=open&asin=B09V5M8FR5&location=2137) ^ref-59068
 
 ---
 By elaborating on what we encounter, we also discover aspects we didn’t know anything about before and therefore develop our interests along the way. It would be quite sad if we did not change our interests during research. — location: [2138](kindle://book?action=open&asin=B09V5M8FR5&location=2138) ^ref-35364
@@ -1195,10 +1196,10 @@ By looking at the (always preliminary) structure, you can see if information wil
 Luhmann’s answer to the question of how one person could be so productive was that he never forced himself to do anything and only did what came easily to him. — location: [2184](kindle://book?action=open&asin=B09V5M8FR5&location=2184) ^ref-45324
 
 ---
-“When I am stuck for one moment, I leave it and do something else.” — location: [2185](kindle://book?action=open&asin=B09V5M8FR5&location=2185) ^ref-54030
+**“When I am stuck for one moment, I leave it and do something else.”** — location: [2185](kindle://book?action=open&asin=B09V5M8FR5&location=2185) ^ref-54030
 
 ---
-“Well, writing other books. I always work on different manuscripts at the same time. With this method, to work on different things simultaneously, I never encounter any mental blockages.” — location: [2186](kindle://book?action=open&asin=B09V5M8FR5&location=2186) ^ref-59098
+**“Well, writing other books. I always work on different manuscripts at the same time. With this method, to work on different things simultaneously, I never encounter any mental blockages.”** — location: [2186](kindle://book?action=open&asin=B09V5M8FR5&location=2186) ^ref-59098
 
 ---
 but it makes a big difference if they imagine all the training that is necessary to be able to win. — location: [2212](kindle://book?action=open&asin=B09V5M8FR5&location=2212) ^ref-61066
@@ -1225,10 +1226,10 @@ If we have the finish line in sight, we tend to speed up, — location: [2233](k
 That means that the most important step is to get started. — location: [2233](kindle://book?action=open&asin=B09V5M8FR5&location=2233) ^ref-17037
 
 ---
-One of the most difficult tasks is to rigorously delete what has no function within an argument – “kill your darlings.” — location: [2246](kindle://book?action=open&asin=B09V5M8FR5&location=2246) ^ref-35364
+**One of the most difficult tasks is to rigorously delete what has no function within an argument – “kill your darlings.”** — location: [2246](kindle://book?action=open&asin=B09V5M8FR5&location=2246) ^ref-35364
 
 ---
-This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later. — location: [2247](kindle://book?action=open&asin=B09V5M8FR5&location=2247) ^ref-20468
+**This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later**. — location: [2247](kindle://book?action=open&asin=B09V5M8FR5&location=2247) ^ref-20468
 
 ---
 every single time I cut something, I copy it into the other document, — location: [2248](kindle://book?action=open&asin=B09V5M8FR5&location=2248) ^ref-27981

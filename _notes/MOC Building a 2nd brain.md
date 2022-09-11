@@ -27,3 +27,7 @@ Building a 2nd brain in a nutshell - [[Visual Notes]]
 + [[PARA Method Notes]]
 
 ## Express
+
+
+## Linking
++ [[How to take Smart Notes - Key Insights]]

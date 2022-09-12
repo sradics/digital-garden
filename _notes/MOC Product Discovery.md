@@ -4,6 +4,8 @@ tags:
 - MOC
 ---
 # MOC Product Discovery
+[[What is Product Discovery about]]
+
 ## Overall Product Discovery
 + [Blinkist BiB - Inspired by Marty Cagan](https://www.blinkist.com/en/nc/browse/books/inspired-en?r=1&st=inspired)
 	+ [[Book Inspired Extract]]

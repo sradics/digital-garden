@@ -8,7 +8,7 @@ tags:
 
 ## Overall Product Discovery
 + [Blinkist BiB - Inspired by Marty Cagan](https://www.blinkist.com/en/nc/browse/books/inspired-en?r=1&st=inspired)
-	+ [[Book Inspired Extract]]
+	+ [[Notes from Inspired  book by Marty Cagan]]
 + [Discovery Kanban](https://aktiasolutions.com/discovery-kanban-upstream-kanban/)
 
 ## Continuous Discovery Habits

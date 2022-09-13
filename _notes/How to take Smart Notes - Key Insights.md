@@ -88,7 +88,7 @@ tags:
 	+ PARA - Projects folder and sub-structure
 
 ## Processing thoughts
-+ ==**writing for learning**==
++ ==writing for learning==
 + work with Bibliographic notes and think about relevance for own thinking and writing
 + turn to main slip-box and write ideas, comments, thoughts. But use only one note for each idea and max one side of paper. This makes it easier to process later.
 	+ So I'm not yet there. I capture many notes for a book and follow the book order. I'm not yet generating many new thoughts from there and also don't connect much with other notes. Why is that difference?
@@ -165,7 +165,6 @@ tags:
 + We can hold a maximum of seven things in our head at the same time, plus/minus two (Miller 1956). 
 + Zeigarnik effect: Open tasks tend to occupy our short-term memory until they are done. (Connect to [[Braindump exercise]])
 	+ so ==write down thought in e.g. Fleeting notes to flush memory and ensure focus==.
-+ 
 
 #### Focussed attention
 Focus on ONE thing only, something we can sustain only for a few seconds.
@@ -236,7 +235,7 @@ For coaching
 
 ## Further processing
 + Reference management systems - Zotero, Citavi
-+ https://www.youtube.com/watch?v=qRSCKSPMuDc&t=2250s
++ [Interview with Niklas Luhmann about his Zettelkasten approach](https://www.youtube.com/watch?v=qRSCKSPMuDc&t=2250s)
 + [Luhmanns Zettelkasten](http://ds.ub.uni-bielefeld.de/viewer/collections/zettelkasten/)
 
 ## Linking

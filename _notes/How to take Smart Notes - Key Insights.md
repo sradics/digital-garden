@@ -239,7 +239,7 @@ For coaching
 + [Luhmanns Zettelkasten](http://ds.ub.uni-bielefeld.de/viewer/collections/zettelkasten/)
 
 ## Linking
-+ [[How to Take Smart Notes]]
++ [[How to Take Smart Notes]] and [Blinkist version as Book in Blinks](https://www.blinkist.com/de/nc/browse/books/how-to-take-smart-notes-en?r=1&st=how+to+tak)
 + [[MOC Building a 2nd brain]]
 + [[Digital Garden MOC]]
 + [[Die 5 Elemente effektiven Denkens - Edward B Burger Michael Starbird]]

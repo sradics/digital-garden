@@ -5,3 +5,6 @@ tags:
 # Kanban - An overview
 
 ![[Kanban - An overview.pdf]]
+
+## Linking
++ [[Learning Agile]]

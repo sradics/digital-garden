@@ -38,4 +38,5 @@ Master
 
 ## Linking
 + [[Kanban - An overview]]
-+ 
++ [[Learning Agile]] (Kanban chapter)
++ [[Kanban in der Praxis]]

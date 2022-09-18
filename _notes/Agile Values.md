@@ -15,3 +15,4 @@ tags:
 ## Linking
 + [[Agiler führen]]
 + [[Term Agility]]
++ [[Learning Agile]]

@@ -10,3 +10,4 @@ Working with Agile methodologies is ideal **for complex projects** **where** dis
 + [[Complexity]]
 + Complexity explained in [[Management 3.0 Book Summary]]
 + [[Empiricism]]
++ [[Learning Agile]]

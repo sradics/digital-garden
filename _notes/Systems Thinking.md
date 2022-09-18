@@ -38,3 +38,8 @@ Sparring partner for understanding the system(s) your’re operating in.
 ## My level of expertise
 
 Advanced
+
+## Linking
++ [[How to take Smart Notes - Key Insights]]
++ [[Learning Agile]]
++ [[SYSTEMANTICS. THE SYSTEMS BIBLE]]

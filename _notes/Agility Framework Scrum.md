@@ -34,4 +34,4 @@ Master
 
 ## Linking
 + [Scrum 3.0](https://www.ontheagilepath.net/articles/Scrum%2030%20and%20Organization%2040%20%20impressions%20from%20a%20great%20evening%20with%20Boris%20Gloger%20at%20ImmobilienScout24.pdf)
-+ 
++ [[Learning Agile]] (Scrum chapters)

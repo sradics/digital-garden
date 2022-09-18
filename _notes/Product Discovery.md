@@ -37,7 +37,8 @@ Sparring partner to enable your teams product discovery.
 Advanced
 
 ## Linking
-[[Building Continuous Discovery Habits]]
-[[INSPIRED]]
-[[Strategize]]
-[[Team Topologies]]
++ [[MOC Product Discovery]]
+	+ [[Building Continuous Discovery Habits]]
+	+ [[INSPIRED]]
++ [[Strategize]]
++ [[Team Topologies]]

@@ -31,3 +31,6 @@ Sparring partner for analyzing your system
 ## My level of expertise
 
 Advanced
+
+## Linking
++ [[Learning Agile]]

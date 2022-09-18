@@ -26,3 +26,6 @@ Google Script, Python, Java, R (and basic knowledge in many more)
 ## My level of expertise
 
 Advanced
+
+## Linking
++ [[Learning Agile]] (XP)

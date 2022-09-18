@@ -1,36 +1,46 @@
 ---
 tags: 
-- level/expert
 - digital_garden
 ---
 # Lean
-## Topic
+Unlike Scrum and XP, Lean doesn’t include a set of practices. Lean is a mindset, and just like with the mindset for Scrum or XP, Lean comes with values and principles (which, in Lean terminology, are called “thinking tools”). 
+[[Learning Agile]] (p 269)
+The mindset of lean is sometimes called lean thinking.
 
-Lean
+(it is not a methodology as it is missing concrete practices)
 
-## When might this be relevant to you?
+ 
+## Lean values
+![[Pasted image 20220918151510.png]]
 
-### This can help you when you have question like
 
-What forms of waste can I spot in my system? And how can I remove it?
 
-### Potential usages
+[[Learning Agile]] (p272)
 
--   Consider your system with aspects of Lean and identify where to further tune your throughput
-    
+## Seven wastes of Software Development
++ Partially done work
++ Extra processes
++ Extra features
++ Task switching
++ Waiting
++ Motion (e.g. walking/travel to collaborate)
++ Defects
 
-### My offer
+One tool for understanding the system and detecting waste is [[Value Stream Mapping - theoretical background |Value Stream Mapping]]
 
-Sparring partner for analyzing your system
+## 3 Types of wastes that constrain a workflow
 
-## Where did I apply that?
+**Muda** (無駄), which means “futility; uselessness; idleness; superfluity; waste; wastage; wastefulness”  
 
--   missing the 6-sigma part but I’m knowledge in e.g. topics like Waste in Systems, Kanban
-    
+**Mura** (斑), which means “unevenness; irregularity; lack of uniformity; nonuniformity; inequality”  
 
-## My level of expertise
+**Muri** (無理), which means “unreasonableness; impossible; beyond one’s power; too difficult; by force; perforce; forcibly; compulsorily; excessiveness; immoderation”
 
-Advanced
+[[Learning Agile]] (p305)
+
+(stemming from The Toyota Production System)
 
 ## Linking
-+ [[Learning Agile]]
++ [[Toyota Kata]]
++ [[Lean Software Development - Mary Poppendieck Tom Poppendieck Thomas David Poppendieck]]
++ [[Lean-Agile Software Development - Alan Shalloway Guy Beaver James R Trott]]

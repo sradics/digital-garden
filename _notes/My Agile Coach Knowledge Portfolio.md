@@ -32,7 +32,7 @@ tags:
  - [[Leadership Coaching]]
  - [[Leadership Development]]
  - [[Leadership Mentoring]]
- - [[Lean]]
+ - [[S01 Personal/030-039 Areas/31 Me/31.01 Knowledge Portfolio/Lean]]
  - [[Liberating Structures]]
  - [[Management 3.0 - Management for Complex Domain]]
  - [[Miro]]

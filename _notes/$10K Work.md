@@ -1,6 +1,5 @@
 ---
 tags: 
-- MOC
 - coaching
 - digital_garden
 ---

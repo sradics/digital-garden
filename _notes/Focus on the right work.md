@@ -29,3 +29,5 @@ looking for adjacent skills
 
 ![[Pasted image 20220624055237.png]]
 
+## Linking
++ [[MOC 10K$ framework]]

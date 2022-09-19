@@ -1,6 +1,7 @@
 ---
 tags: 
 - digital_garden
+- matter/processed
 ---
 # Why People See Problems Where There Are None
 ## Metadata
@@ -9,6 +10,6 @@ tags:
 * Author: [[Nir Eyal]]
 
 ## Highlights
-* everyone’s default state is dissatisfaction;
-* Our expectation of a high level of comfort has considerably reduced our tolerance for discomfort.
-* We see problems where there aren’t any, effectively imprisoning ourselves in an ever-shrinking comfort zone.
+* everyone’s ==default state is dissatisfaction==;
+* Our ==expectation of a high level of comfort== has considerably ==reduced our tolerance for discomfort==.
+* We see problems where there aren’t any, effectively ==imprisoning ourselves in an ever-shrinking comfort zone==.

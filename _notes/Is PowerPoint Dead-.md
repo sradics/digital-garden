@@ -1,6 +1,7 @@
 ---
 tags: 
 - digital_garden
+- matter/processed
 ---
 # Is PowerPoint Dead-
 ## Metadata
@@ -9,6 +10,6 @@ tags:
 * Author: [[SpeakerHub]]
 
 ## Highlights
-* most design agencies prefer to use software like Adobe InDesign.
-* If your presentations are well-structured and you’ve done your homework, there’s no reason why you can’t give a presentation without using slides at all.
-* it’s generally a better idea to make one presentation and one written report,
+* most ==design agencies prefer== to use software like ==Adobe InDesign==.
+* If your presentations are well-structured and you’ve done your homework, ==there’s no reason why you can’t give a presentation without using slides== at all.
+* it’s generally a ==better idea to make one presentation and one written report==,

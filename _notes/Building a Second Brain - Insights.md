@@ -4,6 +4,10 @@ tags:
 - digital_garden
 ---
 # Building a Second Brain
+> [!tip] Definition for 2nd brain
+> A repeatable, reliable system for generating ideas, gathering and organizing them, and putting them to use in concrete form 
+> 
+
 
 ## What is a 2nd Brain
 + ==personal knowledge management helps us harness the full potential of what we know==

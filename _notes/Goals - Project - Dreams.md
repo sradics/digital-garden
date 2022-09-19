@@ -3,6 +3,8 @@ tags:
 - digital_garden
 ---
 # Goals - Project - Dreams
+![[Pasted image 20220919211605.png]]
+
 Nice short video about goal setting - https://www.youtube.com/watch?v=xrc_x--re04
 	+ it starts after setting the goals
 	+ the ==project is the vehical that gets you there==

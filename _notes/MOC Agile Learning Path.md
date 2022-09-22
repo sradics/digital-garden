@@ -28,7 +28,6 @@ tags:
  - [[Lean Six Sigma Overview]]
  - [[Lean]]
  - [[Metrics]]
- - [[MOC Agile Learning Path]]
  - [[On pair programming]]
  - [[Product Discovery]]
  - [[Product Management]]

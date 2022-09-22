@@ -67,3 +67,4 @@ A team that uses the agile practices to help attain the goal of building working
 + [[Agile Methodologies]]
 + [[Agile Values]]
 + [[Learning Agile]]
++ [[Agile Manifesto for Business Contexts]]

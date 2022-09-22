@@ -3,6 +3,16 @@ tags:
 - digital_garden
 ---
 # Goals - Project - Dreams
+> [!important]
+> A project without a goal is a hobby; a goal without a project is a dream
+
++ What in your life that you say is a project is really a hobby?
++ What in your life that you say is a goal is really a dream?
+
+> [!important] Main Learning
+> **To make real progress you need a project and a goal.**
+
+
 ![[Pasted image 20220919211605.png]]
 
 Nice short video about goal setting - https://www.youtube.com/watch?v=xrc_x--re04

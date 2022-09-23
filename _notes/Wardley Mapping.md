@@ -36,3 +36,6 @@ Sparring partner in applying Wardley Mapping in your context
 ## My level of expertise
 
 Novice
+
+## Linking
++ [[About Wardley Maps]]

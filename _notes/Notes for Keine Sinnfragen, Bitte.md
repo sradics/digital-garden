@@ -3,7 +3,9 @@ tags:
 - digital_garden
 ---
 # Notes for Keine Sinnfragen, Bitte
-## Research with early results get abandoned and lead to inertia
+Source: [[Keine Sinnfragen bitte! - Gunter Dueck]]
+
+## Research with early results get abandoned and leads to inertia
 Research is done at an early stage and leads to insights that cannot be leveraged immediately because it in addition will need infrastructure and market forming. For example solar panels years ago where cost intense in production and companies abandoned it.
 
 Companies who experience that often resignate and don't touch this area again. [^1]

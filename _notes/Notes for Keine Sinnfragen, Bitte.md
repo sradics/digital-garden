@@ -31,6 +31,14 @@ As simple as this sounds, still most join meaningless meetings where purpose it 
 + Make meetings optional (connection with[ Scrum 3.0](https://ontheagilepath.net/articles/Scrum%2030%20and%20Organization%2040%20%20impressions%20from%20a%20great%20evening%20with%20Boris%20Gloger%20at%20ImmobilienScout24.pdf))
 + [[Schwarmdumm]]
 
+> [!hint]
+> When there is no real own interest in a topic by meeting attendees a discussion can drag on (for months). [^9]
+> 
+
+It needs trained facilitators also among the leadership team to steer meetings properly and detect nonsense discussions and deep dives.
++ [[Facilitation]] and
++ [[Facilitation of your Workshop]]
+
 ## About presentations
 > [!attention]
 > Presentations are a waste time & effort and create marginal outcomes, if at all  [^4]
@@ -49,13 +57,41 @@ Eg. working with a "Turn-Agile-Tiger-Team". This new approaches create some fres
 > [!important]
 > One needs to consider that the costs of scaling it to production ready are often 10-100 times higher than the first "promising" prototype. [^5]
 
+## Systemic underdelegation
+> [!note] Quote
+> The person who joins a therapy is often the one who can stand a situation the least. [^6]
+
+Important to notice that and raise awareness on a topic. These anchoring people are important to work with and realise a need for change early on. 
+
+In tough times highly paid professionals start taking on lower level work to prove the need for them. Work starts to travel up the hierarchy ladder. This contradicts that:
+
+> [!quote]
+> It is economical nonsense to highly paid professionals doing easy and lower paid tasks.  [^7]
+
+## Process guerilla
+Process empathy helps to detects when it is a good time to address and push a topic and get an easy and fast approval. And one needs to know about the pressure points.[^8]
+
+## Performance Shaming
+> [!danger]
+> Setting high expectations & performances measurements on others leads to inferiority complex.
+
+Still strong leadership problem shown since years via [Gallup Engagement Index (DE)](https://www.personalwirtschaft.de/news/personalentwicklung/wie-steht-es-um-die-mitarbeiterbindung-in-der-pandemie-96969/)
++ 15% inner resignation
++ 15% strong
++ remaining is indifferent and not highly engaged
+
 
 ## Linking
 + [[Where Good Ideas Come From - Steven Johnson]]
 + [[Strategy and the Fat Smoker - David Maister]]
 
+## Footnotes
 [^1]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p46)
 [^2]: Great example from Tesla outperforming competition within some years -[[Keine Sinnfragen bitte! - Gunter Dueck]]  (p58)
 [^3]: [[Keine Sinnfragen bitte! - Gunter Dueck]] - Bore out in meetings? Just don't go there (p71)
 [^4]:  [[Keine Sinnfragen bitte! - Gunter Dueck]] - Das Elend der Präsentationen (p95)
 [^5]: [[Keine Sinnfragen bitte! - Gunter Dueck]] - Leuchtturmprojekte - wir sind schon am Anfang (p98)
+[^6]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p104)
+[^7]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p104)
+[^8]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p115)
+[^9]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p121)

@@ -55,7 +55,7 @@ Eg. working with a "Turn-Agile-Tiger-Team". This new approaches create some fres
 + [[Strategy and the Fat Smoker - David Maister]]
 
 [^1]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p46)
-[^2]: Great example from Tesla outperforming competition within some years - [[Notes for Keine Sinnfragen, Bitte]] (p58)
+[^2]: Great example from Tesla outperforming competition within some years -[[Keine Sinnfragen bitte! - Gunter Dueck]]  (p58)
 [^3]: [[Keine Sinnfragen bitte! - Gunter Dueck]] - Bore out in meetings? Just don't go there (p71)
 [^4]:  [[Keine Sinnfragen bitte! - Gunter Dueck]] - Das Elend der Präsentationen (p95)
 [^5]: [[Keine Sinnfragen bitte! - Gunter Dueck]] - Leuchtturmprojekte - wir sind schon am Anfang (p98)

@@ -35,3 +35,11 @@ The Innovator's Solution: Creating and Sustaining Successful Growth [**https://a
 
 + [[OODA Loops Knowledge]]
 + [[Deciphering Sun Tzu]]
+
+## Some further resources 
+
+An export from a Miro board and a backup/restore format is attached below too.
+![[Wardley Maps - Template.pdf]]
+
+
++ [[Wardley Maps - Template.rtb | Miro Board Backup]]

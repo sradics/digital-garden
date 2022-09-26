@@ -13,13 +13,17 @@ Companies who experience that often resignate and don't touch this area again. [
 > [!danger]
 > The wrong learning in companies - Don't touch that topic again. We already failed last time. 
 
+Connection with [[About Wardley Maps]] through:
++ Inertia as a main Climatic Pattern
++ Stages of evolution for products, services, data,...
+
 ## Excellence leading to blindness
 > [!important]
 > Do you know (all) the startups around you that can kill your business?
 
 And do you seriously consider their approach? Companies must avoid positioning as superior from their current success [^2]. 
 
-[Jeering about Tesla in 2017](https://www.youtube.com/watch?v=wSklSKRkIpk)
+[Jeering about Tesla in 2017](https://www.youtube.com/watch?v=wSklSKRkIpk) and this links well to [[Only the Paranoid Survive]] (connection point - discovering Strategic Inflection Points early on).
 
 ## About meetings
 > [!tip]
@@ -105,7 +109,17 @@ When in beta waves, better stop arguing and sleep over a decision.
 
 	trustworthiness = (credibility + reliability + familiarity) / selfishness [^13]
 
+Connects well to [[The SPEED of Trust]]
 
+## Neurotic Leadership Programming
+It is important to be aware of patterns especially in leadership positions challenge the assumption of Homo Oeconomicus. [^14]
+
++ [[Direkt-Karriere - Gunter Dueck]]
++ [[Abschied vom Homo Oeconomicus - Gunter Dueck]]
++ Study [Disordered Personalities at work](https://www.researchgate.net/publication/44104645_Disordered_personalities_at_work/link/5d1954c3299bf1547c8cd96b/download) (captured a copy below from Research Gate)
+
+
+![[DisorderedPersonalitiesatWork.pdf]]
 
 ## Some further quotes
 > [!quote]
@@ -120,8 +134,7 @@ When in beta waves, better stop arguing and sleep over a decision.
 + [[Strategy and the Fat Smoker - David Maister]]
 + [[The Trusted Advisor - David H Maister Robert Galford Charles Green]]
 + [[The Character of Organizations - William Bridges]]
-+ [[Direkt-Karriere - Gunter Dueck]]
-+ [[Abschied vom Homo Oeconomicus - Gunter Dueck]]
+
 
 ## Footnotes
 [^1]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p46)
@@ -137,3 +150,4 @@ When in beta waves, better stop arguing and sleep over a decision.
 [^11]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p161)
 [^12]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p172)
 [^13]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p169)
+[^14]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p211)

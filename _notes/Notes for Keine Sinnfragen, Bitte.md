@@ -80,10 +80,48 @@ Still strong leadership problem shown since years via [Gallup Engagement Index (
 + 15% strong
 + remaining is indifferent and not highly engaged
 
+## About Flow, focus and problematic side effects
+> [!important]
+> When fully focussed only our brain should work! An additionally offended body is not helpful. [^11]
+### Different Brain Waves
++ Delta waves (very low frequency) - Deep Sleep
++ Theta waves  (low frequency) - Creativity, Focus, Meditation, Learning
++ Alpha waves (normal frequency) - relaxed, more inner focussed, learning also unconscious
++ low beta waves - relaxed outward focussed attention, learning, high awareness
++ medium beta waves - alerted, high outward focussed attention, high analytical intelligence efforts
++ high beta waves - stress, too high activity, jumping thoughts (e.g. exams, high engaged conversations)
+
+So based on waves:
++ Creativity needs alpha, theta
++ customer get togethers needs customers in low beta
++ manager meeting often in beta alert
+
+When in beta waves, better stop arguing and sleep over a decision.
+
+
++ [[Flow - der Weg zum Glück - Mihaly Csikszentmihalyi]]
+
+## About Trust
+
+	trustworthiness = (credibility + reliability + familiarity) / selfishness [^13]
+
+
+
+## Some further quotes
+> [!quote]
+> Wenn der Chef nicht weiterweiß, kauf er sich Beraterscheiß [^10] 
+
+> [!quote]
+> The art of content free communication [^12] 
+
 
 ## Linking
-+ [[Where Good Ideas Come From - Steven Johnson]]
++ [[Where Good Ideas Come From - Steven Johnson]] and at [Blinkist](https://www.blinkist.com/de/books/where-good-ideas-come-from-en?utm_source=bk_ios&utm_medium=bk_referral&utm_campaign=book%253Acover&utm_content=50cf166ce4b0921d8ef3b6ef&referral_token=135e30d2c55f)
 + [[Strategy and the Fat Smoker - David Maister]]
++ [[The Trusted Advisor - David H Maister Robert Galford Charles Green]]
++ [[The Character of Organizations - William Bridges]]
++ [[Direkt-Karriere - Gunter Dueck]]
++ [[Abschied vom Homo Oeconomicus - Gunter Dueck]]
 
 ## Footnotes
 [^1]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p46)
@@ -95,3 +133,7 @@ Still strong leadership problem shown since years via [Gallup Engagement Index (
 [^7]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p104)
 [^8]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p115)
 [^9]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p121)
+[^10]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p153)
+[^11]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p161)
+[^12]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p172)
+[^13]: [[Keine Sinnfragen bitte! - Gunter Dueck]] (p169)

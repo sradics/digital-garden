@@ -59,6 +59,17 @@ class BidirectionalLinksGenerator < Jekyll::Generator
           /\[\[(#{note_title_regexp_pattern})\]\]/i,
           anchor_tag
         )
+          
+        current_note.content.gsub!(/\[\[(#{note_title_regexp_pattern}#)(.*\]\])/i) do |test|
+            part_1=test.gsub(/\[\[(#{note_title_regexp_pattern}#)(.*\]\])/i,'\\1')
+            part_2=test.gsub(/\[\[(#{note_title_regexp_pattern}#)(.*\]\])/i,'\\2')
+            part_2.downcase!
+            part_2.gsub!(/\ /,'-')
+            part_1+part_2
+            
+            #Jekyll.logger.warn "#{current_note.basename} XXXX<a class='internal-link' href='#{new_href}##{part_2[0...-2]}'>#{note_potentially_linked_to.basename[0...-3]}</a>" 
+            "<a class='internal-link' href='#{new_href}##{part_2[0...-2]}'>#{note_potentially_linked_to.basename[0...-3]}</a>"
+          end 
       end
         
     current_note.content.gsub!(/!\[\[(.*)(\.png|\.jpeg|\.gif|\.jpg)\]\]/, "<img src='assets/\\1\\2'>")

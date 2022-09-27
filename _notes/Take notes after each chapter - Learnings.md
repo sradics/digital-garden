@@ -34,9 +34,8 @@ I was triggered because I read the book as a paperback version.
 
 ## Linking
 + [[MOC Building a 2nd brain]] and [[How to take Smart Notes - Key Insights]]
-
 # Footnotes
-[^1]: [[How to take Smart Notes - Key Insights]] - Chapter Full Foucs
-[^2]: [[How to take Smart Notes - Key Insights]] - Chapter Linking while taking notes
+[^1]: [[How to take Smart Notes - Key Insights#Full focus]] - Chapter Full Foucs
+[^2]: [[How to take Smart Notes - Key Insights#Linking while taking notes]] - Chapter Linking while taking notes
 [^3]: [[Progressive Summarization]]
-[^4]: [[Notes for Keine Sinnfragen, Bitte]] - Chapter - Different Brain Waves
+[^4]: [[Notes for Keine Sinnfragen, Bitte#Different Brain Waves]] - Chapter - Different Brain Waves

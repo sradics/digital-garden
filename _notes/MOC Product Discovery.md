@@ -32,4 +32,6 @@ tags:
 + [Explore Jira whiteboards](https://marketplace.atlassian.com/apps/1223211/whiteboards-for-jira-team-collaboration?tab=overview&hosting=cloud&utm_source=google&utm_medium=cpc&utm_campaign=whiteboards_jira_search&gclid=Cj0KCQjwof6WBhD4ARIsAOi65ah_gq9uoGJfi3EXEN9WXf3MXI5x3trxK-WLxvbM0vTz4ouHnaDZJjkaAqpzEALw_wcB) (as an option to build highly integrated Opportunity Solution Trees)
 + Explore [Jira Product Discovery](https://www.atlassian.com/software/jira/product-discovery)
 
+## Linking
++ [[List of most important product videos]]
 

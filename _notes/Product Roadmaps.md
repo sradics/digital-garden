@@ -31,6 +31,7 @@ Inspired by [Gerard Chiva in his book Product Roadmapping](https://leanpub.com/p
 + Inspired by [Gerard Chiva in his book Product Roadmapping](https://leanpub.com/product-roadmapping-in-practice)
 + [[Product Roadmaps Relaunched]]
 + [[How to Create a Product Roadmap That Everyone Can Understand!]]
++ [Roadmapping Approach described](https://www.linkedin.com/posts/andre-albuquerque_productmanagement-product-activity-6985144091827138560-2Eun?utm_source=share&utm_medium=member_desktop)
 
 ## Footnotes
 [^1]: [Product Roadmapping - Gerard Chiva](https://leanpub.com/product-roadmapping-in-practice) p17

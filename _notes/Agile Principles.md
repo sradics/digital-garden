@@ -5,9 +5,11 @@ tags:
 # Agile Principles
 [Principles from the Agile Manifesto](https://agilemanifesto.org/principles.html)
 
-The Agile Principles, [Agile Pillars](https://agilemanifesto.org/) and [[Agile Values]] provide orientation for working with Agile Practices and shape the Agile Mindset.
+The Agile Principles, [Agile Manifesto](https://agilemanifesto.org/) and [[Agile Values]] provide orientation for working with Agile Practices and shape the Agile Mindset.
 
-The Agile Principles behind Agile Pillars provide orientation for the Agile Pillars.
+A **manifesto** is a published declaration of the intentions, motives, or views of the issuer, be it an individual, group, political party or government.[[1]](https://en.wikipedia.org/wiki/Manifesto#cite_note-1)[[2]](https://en.wikipedia.org/wiki/Manifesto#cite_note-2)[[3]](https://en.wikipedia.org/wiki/Manifesto#cite_note-3)[[4]](https://en.wikipedia.org/wiki/Manifesto#cite_note-4) 
+
+The Agile Principles behind the Agile Manifesto provide orientation for the described views of the Agile Manifesto and help to align agile methodologies. 
 
 With absence of principles the agile practices are often inappropriately used.
 

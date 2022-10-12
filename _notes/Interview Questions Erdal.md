@@ -3,6 +3,7 @@ tags:
 - digital_garden
 ---
 # Interview Questions Erdal
+[the interview was published by AgyleOS on October 12,2022](https://agyleos.com/post/an-agile-mindset-enables-impactful-leadership)
 
 *How would you explain agility in 1-2 sentences to someone who has no idea and no contact with agility?*
 

@@ -8,7 +8,7 @@ kindle-sync:
   asin: B00O4CRR7Y
   lastAnnotatedDate: Invalid date
   bookImageUrl: 'https://m.media-amazon.com/images/I/91YCWH4jFdL._SY160.jpg'
-  highlightsCount: 179
+  highlightsCount: 375
 tags:
   - digital_garden
 ---
@@ -568,5 +568,598 @@ The lesson: noncustomers tend to offer far more insight into how to unlock and g
 
 ---
 What are the key reasons first-tier noncustomers want to jump ship and leave your industry? — location: [1648](kindle://book?action=open&asin=B00O4CRR7Y&location=1648) ^ref-58217
+
+---
+
+What are the key reasons second-tier noncustomers refuse to use the products or services of your industry? — location: [1686](kindle://book?action=open&asin=B00O4CRR7Y&location=1686) ^ref-10559
+
+---
+commonalities across their responses. — location: [1687](kindle://book?action=open&asin=B00O4CRR7Y&location=1687) ^ref-24985
+
+---
+Focus on these, and not on their differences. You will glean insight into how to unleash an ocean of latent untapped demand. — location: [1687](kindle://book?action=open&asin=B00O4CRR7Y&location=1687) ^ref-2383
+
+---
+Typically, these unexplored noncustomers have not been targeted or thought of as potential customers by any player in the industry. — location: [1689](kindle://book?action=open&asin=B00O4CRR7Y&location=1689) ^ref-5312
+
+---
+By focusing on the key decisive factors and dropping or reducing other factors in the three dominant domains of customization—namely, — location: [1734](kindle://book?action=open&asin=B00O4CRR7Y&location=1734) ^ref-5336
+
+---
+you should focus on the tier that represents the biggest catchment that your organization has the capability to act — location: [1746](kindle://book?action=open&asin=B00O4CRR7Y&location=1746) ^ref-61809
+
+---
+explore whether there are overlapping commonalities across all three tiers of noncustomers. — location: [1747](kindle://book?action=open&asin=B00O4CRR7Y&location=1747) ^ref-49434
+
+---
+The natural strategic orientation of many companies is toward retaining existing customers and seeking further segmentation opportunities. — location: [1749](kindle://book?action=open&asin=B00O4CRR7Y&location=1749) ^ref-55712
+
+---
+But in making such a strategic move, you should be aware that you might end up landing in a smaller space. — location: [1755](kindle://book?action=open&asin=B00O4CRR7Y&location=1755) ^ref-52801
+
+---
+You should also be aware that when your competitors succeed in attracting the mass of noncustomers with a value innovation move, many of your existing customers may be attracted away because they too may be willing to put their differences aside to gain the offered leap in value. — location: [1756](kindle://book?action=open&asin=B00O4CRR7Y&location=1756) ^ref-24112
+
+---
+This brings us to the fourth principle of blue ocean strategy: get the strategic sequence right. — location: [1766](kindle://book?action=open&asin=B00O4CRR7Y&location=1766) ^ref-48326
+
+---
+Is there a compelling reason for the target mass of people to buy it? — location: [1774](kindle://book?action=open&asin=B00O4CRR7Y&location=1774) ^ref-26156
+
+---
+Is your offering priced to attract the mass of target buyers so that they have a compelling ability to pay for your offering? — location: [1777](kindle://book?action=open&asin=B00O4CRR7Y&location=1777) ^ref-16733
+
+---
+Can you produce your offering at the target cost and still earn a healthy profit margin? — location: [1780](kindle://book?action=open&asin=B00O4CRR7Y&location=1780) ^ref-40344
+
+---
+What are the adoption hurdles in rolling out your idea? Have you addressed these up front? — location: [1787](kindle://book?action=open&asin=B00O4CRR7Y&location=1787) ^ref-38496
+
+---
+Yet many companies fail to deliver exceptional value because they are obsessed by the novelty of their product or service, especially if new technology plays a part in it. — location: [1793](kindle://book?action=open&asin=B00O4CRR7Y&location=1793) ^ref-44938
+
+---
+bleeding-edge technology is equivalent to bleeding-edge utility for buyers—something that, our research found, is rarely the case. — location: [1800](kindle://book?action=open&asin=B00O4CRR7Y&location=1800) ^ref-30042
+
+---
+The Six Utility Levers Cutting across the stages of the buyer’s experience are what we call utility levers: — location: [1818](kindle://book?action=open&asin=B00O4CRR7Y&location=1818) ^ref-59626
+
+---
+The greatest blocks to utility often represent the greatest and most pressing opportunities to unlock exceptional value. — location: [1824](kindle://book?action=open&asin=B00O4CRR7Y&location=1824) ^ref-48691
+
+---
+By locating your proposed offering on the thirty-six spaces of the buyer utility map, you can clearly see how, and whether, the new idea not only creates a different utility proposition from existing offerings but also removes the biggest blocks to utility that stand in the way of converting noncustomers into customers. — location: [1826](kindle://book?action=open&asin=B00O4CRR7Y&location=1826) ^ref-24667
+
+---
+Where are the greatest blocks to utility across the buyer experience cycle for your customers and noncustomers? — location: [1848](kindle://book?action=open&asin=B00O4CRR7Y&location=1848) ^ref-9306
+
+---
+It is increasingly important, however, to know from the start what price will quickly capture the mass of target buyers. — location: [1855](kindle://book?action=open&asin=B00O4CRR7Y&location=1855) ^ref-55766
+
+---
+A second reason is that to a buyer, the value of a product or service may be closely tied to the total number of people using it. — location: [1860](kindle://book?action=open&asin=B00O4CRR7Y&location=1860) ^ref-51817
+
+---
+In the meantime, the rise of knowledge-intensive products also creates the potential for free riding. This relates to the nonrival and partially excludable nature of knowledge. — location: [1864](kindle://book?action=open&asin=B00O4CRR7Y&location=1864) ^ref-38100
+
+---
+In contrast, the use of a nonrival good by one firm does not limit its use by another. Ideas fall into this category. — location: [1867](kindle://book?action=open&asin=B00O4CRR7Y&location=1867) ^ref-41553
+
+---
+All this means that the strategic price you set for your offering must not only attract buyers in large numbers but also help you to retain them. — location: [1879](kindle://book?action=open&asin=B00O4CRR7Y&location=1879) ^ref-20445
+
+---
+Companies must therefore start with an offer that buyers can’t refuse and must keep it that way to discourage any free-riding imitations. — location: [1882](kindle://book?action=open&asin=B00O4CRR7Y&location=1882) ^ref-33261
+
+---
+Is your offering priced to attract the mass of target buyers from the start so that they have a compelling ability to pay for it? When exceptional utility is combined with strategic pricing, imitation is discouraged. We — location: [1883](kindle://book?action=open&asin=B00O4CRR7Y&location=1883) ^ref-38520
+
+---
+So the main challenge in determining a strategic price is to understand the price sensitivities of those people who will be comparing the new product or service with a host of very different-looking products and services offered outside the group of traditional competitors. A good way to look outside industry boundaries is to list products and services that fall into two categories: those that take different forms but perform the same function, and those that take different forms and functions but share the same overarching objective. — location: [1892](kindle://book?action=open&asin=B00O4CRR7Y&location=1892) ^ref-40465
+
+---
+Many companies that create blue oceans attract customers from other industries who use a product or service that performs the same function or bears the same core utility as the new one but takes a very different physical form. — location: [1897](kindle://book?action=open&asin=B00O4CRR7Y&location=1897) ^ref-16052
+
+---
+Yet despite these differences in form and function, people have the same objective in undertaking these three activities: to enjoy a night out. — location: [1908](kindle://book?action=open&asin=B00O4CRR7Y&location=1908) ^ref-32259
+
+---
+Listing the groups of alternative products and services allows managers to see the full range of buyers they can poach from — location: [1909](kindle://book?action=open&asin=B00O4CRR7Y&location=1909) ^ref-63011
+
+---
+plot the price and volume of these alternatives, as shown in figure 6-5 — location: [1912](kindle://book?action=open&asin=B00O4CRR7Y&location=1912) ^ref-12439
+
+---
+The key here is not to pursue pricing against the competition within an industry but rather to pursue pricing against substitutes and alternatives across industries and nonindustries. — location: [1917](kindle://book?action=open&asin=B00O4CRR7Y&location=1917) ^ref-64277
+
+---
+drawn carriages, the market for the Model T would not have exploded. — location: [1919](kindle://book?action=open&asin=B00O4CRR7Y&location=1919) ^ref-28390
+
+---
+how high a price they can afford to set within the corridor without inviting competition from imitation products or services. — location: [1921](kindle://book?action=open&asin=B00O4CRR7Y&location=1921) ^ref-12102
+
+Link zwischen CopyCat an pricing
+
+---
+Second is the degree to which the company owns some exclusive asset or core capability, such as an expensive production plant or unique design competence that can block imitation. — location: [1923](kindle://book?action=open&asin=B00O4CRR7Y&location=1923) ^ref-20690
+
+---
+On the other hand, companies with uncertain patent and asset protection should consider pricing somewhere in the middle of the corridor. — location: [1928](kindle://book?action=open&asin=B00O4CRR7Y&location=1928) ^ref-4339
+
+---
+As for companies that have no such protection, lower-boundary strategic pricing is advised. — location: [1929](kindle://book?action=open&asin=B00O4CRR7Y&location=1929) ^ref-21546
+
+---
+namely, against the price of car travel. — location: [1931](kindle://book?action=open&asin=B00O4CRR7Y&location=1931) ^ref-898
+
+---
+Companies would be wise to pursue mid-to lower-boundary strategic pricing from the start if any of the following apply: — location: [1931](kindle://book?action=open&asin=B00O4CRR7Y&location=1931) ^ref-65427
+
+---
+The attractiveness of the blue ocean offering depends heavily on network externalities. — location: [1933](kindle://book?action=open&asin=B00O4CRR7Y&location=1933) ^ref-49201
+
+---
+The cost structure behind the blue ocean offering benefits from steep economies of scale and scope. — location: [1933](kindle://book?action=open&asin=B00O4CRR7Y&location=1933) ^ref-20183
+
+---
+strategic price and then deduct its desired profit margin from the price to arrive at the target cost. — location: [1940](kindle://book?action=open&asin=B00O4CRR7Y&location=1940) ^ref-43443
+
+---
+companies have three principal levers. — location: [1952](kindle://book?action=open&asin=B00O4CRR7Y&location=1952) ^ref-33674
+
+---
+streamlining operations and introducing cost innovations from manufacturing to distribution. — location: [1952](kindle://book?action=open&asin=B00O4CRR7Y&location=1952) ^ref-53048
+
+---
+Can high-cost, low-value-added activities in your value chain be significantly eliminated, reduced, or outsourced? — location: [1954](kindle://book?action=open&asin=B00O4CRR7Y&location=1954) ^ref-13404
+
+---
+Can you truncate the number of parts or steps used in production by shifting the way things are made, as Ford did by introducing the assembly line? Can you digitize activities to reduce costs? — location: [1957](kindle://book?action=open&asin=B00O4CRR7Y&location=1957) ^ref-24048
+
+---
+The low price left no profit margin for Japanese or Hong Kong–based companies to copy Swatch and undercut its price. — location: [1962](kindle://book?action=open&asin=B00O4CRR7Y&location=1962) ^ref-24479
+
+---
+Beyond streamlining operations and introducing cost innovations, a second lever companies can pull to meet their target cost is partnering. — location: [1970](kindle://book?action=open&asin=B00O4CRR7Y&location=1970) ^ref-6835
+
+---
+changing the pricing model of the industry. By changing the pricing model used—and not the level of the strategic price—companies can often overcome this problem. — location: [1987](kindle://book?action=open&asin=B00O4CRR7Y&location=1987) ^ref-21639
+
+---
+Before plowing forward and investing in the new idea, the company must first overcome such fears by educating the fearful. — location: [2015](kindle://book?action=open&asin=B00O4CRR7Y&location=2015) ^ref-46416
+
+---
+Companies should work with employees to find ways of defusing the threats so that everyone in the company wins, despite shifts in people’s roles, responsibilities, and rewards. — location: [2020](kindle://book?action=open&asin=B00O4CRR7Y&location=2020) ^ref-1460
+
+---
+In educating these three groups of stakeholders—your employees, your partners, and the general public—the key challenge is to engage in an open discussion about why the adoption of the new idea is necessary. — location: [2050](kindle://book?action=open&asin=B00O4CRR7Y&location=2050) ^ref-37962
+
+---
+is cognitive: waking employees up to the need for a strategic shift. — location: [2119](kindle://book?action=open&asin=B00O4CRR7Y&location=2119) ^ref-6666
+
+---
+The second hurdle is limited resources. — location: [2120](kindle://book?action=open&asin=B00O4CRR7Y&location=2120) ^ref-16316
+
+---
+Third is motivation. How do you motivate key players to move fast and — location: [2122](kindle://book?action=open&asin=B00O4CRR7Y&location=2122) ^ref-24243
+
+---
+overcome key organizational hurdles to make blue ocean strategy happen in action. — location: [2126](kindle://book?action=open&asin=B00O4CRR7Y&location=2126) ^ref-62113
+
+---
+Tipping point leadership allows you to overcome these four hurdles fast and at low cost while winning employees’ backing in executing a break from the status quo. — location: [2129](kindle://book?action=open&asin=B00O4CRR7Y&location=2129) ^ref-36952
+
+---
+The four organizational hurdles to strategy execution — location: [2158](kindle://book?action=open&asin=B00O4CRR7Y&location=2158) ^ref-59092
+
+---
+The key to tipping point leadership is concentration, not diffusion. — location: [2161](kindle://book?action=open&asin=B00O4CRR7Y&location=2161) ^ref-17329
+
+---
+What factors or acts exercise a disproportionately positive influence on breaking the status quo? — location: [2166](kindle://book?action=open&asin=B00O4CRR7Y&location=2166) ^ref-54576
+
+---
+On getting the maximum bang out of each buck of resources? On motivating key players to aggressively move forward with change? And on knocking down political roadblocks that often trip up even the best strategies? — location: [2167](kindle://book?action=open&asin=B00O4CRR7Y&location=2167) ^ref-18557
+
+---
+the hardest battle is simply to make people aware — location: [2172](kindle://book?action=open&asin=B00O4CRR7Y&location=2172) ^ref-2634
+
+---
+What’s more, messages communicated through numbers seldom stick with people. — location: [2177](kindle://book?action=open&asin=B00O4CRR7Y&location=2177) ^ref-62366
+
+---
+The case for change feels abstract and removed from the sphere of the line managers, who are the very people the CEO needs to win over. — location: [2178](kindle://book?action=open&asin=B00O4CRR7Y&location=2178) ^ref-45258
+
+---
+and people who are worried about personal job security are more likely to scan the job market than to try to solve the company’s problems. — location: [2180](kindle://book?action=open&asin=B00O4CRR7Y&location=2180) ^ref-46030
+
+---
+zoom in on the act of disproportionate influence: making people see and experience harsh reality firsthand. — location: [2182](kindle://book?action=open&asin=B00O4CRR7Y&location=2182) ^ref-4397
+
+---
+positive stimuli reinforce behavior, whereas negative stimuli change attitudes and behavior. — location: [2184](kindle://book?action=open&asin=B00O4CRR7Y&location=2184) ^ref-27981
+
+---
+Tipping point leadership builds on this insight to inspire a fast change in mind-set that is internally driven of people’s own accord. — location: [2190](kindle://book?action=open&asin=B00O4CRR7Y&location=2190) ^ref-59774
+
+---
+To break the status quo, employees must come face-to-face with the worst operational problems. — location: [2193](kindle://book?action=open&asin=B00O4CRR7Y&location=2193) ^ref-60440
+
+---
+Showing the worst reality to your superiors can also shift their mind-set fast. — location: [2205](kindle://book?action=open&asin=B00O4CRR7Y&location=2205) ^ref-63180
+
+---
+They try to garner support based on a numbers case that lacks urgency and emotional impetus. — location: [2206](kindle://book?action=open&asin=B00O4CRR7Y&location=2206) ^ref-14939
+
+---
+neither leads to tipping superiors’ cognitive hurdle as fast and stunningly as showing the worst. — location: [2208](kindle://book?action=open&asin=B00O4CRR7Y&location=2208) ^ref-50560
+
+---
+Meet with Disgruntled Customers — location: [2218](kindle://book?action=open&asin=B00O4CRR7Y&location=2218) ^ref-40541
+
+---
+you also must get them to listen to their most disgruntled customers firsthand. — location: [2219](kindle://book?action=open&asin=B00O4CRR7Y&location=2219) ^ref-45328
+
+---
+arranged a series of town hall meetings between his officers and the neighborhood residents. — location: [2226](kindle://book?action=open&asin=B00O4CRR7Y&location=2226) ^ref-22134
+
+---
+When you want to wake up your organization to the need for a strategic shift and a break from the status quo, do you make your case with numbers? Or do you get your managers, employees, and superiors (and yourself) face-to-face with your worst operational problems? — location: [2232](kindle://book?action=open&asin=B00O4CRR7Y&location=2232) ^ref-14696
+
+---
+Do you get your managers to meet the market and listen to disenchanted customers holler? Or do you outsource your eyes and send out market research questionnaires? — location: [2233](kindle://book?action=open&asin=B00O4CRR7Y&location=2233) ^ref-4180
+
+---
+Jump the Resource Hurdle — location: [2235](kindle://book?action=open&asin=B00O4CRR7Y&location=2235) ^ref-48210
+
+---
+but acquiring more resources is often a long, politically charged process. — location: [2240](kindle://book?action=open&asin=B00O4CRR7Y&location=2240) ^ref-717
+
+---
+tipping point leaders concentrate on multiplying the value of the resources they have. — location: [2241](kindle://book?action=open&asin=B00O4CRR7Y&location=2241) ^ref-63921
+
+---
+three factors of disproportionate influence that executives can leverage — location: [2242](kindle://book?action=open&asin=B00O4CRR7Y&location=2242) ^ref-8444
+
+---
+hot spots, cold spots, and horse trading. — location: [2243](kindle://book?action=open&asin=B00O4CRR7Y&location=2243) ^ref-21232
+
+---
+Hot spots are activities that have low resource input but high potential performance gains. — location: [2244](kindle://book?action=open&asin=B00O4CRR7Y&location=2244) ^ref-41855
+
+---
+cold spots are activities that have high resource input but low performance impact. — location: [2245](kindle://book?action=open&asin=B00O4CRR7Y&location=2245) ^ref-37199
+
+---
+Horse trading involves trading your unit’s excess resources in one area for another unit’s excess resources — location: [2246](kindle://book?action=open&asin=B00O4CRR7Y&location=2246) ^ref-33878
+
+---
+What actions consume your greatest resources but have scant performance impact? Conversely, what activities have the greatest performance impact but are resource starved? When the questions are framed in this way, organizations rapidly gain insight into freeing up low-return resources and redirecting them to high-impact areas. — location: [2248](kindle://book?action=open&asin=B00O4CRR7Y&location=2248) ^ref-6373
+
+---
+the vast majority of crimes occurred at only a few stations and on a few lines. — location: [2257](kindle://book?action=open&asin=B00O4CRR7Y&location=2257) ^ref-708
+
+---
+Are you allocating resources based on old assumptions, or do you seek out and concentrate resources on hot spots? Where are your hot spots? — location: [2304](kindle://book?action=open&asin=B00O4CRR7Y&location=2304) ^ref-32488
+
+---
+What activities have the greatest performance impact but are resource starved? Where are your cold spots? — location: [2305](kindle://book?action=open&asin=B00O4CRR7Y&location=2305) ^ref-54691
+
+---
+What activities are resource oversupplied but have scant performance impact? Do you have a horse trader, and what can you trade? — location: [2305](kindle://book?action=open&asin=B00O4CRR7Y&location=2305) ^ref-59258
+
+---
+tipping point leaders follow a reverse course and seek massive concentration. They focus on three factors of disproportionate influence in motivating employees, what we call kingpins, fishbowl management, and atomization. — location: [2315](kindle://book?action=open&asin=B00O4CRR7Y&location=2315) ^ref-49056
+
+---
+Rather, you should concentrate your efforts on kingpins, the key influencers in the organization. — location: [2318](kindle://book?action=open&asin=B00O4CRR7Y&location=2318) ^ref-21167
+
+---
+These are people inside the organization who are natural leaders, who are well respected and persuasive, or who have an ability to unlock or block access to key resources. — location: [2319](kindle://book?action=open&asin=B00O4CRR7Y&location=2319) ^ref-47137
+
+---
+shining a spotlight on their actions in a repeated and highly visible way. — location: [2327](kindle://book?action=open&asin=B00O4CRR7Y&location=2327) ^ref-19547
+
+---
+as fishbowl management, where kingpins’ actions and inaction are made as transparent to others as are fish in a bowl of water. — location: [2328](kindle://book?action=open&asin=B00O4CRR7Y&location=2328) ^ref-46289
+
+---
+The commander was responsible for explaining the maps, describing how his or her officers were addressing the issues, and outlining why performance was going up or down. — location: [2336](kindle://book?action=open&asin=B00O4CRR7Y&location=2336) ^ref-50424
+
+---
+By fair process we mean engaging all the affected people in the process, explaining to them the basis of decisions and the reasons people will be promoted or sidestepped in the future, — location: [2348](kindle://book?action=open&asin=B00O4CRR7Y&location=2348) ^ref-32432
+
+---
+fair process signals to people that there is a level playing field and that leaders value employees’ intellectual and emotional — location: [2353](kindle://book?action=open&asin=B00O4CRR7Y&location=2353) ^ref-51793
+
+---
+Atomize to Get the Organization to Change Itself — location: [2358](kindle://book?action=open&asin=B00O4CRR7Y&location=2358) ^ref-26932
+
+---
+Atomization relates to the framing of the strategic challenge—one of the most subtle and sensitive tasks of the tipping point leader. — location: [2359](kindle://book?action=open&asin=B00O4CRR7Y&location=2359) ^ref-59778
+
+---
+Unless people believe that the strategic challenge is attainable, the change is not likely to succeed. — location: [2360](kindle://book?action=open&asin=B00O4CRR7Y&location=2360) ^ref-1475
+
+---
+As he put it, the challenge facing the NYPD was to make the streets of New York City safe “block by block, precinct by precinct, and borough by borough.” — location: [2364](kindle://book?action=open&asin=B00O4CRR7Y&location=2364) ^ref-21073
+
+---
+Nor could they claim that achieving it was largely out of their hands—“It’s beyond me.” — location: [2368](kindle://book?action=open&asin=B00O4CRR7Y&location=2368) ^ref-10393
+
+---
+Do you indiscriminately try to motivate the masses? Or do you focus on key influencers, your kingpins? Do you put the spotlight on and manage kingpins in a fishbowl based on fair process? — location: [2369](kindle://book?action=open&asin=B00O4CRR7Y&location=2369) ^ref-8780
+
+---
+Or do you just demand high performance and cross your fingers until the next quarter numbers come out? Do you issue grand strategic visions? Or do you atomize the issue to make it actionable to all levels? — location: [2371](kindle://book?action=open&asin=B00O4CRR7Y&location=2371) ^ref-13565
+
+---
+leveraging angels, silencing devils, and getting a consigliere on their top management team. — location: [2379](kindle://book?action=open&asin=B00O4CRR7Y&location=2379) ^ref-19507
+
+---
+Angels are those who have the most to gain from the strategic shift. Devils are those who have the most to lose from it. And a consigliere is a politically adept but highly respected insider who knows in advance all the land mines, including who will fight you and who will support you. — location: [2379](kindle://book?action=open&asin=B00O4CRR7Y&location=2379) ^ref-2204
+
+---
+Who are my devils? Who will fight me? Who will lose the most by the future blue ocean strategy? Who are my angels? Who will naturally align with me? Who will gain the most by the strategic shift? — location: [2392](kindle://book?action=open&asin=B00O4CRR7Y&location=2392) ^ref-47068
+
+---
+Isolate your detractors by building a broader coalition with your angels before a battle begins. — location: [2395](kindle://book?action=open&asin=B00O4CRR7Y&location=2395) ^ref-64261
+
+---
+Key to winning over your detractors or devils is knowing all their likely angles of attack and building up counterarguments backed by irrefutable facts and reason. — location: [2407](kindle://book?action=open&asin=B00O4CRR7Y&location=2407) ^ref-12592
+
+---
+To change the mass, it focuses on transforming the extremes: the people, acts, and activities that exercise a disproportionate influence on performance. — location: [2418](kindle://book?action=open&asin=B00O4CRR7Y&location=2418) ^ref-58045
+
+---
+a company needs to invoke the most fundamental base of action: the attitudes and behavior of its people deep in the organization. — location: [2435](kindle://book?action=open&asin=B00O4CRR7Y&location=2435) ^ref-36510
+
+---
+You must create a culture of trust and commitment that motivates people to execute the agreed strategy—not — location: [2436](kindle://book?action=open&asin=B00O4CRR7Y&location=2436) ^ref-27130
+
+---
+to build people’s trust and commitment deep in the ranks and inspire their voluntary cooperation, companies need to build execution into strategy from the start. — location: [2445](kindle://book?action=open&asin=B00O4CRR7Y&location=2445) ^ref-48215
+
+---
+minimize the management risk of distrust, noncooperation, and even sabotage. — location: [2446](kindle://book?action=open&asin=B00O4CRR7Y&location=2446) ^ref-12455
+
+---
+The presence or absence of fair process can make or break a company’s best execution efforts. — location: [2450](kindle://book?action=open&asin=B00O4CRR7Y&location=2450) ^ref-17382
+
+---
+Their research established that people care as much about the justice of the process through which an outcome is produced as they do about the outcome itself. — location: [2474](kindle://book?action=open&asin=B00O4CRR7Y&location=2474) ^ref-9636
+
+---
+People’s satisfaction with the outcome and their commitment to it rose when procedural justice was exercised. — location: [2475](kindle://book?action=open&asin=B00O4CRR7Y&location=2475) ^ref-34835
+
+---
+When fair process is exercised in the strategy-making process, people trust that a level playing field exists. — location: [2478](kindle://book?action=open&asin=B00O4CRR7Y&location=2478) ^ref-2085
+
+---
+three mutually reinforcing elements that define fair process: engagement, explanation, and clarity of expectation. — location: [2486](kindle://book?action=open&asin=B00O4CRR7Y&location=2486) ^ref-1586
+
+Use it for the okr process
+
+---
+Engagement means involving individuals in the strategic decisions that affect them by asking for their input and allowing them to refute the merits of one another’s ideas and assumptions. — location: [2489](kindle://book?action=open&asin=B00O4CRR7Y&location=2489) ^ref-46052
+
+---
+Engagement communicates management’s respect for individuals and their ideas. — location: [2490](kindle://book?action=open&asin=B00O4CRR7Y&location=2490) ^ref-7209
+
+---
+Explanation means that everyone involved and affected should understand why final strategic decisions are made as they are. — location: [2492](kindle://book?action=open&asin=B00O4CRR7Y&location=2492) ^ref-23650
+
+---
+An explanation of the thinking that underlies decisions makes people confident that managers have considered their opinions and have made decisions impartially in the overall interests of the company. — location: [2493](kindle://book?action=open&asin=B00O4CRR7Y&location=2493) ^ref-22666
+
+---
+Expectation clarity requires that after a strategy is set, managers state clearly the new rules of the game. — location: [2496](kindle://book?action=open&asin=B00O4CRR7Y&location=2496) ^ref-13102
+
+---
+Although the expectations may be demanding, employees should know up front what standards they will be judged by and the penalties for failure. What are the goals of the new strategy? What are the new targets and milestones? Who is responsible for what? — location: [2497](kindle://book?action=open&asin=B00O4CRR7Y&location=2497) ^ref-33403
+
+---
+First, they failed to engage employees in the strategic decisions that directly affected them. — location: [2522](kindle://book?action=open&asin=B00O4CRR7Y&location=2522) ^ref-44305
+
+---
+No one explained why the strategic shift was needed, how the company needed to break away from the competition to stimulate new demand, and why the shift in the manufacturing process was a key element of that strategy. — location: [2540](kindle://book?action=open&asin=B00O4CRR7Y&location=2540) ^ref-41564
+
+---
+Emotionally, individuals seek recognition of their value, not as “labor,” “personnel,” or “human resources” but as human beings who are treated with full respect and dignity and appreciated for their individual worth regardless of hierarchical level. — location: [2575](kindle://book?action=open&asin=B00O4CRR7Y&location=2575) ^ref-16440
+
+---
+individuals seek recognition that their ideas are sought after and given thoughtful reflection, and that others think enough of their intelligence to explain their thinking to them. — location: [2577](kindle://book?action=open&asin=B00O4CRR7Y&location=2577) ^ref-2585
+
+---
+Intellectual and Emotional Recognition — location: [2581](kindle://book?action=open&asin=B00O4CRR7Y&location=2581) ^ref-43281
+
+---
+Using fair process in strategy making is strongly linked to both intellectual and emotional recognition. — location: [2582](kindle://book?action=open&asin=B00O4CRR7Y&location=2582) ^ref-43172
+
+---
+When individuals feel recognized for their intellectual worth, they are willing to share their knowledge; in fact, they feel inspired to impress and confirm the expectation of their intellectual value, suggesting active ideas and knowledge sharing. — location: [2584](kindle://book?action=open&asin=B00O4CRR7Y&location=2584) ^ref-34014
+
+---
+are treated with emotional recognition, they feel emotionally tied to the strategy and inspired to give their all. — location: [2586](kindle://book?action=open&asin=B00O4CRR7Y&location=2586) ^ref-63902
+
+---
+If individuals are not treated as though their knowledge is valued, they will feel intellectual indignation and will not share their ideas and expertise; rather, they will hoard their best thinking and creative ideas, preventing new insights from seeing the light of day. — location: [2593](kindle://book?action=open&asin=B00O4CRR7Y&location=2593) ^ref-62583
+
+---
+Lacking trust in the strategy-making process, people lack trust in the resulting strategies. — location: [2599](kindle://book?action=open&asin=B00O4CRR7Y&location=2599) ^ref-62167
+
+---
+Commitment, trust, and voluntary cooperation are not merely attitudes or behaviors. They are intangible capital. — location: [2606](kindle://book?action=open&asin=B00O4CRR7Y&location=2606) ^ref-29286
+
+---
+compared with internal stakeholders, the practice of fair process with external stakeholders could be said to play an even greater role in strategy execution as external stakeholders are outside of hierarchical control and often have diverging interests and understandings. — location: [2626](kindle://book?action=open&asin=B00O4CRR7Y&location=2626) ^ref-63552
+
+---
+and offer a leap in value to buyers. Others see the essence of blue ocean strategy as about unlocking business model innovation through strategic pricing, target costing, and the like so a company can seize new customers profitably. And still others see it as fundamentally about releasing the creativity, knowledge sharing, — location: [2678](kindle://book?action=open&asin=B00O4CRR7Y&location=2678) ^ref-7552
+
+---
+three propositions essential to the success of strategy: the value proposition, the profit proposition, and the people proposition. — location: [2686](kindle://book?action=open&asin=B00O4CRR7Y&location=2686) ^ref-59918
+
+---
+an organization must develop an offering that attracts buyers; it must create a business model that enables the company to make money out of its offering; and it must motivate the people working for or with the company to execute the strategy. — location: [2687](kindle://book?action=open&asin=B00O4CRR7Y&location=2687) ^ref-53610
+
+---
+In contrast, under blue ocean strategy, an organization achieves high performance when all three strategy propositions pursue both differentiation and low cost. — location: [2713](kindle://book?action=open&asin=B00O4CRR7Y&location=2713) ^ref-61629
+
+---
+The overall result is that Comic Relief has not only a compelling value proposition, but a differentiated, low-cost profit proposition. — location: [2784](kindle://book?action=open&asin=B00O4CRR7Y&location=2784) ^ref-9141
+
+---
+Are your three strategy propositions aligned in pursuit of differentiation and low cost? — location: [2835](kindle://book?action=open&asin=B00O4CRR7Y&location=2835) ^ref-59584
+
+---
+Have you identified all the key stakeholders, including external ones on which the effective execution of your blue ocean strategy will depend? — location: [2835](kindle://book?action=open&asin=B00O4CRR7Y&location=2835) ^ref-24986
+
+---
+Have you developed compelling people propositions for each of these to ensure they are motivated and behind the execution of your new idea? — location: [2836](kindle://book?action=open&asin=B00O4CRR7Y&location=2836) ^ref-62209
+
+---
+This sustainability can be traced to the following imitation barriers: — location: [2873](kindle://book?action=open&asin=B00O4CRR7Y&location=2873) ^ref-9386
+
+---
+The cognitive and organizational barrier. A value innovation move does not make sense based on conventional strategic logic. — location: [2876](kindle://book?action=open&asin=B00O4CRR7Y&location=2876) ^ref-4769
+
+---
+because imitation often requires companies to make substantial changes to their existing business practices, organizational politics often kick in, delaying for years a company’s commitment to imitate a blue ocean strategy. — location: [2879](kindle://book?action=open&asin=B00O4CRR7Y&location=2879) ^ref-13072
+
+---
+Even large advertising budgets by an aggressive imitator rarely have the strength to overtake the brand buzz earned by the value innovator. — location: [2887](kindle://book?action=open&asin=B00O4CRR7Y&location=2887) ^ref-8270
+
+---
+The economic and legal barrier. Natural monopoly blocks imitation when the size of a market cannot support another player. — location: [2889](kindle://book?action=open&asin=B00O4CRR7Y&location=2889) ^ref-32700
+
+---
+The huge economies of scale in purchasing enjoyed by Walmart, for example, have significantly discouraged other companies from imitating its blue ocean strategy. — location: [2893](kindle://book?action=open&asin=B00O4CRR7Y&location=2893) ^ref-3192
+
+---
+Obsessed with hanging on to market share, the organization tends to fall into the trap of competing, racing to beat the new competition. — location: [2905](kindle://book?action=open&asin=B00O4CRR7Y&location=2905) ^ref-22315
+
+---
+monitoring value curves on the strategy canvas is essential. — location: [2911](kindle://book?action=open&asin=B00O4CRR7Y&location=2911) ^ref-29168
+
+---
+It alerts an organization to reach out for another blue ocean when its value curve begins to converge with those of the competition. — location: [2912](kindle://book?action=open&asin=B00O4CRR7Y&location=2912) ^ref-38695
+
+---
+As rivalry intensifies and total supply exceeds demand, bloody competition commences and the ocean will turn red. — location: [2918](kindle://book?action=open&asin=B00O4CRR7Y&location=2918) ^ref-2932
+
+---
+By plotting the corporate portfolio as pioneers, migrators, and settlers on the dynamic PMS map, executives can see at a glance where the gravity of its current portfolio of businesses is, — location: [2961](kindle://book?action=open&asin=B00O4CRR7Y&location=2961) ^ref-2027
+
+---
+While the size of named circles roughly represents the relative revenues of Apple’s main businesses, — location: [2972](kindle://book?action=open&asin=B00O4CRR7Y&location=2972) ^ref-39044
+
+---
+yet they shared a common strategic approach—reconstructing the existing markets and creating new demand. — location: [2978](kindle://book?action=open&asin=B00O4CRR7Y&location=2978) ^ref-54334
+
+---
+rapidly launched a range of iPod variants at various price points with the iPod mini, shuffle, nano, touch, and so on. This not only served to keep encroaching competitors at arm’s length, but also expanded the size of the ocean it created, allowing Apple, not imitators, — location: [2993](kindle://book?action=open&asin=B00O4CRR7Y&location=2993) ^ref-26747
+
+---
+Red Ocean Trap One: The belief that blue ocean strategy is a customer-oriented strategy that’s about being customer led. — location: [3028](kindle://book?action=open&asin=B00O4CRR7Y&location=3028) ^ref-30233
+
+---
+blue ocean strategist gains insights about reconstructing market boundaries not by looking at existing customers, but by exploring noncustomers. — location: [3029](kindle://book?action=open&asin=B00O4CRR7Y&location=3029) ^ref-43131
+
+---
+they reflexively focus on what they’ve always focused on: existing customers and how to make them happier. — location: [3031](kindle://book?action=open&asin=B00O4CRR7Y&location=3031) ^ref-44667
+
+---
+an organization needs to turn its focus to noncustomers and why they refuse to patronize an industry. Noncustomers, not — location: [3033](kindle://book?action=open&asin=B00O4CRR7Y&location=3033) ^ref-41033
+
+---
+A focus on existing customers, by contrast, tends to drive organizations to do more of the same for less, — location: [3035](kindle://book?action=open&asin=B00O4CRR7Y&location=3035) ^ref-1959
+
+---
+Red Ocean Trap Two: The belief that to create blue oceans, you must venture beyond your core business. — location: [3037](kindle://book?action=open&asin=B00O4CRR7Y&location=3037) ^ref-60304
+
+---
+Blue oceans are right next to you in every industry. Understanding this is key. — location: [3044](kindle://book?action=open&asin=B00O4CRR7Y&location=3044) ^ref-21094
+
+---
+Red Ocean Trap Three: The misconception that blue ocean strategy is about new technologies. — location: [3048](kindle://book?action=open&asin=B00O4CRR7Y&location=3048) ^ref-39181
+
+---
+Value innovation, not technology innovation, is what opens up commercially compelling new markets. — location: [3056](kindle://book?action=open&asin=B00O4CRR7Y&location=3056) ^ref-39781
+
+---
+Red Ocean Trap Four: The belief that to create a blue ocean, you must be first to market. — location: [3059](kindle://book?action=open&asin=B00O4CRR7Y&location=3059) ^ref-20674
+
+---
+all successfully did was link innovation to value. — location: [3062](kindle://book?action=open&asin=B00O4CRR7Y&location=3062) ^ref-59629
+
+---
+get their priorities wrong. They inadvertently put speed before value. — location: [3063](kindle://book?action=open&asin=B00O4CRR7Y&location=3063) ^ref-60326
+
+---
+Red Ocean Trap Five: The misconception that blue ocean strategy and differentiation strategy are synonymous. — location: [3067](kindle://book?action=open&asin=B00O4CRR7Y&location=3067) ^ref-270
+
+---
+Instead they tend to focus on what to raise and create to stand apart and pay scant heed to what they can eliminate and reduce to simultaneously achieve low cost. — location: [3074](kindle://book?action=open&asin=B00O4CRR7Y&location=3074) ^ref-4736
+
+---
+Red Ocean Trap Six: The misconception that blue ocean strategy is a low-cost strategy that focuses on low pricing. — location: [3077](kindle://book?action=open&asin=B00O4CRR7Y&location=3077) ^ref-5976
+
+---
+Instead of focusing on low cost per se, it seeks to create a leap in buyer value at a lower cost. Further, — location: [3079](kindle://book?action=open&asin=B00O4CRR7Y&location=3079) ^ref-37618
+
+---
+move captures the mass of target buyers not through low-cost pricing, but through strategic pricing. — location: [3080](kindle://book?action=open&asin=B00O4CRR7Y&location=3080) ^ref-23996
+
+---
+When organizations miss this point and mistakenly see blue ocean strategy as synonymous with low cost and low pricing, they inadvertently focus on what to eliminate and reduce in the current industry offering to offer rock-bottom prices. In doing so, they fail to simultaneously focus on what they should raise and create to also achieve the differentiation needed to stand apart and set sail into the blue ocean. — location: [3089](kindle://book?action=open&asin=B00O4CRR7Y&location=3089) ^ref-31454
+
+---
+Red Ocean Trap Seven: The belief that blue ocean strategy is the same as innovation. — location: [3092](kindle://book?action=open&asin=B00O4CRR7Y&location=3092) ^ref-60341
+
+---
+innovation is a very broad concept that is based on an original and useful idea regardless of whether that idea is linked to a leap in value — location: [3093](kindle://book?action=open&asin=B00O4CRR7Y&location=3093) ^ref-39678
+
+---
+the blue ocean strategy frameworks and tools can be effectively deployed to reframe, analyze, and resolve the marketing issues of an organization as it strives to break out of the red ocean. — location: [3106](kindle://book?action=open&asin=B00O4CRR7Y&location=3106) ^ref-60980
+
+---
+While the field of marketing has placed significant emphasis on finer segmentation to effectively capture niche markets, blue ocean strategy works in the reverse direction. — location: [3114](kindle://book?action=open&asin=B00O4CRR7Y&location=3114) ^ref-60083
+
+---
+If companies continue to compete further to grab a bigger share of the existing pie without expanding it or creating a new one, such competitive actions are bound to produce negative economic consequences for firms. — location: [3125](kindle://book?action=open&asin=B00O4CRR7Y&location=3125) ^ref-31775
+
+---
+Red Ocean Trap Ten: The belief that blue ocean strategy is synonymous with creative destruction or disruption. — location: [3130](kindle://book?action=open&asin=B00O4CRR7Y&location=3130) ^ref-48783
+
+---
+Blue ocean strategy is a broader concept that goes beyond creative destruction to embrace nondestructive creation, which is its overriding emphasis. — location: [3136](kindle://book?action=open&asin=B00O4CRR7Y&location=3136) ^ref-58359
+
+---
+The essential point here is that blue ocean strategy is not about finding a better or lower-cost solution to the existing problem of an industry, both of which trigger disruption and displacement of existing products and services. Instead, blue ocean strategy is about redefining the problem itself, which tends to create new demand or an offering that often complements rather than displaces existing products and services. — location: [3147](kindle://book?action=open&asin=B00O4CRR7Y&location=3147) ^ref-17271
+
+---
+In particular, it proposes that such a process of creation can occur in any organization at any time by the cognitive reconstruction of existing data and market elements in a fundamentally new way. — location: [3449](kindle://book?action=open&asin=B00O4CRR7Y&location=3449) ^ref-7264
+
+---
+Recognizing that structure and market boundaries exist only in managers’ minds, practitioners who hold this view do not let existing market structures limit their thinking. To them, extra demand is out there, largely untapped. — location: [3461](kindle://book?action=open&asin=B00O4CRR7Y&location=3461) ^ref-21921
+
+---
+By stimulating the demand side of the economy, the strategy of value innovation expands existing markets and creates new ones. — location: [3469](kindle://book?action=open&asin=B00O4CRR7Y&location=3469) ^ref-2605
+
+---
+Looking at the demand side, in contrast, reconstruction breaks away from the cognitive bounds set by the existing rules of competition. — location: [3480](kindle://book?action=open&asin=B00O4CRR7Y&location=3480) ^ref-40070
+
+---
+Under these conditions, companies would do well to capture the mass of target buyers from the outset and expand the size of the market by offering radically superior value at price points accessible to them. — location: [3495](kindle://book?action=open&asin=B00O4CRR7Y&location=3495) ^ref-58119
+
+---
+The rapid brand recognition built by the company as a result of the unprecedented value offered in the marketplace, combined with the simultaneous drive to lower costs, makes the competition nearly irrelevant and makes it hard to catch up, as economies of scale, learning, and increasing returns kick in. — location: [3504](kindle://book?action=open&asin=B00O4CRR7Y&location=3504) ^ref-29500
+
+---
+The focus of blue ocean strategy is not on restricting output at a high price but rather on creating new aggregate demand through a leap in buyer value at an accessible price. — location: [3519](kindle://book?action=open&asin=B00O4CRR7Y&location=3519) ^ref-22832
+
+---
+incentive not only to reduce costs to the lowest possible level at the start but also to keep it that way over time to discourage potential free-riding imitators. — location: [3520](kindle://book?action=open&asin=B00O4CRR7Y&location=3520) ^ref-63861
 
 ---

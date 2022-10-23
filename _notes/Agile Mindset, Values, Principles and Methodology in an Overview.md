@@ -7,7 +7,10 @@ The following pictures provides an overview for different terms from the Agile L
 
 E.g. Scrum is an Agile Methodology and is based on an Agile Mindset.
 
-![[Agile - Manifest, Values, Principles, Methodologies.jpg]]
+![[AgileLandscape.excalidraw.svg]]
+
+E.g. consider [[Scrum and XP]] and its overlapping values, principles and practices or [[Lean - an overview |The overlap between Scrum , Lean and XP Values]].
+
 
 ## Linking
 + [[Term Agility]]

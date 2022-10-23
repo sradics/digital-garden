@@ -31,3 +31,4 @@ Building a 2nd brain in a nutshell - [[Visual Notes]]
 
 ## Linking
 + [[How to take Smart Notes - Key Insights]]
++ [Nice video explanation by Zsolt](https://www.youtube.com/watch?v=3i4CiImIYYA)

@@ -9,7 +9,7 @@ E.g. Scrum is an Agile Methodology and is based on an Agile Mindset.
 
 ![[AgileLandscape.excalidraw.svg]]
 
-E.g. consider [[Scrum and XP]] and its overlapping values, principles and practices or [[Lean - an overview |The overlap between Scrum , Lean and XP Values]].
+E.g. consider [[Scrum and XP]] and its overlapping values, principles and practices or [[Lean - an overview]] that shows the overlapping values of Lean, XP and Scrum.
 
 
 ## Linking

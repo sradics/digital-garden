@@ -73,7 +73,11 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       end
         
     current_note.content.gsub!(/!\[\[(.*)(\.png|\.jpeg|\.gif|\.jpg)\]\]/, "<img src='assets/\\1\\2'>")
+    current_note.content.gsub!(/!\[\[(.*)(\.svg)\]\]/, "<object type='image/svg+xml' data='assets/\\1\\2'></object>")
     current_note.content.gsub!(/!\[\[(.*)\]\]/, "<a href='assets/\\1'>\\1</a>")
+        
+    # <object type="image/svg+xml" data="image.svg"></object>
+    
     #Jekyll.logger.warn "1xxx10 test basti"
 
         

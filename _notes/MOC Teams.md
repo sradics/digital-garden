@@ -16,3 +16,7 @@ tags:
 + [[Team Starter Exercise]]
 + [[38.05 Agile Games]]
 + Movie *Remember the Titans* / *Gegen jede Regel* 
+
+
+![[Pasted image 20221024064713.png]]
+*[Source](https://www.leadingagile.com/2018/02/lines-of-communication-team-size-applying-brooks-law/)*

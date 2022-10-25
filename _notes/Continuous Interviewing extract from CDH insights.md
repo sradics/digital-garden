@@ -39,7 +39,7 @@ Abandon the idea of themes. There are two units of synthesis:
 2.  Synthesize what you are learning across interviews by moving relevant opportunities to your OST.
 
 ‘When / how do we share these findings with others?’
-+ user interview snapshots and e.g. share in product trio sessions
++ user interview snapshots and e.g. share in product trio sessions. "Each week we **share the interview snapshots in our slack channel** for everyone (including our stakeholders) to follow along."
 + extend the OST with interview insights
 
 > [!quote]
@@ -67,6 +67,9 @@ Connect with e.g. Customer Support [^2]:
 + If a customer requests a customization, schedule an interview.
 
 
+## Tips for building the Continuous Interviewing habit
++ There is a lot of research that says that one of the best ways to help you build a habit is to **start tracking that habit**.
++ Share regularly with your stakeholders
 
 ## Tuning the Show Up rate and reduce No Shows
 $40 for 40 minutes
@@ -141,6 +144,7 @@ Let them describe what they’re looking for and then ask them 2 follow up quest
 	+ Pollfish
 + [Grain.co](http://grain.co/) and [Fathom.Video](https://fathom.video/) both of these are great for user interviews and sharing insights
 + The Mom Test by Rob Fitzpatrick
++ Userlytics - for unmoderated testing
 
 ## Linking
 + [[MOC Continuous Discovery Habits]]

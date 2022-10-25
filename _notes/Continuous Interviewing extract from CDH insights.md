@@ -7,12 +7,12 @@ tags:
 This isn’t a linear process. You don’t map the opportunity space, choose a target opportunity, generate solutions, build something and then start over. All of these activities need to be happening in parallel. You want to stay open to the fact that you might have missed opportunities, that you might have chosen the wrong opportunity. Keeping an interview on the books each week helps to catch those mistakes. It also helps you develop a continuous mindset, rather than a waterfall mindset.
 
 
-“Tell me about your recent decision to discontinue use of the product.” You’ll probably need to prefice this with, please don’t hesitate to share negative feedback with us
+“Tell me about your recent decision to discontinue use of the product.” You’ll probably need to preface this with, please don’t hesitate to share negative feedback with us
 
 ## About automating
 blocking a morning/afternoon for discovery interviews makes it easy to protect/commit to the time and makes it easy for support/customer-facing teams to help recruit/schedule. if you have the luxury of a ux research/coordinator they can help set-up/modify calendly self-scheduling pages with screening criteria or to help route the right customers to the right teams based on the opportunities they’re trying to learn most about
 
-I’ve had success using Calendly for interviews.  It eliminates a LOT of the scheduling pain especially wrt time zone coordination. Their free plan includes one ‘meeting type’ which is all I need.
+Success using Calendly for interviews.  It eliminates a lot of the scheduling pain especially wrt time zone coordination. Their free plan includes one ‘meeting type’
 
 
 combined `firebase remote config` with `typeform` with `calendly` to create a survey that I can change out at any time. Here is what I’m trying currently:  
@@ -21,15 +21,15 @@ combined `firebase remote config` with `typeform` with `calendly` to creat
 -   It feeds data right into a calendly using this format: [https://calendly.com/name/20min?name=@name?&email=@email?&a1=@phonenumber?&a2=@id](https://calendly.com/name/20min?name=@name?&email=@email?&a1=@phonenumber?&a2=@id)
 
 ## Tuning the Show Up rate and reduce No Shows
-Yes, we're doing $40 for 40 minutes
+$40 for 40 minutes
 
 -   Video:  Show a brief video of yourself at the time of booking, so they feel they know who they are meeting with.  Adds personalization + guilt if they choose to ghost you.
 -   Time Gap:  Reduce time gap between time of booking & interview slot.  I'm considering adding a few same-day or next-day slots.
 
-1.  [@Ryan D. Hatch](https://discoveryhabits.slack.com/team/U0190EFSQVC) hit the nail on the head. Reduce the time between when they schedule and when they do the interview. Schedule same day, next day, or 2 or 3 days out, not weeks out. Humans are optimistic about how much time we’ll have in the future. We have a much better judge of how much time we have now.
-2.  Provide a really clear overview of what will happen in the interview. For example, “We’ll have a casual conversation where I’ll ask you things like: Tell me about a time when …” Humans are afraid of the unknown. Remove the unknowns and you’ll see your no show rate go down.
-3.  Ask for less time. 40 mins. is an odd time block. Ask for 30, or even 25. Make it an easier yes.
-4.  Last, I would play with compensation. But unless you are way off, this is rarely the issue.
++ Reduce the time between when they schedule and when they do the interview. Schedule same day, next day, or 2 or 3 days out, not weeks out. Humans are optimistic about how much time we’ll have in the future. We have a much better judge of how much time we have now.
++ Provide a really clear overview of what will happen in the interview. For example, “We’ll have a casual conversation where I’ll ask you things like: Tell me about a time when …” Humans are afraid of the unknown. Remove the unknowns and you’ll see your no show rate go down.
++ Ask for less time. 40 mins. is an odd time block. Ask for 30, or even 25. Make it an easier yes.
++ Last, I would play with compensation. But unless you are way off, this is rarely the issue.
 
 One of the benefits of story-based interviewing (assuming that’s what you are doing) is that participants really enjoy it. So you can highlight that.
 
@@ -51,7 +51,7 @@ Asking all the right questions - https://www.youtube.com/watch?v=PNQWNDZE5W8 - J
 + Who, What, When, Where and Why - Who else, What else, Why else as follow up
 + 📖 [[A Curious Mind - Brian Grazer Charles Fishman]]
 + let down the guard
-+ 4 thing to talk about - people, places, things and events in time
++ 4 things to talk about - people, places, things and events in time
 
 
 What if your customer is asking for specific solutions during the interview?

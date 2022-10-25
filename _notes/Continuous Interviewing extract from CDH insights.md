@@ -11,7 +11,7 @@ This isn’t a linear process. You don’t map the opportunity space, choose a t
 
 
 > [!quote]
-> -   Everything really does rest on the habit of continuous interviewing. Get that started ASAP and the rest will start to follow.
+> Everything really does rest on the habit of continuous interviewing. Get that started ASAP and the rest will start to follow.
 > 
 
 
@@ -41,6 +41,9 @@ Abandon the idea of themes. There are two units of synthesis:
 ‘When / how do we share these findings with others?’
 + user interview snapshots and e.g. share in product trio sessions
 + extend the OST with interview insights
+
+> [!quote]
+> You don’t talk to users to ask them what you should build. You talk to users to learn about their lives, their goals, their context. This information helps you make better decisions about what to build for them.
 
 ## About automating
 blocking a morning/afternoon for discovery interviews makes it easy to protect/commit to the time and makes it easy for support/customer-facing teams to help recruit/schedule. if you have the luxury of a ux research/coordinator they can help set-up/modify calendly self-scheduling pages with screening criteria or to help route the right customers to the right teams based on the opportunities they’re trying to learn most about
@@ -89,6 +92,12 @@ https://www.youtube.com/watch?v=h9s3DrImGXA
 ![[Pasted image 20221024204341.png]]
 
 ## Some learnings about Questions
+[The Ladder of Evidence](https://www.youtube.com/watch?v=TF0EzrKINqg)
+
+![[Pasted image 20221025150912.png]]
+
+more details are available with [[The Ladder of Evidence]]
+
 Asking all the right questions - [https://www.youtube.com/watch?v=PNQWNDZE5W8](https://www.youtube.com/watch?v=PNQWNDZE5W8) - James Pyle
 + listen like crazy
 + you got to know how to ask questions

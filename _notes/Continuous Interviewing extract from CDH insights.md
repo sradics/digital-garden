@@ -9,6 +9,39 @@ This isn’t a linear process. You don’t map the opportunity space, choose a t
 
 “Tell me about your recent decision to discontinue use of the product.” You’ll probably need to preface this with, please don’t hesitate to share negative feedback with us
 
+
+> [!quote]
+> -   Everything really does rest on the habit of continuous interviewing. Get that started ASAP and the rest will start to follow.
+> 
+
+
+If you need to change course and you’ve stopped interviewing, you’ll have to start from scratch. Your next steps will be delayed until you can ramp up interviewing again. [^1]
+
+> [!quote]
+> We killed an opportunity on Tuesday, chose a new one on Wednesday, and used our already-scheduled interviews on Thursday to learn about the new opportunity.”
+> 
+
+Every week that you don’t interview increases the chances that you’ll stop interviewing altogether. To **nurture your interviewing habit**, interview at least one customer every week. 
+
+... More importantly, continuous interviewing will help to **ensure that you can get fast answers to your daily questions**. [^3]
+
+
+
+
+### Important arguments to consider
+‘it’s really time intensive’:
++ create interview snapshots right after each interview
+
+‘we don’t have enough people to derive themes after just a week’:
+Abandon the idea of themes. There are two units of synthesis:
+
+1.  Synthesize what you are hearing in each interview. That’s the goal of the snapshot.
+2.  Synthesize what you are learning across interviews by moving relevant opportunities to your OST.
+
+‘When / how do we share these findings with others?’
++ user interview snapshots and e.g. share in product trio sessions
++ extend the OST with interview insights
+
 ## About automating
 blocking a morning/afternoon for discovery interviews makes it easy to protect/commit to the time and makes it easy for support/customer-facing teams to help recruit/schedule. if you have the luxury of a ux research/coordinator they can help set-up/modify calendly self-scheduling pages with screening criteria or to help route the right customers to the right teams based on the opportunities they’re trying to learn most about
 
@@ -19,6 +52,18 @@ combined `firebase remote config` with `typeform` with `calendly` to creat
 
 -   Here’s the typeform: [https://livetranscribe.typeform.com/to/NtpMxbYF](https://livetranscribe.typeform.com/to/NtpMxbYF)
 -   It feeds data right into a calendly using this format: [https://calendly.com/name/20min?name=@name?&email=@email?&a1=@phonenumber?&a2=@id](https://calendly.com/name/20min?name=@name?&email=@email?&a1=@phonenumber?&a2=@id)
+
+One of the biggest takeaways is always get the phone number and text them. Most people forget but are still free for the time you’d interview them, or will reschedule.
+
+Use the power of user experience maps. As I interview more I find making a more and more detailed user experience map let’s me better dive into the details during the interview.
+
+Embed in the app and lead them to directly book a slot in your calendar. 
+Connect with e.g. Customer Support [^2]:
++ If a customer calls to cancel their subscription, schedule an interview. 
++ If a customer has a question about feature x, schedule an interview. 
++ If a customer requests a customization, schedule an interview.
+
+
 
 ## Tuning the Show Up rate and reduce No Shows
 $40 for 40 minutes
@@ -33,6 +78,8 @@ $40 for 40 minutes
 
 One of the benefits of story-based interviewing (assuming that’s what you are doing) is that participants really enjoy it. So you can highlight that.
 
+I’ve found that if you limit the calendar to book either same day or at most the next day or two, you’ll get fewer no shows. (We are much more realistic about our time in the near term.)
+
 ## Atomic UX research and building a research repository
 ![[Pasted image 20221024211937.png]]
 
@@ -42,7 +89,7 @@ https://www.youtube.com/watch?v=h9s3DrImGXA
 ![[Pasted image 20221024204341.png]]
 
 ## Some learnings about Questions
-Asking all the right questions - https://www.youtube.com/watch?v=PNQWNDZE5W8 - James Pyle
+Asking all the right questions - [https://www.youtube.com/watch?v=PNQWNDZE5W8](https://www.youtube.com/watch?v=PNQWNDZE5W8) - James Pyle
 + listen like crazy
 + you got to know how to ask questions
 + start to talk about something ... it takes time to get something relatable. And consider food, as this is something that all people have in common
@@ -72,16 +119,24 @@ Let them describe what they’re looking for and then ask them 2 follow up quest
 
 ## Tooling
 + Ethnio and Intercom
+	+ had success using Hotjar to survey/recruit participants but something like [ethn.io](http://ethn.io/) offers an all in one solution.
 + Sleeknote
 + Tool [https://glean.ly/](https://glean.ly/)
 + Reconsider Airtable for building a research database - https://www.youtube.com/watch?v=VfwwpS4Jc98 
 + Also consider Dovetail  for building the research repository
+	+ compare to Aurelius, UserBit, Reveall,  EnjoyHQ, Avrio, Condens
 + User Research Repository with Miro - https://www.youtube.com/watch?v=0T4Rrr3zyRw
 + Quality survey and interview sites. 
 	+ [Respondent.io](http://respondent.io/) and [UserInterviews.com](http://userinterviews.com/)
 	+  [testingtime.com](http://testingtime.com/)
 	+ Pollfish
-+ 
++ [Grain.co](http://grain.co/) and [Fathom.Video](https://fathom.video/) both of these are great for user interviews and sharing insights
++ The Mom Test by Rob Fitzpatrick
 
 ## Linking
 + [[MOC Continuous Discovery Habits]]
+
+
+[^1]: Torres, Teresa. Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (S.88). Product Talk LLC. Kindle-Version. 
+[^2]: Torres, Teresa. Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (S.90-91). Product Talk LLC. Kindle-Version. 
+[^3]: Torres, Teresa. Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (S.94). Product Talk LLC. Kindle-Version. 

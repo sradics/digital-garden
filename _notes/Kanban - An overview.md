@@ -23,7 +23,7 @@ In Kanban, the improvement is left in the hands of the team, and this is one rea
 ## Kanban Boards
 They have work items. A work item is a single, self-contained unit of work that can be tracked through the entire system. ( [[Learning Agile]] (p323) )
 
-The work item has a larger lifecycle that extends beyond the team that’s building it. The kanban board will have columns for the steps that a work item goes through before and after the Scrum team gets their hands on it.  ( [[Learning Agile]] (p324) )
+The work item has a larger lifecycle that extends beyond the team that’s building it. The kanban board will have columns for the steps that a work item goes through before and after the team gets their hands on it.  ( [[Learning Agile]] (p324) )
 
 ![[Pasted image 20220918155148.png]]
 [[Learning Agile]] (p328)

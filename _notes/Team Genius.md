@@ -4,13 +4,13 @@ kindle-sync:
   title: >-
     Team Genius: The New Science of High-Performing Organizations (English
     Edition)
-  author: 'Von: Rich Karlgaard und Michael S. Malone'
+  author: Rich Karlgaard und Michael S. Malone
   asin: B00OG8AXKO
-  lastAnnotatedDate: Invalid date
+  lastAnnotatedDate: '2022-11-07'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81nZGmy0NEL._SY160.jpg'
-  highlightsCount: 631
+  highlightsCount: 630
 tags:
-- digital_garden
+  - digital_garden
 ---
 Team Genius
 ## Metadata
@@ -41,6 +41,15 @@ Can you find the right team at the right moment?   5.   Can you identify th
 If the fate of your organization depended on it, could you identify those great teams?   7.   Do you know how to staff a team for a specific task?   8.   If you were assigned the task of reorganizing the subpar teams to ensure their top performance, would you know how to do it?   9.   Would you even know where to start? 10.   By the same token, if you were to look at the top-performing teams in your company—in management, manufacturing, R&D, sales—would you be able to identify which ones were reaching the end of their life span? 11.   Would you have the courage to shut them down? — location: [259](kindle://book?action=open&asin=B00OG8AXKO&location=259) ^ref-44431
 
 ---
+1.   Is your organization, and the teams that compose it, up to the challenges they face in a hypercompetitive global economy?   2.   If not, is there some way to accelerate your understanding of teams?   3.   Can you apply that new knowledge in a way that lets you build teams both fast and appropriately for the ever-changing challenges that face you? — location: [321](kindle://book?action=open&asin=B00OG8AXKO&location=321) ^ref-51500
+
+---
+4.   Can you find the right team at the right moment?   5.   Can you identify the right moment when one team needs to be dissolved to create another, perhaps in a very different form? — location: [326](kindle://book?action=open&asin=B00OG8AXKO&location=326) ^ref-37954
+
+---
+6.   If the fate of your organization depended on it, could you identify those great teams?   7.   Do you know how to staff a team for a specific task?   8.   If you were assigned the task of reorganizing the subpar teams to ensure their top performance, would you know how to do it?   9.   Would you even know where to start? 10.   By the same token, if you were to look at the top-performing teams in your company—in management, manufacturing, R&D, sales—would you be able to identify which ones were reaching the end of their life span? 11.   Would you have the courage to shut them down? — location: [332](kindle://book?action=open&asin=B00OG8AXKO&location=332) ^ref-42782
+
+---
 12.   Would you know how to handle that retirement without creating acrimony and killing morale among some of your most talented employees? 13.   Would you know how to recompose a replacement team to be just as effective and without losing any time? — location: [267](kindle://book?action=open&asin=B00OG8AXKO&location=267) ^ref-20816
 
 ---
@@ -51,6 +60,15 @@ Are your teams the right size for the job? — location: [282](kindle://book?act
 
 ---
 Why cognitive diversity yields the highest performance gains—but only if you understand what it is. — location: [289](kindle://book?action=open&asin=B00OG8AXKO&location=289) ^ref-63559
+
+---
+14.   Can your company’s teams stay ahead of the changes affecting your industry and customers? 15.   Are your teams able to anticipate and respond to sudden disruptions in technology, economics, and customer behavior? 16.   Are your teams leveraging globalism and multicultural values as strengths? 17.   Is mobile technology helping or hurting your team’s performance? How are you performing in this area relative to your competition? 18.   Are your teams’ missions and values being supported or undercut by social media? 19.   Do you have the right people in the right positions in the right teams? — location: [346](kindle://book?action=open&asin=B00OG8AXKO&location=346) ^ref-6457
+
+---
+20.   Are your teams the right size for the job? — location: [356](kindle://book?action=open&asin=B00OG8AXKO&location=356) ^ref-26887
+
+---
+•      Why cognitive diversity yields the highest performance gains—but only if you understand what it is. — location: [363](kindle://book?action=open&asin=B00OG8AXKO&location=363) ^ref-48545
 
 ---
 They will have to take serious risks and make decisions, sometimes fateful ones, very quickly. Second, your teams must be designed to work with, not against, your members’ brain structures. — location: [314](kindle://book?action=open&asin=B00OG8AXKO&location=314) ^ref-49846
@@ -158,6 +176,9 @@ different yet dovetail perfectly. — location: [617](kindle://book?action=open&
 From experience and research, the optimum team size is 5–7 members. The team size that continues to function effectively is 4–9 members. Teams are known to function cohesively with a size up to 12 members.” — location: [621](kindle://book?action=open&asin=B00OG8AXKO&location=621) ^ref-59547
 
 ---
+From experience and research, the optimum team size is 5–7 members. The team size that continues to function effectively is 4–9 members. Teams are known to function cohesively with a size up to 12 — location: [696](kindle://book?action=open&asin=B00OG8AXKO&location=696) ^ref-44894
+
+---
 the British Army operates at the limits of Heathfield’s numbers, with a single “fire team” composed of four soldiers, and a “section” of two fire teams—eight soldiers—commanded by a corporal. — location: [629](kindle://book?action=open&asin=B00OG8AXKO&location=629) ^ref-63765
 
 ---
@@ -176,10 +197,16 @@ b. Find the 7 strongest people in the group who are willing to work on the proje
 An official wants to multiply subordinates, not rivals, and •      Officials make work for each other. — location: [672](kindle://book?action=open&asin=B00OG8AXKO&location=672) ^ref-44946
 
 ---
+official wants to multiply subordinates, not rivals, and •      Officials make work for each other. — location: [746](kindle://book?action=open&asin=B00OG8AXKO&location=746) ^ref-17826
+
+---
 he said, a team of eight members would never reach a consensus decision—apparently — location: [681](kindle://book?action=open&asin=B00OG8AXKO&location=681) ^ref-58407
 
 ---
 “clusters of intimacy,” and he identified “cliques” of five people, “sympathy groups” of twelve to fifteen people, and “bands” of up to thirty-five members. — location: [687](kindle://book?action=open&asin=B00OG8AXKO&location=687) ^ref-30613
+
+---
+“clusters of intimacy,” and he identified “cliques” of five people, “sympathy groups” of twelve to fifteen people, and “bands” of up to thirty-five — location: [762](kindle://book?action=open&asin=B00OG8AXKO&location=762) ^ref-33369
 
 ---
 was that there appeared to be an upper limit to team size. Precisely: 147.8, normally rounded up, as the “Dunbar number,” to 150. — location: [690](kindle://book?action=open&asin=B00OG8AXKO&location=690) ^ref-4111
@@ -194,6 +221,12 @@ The figure of 150 seems to represent the maximum number of individuals with whom
 12 to 15: The group of friends and family whose death we would deeply mourn. — location: [703](kindle://book?action=open&asin=B00OG8AXKO&location=703) ^ref-46520
 
 ---
+•      3 to 5: This is the circle of our very closest friends. Here Dunbar agrees with other social scientists. — location: [776](kindle://book?action=open&asin=B00OG8AXKO&location=776) ^ref-2809
+
+---
+•      12 to 15: The group of friends and family whose death we would deeply mourn. — location: [777](kindle://book?action=open&asin=B00OG8AXKO&location=777) ^ref-42771
+
+---
 “the number of identities that you can maintain in your head with some degree of acquaintances that an individual can maintain. It does not necessarily imply that you trust them, but it does mean that you can know something about them and their basic capabilities. — location: [710](kindle://book?action=open&asin=B00OG8AXKO&location=710) ^ref-55593
 
 ---
@@ -201,6 +234,9 @@ split up when they reach 1,500 employees. — location: [732](kindle://book?acti
 
 ---
 is 50 (you might think of those as good friends), and the 150, your friends. And then we know there are at least two more layers beyond that: one at 500 which you might think of as acquaintances, so again this is including everybody within the 150 as well; finally, one at 1,500 who are basically the number of faces you can put names to.10 — location: [740](kindle://book?action=open&asin=B00OG8AXKO&location=740) ^ref-41784
+
+---
+is 50 (you might think of those as good friends), and the 150, your friends. And then we know there are at least two more layers beyond that: one at 500 which you might think of as acquaintances, so again this is including everybody within the 150 as well; finally, one at 1,500 who are basically the number of faces you can put names to. — location: [814](kindle://book?action=open&asin=B00OG8AXKO&location=814) ^ref-25558
 
 ---
 coincidentally, corresponds with the limits of our short-term memory. Fifteen is the number of people with whom we can have deep trust in the face of almost any turn of events (“sympathy group”). Fifty is a familial grouping, a small tribe with whom we can securely travel in dangerous country (“band”). One hundred fifty is the optimal size for a group of people living together in a community (“friendship group”); — location: [745](kindle://book?action=open&asin=B00OG8AXKO&location=745) ^ref-37726
@@ -213,6 +249,9 @@ billions of new connections that are then created. — location: [775](kindle://
 
 ---
 N(N − 1)/z, — location: [782](kindle://book?action=open&asin=B00OG8AXKO&location=782) ^ref-51059
+
+---
+to — location: [856](kindle://book?action=open&asin=B00OG8AXKO&location=856) ^ref-22755
 
 ---
 That’s why relationships degrade so quickly as the number of team members grows. — location: [785](kindle://book?action=open&asin=B00OG8AXKO&location=785) ^ref-53680
@@ -236,6 +275,9 @@ Too often, even the most ambitious and enlightened schemes crash on the rocky sh
 of human nature—that — location: [803](kindle://book?action=open&asin=B00OG8AXKO&location=803) ^ref-26733
 
 ---
+of human — location: [878](kindle://book?action=open&asin=B00OG8AXKO&location=878) ^ref-25105
+
+---
 Corporations and government agencies now contract Big Data firms to look for the best candidate for a position — location: [822](kindle://book?action=open&asin=B00OG8AXKO&location=822) ^ref-4682
 
 ---
@@ -243,6 +285,9 @@ That said, until now, teams have by necessity largely been recruited and formed 
 
 ---
 In fact, the human brain is evolutionarily designed so that individuals can adjust to one another’s perspectives and emotions in order to engage in cooperative activity. — location: [849](kindle://book?action=open&asin=B00OG8AXKO&location=849) ^ref-52747
+
+---
+In fact, the human brain is evolutionarily designed so that individuals can adjust to one another’s perspectives and emotions in order to engage in cooperative — location: [923](kindle://book?action=open&asin=B00OG8AXKO&location=923) ^ref-61004
 
 ---
 humans are actually wired to connect. That is, when we engage with another person, we are, in fact, embarking on an intimate brain-to-brain connection with that person. — location: [851](kindle://book?action=open&asin=B00OG8AXKO&location=851) ^ref-25891
@@ -260,10 +305,16 @@ forced us to work together in complicated ways. — location: [867](kindle://boo
 Our large brain size is the outcome of that teamwork. — location: [867](kindle://book?action=open&asin=B00OG8AXKO&location=867) ^ref-48530
 
 ---
+Our large brain size is the outcome of that — location: [942](kindle://book?action=open&asin=B00OG8AXKO&location=942) ^ref-11222
+
+---
 By comparison, the groups of children worked as teams, teaching each other, exchanging advice, and sharing their rewards. — location: [903](kindle://book?action=open&asin=B00OG8AXKO&location=903) ^ref-36202
 
 ---
 cooperation may be the default tendency in humans, and self-interest may be something you will yourself toward. — location: [906](kindle://book?action=open&asin=B00OG8AXKO&location=906) ^ref-34954
+
+---
+themselves—cooperation may be the default tendency in humans, and self-interest may be something you will yourself toward. — location: [981](kindle://book?action=open&asin=B00OG8AXKO&location=981) ^ref-5830
 
 ---
 so-called resource allocation experiments in which subjects are forced to make decisions quickly. — location: [907](kindle://book?action=open&asin=B00OG8AXKO&location=907) ^ref-28612
@@ -281,16 +332,25 @@ Wherever they are, people tend to engage in prosocial behavior—even when it is
 social norms, running from food sharing to cooperation to honesty. — location: [944](kindle://book?action=open&asin=B00OG8AXKO&location=944) ^ref-40440
 
 ---
+social norms, running from food sharing to cooperation to — location: [1018](kindle://book?action=open&asin=B00OG8AXKO&location=1018) ^ref-50333
+
+---
 “ultimatum” games. (These are games in which two players divide a sum of money; the first player chooses the division, and the second can veto that decision—but then all the money is lost). — location: [951](kindle://book?action=open&asin=B00OG8AXKO&location=951) ^ref-13234
 
 ---
 create muscular bonding and endow groups with a capacity for cooperation, solidarity, and, in turn, survival. — location: [958](kindle://book?action=open&asin=B00OG8AXKO&location=958) ^ref-18559
 
 ---
+create muscular bonding and endow groups with a capacity for cooperation, solidarity, and, in turn, — location: [1032](kindle://book?action=open&asin=B00OG8AXKO&location=1032) ^ref-24497
+
+---
 It shouldn’t be surprising, then, that this mind-body synchronization takes place not only within human beings, but also among them. — location: [966](kindle://book?action=open&asin=B00OG8AXKO&location=966) ^ref-10693
 
 ---
 have shown that humans can exchange behavioral coordination information so quickly that the results can appear to be spontaneous—as when people tend to applaud in unison. — location: [968](kindle://book?action=open&asin=B00OG8AXKO&location=968) ^ref-25541
+
+---
+have shown that humans can exchange behavioral coordination information so quickly that the results can appear to be spontaneous—as when people tend to applaud in — location: [1043](kindle://book?action=open&asin=B00OG8AXKO&location=1043) ^ref-39128
 
 ---
 “social brain,” arguing that a crucial, distinctive part of human intelligence is its intrinsically social quality, — location: [977](kindle://book?action=open&asin=B00OG8AXKO&location=977) ^ref-13419
@@ -300,6 +360,9 @@ In other words, our brains are not bigger because we are smarter, but bigger in 
 
 ---
 In particular, oxytocin appears to be one of the most important chemicals for mediating pair bonds and social behavior. — location: [993](kindle://book?action=open&asin=B00OG8AXKO&location=993) ^ref-52034
+
+---
+In particular, oxytocin appears to be one of the most important chemicals for mediating pair bonds and social — location: [1067](kindle://book?action=open&asin=B00OG8AXKO&location=1067) ^ref-10656
 
 ---
 love our neighbors but also fear strangers—helps explain why group dynamics can be so complicated and multidimensional. — location: [1006](kindle://book?action=open&asin=B00OG8AXKO&location=1006) ^ref-43979
@@ -314,6 +377,9 @@ So, being part of a team actually can make us less stressed—and ultimately, ha
 Meanwhile, those with traits harmful to a group, including the disposition for free-riding and selfishness, are punished or alienated. — location: [1026](kindle://book?action=open&asin=B00OG8AXKO&location=1026) ^ref-59635
 
 ---
+Meanwhile, those with traits harmful to a group, including the disposition for free-riding and selfishness, are punished or — location: [1101](kindle://book?action=open&asin=B00OG8AXKO&location=1101) ^ref-39418
+
+---
 this talent for joining and reducing overall stress may prove to be far more important — location: [1029](kindle://book?action=open&asin=B00OG8AXKO&location=1029) ^ref-40281
 
 ---
@@ -321,6 +387,9 @@ meet certain structural requirements: coordination of individual effort, communi
 
 ---
 In particular, when a person observes an action, neurons that represent that action are activated in the observer’s premotor cortex—creating a “motor copy” of the observed action.44 And thus visual information is transformed into knowledge. — location: [1045](kindle://book?action=open&asin=B00OG8AXKO&location=1045) ^ref-14715
+
+---
+In particular, when a person observes an action, neurons that represent that action are activated in the observer’s premotor cortex—creating a “motor copy” of the observed action.44 And thus visual information is transformed into — location: [1120](kindle://book?action=open&asin=B00OG8AXKO&location=1120) ^ref-13929
 
 ---
 It’s because our mirror neurons fire when we see a familiar action, allowing us to understand the action, its goal, and even the emotions associated with it. — location: [1050](kindle://book?action=open&asin=B00OG8AXKO&location=1050) ^ref-42555
@@ -344,6 +413,9 @@ even stranger and more mystical than we ever imagined: a biochemical process in 
 Some appear to have learned this skill from extensive experience as leaders on the way up. But others appear to be born with the specific neural circuits that empower them with either a kind of “social intelligence” or a set of interpersonal competencies that inspire others to do great things. — location: [1080](kindle://book?action=open&asin=B00OG8AXKO&location=1080) ^ref-21589
 
 ---
+Some appear to have learned this skill from extensive experience as leaders on the way up. But others appear to be born with the specific neural circuits that empower them with either a kind of “social intelligence” or a set of interpersonal competencies that inspire others to do great — location: [1154](kindle://book?action=open&asin=B00OG8AXKO&location=1154) ^ref-57719
+
+---
 will trigger similar laughter in his or her team—a — location: [1089](kindle://book?action=open&asin=B00OG8AXKO&location=1089) ^ref-58182
 
 ---
@@ -356,6 +428,12 @@ One reason for this is that laughter appears to increase both creativity and tru
 humor also makes audiences listen and retain more of a presentation or conversation. — location: [1093](kindle://book?action=open&asin=B00OG8AXKO&location=1093) ^ref-57007
 
 ---
+One reason for this is that laughter appears to increase both creativity and trust within — location: [1166](kindle://book?action=open&asin=B00OG8AXKO&location=1166) ^ref-1445
+
+---
+humor also makes audiences listen and retain more of a presentation or — location: [1167](kindle://book?action=open&asin=B00OG8AXKO&location=1167) ^ref-3393
+
+---
 When leaders display happiness, it improves their followers’ creative performance—and — location: [1096](kindle://book?action=open&asin=B00OG8AXKO&location=1096) ^ref-11031
 
 ---
@@ -363,6 +441,9 @@ are sad, it enhances those same followers’ analytical performance. — locatio
 
 ---
 why positive emotions result in more cooperative and conciliatory behavior. — location: [1099](kindle://book?action=open&asin=B00OG8AXKO&location=1099) ^ref-9217
+
+---
+why positive emotions result in more cooperative and conciliatory — location: [1173](kindle://book?action=open&asin=B00OG8AXKO&location=1173) ^ref-3679
 
 ---
 It seems that the better we behave, the better people around us behave as well. — location: [1110](kindle://book?action=open&asin=B00OG8AXKO&location=1110) ^ref-37023
@@ -378,6 +459,9 @@ it becomes our project, not mine. — location: [1122](kindle://book?action=open
 
 ---
 63 At their best, teams, powered by our mirror neurons, can create a sense of “we,” in which another’s actions are perceived as one’s own. — location: [1128](kindle://book?action=open&asin=B00OG8AXKO&location=1128) ^ref-6359
+
+---
+settings.63 At their best, teams, powered by our mirror neurons, can create a sense of “we,” in which another’s actions are perceived as one’s own. — location: [1202](kindle://book?action=open&asin=B00OG8AXKO&location=1202) ^ref-4474
 
 ---
 “Intuition is the defining quality of a great chess player. . . . Often, your gut will serve you better than your brains. — location: [1137](kindle://book?action=open&asin=B00OG8AXKO&location=1137) ^ref-45354
@@ -398,10 +482,19 @@ fundamental factors do exist and not only are happiness and stress contagious, b
 expressions of gratitude can in fact increase closeness among group members. — location: [1153](kindle://book?action=open&asin=B00OG8AXKO&location=1153) ^ref-25557
 
 ---
+fundamental factors do exist and not only are happiness and stress contagious, but they can spread within seconds across a team. — location: [1224](kindle://book?action=open&asin=B00OG8AXKO&location=1224) ^ref-56241
+
+---
+expressions of gratitude can in fact increase closeness among group — location: [1228](kindle://book?action=open&asin=B00OG8AXKO&location=1228) ^ref-11417
+
+---
 it can increase employees’ sense of social worth and self-conception as viable members of the organization. — location: [1154](kindle://book?action=open&asin=B00OG8AXKO&location=1154) ^ref-52377
 
 ---
 Put all of that together and you can see how (appropriate) touch can enhance cooperation in team activities. — location: [1160](kindle://book?action=open&asin=B00OG8AXKO&location=1160) ^ref-60337
+
+---
+Put all of that together and you can see how (appropriate) touch can enhance cooperation in team — location: [1235](kindle://book?action=open&asin=B00OG8AXKO&location=1235) ^ref-5418
 
 ---
 reputation matters in teamwork. — location: [1163](kindle://book?action=open&asin=B00OG8AXKO&location=1163) ^ref-28966
@@ -413,6 +506,12 @@ those same prosocial and generous team members are also more likely to be appoin
 individuals who report inadequate social relationships have a 50 percent greater probability of mortality as compared with patients who report adequate social relationships. — location: [1174](kindle://book?action=open&asin=B00OG8AXKO&location=1174) ^ref-40685
 
 ---
+this—those same prosocial and generous team members are also more likely to be appointed to leadership positions. — location: [1244](kindle://book?action=open&asin=B00OG8AXKO&location=1244) ^ref-45640
+
+---
+individuals who report inadequate social relationships have a 50 percent greater probability of mortality as compared with patients who report adequate social — location: [1248](kindle://book?action=open&asin=B00OG8AXKO&location=1248) ^ref-18197
+
+---
 Being on a team can make you happy, sad, angry, or frustrated, but it rarely makes you feel lonely. — location: [1176](kindle://book?action=open&asin=B00OG8AXKO&location=1176) ^ref-47692
 
 ---
@@ -420,6 +519,9 @@ there’s a strong link between suicide and loneliness. — location: [1178](kin
 
 ---
 Lonely people at all ages show weaker immune responses and a greater vulnerability to viral respiratory infections.78 — location: [1182](kindle://book?action=open&asin=B00OG8AXKO&location=1182) ^ref-22075
+
+---
+Lonely — location: [1256](kindle://book?action=open&asin=B00OG8AXKO&location=1256) ^ref-62357
 
 ---
 teams tend to assign more weight to the contributions of their extroverted members. The only way to shift the weight back is through highly visible and — location: [1189](kindle://book?action=open&asin=B00OG8AXKO&location=1189) ^ref-27759
@@ -435,6 +537,18 @@ It is better to be challenged by others than to learn in an echo chamber. — lo
 
 ---
 performance on reasoning tasks is improved when debate is a requirement for team activities. — location: [1195](kindle://book?action=open&asin=B00OG8AXKO&location=1195) ^ref-33205
+
+---
+shared data about the past accuracy of each member of the team. That usually shuts up the loudmouth. — location: [1265](kindle://book?action=open&asin=B00OG8AXKO&location=1265) ^ref-26793
+
+---
+learn better if they are learning as part of a — location: [1266](kindle://book?action=open&asin=B00OG8AXKO&location=1266) ^ref-17818
+
+---
+It is better to be challenged by others than to learn in an echo — location: [1268](kindle://book?action=open&asin=B00OG8AXKO&location=1268) ^ref-17915
+
+---
+performance on reasoning tasks is improved when debate is a requirement for team — location: [1270](kindle://book?action=open&asin=B00OG8AXKO&location=1270) ^ref-31278
 
 ---
 expressed. It didn’t even matter if agreement was actually achieved—all that was important was that agreement-seeking and contrasting opinions were features of the discussion.86 That’s why postmortems and debriefings are so valuable. — location: [1200](kindle://book?action=open&asin=B00OG8AXKO&location=1200) ^ref-33920
@@ -458,10 +572,19 @@ They communicate frequently: In a typical project team, a dozen or so communicat
 Team members talk and listen in equal measure: Conversation is distributed equally among members. By comparison, low-performing teams suffer from teams within teams. They have members who talk or listen, but don’t do both. — location: [1220](kindle://book?action=open&asin=B00OG8AXKO&location=1220) ^ref-18721
 
 ---
+communicate frequently: In a typical project team, a dozen or so communication exchanges per working hour seem to be optimal — location: [1293](kindle://book?action=open&asin=B00OG8AXKO&location=1293) ^ref-23908
+
+---
+•      Team members talk and listen in equal measure: Conversation is distributed equally among members. By comparison, low-performing teams suffer from teams within teams. They have members who talk or listen, but don’t do both. — location: [1295](kindle://book?action=open&asin=B00OG8AXKO&location=1295) ^ref-30587
+
+---
 The best teams use half their time communicating outside the formal meetings or as a “side” during team meetings. — location: [1223](kindle://book?action=open&asin=B00OG8AXKO&location=1223) ^ref-39716
 
 ---
 They look for ideas and information outside the — location: [1226](kindle://book?action=open&asin=B00OG8AXKO&location=1226) ^ref-18628
+
+---
+•      They look for ideas and information outside the — location: [1300](kindle://book?action=open&asin=B00OG8AXKO&location=1300) ^ref-64799
 
 ---
 group: The best teams consistently (if intermittently) connect with multiple outside sources—especially sources with skills or knowledge lacking among the team’s members. Team members then bring back what they’ve learned and share it with the team (that second part is just as important). — location: [1227](kindle://book?action=open&asin=B00OG8AXKO&location=1227) ^ref-60541
@@ -506,6 +629,9 @@ collaborative — location: [1287](kindle://book?action=open&asin=B00OG8AXKO&loc
 planning almost never happens spontaneously. Someone has to run the show; someone has to serve as team leader to foster this type of planning (otherwise, the team needs an outside administrator). — location: [1287](kindle://book?action=open&asin=B00OG8AXKO&location=1287) ^ref-43390
 
 ---
+planning almost never happens spontaneously. Someone has to run the show; someone has to serve as team leader to foster this type of planning (otherwise, the team needs an outside — location: [1362](kindle://book?action=open&asin=B00OG8AXKO&location=1362) ^ref-6528
+
+---
 Researchers found that collaborative planning made teams more productive because those meetings led to the more effective integration of information. Team members were able to resolve critical questions early on. This in turn constrained the scope of what the team had to deal with later, and it also helped team members target their analytical resources more effectively. — location: [1290](kindle://book?action=open&asin=B00OG8AXKO&location=1290) ^ref-783
 
 ---
@@ -548,6 +674,9 @@ adding some conformity to a team may actually drive creativity. — location: [1
 Creative—20 to 30 percent. Teams with too many creative types struggle with implementation. That’s because (surprise!) creatives are not always practical, are not concerned with rules, and may initiate conflict. •      Conformist—10 to 20 percent. Conformists are the backbone of the team; and their key role is to support the creatives. Conformists help boost cooperation and improve team confidence. They make teams predictable, in a good way. •      Detail-oriented—As much as 10 percent. Detail-oriented people may often be risk-averse, but they help strengthen important team functions such as budgetary control. The detailers make sure that the team is still there each morning. — location: [1354](kindle://book?action=open&asin=B00OG8AXKO&location=1354) ^ref-42774
 
 ---
+to 30 percent. Teams with too many creative types struggle with implementation. That’s because (surprise!) creatives are not always practical, are not concerned with rules, and may initiate conflict. •      Conformist—10 to 20 percent. Conformists are the backbone of the team; and their key role is to support the creatives. Conformists help boost cooperation and improve team confidence. They make teams predictable, in a good way. •      Detail-oriented—As much as 10 percent. Detail-oriented people may often be risk-averse, but they help strengthen important team functions such as budgetary control. The detailers make sure that the team is still there each morning. — location: [1429](kindle://book?action=open&asin=B00OG8AXKO&location=1429) ^ref-27205
+
+---
 The goal, whenever possible, is to create, if you will, whole-brain teams in which the two brain types are in relative balance. — location: [1367](kindle://book?action=open&asin=B00OG8AXKO&location=1367) ^ref-62164
 
 ---
@@ -567,6 +696,18 @@ Keep project goals front and center, and — location: [1383](kindle://book?acti
 
 ---
 schedule time for divergent thinking (generating multiple options) and convergent thinking (focusing on a single option and its implementation). •      Devise guidelines in advance for working together. For example, establish a rule (and get team members’ agreement) up front that any conflicts on the team will not get personal and that any reasons for disagreements will always be stated.13 — location: [1383](kindle://book?action=open&asin=B00OG8AXKO&location=1383) ^ref-9583
+
+---
+•      Know their own preferences, weaknesses, and strengths, and understand how their own style can stifle creativity. — location: [1454](kindle://book?action=open&asin=B00OG8AXKO&location=1454) ^ref-47996
+
+---
+•      Help team members learn and acknowledge their intellectual preferences and differences. — location: [1456](kindle://book?action=open&asin=B00OG8AXKO&location=1456) ^ref-62546
+
+---
+•      Keep project goals front and center, and — location: [1457](kindle://book?action=open&asin=B00OG8AXKO&location=1457) ^ref-40983
+
+---
+schedule time for divergent thinking (generating multiple options) and convergent thinking (focusing on a single option and its implementation). •      Devise guidelines in advance for working together. For example, establish a rule (and get team members’ agreement) up front that any conflicts on the team will not get personal and that any reasons for disagreements will always be stated. — location: [1457](kindle://book?action=open&asin=B00OG8AXKO&location=1457) ^ref-30987
 
 ---
 Instead, it’s about combining so many viewpoints that ideas are bound to collide, resulting in a product that better serves a diverse and demanding customer base. — location: [1393](kindle://book?action=open&asin=B00OG8AXKO&location=1393) ^ref-40123
@@ -593,6 +734,9 @@ intelligence factor in groups is correlated with: •      The equality in
 The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies. In it, and in comparison with Woolley, he identifies three causes of cognitive diversity: •      Training •      Experience •      Genes — location: [1428](kindle://book?action=open&asin=B00OG8AXKO&location=1428) ^ref-54242
 
 ---
+The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies. In it, and in comparison with Woolley, he identifies three causes of cognitive diversity: •      Training •      Experience • — location: [1503](kindle://book?action=open&asin=B00OG8AXKO&location=1503) ^ref-23930
+
+---
 Page argues that team members’ training and experience are the dominant causes of cognitive diversity, while genes are a relatively minor factor. For Page, it is not apparent diversity (such as differences in gender, age, or race) that promotes better group performance, but rather diversity in people’s heuristics, perspectives, interpretations, and predictive models—all of which are derived from members’ cultural backgrounds, training, and experience. — location: [1433](kindle://book?action=open&asin=B00OG8AXKO&location=1433) ^ref-9427
 
 ---
@@ -617,6 +761,9 @@ Even more troubling, the women themselves, when given a math test, performed to 
 diversity is a double-edged sword. — location: [1476](kindle://book?action=open&asin=B00OG8AXKO&location=1476) ^ref-32682
 
 ---
+diversity is a double-edged — location: [1550](kindle://book?action=open&asin=B00OG8AXKO&location=1550) ^ref-23083
+
+---
 lens of stereotypes — location: [1478](kindle://book?action=open&asin=B00OG8AXKO&location=1478) ^ref-11669
 
 ---
@@ -624,6 +771,12 @@ This bias invariably reduces the effectiveness of the group’s interaction as g
 
 ---
 And it can get ugly: those individuals, now considered out-group members, can face exclusion from intragroup information networks and decision-making processes. — location: [1484](kindle://book?action=open&asin=B00OG8AXKO&location=1484) ^ref-12360
+
+---
+This bias invariably reduces the effectiveness of the group’s interaction as group members fail to identify with the — location: [1554](kindle://book?action=open&asin=B00OG8AXKO&location=1554) ^ref-50560
+
+---
+And it can get ugly: those individuals, now considered out-group members, can face exclusion from intragroup information networks and decision-making — location: [1559](kindle://book?action=open&asin=B00OG8AXKO&location=1559) ^ref-9759
 
 ---
 Thus it all comes down to the team leader. The more diverse a team, the more volatile it is likely to be. And often the only thing keeping such a team from exploding is the quality of its leadership. — location: [1489](kindle://book?action=open&asin=B00OG8AXKO&location=1489) ^ref-48321
@@ -644,6 +797,12 @@ but the more diverse that membership becomes, the worse the odds are that the te
 First, diverse teams need to be actively managed. — location: [1514](kindle://book?action=open&asin=B00OG8AXKO&location=1514) ^ref-18931
 
 ---
+membership—but the more diverse that membership becomes, the worse the odds are that the team will survive long enough to produce — location: [1586](kindle://book?action=open&asin=B00OG8AXKO&location=1586) ^ref-56815
+
+---
+First, diverse teams need to be actively — location: [1588](kindle://book?action=open&asin=B00OG8AXKO&location=1588) ^ref-19669
+
+---
 In fact, the more diverse the team, the more hands-on management it will need. — location: [1515](kindle://book?action=open&asin=B00OG8AXKO&location=1515) ^ref-26590
 
 ---
@@ -662,6 +821,9 @@ identity—that is, to cultivate the process by which a person’s self-concept 
 Social identities—team titles, stories, recognitions, shared adventures, and so forth—build members’ loyalty to the team and serve as social glue in groups that would otherwise explode. Experiments show that people who highly identify with their team express a stronger desire to remain in that team despite the presence of an attractive exit option. — location: [1527](kindle://book?action=open&asin=B00OG8AXKO&location=1527) ^ref-24107
 
 ---
+Social identities—team titles, stories, recognitions, shared adventures, and so forth—build members’ loyalty to the team and serve as social glue in groups that would otherwise explode. Experiments show that people who highly identify with their team express a stronger desire to remain in that team despite the presence of an attractive exit — location: [1602](kindle://book?action=open&asin=B00OG8AXKO&location=1602) ^ref-24385
+
+---
 Thus, how the challenge of workforce diversity is framed by the team leader will affect how team members manage diversity-related tensions — location: [1532](kindle://book?action=open&asin=B00OG8AXKO&location=1532) ^ref-56232
 
 ---
@@ -677,6 +839,18 @@ Your differences in cultural backgrounds will help us understand the global mark
 Our differences ensure that there will be no bias against anyone.”) — location: [1542](kindle://book?action=open&asin=B00OG8AXKO&location=1542) ^ref-23115
 
 ---
+•      The integration and learning perspective—the first company framed diversity as a mechanism for helping teams enhance their capacity for adaptive change. (“Your differences in experience will help us to react quickly to a rapidly changing marketplace.”) — location: [1610](kindle://book?action=open&asin=B00OG8AXKO&location=1610) ^ref-45172
+
+---
+•      The access and legitimacy perspective—the — location: [1613](kindle://book?action=open&asin=B00OG8AXKO&location=1613) ^ref-55514
+
+---
+(“Your differences in cultural backgrounds will help us understand the global marketplace.”) — location: [1614](kindle://book?action=open&asin=B00OG8AXKO&location=1614) ^ref-29920
+
+---
+(“Our differences ensure that there will be no bias against anyone.”) — location: [1616](kindle://book?action=open&asin=B00OG8AXKO&location=1616) ^ref-5235
+
+---
 only the integration and learning perspective provided the necessary rationale and guidance for harnessing significant benefits from diversity. — location: [1543](kindle://book?action=open&asin=B00OG8AXKO&location=1543) ^ref-28388
 
 ---
@@ -690,6 +864,12 @@ Because the believers are willing to engage in more sharing of information and p
 
 ---
 Tenure It turns out that the longer you keep a team together, the fewer the negative effects of its diversity. The laboratory consensus is that more intragroup contact ultimately reduces the usual negative effects of social categorization, such as stereotyping and prejudices. — location: [1558](kindle://book?action=open&asin=B00OG8AXKO&location=1558) ^ref-13293
+
+---
+Because the believers are willing to engage in more sharing of information and perspectives—and that sharing ultimately pays — location: [1624](kindle://book?action=open&asin=B00OG8AXKO&location=1624) ^ref-61616
+
+---
+Tenure It turns out that the longer you keep a team together, the fewer the negative effects of its diversity. The laboratory consensus is that more intragroup contact ultimately reduces the usual negative effects of social categorization, such as stereotyping and — location: [1632](kindle://book?action=open&asin=B00OG8AXKO&location=1632) ^ref-60525
 
 ---
 Familiarity helps team members not only to coordinate their activities but also to carry over those communication skills from one project to the next. In addition, the more frequently team members work together, the better they become at innovation by integrating each other’s knowledge. — location: [1562](kindle://book?action=open&asin=B00OG8AXKO&location=1562) ^ref-18537
@@ -731,10 +911,19 @@ teams still frequently fail to extract, organize, and integrate their members’
 Or they omit pieces of critical information and focus too much on shared information. — location: [1604](kindle://book?action=open&asin=B00OG8AXKO&location=1604) ^ref-5580
 
 ---
+teams still frequently fail to extract, organize, and integrate their members’ knowledge and — location: [1676](kindle://book?action=open&asin=B00OG8AXKO&location=1676) ^ref-7505
+
+---
+Or they omit pieces of critical information and focus too much on shared — location: [1679](kindle://book?action=open&asin=B00OG8AXKO&location=1679) ^ref-63443
+
+---
 Teams of specialists almost always benefit from members capable of translating discoveries among — location: [1607](kindle://book?action=open&asin=B00OG8AXKO&location=1607) ^ref-59850
 
 ---
 Without these translators, valuable information can fail to be integrated into the overall effort and be wasted. — location: [1608](kindle://book?action=open&asin=B00OG8AXKO&location=1608) ^ref-44790
+
+---
+Without these translators, valuable information can fail to be integrated into the overall effort and be — location: [1682](kindle://book?action=open&asin=B00OG8AXKO&location=1682) ^ref-62750
 
 ---
 That’s because while dense ties among team members may enhance the team’s solidarity, they can also impede creativity. — location: [1611](kindle://book?action=open&asin=B00OG8AXKO&location=1611) ^ref-7719
@@ -752,6 +941,9 @@ The only real answer, we believe, is to communicate regularly, but not constantl
 Furthermore, permission to criticize and to debate is also conducive to idea generation. As an aside, it has been found that groups instructed to criticize and debate even in brainstorming activities did better than the groups instructed not to criticize. — location: [1623](kindle://book?action=open&asin=B00OG8AXKO&location=1623) ^ref-21514
 
 ---
+Furthermore, permission to criticize and to debate is also conducive to idea generation. As an aside, it has been found that groups instructed to criticize and debate even in brainstorming activities did better than the groups instructed not to — location: [1697](kindle://book?action=open&asin=B00OG8AXKO&location=1697) ^ref-46065
+
+---
 This ideal level of Q—called the bliss point—was between 2.4 and 2.6. — location: [1637](kindle://book?action=open&asin=B00OG8AXKO&location=1637) ^ref-50729
 
 ---
@@ -765,6 +957,9 @@ that new group members, who invariably present new information to their teams, a
 
 ---
 As long as a person is considered by the group to be an outsider, his or her criticism is likely to be rejected even if that criticism is appropriate, well justified, and well argued. — location: [1650](kindle://book?action=open&asin=B00OG8AXKO&location=1650) ^ref-42852
+
+---
+As long as a person is considered by the group to be an outsider, his or her criticism is likely to be rejected even if that criticism is appropriate, well justified, and well — location: [1724](kindle://book?action=open&asin=B00OG8AXKO&location=1724) ^ref-28571
 
 ---
 Preparation. New team members need to be taught that entering a new group and introducing divergent thoughts without having gained the group’s trust may backfire. — location: [1653](kindle://book?action=open&asin=B00OG8AXKO&location=1653) ^ref-62079
@@ -782,6 +977,9 @@ but it may shorten its duration. — location: [1656](kindle://book?action=open&
 proximity among team members is a predictor of the quality of team outcomes. — location: [1665](kindle://book?action=open&asin=B00OG8AXKO&location=1665) ^ref-57974
 
 ---
+proximity among team members is a predictor of the quality of team — location: [1740](kindle://book?action=open&asin=B00OG8AXKO&location=1740) ^ref-18101
+
+---
 So the challenge in such a case is to replace traditional physical proximity with something else: regular online meetings, enhanced communications tools (such as telepresence technology), team rituals, nonwork activities, and, whenever possible, actually getting the team physically together in a single place. — location: [1671](kindle://book?action=open&asin=B00OG8AXKO&location=1671) ^ref-2019
 
 ---
@@ -795,6 +993,12 @@ Having more members creates the opportunity for a greater division of labor; thi
 
 ---
 It takes time and effort to incorporate new members into a team. While this happens, the team may slow, or even stop. — location: [1698](kindle://book?action=open&asin=B00OG8AXKO&location=1698) ^ref-6244
+
+---
+•      Having more members creates the opportunity for a greater division of labor; this in turn allows for more task specialization.42 •      Having more members also creates a larger pool of aggregate team knowledge and experience.43 •      The larger the inventory of slack resources at hand, the more the team is prepared to deal with changing circumstances. — location: [1759](kindle://book?action=open&asin=B00OG8AXKO&location=1759) ^ref-25585
+
+---
+It takes time and effort to incorporate new members into a team. While this happens, the team may slow, or even — location: [1772](kindle://book?action=open&asin=B00OG8AXKO&location=1772) ^ref-4430
 
 ---
 in which individual and collective performance is inextricably tied, and individual contributions are difficult to assess, individuals—knowing that their efforts can’t be isolated—will often slack off and contribute less than their best efforts. In psychology, this phenomenon is known as social loafing; in economics it’s free riding. — location: [1700](kindle://book?action=open&asin=B00OG8AXKO&location=1700) ^ref-54867
@@ -812,6 +1016,15 @@ As a group’s size increases, adding people yields diminishing returns on indiv
 Managers and leaders tend to overestimate the benefits of larger teams. — location: [1721](kindle://book?action=open&asin=B00OG8AXKO&location=1721) ^ref-29836
 
 ---
+•      As team size increases, individual responsibility dilutes. — location: [1788](kindle://book?action=open&asin=B00OG8AXKO&location=1788) ^ref-39328
+
+---
+•      As a group’s size increases, adding people yields diminishing returns on individual contributions. — location: [1791](kindle://book?action=open&asin=B00OG8AXKO&location=1791) ^ref-36952
+
+---
+•      Managers and leaders tend to overestimate the benefits of larger teams. — location: [1795](kindle://book?action=open&asin=B00OG8AXKO&location=1795) ^ref-41702
+
+---
 the tendency to increasingly underestimate task completion time as team size grows, the team scaling fallacy. — location: [1724](kindle://book?action=open&asin=B00OG8AXKO&location=1724) ^ref-25868
 
 ---
@@ -822,6 +1035,15 @@ To keep team size small, managers should create multiteam projects. They can als
 
 ---
 In large teams, not all team members have to be involved all the time—team members can be brought in for specific tasks.54 — location: [1733](kindle://book?action=open&asin=B00OG8AXKO&location=1733) ^ref-2700
+
+---
+their — location: [1803](kindle://book?action=open&asin=B00OG8AXKO&location=1803) ^ref-23838
+
+---
+• — location: [1806](kindle://book?action=open&asin=B00OG8AXKO&location=1806) ^ref-19462
+
+---
+large teams, not all team members have to be involved all the time—team members can be brought in for specific tasks. — location: [1808](kindle://book?action=open&asin=B00OG8AXKO&location=1808) ^ref-42795
 
 ---
 not just to drive it to full productivity but to keep it running at that pace by minimizing its long-term losses. — location: [1736](kindle://book?action=open&asin=B00OG8AXKO&location=1736) ^ref-27128
@@ -839,6 +1061,9 @@ how your team begins will determine how it ends, and how it will perform during 
 Groups with mixed values, by comparison, end up lacking consistent approaches to tasks and group processes. Compared with the egalitarian and meritocratic groups, they significantly underperform. — location: [1751](kindle://book?action=open&asin=B00OG8AXKO&location=1751) ^ref-50928
 
 ---
+•      Groups with mixed values, by comparison, end up lacking consistent approaches to tasks and group processes. Compared with the egalitarian and meritocratic groups, they significantly — location: [1825](kindle://book?action=open&asin=B00OG8AXKO&location=1825) ^ref-16606
+
+---
 The answer is that both SAS and Amazon are clear about their culture. There is no confusion or dishonesty—but rather authenticity and trust—to both companies. — location: [1762](kindle://book?action=open&asin=B00OG8AXKO&location=1762) ^ref-29323
 
 ---
@@ -849,6 +1074,12 @@ Clarify and give meaning to the team’s task — location: [1767](kindle://book
 
 ---
 Bound the team as one performing unit •      Establish norms of conduct — location: [1768](kindle://book?action=open&asin=B00OG8AXKO&location=1768) ^ref-14708
+
+---
+•      Clarify and give meaning to the team’s task — location: [1841](kindle://book?action=open&asin=B00OG8AXKO&location=1841) ^ref-36062
+
+---
+•      Bound the team as one performing unit •      Establish norms of conduct — location: [1842](kindle://book?action=open&asin=B00OG8AXKO&location=1842) ^ref-15054
 
 ---
 why both independent and interdependent group work can be effective. — location: [1770](kindle://book?action=open&asin=B00OG8AXKO&location=1770) ^ref-5024
@@ -875,6 +1106,18 @@ The team has a compelling direction: the team task is clear, challenging, and co
 The team is bounded (it is clear who is and who — location: [1796](kindle://book?action=open&asin=B00OG8AXKO&location=1796) ^ref-1672
 
 ---
+asking for or ignoring input from team members) or undercontrolling weaklings (so laissez-faire that team members end up with little clarity on how to operate). The very worst leaders manage to be both, unpredictably vacillating between the two extremes and in the process incapacitating team members from doing their — location: [1862](kindle://book?action=open&asin=B00OG8AXKO&location=1862) ^ref-8249
+
+---
+He notes that you cannot guarantee team success but you can increase the probability of it by managing at the margins and setting up the right — location: [1866](kindle://book?action=open&asin=B00OG8AXKO&location=1866) ^ref-5000
+
+---
+•      The team has a compelling direction: the team task is clear, challenging, and consequential. — location: [1869](kindle://book?action=open&asin=B00OG8AXKO&location=1869) ^ref-42227
+
+---
+•      The team is bounded (it is clear who is and who — location: [1870](kindle://book?action=open&asin=B00OG8AXKO&location=1870) ^ref-48098
+
+---
 is not on the team) and stable (the team’s membership is not constantly fluctuating), and its members are interdependent (that is, they interact with one another to accomplish the team’s work). — location: [1796](kindle://book?action=open&asin=B00OG8AXKO&location=1796) ^ref-5324
 
 ---
@@ -887,10 +1130,22 @@ The team has a supportive organizational context that provides team members with
 The team receives coaching from experts, peers, and leaders. — location: [1803](kindle://book?action=open&asin=B00OG8AXKO&location=1803) ^ref-49159
 
 ---
+•      The team is set up with the right mix of members, who have norms of conduct that guide their behavior. Team members are different but not so different that they cannot work with each other. Team members have the right set of skills and expertise for the team task. — location: [1872](kindle://book?action=open&asin=B00OG8AXKO&location=1872) ^ref-22699
+
+---
+•      The team has a supportive organizational context that provides team members with access to resources, information, and training to help accomplish their task. — location: [1875](kindle://book?action=open&asin=B00OG8AXKO&location=1875) ^ref-18422
+
+---
+•      The team receives coaching from experts, peers, and — location: [1877](kindle://book?action=open&asin=B00OG8AXKO&location=1877) ^ref-53296
+
+---
 Actual group productivity = Potential productivity − Process losses — location: [1806](kindle://book?action=open&asin=B00OG8AXKO&location=1806) ^ref-50895
 
 ---
 Potential productivity is what the team can theoretically achieve, given its resources. •      Process losses are what the team loses through coordination and motivation problems. — location: [1808](kindle://book?action=open&asin=B00OG8AXKO&location=1808) ^ref-40642
+
+---
+•      Potential productivity is what the team can theoretically achieve, given its resources. •      Process losses are what the team loses through coordination and motivation problems. — location: [1882](kindle://book?action=open&asin=B00OG8AXKO&location=1882) ^ref-48413
 
 ---
 group tasks.6 These tasks, he continued, can be differentiated based on three categories: component, focus, and interdependence. — location: [1811](kindle://book?action=open&asin=B00OG8AXKO&location=1811) ^ref-4598
@@ -926,6 +1181,12 @@ Process losses are typically due to self-censorship, social loafing, group membe
 making the team’s task compelling and consequential can also help diminish social loafing. — location: [1831](kindle://book?action=open&asin=B00OG8AXKO&location=1831) ^ref-7523
 
 ---
+Process losses are typically due to self-censorship, social loafing, group members not listening to the most competent people in the group, or the lack of a group process in which all voices are heard. These losses can be mitigated by selecting people with the right expertise, by fostering norms and shared beliefs that reduce self-censorship, and by fostering a nonthreatening interpersonal climate in which people are comfortable speaking — location: [1902](kindle://book?action=open&asin=B00OG8AXKO&location=1902) ^ref-8745
+
+---
+making the team’s task compelling and consequential can also help diminish social — location: [1906](kindle://book?action=open&asin=B00OG8AXKO&location=1906) ^ref-37426
+
+---
 Conjunctive tasks require that all group — location: [1833](kindle://book?action=open&asin=B00OG8AXKO&location=1833) ^ref-35473
 
 ---
@@ -948,6 +1209,15 @@ in comparison with working alone, team members show as much as a 50 percent incr
 
 ---
 The effect is even stronger when team members are working on tasks they enjoy. — location: [1843](kindle://book?action=open&asin=B00OG8AXKO&location=1843) ^ref-15861
+
+---
+group members. They do not want to hold the group back, especially when the group is working on a conjunctive — location: [1914](kindle://book?action=open&asin=B00OG8AXKO&location=1914) ^ref-43817
+
+---
+in comparison with working alone, team members show as much as a 50 percent increase in performance during teamwork because they do not want to let their teammates — location: [1916](kindle://book?action=open&asin=B00OG8AXKO&location=1916) ^ref-64544
+
+---
+The effect is even stronger when team members are working on tasks they — location: [1917](kindle://book?action=open&asin=B00OG8AXKO&location=1917) ^ref-14208
 
 ---
 being part of a team taking on a task in which our own participation makes an obvious contribution can bring out the best in us. Compensatory tasks feature group members who average their individual contributions. — location: [1845](kindle://book?action=open&asin=B00OG8AXKO&location=1845) ^ref-58014
@@ -1004,6 +1274,9 @@ He wants to motivate them all, and shine a light on their potential. — locatio
 with the exception of human beings, there are almost no examples of such pairs forming specifically for instrumental purposes. — location: [2057](kindle://book?action=open&asin=B00OG8AXKO&location=2057) ^ref-50326
 
 ---
+owners—but with the exception of human beings, there are almost no examples of such pairs forming specifically for instrumental purposes. — location: [2132](kindle://book?action=open&asin=B00OG8AXKO&location=2132) ^ref-59035
+
+---
 groupings—but, in emergencies, we have been known to form — location: [2059](kindle://book?action=open&asin=B00OG8AXKO&location=2059) ^ref-15049
 
 ---
@@ -1026,6 +1299,9 @@ Note that this kind of pairing typically exists during crises and emergencies. �
 
 ---
 Got Your Six teams have some extraordinary attributes—none — location: [2101](kindle://book?action=open&asin=B00OG8AXKO&location=2101) ^ref-592
+
+---
+Got Your Six teams have some extraordinary — location: [2176](kindle://book?action=open&asin=B00OG8AXKO&location=2176) ^ref-40251
 
 ---
 “Focus on what is in front of you, I’ll take of whatever comes from behind—even if I die in the process.” This is humanity at its most selfless, which means it is both rare and short-lived. — location: [2102](kindle://book?action=open&asin=B00OG8AXKO&location=2102) ^ref-39607
@@ -1085,6 +1361,9 @@ teams are fulfillment partnerships; that is, these are pairs composed of two ind
 that this type of partnership consists of two individuals of comparable traits and attributes, — location: [2230](kindle://book?action=open&asin=B00OG8AXKO&location=2230) ^ref-10972
 
 ---
+follow—that this type of partnership consists of two individuals of comparable traits and attributes, — location: [2304](kindle://book?action=open&asin=B00OG8AXKO&location=2304) ^ref-1130
+
+---
 and who on their own have failed to reach their full potential. — location: [2230](kindle://book?action=open&asin=B00OG8AXKO&location=2230) ^ref-45825
 
 ---
@@ -1113,6 +1392,9 @@ can be superfluous. — location: [2257](kindle://book?action=open&asin=B00OG8AX
 
 ---
 such pairs may be the single best executive combination imaginable — location: [2259](kindle://book?action=open&asin=B00OG8AXKO&location=2259) ^ref-41719
+
+---
+Absolutely—such pairs may be the single best executive combination imaginable — location: [2333](kindle://book?action=open&asin=B00OG8AXKO&location=2333) ^ref-24376
 
 ---
 so wide-ranging—strategy, day-to-day management, public relations, and so forth—that they are better handled by two individuals rather than one, especially if those two individuals are consistently of one mind, and have complete faith in each other’s judgment when they are not. — location: [2263](kindle://book?action=open&asin=B00OG8AXKO&location=2263) ^ref-31181
@@ -1169,6 +1451,9 @@ but rather than being about skills, they are instead about character and persona
 Counterweights need each other also on a personal—and ultimately, often unhealthy—basis. — location: [2391](kindle://book?action=open&asin=B00OG8AXKO&location=2391) ^ref-27586
 
 ---
+Counterweights need each other also on a personal—and ultimately, — location: [2465](kindle://book?action=open&asin=B00OG8AXKO&location=2465) ^ref-6484
+
+---
 Mark Zuckerberg, and his “adult supervisor,” Sheryl Sandberg, or Oracle’s chairman, Larry Ellison, and CEO, Safra Catz. — location: [2400](kindle://book?action=open&asin=B00OG8AXKO&location=2400) ^ref-33635
 
 ---
@@ -1211,6 +1496,12 @@ They don’t have to reinvent the wheel. That is, while one member may have an e
 They typically have enormous longitudinal strength. — location: [2508](kindle://book?action=open&asin=B00OG8AXKO&location=2508) ^ref-36108
 
 ---
+•      They don’t have to reinvent the wheel. That is, while one member may have an extended learning curve, the other doesn’t, so the team itself can be productive almost from the instant of its founding. — location: [2579](kindle://book?action=open&asin=B00OG8AXKO&location=2579) ^ref-41174
+
+---
+•      They typically have enormous longitudinal strength. — location: [2582](kindle://book?action=open&asin=B00OG8AXKO&location=2582) ^ref-44134
+
+---
 that expertise can still be used at peak performance — location: [2510](kindle://book?action=open&asin=B00OG8AXKO&location=2510) ^ref-11127
 
 ---
@@ -1226,6 +1517,9 @@ they almost always lack a body of experience to tell them when a new idea is via
 mature workers typically operate with a huge inner encyclopedia of what works and what doesn’t—but — location: [2522](kindle://book?action=open&asin=B00OG8AXKO&location=2522) ^ref-60559
 
 ---
+mature workers typically operate with a huge inner encyclopedia of what works and what — location: [2596](kindle://book?action=open&asin=B00OG8AXKO&location=2596) ^ref-44702
+
+---
 enforces a comparable commitment from those mentors to “offer guidance and help answer day-to-day questions.” — location: [2529](kindle://book?action=open&asin=B00OG8AXKO&location=2529) ^ref-8004
 
 ---
@@ -1239,6 +1533,9 @@ Distant Idols are true ghost partnerships. In that respect, they take the mentor
 
 ---
 What would my idol/mentor do?”—and — location: [2558](kindle://book?action=open&asin=B00OG8AXKO&location=2558) ^ref-1530
+
+---
+would my idol/mentor do?”—and — location: [2633](kindle://book?action=open&asin=B00OG8AXKO&location=2633) ^ref-20517
 
 ---
 business books distilling career and competitive advice from the most historic figures, — location: [2571](kindle://book?action=open&asin=B00OG8AXKO&location=2571) ^ref-30262
@@ -1271,6 +1568,9 @@ Is this the right hill to die on? — location: [2659](kindle://book?action=open
 Some of the most successful pairs do not fit our expectations; rather, the members can be very different in terms of age, talent, character, and temperament. — location: [2675](kindle://book?action=open&asin=B00OG8AXKO&location=2675) ^ref-12136
 
 ---
+•      Some of the most successful pairs do not fit our expectations; rather, the members can be very different in terms of age, talent, character, and temperament. — location: [2749](kindle://book?action=open&asin=B00OG8AXKO&location=2749) ^ref-47042
+
+---
 a duo the best team for the job? And what is that job? Is it embedded in the larger enterprise, with specific duties, or will it work on the fringes of the organization and break new ground? — location: [2682](kindle://book?action=open&asin=B00OG8AXKO&location=2682) ^ref-59220
 
 ---
@@ -1286,6 +1586,9 @@ all but demands that you work backward; that is, you need to be perpetually vigi
 Create Opportunities: Even when dealing with spontaneous teams, there are ways to improve your odds of finding success. — location: [2713](kindle://book?action=open&asin=B00OG8AXKO&location=2713) ^ref-55265
 
 ---
+7.   Create Opportunities: Even when dealing with spontaneous teams, there are ways to improve your odds of finding success. — location: [2786](kindle://book?action=open&asin=B00OG8AXKO&location=2786) ^ref-22385
+
+---
 8.   Keep Records: — location: [2716](kindle://book?action=open&asin=B00OG8AXKO&location=2716) ^ref-11398
 
 ---
@@ -1293,6 +1596,9 @@ is time to start keeping track of all these variables—and then use them over t
 
 ---
 Manage Transitions: — location: [2721](kindle://book?action=open&asin=B00OG8AXKO&location=2721) ^ref-8584
+
+---
+9.   Manage Transitions: — location: [2794](kindle://book?action=open&asin=B00OG8AXKO&location=2794) ^ref-49690
 
 ---
 A smart manager will identify these evolutionary steps as they occur and adjust his or her communications, motivations, rewards, and punishments accordingly. — location: [2724](kindle://book?action=open&asin=B00OG8AXKO&location=2724) ^ref-12903
@@ -1319,6 +1625,9 @@ Give your Lifeboat pair the most impossible task and short time (say, three mont
 trios are more like radioactive elements: they seem to exist for only a brief time before they break down to their natural state, pairs. It is important to appreciate that fact up front. Make the most of your trios for as long as they exist, but don’t depend on them to survive, and don’t be caught surprised when they fail. — location: [2772](kindle://book?action=open&asin=B00OG8AXKO&location=2772) ^ref-53101
 
 ---
+stable—trios are more like radioactive elements: they seem to exist for only a brief time before they break down to their natural state, pairs. It is important to appreciate that fact up front. Make the most of your trios for as long as they exist, but don’t depend on them to survive, and don’t be caught surprised when they fail. — location: [2846](kindle://book?action=open&asin=B00OG8AXKO&location=2846) ^ref-60130
+
+---
 logistics, strategy, tactics and contingencies. — location: [2799](kindle://book?action=open&asin=B00OG8AXKO&location=2799) ^ref-36834
 
 ---
@@ -1326,6 +1635,9 @@ cannot be completely controlled. But it can be given a certain structure at mult
 
 ---
 Dreaming of trios and actually making them work in all but the most synthetic situations are two very different things.1 — location: [2846](kindle://book?action=open&asin=B00OG8AXKO&location=2846) ^ref-28379
+
+---
+Dreaming of trios and actually making them work in all but the most synthetic situations are two very different things. — location: [2921](kindle://book?action=open&asin=B00OG8AXKO&location=2921) ^ref-37546
 
 ---
 This, the most primitive trio, is really, at its core, a pair—to which has been added a third player in a vital but not an intimate partnerlike role. — location: [2850](kindle://book?action=open&asin=B00OG8AXKO&location=2850) ^ref-41782
@@ -1403,6 +1715,9 @@ trouble dealing with success, because credit is difficult to distribute. With th
 typically include at least one top-notch player—and — location: [3065](kindle://book?action=open&asin=B00OG8AXKO&location=3065) ^ref-37398
 
 ---
+typically include at least one top-notch — location: [3140](kindle://book?action=open&asin=B00OG8AXKO&location=3140) ^ref-9018
+
+---
 that trio formats are exceptionally comforting to their members because the members feel as — location: [3068](kindle://book?action=open&asin=B00OG8AXKO&location=3068) ^ref-15996
 
 ---
@@ -1421,10 +1736,16 @@ In the commercial world, however, an unbalanced team can quickly tear itself apa
 Keep the trio working at the highest level of productivity and coordination. •      Make sure the trio is never short of the resources it needs to get the job done. •      At completion, assure that all three participants are given full—and just as important—equal credit for the success. — location: [3090](kindle://book?action=open&asin=B00OG8AXKO&location=3090) ^ref-38536
 
 ---
+•      Keep the trio working at the highest level of productivity and coordination. •      Make sure the trio is never short of the resources it needs to get the job done. •      At completion, assure that all three participants are given full—and just as important—equal credit for the success. — location: [3164](kindle://book?action=open&asin=B00OG8AXKO&location=3164) ^ref-27362
+
+---
 the single most important thing an Instrumental Trio can do is to practice, practice, practice. — location: [3093](kindle://book?action=open&asin=B00OG8AXKO&location=3093) ^ref-20543
 
 ---
 In business that means training, case studies, quotas, and even competitions. — location: [3095](kindle://book?action=open&asin=B00OG8AXKO&location=3095) ^ref-14763
+
+---
+In business that means training, case studies, quotas, and even — location: [3169](kindle://book?action=open&asin=B00OG8AXKO&location=3169) ^ref-60474
 
 ---
 As manager, your task is to not only provide the occasions, venues, and equipment for those practices or training sessions, but to also make the team members attend and participate. — location: [3097](kindle://book?action=open&asin=B00OG8AXKO&location=3097) ^ref-47315
@@ -1437,6 +1758,9 @@ Thus, all larger teams are basically built from the building blocks we have just
 
 ---
 No more than two levels of leadership. •      The members knowing each other on a personal basis. — location: [3147](kindle://book?action=open&asin=B00OG8AXKO&location=3147) ^ref-12893
+
+---
+•      No more than two levels of leadership. •      The members knowing each other on a personal basis. — location: [3221](kindle://book?action=open&asin=B00OG8AXKO&location=3221) ^ref-24759
 
 ---
 identifies small teams as being four to six members—the “sweet spot” of functionality along a continuum of “cultural messages” delivered by teams numbering from four to ten members. — location: [3154](kindle://book?action=open&asin=B00OG8AXKO&location=3154) ^ref-9287
@@ -1460,6 +1784,9 @@ more precise, at 15±3. — location: [3172](kindle://book?action=open&asin=B00O
 Six, for example, has a singular relationship with all the numbers beneath it. Thus it can encompass two trios, or three pairs—or, — location: [3196](kindle://book?action=open&asin=B00OG8AXKO&location=3196) ^ref-4166
 
 ---
+Six, for example, has a singular relationship with all the numbers beneath it. Thus it can encompass two trios, or three — location: [3270](kindle://book?action=open&asin=B00OG8AXKO&location=3270) ^ref-766
+
+---
 Groups of five to nine, and especially the larger numbers in that set, are basically the smallest teams in which you can have a dedicated internal leader as well as a distribution of tasks with more than one member assigned to each subgroup. — location: [3202](kindle://book?action=open&asin=B00OG8AXKO&location=3202) ^ref-39974
 
 ---
@@ -1473,6 +1800,9 @@ How many people/subordinates can you not just motivate but actually command in d
 
 ---
 which is that 7±2 teams are the smallest teams that can actually show real diversity among their members, and thus can exhibit the advantages that come with the presence of different personalities and talents. — location: [3220](kindle://book?action=open&asin=B00OG8AXKO&location=3220) ^ref-17745
+
+---
+is that 7±2 teams are the smallest teams that can actually show real diversity among their members, and thus can exhibit the advantages that come with the presence of different personalities and talents. — location: [3295](kindle://book?action=open&asin=B00OG8AXKO&location=3295) ^ref-18204
 
 ---
 entrepreneurial start-up. — location: [3223](kindle://book?action=open&asin=B00OG8AXKO&location=3223) ^ref-25068
@@ -1496,6 +1826,9 @@ Keep careful records and never screw up—in teams this small, everything is per
 15±3 teams are the smallest teams that can actually divide their labor and still have dedicated management for each resulting subteam. This formulation offers some real advantages; — location: [3284](kindle://book?action=open&asin=B00OG8AXKO&location=3284) ^ref-21417
 
 ---
+teams are the smallest teams that can actually divide their labor and still have dedicated management for each resulting subteam. This formulation offers some real advantages; — location: [3358](kindle://book?action=open&asin=B00OG8AXKO&location=3358) ^ref-59771
+
+---
 can truly operate independently and not have to wait on a single manager racing back and forth among those teams making command decisions. — location: [3285](kindle://book?action=open&asin=B00OG8AXKO&location=3285) ^ref-17938
 
 ---
@@ -1514,6 +1847,9 @@ it would be extremely difficult for the team leader to deal with the entire team
 Professional Leadership: Up to this point, team leaders are also typically active team members. — location: [3299](kindle://book?action=open&asin=B00OG8AXKO&location=3299) ^ref-47246
 
 ---
+•      Professional Leadership: Up to this point, team leaders are also typically active team members. — location: [3373](kindle://book?action=open&asin=B00OG8AXKO&location=3373) ^ref-24552
+
+---
 usually a second lieutenant or a warrant officer, who has been trained specifically for the task of leadership. — location: [3302](kindle://book?action=open&asin=B00OG8AXKO&location=3302) ^ref-22811
 
 ---
@@ -1521,6 +1857,9 @@ continuously monitor the health and performance of the team, and act as the comm
 
 ---
 Monolithic Teams: Monolithic teams are the rarest 15±3 teams, and for good reason. — location: [3320](kindle://book?action=open&asin=B00OG8AXKO&location=3320) ^ref-20141
+
+---
+•      Monolithic Teams: Monolithic teams are the rarest 15±3 teams, and for good reason. — location: [3394](kindle://book?action=open&asin=B00OG8AXKO&location=3394) ^ref-47112
 
 ---
 Since this number of people is well out of the effective span of control of most leaders, these teams typically have a hidden structure that divides up the leadership—such as the owner’s spouse who manages personnel and bookkeeping, the veteran employee who serves as the de facto platoon sergeant, the boss’s secretary who is the real manager, and so on. — location: [3321](kindle://book?action=open&asin=B00OG8AXKO&location=3321) ^ref-30969
@@ -1578,6 +1917,9 @@ recognize that they were actually aggregations of teams and not just masses of i
 
 ---
 Stay as small as possible, and as close to the optimal team sizes as it can. •      Focus on and constantly improve communications. •      Maximize the diversity of skills and attitudes. •      Recognize and celebrate achievements and milestones. •      Carefully manage transitions. — location: [3482](kindle://book?action=open&asin=B00OG8AXKO&location=3482) ^ref-38831
+
+---
+•      Stay as small as possible, and as close to the optimal team sizes as it can. •      Focus on and constantly improve communications. •      Maximize the diversity of skills and attitudes. •      Recognize and celebrate achievements and milestones. •      Carefully manage transitions. — location: [3556](kindle://book?action=open&asin=B00OG8AXKO&location=3556) ^ref-58122
 
 ---
 they need to assert those practices even more for the sake of morale, loyalty, and coordination. — location: [3489](kindle://book?action=open&asin=B00OG8AXKO&location=3489) ^ref-3169
@@ -1652,10 +1994,16 @@ and are usually intentionally strange, even frightening, so as to create an inde
 Set an Official Start. — location: [3704](kindle://book?action=open&asin=B00OG8AXKO&location=3704) ^ref-12572
 
 ---
+1.   Set an Official Start. — location: [3778](kindle://book?action=open&asin=B00OG8AXKO&location=3778) ^ref-38565
+
+---
 An official start, even if it is pretty much arbitrary, synchronizes the team from the outset—and reminds them that they will begin together, work together, and end together. — location: [3706](kindle://book?action=open&asin=B00OG8AXKO&location=3706) ^ref-33801
 
 ---
 Establish Relations. — location: [3708](kindle://book?action=open&asin=B00OG8AXKO&location=3708) ^ref-35557
+
+---
+2.   Establish Relations. — location: [3782](kindle://book?action=open&asin=B00OG8AXKO&location=3782) ^ref-63600
 
 ---
 reducing the barriers to communication among team members. — location: [3708](kindle://book?action=open&asin=B00OG8AXKO&location=3708) ^ref-22029
@@ -1667,10 +2015,19 @@ Time spent on name tags, introductions, sharing details about oneself, distribut
 Set Rules. When it comes to rules of behavior, establishing them early and clearly is paramount. — location: [3713](kindle://book?action=open&asin=B00OG8AXKO&location=3713) ^ref-46197
 
 ---
+Time spent on name tags, introductions, sharing details about oneself, distributing phone numbers and email addresses, and even small-group exercises and brainstorming — location: [3783](kindle://book?action=open&asin=B00OG8AXKO&location=3783) ^ref-56570
+
+---
+3.   Set Rules. When it comes to rules of behavior, establishing them early and clearly is paramount. — location: [3787](kindle://book?action=open&asin=B00OG8AXKO&location=3787) ^ref-44033
+
+---
 Announce those rules, keep them simple, and write them down to be distributed to everyone. That will minimize disputes. — location: [3716](kindle://book?action=open&asin=B00OG8AXKO&location=3716) ^ref-33087
 
 ---
 Seed the Culture. Like it or not, the cultural life of the team begins at that kickoff event. — location: [3718](kindle://book?action=open&asin=B00OG8AXKO&location=3718) ^ref-54634
+
+---
+4.   Seed the Culture. Like it or not, the cultural life of the team begins at that kickoff event. — location: [3791](kindle://book?action=open&asin=B00OG8AXKO&location=3791) ^ref-37110
 
 ---
 That’s why well-run teams typically feature a round of interviews with each member immediately after that kickoff event. — location: [3721](kindle://book?action=open&asin=B00OG8AXKO&location=3721) ^ref-18643
@@ -1685,10 +2042,16 @@ so design the kickoff meeting so that it showcases the kind of — location: [37
 Set Attitudes. Natural leaders instinctively understand that they have the power to shape the tone and attitude of the team through the force of their own personalities. That’s why they continuously project a persona that will color the team in the way they want it to behave: loose or intense, playful or serious, big thinking or detail-oriented. — location: [3725](kindle://book?action=open&asin=B00OG8AXKO&location=3725) ^ref-57272
 
 ---
+5.   Set Attitudes. Natural leaders instinctively understand that they have the power to shape the tone and attitude of the team through the force of their own personalities. That’s why they continuously project a persona that will color the team in the way they want it to behave: loose or intense, playful or serious, big thinking or detail-oriented. — location: [3799](kindle://book?action=open&asin=B00OG8AXKO&location=3799) ^ref-36166
+
+---
 Unfortunately, many leaders make the mistake of allowing a team to find its own attitude and “style,” which in reality means that the most strong-willed members dominate and even emotionally hijack the team. — location: [3729](kindle://book?action=open&asin=B00OG8AXKO&location=3729) ^ref-57619
 
 ---
 Establish Communications. — location: [3735](kindle://book?action=open&asin=B00OG8AXKO&location=3735) ^ref-21503
+
+---
+6.   Establish Communications. — location: [3809](kindle://book?action=open&asin=B00OG8AXKO&location=3809) ^ref-64142
 
 ---
 healthy and frequent communications ensure that team members and the team’s work are synchronized, — location: [3736](kindle://book?action=open&asin=B00OG8AXKO&location=3736) ^ref-43744
@@ -1713,6 +2076,9 @@ a Kabuki play of a real team, and merely went through the motions. Management—
 
 ---
 is to force yourself to look beyond the morale of the team — location: [3756](kindle://book?action=open&asin=B00OG8AXKO&location=3756) ^ref-15187
+
+---
+to force yourself to look beyond the morale of the team — location: [3830](kindle://book?action=open&asin=B00OG8AXKO&location=3830) ^ref-40278
 
 ---
 to set some early and precise milestones for the team to reach. — location: [3756](kindle://book?action=open&asin=B00OG8AXKO&location=3756) ^ref-42523
@@ -1754,6 +2120,21 @@ Help the process of selecting and repeating those stories that aid in the health
 Establish occasions and settings in which these stories can be regularly shared, especially with new team members. — location: [3804](kindle://book?action=open&asin=B00OG8AXKO&location=3804) ^ref-53183
 
 ---
+•      If all the stories are about the boss—it could mean that the CEO is mean or domineering. — location: [3865](kindle://book?action=open&asin=B00OG8AXKO&location=3865) ^ref-14313
+
+---
+•      If a team has no stories—it may not really be a team at all, but merely an aggregation of individuals suffering from insufficient diversity, personal contact, and a broken communication apparatus. — location: [3869](kindle://book?action=open&asin=B00OG8AXKO&location=3869) ^ref-660
+
+---
+•      Create a setting in which team members not only feel free to tell stories but are encouraged to do so. — location: [3875](kindle://book?action=open&asin=B00OG8AXKO&location=3875) ^ref-55170
+
+---
+•      Help the process of selecting and repeating those stories that aid in the health and productivity of the team, and that are reflective of the team’s desired culture. — location: [3877](kindle://book?action=open&asin=B00OG8AXKO&location=3877) ^ref-36819
+
+---
+•      Establish occasions and settings in which these stories can be regularly shared, especially with new team members. — location: [3878](kindle://book?action=open&asin=B00OG8AXKO&location=3878) ^ref-11034
+
+---
 are usually less about training and seminars than about creating an environment that cultivates both story creation and story swapping. — location: [3807](kindle://book?action=open&asin=B00OG8AXKO&location=3807) ^ref-60023
 
 ---
@@ -1761,6 +2142,9 @@ because the members who leave are often the team’s most valuable contributors;
 
 ---
 Should happen. Conduct some kind of departure ceremony, even if the member is happy to go and the team is even happier to see that member gone. This ceremony can be as simple as a quick office meeting to make the announcement and wish the member — location: [3816](kindle://book?action=open&asin=B00OG8AXKO&location=3816) ^ref-39377
+
+---
+happen. Conduct some kind of departure ceremony, even if the member is happy to go and the team is even happier to see that member gone. This ceremony can be as simple as a quick office meeting to make the announcement and wish the member — location: [3890](kindle://book?action=open&asin=B00OG8AXKO&location=3890) ^ref-39456
 
 ---
 luck. Or it could be a dinner, and even a going-away gift, for a longtime or beloved member. The purpose of the departure ceremony is to recognize the member’s contribution to the team—and thus hold out the promise of recognition to other team members who will receive the same recognition someday. It also creates a distinct and sharply defined closure to that member’s tenure with the team; it ends an era. By comparison, allowing a member to simply pack up and silently leave creates a void, an unanswered question about the reasons for the departure, and a sense that things aren’t quite over, that the departing figure (for good or bad) might come back. — location: [3818](kindle://book?action=open&asin=B00OG8AXKO&location=3818) ^ref-21415
@@ -1820,6 +2204,12 @@ To assume, while still in the consolidation and maturation phase, many of the ta
 To design these expanded completion-phase duties into the project from the very beginning. — location: [3926](kindle://book?action=open&asin=B00OG8AXKO&location=3926) ^ref-3570
 
 ---
+•      To assume, while still in the consolidation and maturation phase, many of the tasks heretofore — location: [3997](kindle://book?action=open&asin=B00OG8AXKO&location=3997) ^ref-6273
+
+---
+•      To design these expanded completion-phase duties into the project from the very beginning. — location: [4000](kindle://book?action=open&asin=B00OG8AXKO&location=4000) ^ref-61261
+
+---
 There is a no more depressed group of people than a successful team that returns on Monday morning to discover that instead of merely tying up some loose ends, they are now expected to take on a whole new phase of supplemental work. — location: [3934](kindle://book?action=open&asin=B00OG8AXKO&location=3934) ^ref-14472
 
 ---
@@ -1838,6 +2228,9 @@ Even if you’ve failed to achieve all of your goals, your team deserves a full-
 Recount their achievements. •      Remind them of the team’s beginnings, how they didn’t know each other and how close they’ve become since. •      Reminisce about the high points (and the low points overcome) in the team’s history. •      Most of all, recognize the work of every team member individually, both before the rest of the team and one-on-one. •      Retreat at the right moment. Every leader plans the beginning of these events; smart ones plan the ending—especially the part about exiting quickly and on a high note. — location: [3950](kindle://book?action=open&asin=B00OG8AXKO&location=3950) ^ref-19281
 
 ---
+their achievements. •      Remind them of the team’s beginnings, how they didn’t know each other and how close they’ve become since. •      Reminisce about the high points (and the low points overcome) in the team’s history. •      Most of all, recognize the work of every team member individually, both before the rest of the team and one-on-one. •      Retreat at the right moment. Every leader plans the beginning of these events; smart ones plan the ending—especially the part about exiting quickly and on a high note. — location: [4024](kindle://book?action=open&asin=B00OG8AXKO&location=4024) ^ref-56366
+
+---
 It is usually the best strategy to admit that failure, let the members leave the organization, and conduct a postmortem to determine what went wrong and make sure it doesn’t happen again. — location: [3964](kindle://book?action=open&asin=B00OG8AXKO&location=3964) ^ref-56003
 
 ---
@@ -1851,6 +2244,9 @@ But success camouflages a lot of bad things. Moreover, remove a successful team 
 
 ---
 A team that, despite its internal strife, just gets lucky. b. A team that features so much talent that, despite itself, still manages to get across the finish line—though much less successfully than it might have otherwise. c. A team that is composed of some top-quality members, and others who just played easy riders but took a share of the credit. d. A team that fakes results to look like it succeeded. — location: [3985](kindle://book?action=open&asin=B00OG8AXKO&location=3985) ^ref-52680
+
+---
+a. A team that, despite its internal strife, just gets lucky. b. A team that features so much talent that, despite itself, still manages to get across the finish line—though much less successfully than it might have otherwise. c. A team that is composed of some top-quality members, and others who just played easy riders but took a share of the credit. d. A team that fakes results to look like it succeeded. — location: [4059](kindle://book?action=open&asin=B00OG8AXKO&location=4059) ^ref-4283
 
 ---
 the afterglow of the success—and it will reward them with raises, promotions, fame, and recruitment into even more important teams. — location: [3991](kindle://book?action=open&asin=B00OG8AXKO&location=3991) ^ref-38782
@@ -1871,10 +2267,19 @@ Did the team function harmoniously throughout its life, including even during th
 How did the team react to this news? — location: [4018](kindle://book?action=open&asin=B00OG8AXKO&location=4018) ^ref-54009
 
 ---
+•      Did the team function harmoniously throughout its life, including even during the interval when its impending failure was apparent? •      When it encountered the event that would prove fatal to the team’s efforts, did the team recognize it as such, or were the members oblivious? — location: [4089](kindle://book?action=open&asin=B00OG8AXKO&location=4089) ^ref-62468
+
+---
+•      How did the team react to this news? — location: [4092](kindle://book?action=open&asin=B00OG8AXKO&location=4092) ^ref-42580
+
+---
 to react? Develop a new strategy? Or just surrender? •      Did the team leader keep the team on point in the aftermath of this shock? •      Did the team search for new and relevant talent in its response? Was that talent quickly incorporated into the team’s work? — location: [4018](kindle://book?action=open&asin=B00OG8AXKO&location=4018) ^ref-37460
 
 ---
 Did the team leader quickly present the changed situation, with alternative responses, to senior management—or did he or she and the rest of the team try to hide it from outsiders? •      Was blame cast and recriminations made among team members for the failed outcome? •      Did the team leader help the team members with recommendations and job placement in the aftermath of the failure, or were the team members jettisoned and forgotten? — location: [4022](kindle://book?action=open&asin=B00OG8AXKO&location=4022) ^ref-12968
+
+---
+•      Did the team leader quickly present the changed situation, with alternative responses, to senior management—or did he or she and the rest of the team try to hide it from outsiders? •      Was blame cast and recriminations made among team members for the failed outcome? •      Did the team leader help the team members with recommendations and job placement in the aftermath of the failure, or were the team members jettisoned and forgotten? — location: [4096](kindle://book?action=open&asin=B00OG8AXKO&location=4096) ^ref-20739
 
 ---
 Not knowing what was to come, would you have done anything differently? — location: [4027](kindle://book?action=open&asin=B00OG8AXKO&location=4027) ^ref-15241
@@ -1895,6 +2300,9 @@ You are better off achieving a guaranteed victory, especially one that accomplis
 Failure breeds failure as much as success breeds success. — location: [4056](kindle://book?action=open&asin=B00OG8AXKO&location=4056) ^ref-30276
 
 ---
+•      Failure breeds failure as much as success breeds success. — location: [4130](kindle://book?action=open&asin=B00OG8AXKO&location=4130) ^ref-45982
+
+---
 Either way, those teams, as we’ve already noted, should be shut down, not be transformed into a black hole for time and resources trying to resuscitate them. — location: [4058](kindle://book?action=open&asin=B00OG8AXKO&location=4058) ^ref-8471
 
 ---
@@ -1911,5 +2319,9 @@ different phases in this life cycle, and crucial clues about how to lead a team 
 
 ---
 Belbin M. 2011. “Size matters: How many make the ideal team?” Belbin.es, www.belbin.es/rte.asp?id=153&pressid=31&task=View. — location: [4669](kindle://book?action=open&asin=B00OG8AXKO&location=4669) ^ref-45968
+
+---
+
+Belbin M. 2011. “Size matters: How many make the ideal team?” Belbin.es, www.belbin.es/rte.asp?id=153 — location: [4743](kindle://book?action=open&asin=B00OG8AXKO&location=4743) ^ref-7624
 
 ---

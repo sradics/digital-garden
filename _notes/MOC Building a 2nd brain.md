@@ -2,6 +2,7 @@
 tags: 
 - digital_garden
 - MOC
+- epstatus/2-brewed
 ---
 # MOC Building a 2nd brain
 
@@ -27,6 +28,7 @@ Building a 2nd brain in a nutshell - [[Visual Notes]]
 + [[PARA Method Notes]]
 
 ## Express
++ effective communication following [The Bullseye Principle](https://www.blinkist.com/en/app/books/the-bullseye-principle-en) how to hit the bullseye with your target audience. Some notes from the Book in Blinks - [[Notes from listening to the Bullseye Principle]]
 
 
 ## Linking

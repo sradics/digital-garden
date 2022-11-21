@@ -6,6 +6,8 @@ tags:
 # PARA Method Notes
 Put **personally relevant** information in Areas, and **generally useful** information in Resources (allows you to share notes from your resources without having to comb through for any personal information).
 
+As yourself: When would you like to face this information next time?
+
 ## Projects
 Projects → **Goals** to be achieved by a deadline
 A series of tasks linked to a goal, with a deadline

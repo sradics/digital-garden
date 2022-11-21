@@ -32,3 +32,6 @@ Building a 2nd brain in a nutshell - [[Visual Notes]]
 ## Linking
 + [[How to take Smart Notes - Key Insights]]
 + [Nice video explanation by Zsolt](https://www.youtube.com/watch?v=3i4CiImIYYA)
++ [Hacks to boost productivity with Tiago Forte (by Blinkist)](https://www.blinkist.com/guides/hacks-to-boost-productivity-with-tiago-forte)
+	+ [The Seven Sins of Memory](https://www.blinkist.com/en/app/books/the-seven-sins-of-memory-en) (How the mind forgets and remembers)
+	+ [The Organized Mind](https://www.blinkist.com/en/app/books/the-organized-mind-en) (Thinking straight in the age of information overload)

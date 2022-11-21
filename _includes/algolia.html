@@ -38,7 +38,13 @@ const hitTemplate = function(hit) {
     
 
 search.addWidgets([
-  instantsearch.widgets.searchBox({
+  instantsearch.widgets.refinementList({
+    container: '#brand-list',
+    attribute: 'tags',
+      searchable:true,
+  }),
+    
+    instantsearch.widgets.searchBox({
     container: '#searchbox',
     placeholder: 'Search this garden ...',
     searchAsYouType: false,
@@ -52,6 +58,8 @@ search.addWidgets([
     }  
   })
 ]);
+
+    
     
     try {
       search.start();

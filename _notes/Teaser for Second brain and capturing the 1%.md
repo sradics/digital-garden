@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/1-brewing
 ---
 # Teaser for Second brain and capturing the 1%
 
@@ -13,3 +13,5 @@ That’s it. All the magic and the value lie in the last 1%.
 
 **By putting in that small extra effort, you’ll preserve your best thinking for the future instead of having to do it again.**
 
+# Linking
++ [[MOC Building a 2nd brain]]

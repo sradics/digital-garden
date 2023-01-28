@@ -18,3 +18,9 @@ tags:
 ## Create Landing Page copy
 ![[Pasted image 20230125061332.png]]
 
+
+# Further notes
+Combine that with Obsidian embedded AI feature
+
+# Linking
++ [[MOC Artificial Intelligence]]

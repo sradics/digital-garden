@@ -16,3 +16,7 @@ tags:
 Science shows that those are 5 of the key elements to make an idea stick.1
 
 1[_Made To Stick_, Chip Heath and Dan Heath (2007)](https://www.goodreads.com/book/show/69242.Made_to_Stick)
+
+# Linking
++ [[Storyworthy]]
++ [[Course Charter for Agile Course]]

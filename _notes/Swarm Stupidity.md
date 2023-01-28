@@ -1,6 +1,7 @@
 ---
 tags: 
 - digital_garden
+- epstatus/1-brewing
 ---
 # Swarm Stupidity
 
@@ -27,7 +28,7 @@ many companies aim to grow more, often more than double the market growth … wh
 **middle management – lost in the middle, without real power to protest up the hierarchy and pacify statements down the hierarchy.**
 
 ## Swarm intelligence
-- a team of **people who share a common purpose** and **joy of working together** towards their common goal – it is a changing swarm of enthusiasts (who would like to leave – leaves … who would like to join – joins)
+- a team of ==**people who share a common purpose** and **joy of working together**== **towards their common goal** – it is a changing swarm of enthusiasts (who would like to leave – leaves … who would like to join – joins)
 - no side interests, no personal fights
 - when the original problem is solved – the swarm dissolves and everyone goes their own way – new problem – new swarm
 - **everyone can see the elephant** (see below)
@@ -49,7 +50,7 @@ many companies aim to grow more, often more than double the market growth … wh
 ## Meetings
 There are heavy flaws in todays meeting culture
 
-- **we rarely talk about work** but just coordinate who does what and until when (and everyone is nerved)
+- **we rarely talk about work** but just coordinate who does what and until when (and everyone is annoyed)
 - there is an **increasing amount of meetings** that take more and more time from our “real” work, leading to even more stress doing our work
 - the number of participants and topics discussed are **often not of real interest for everyone participating** (and it adds to the fact of not doing the real work that is waiting)
 - meetings **with blaming aspects – it consumes time and poisons relationships**
@@ -79,8 +80,8 @@ Who knows what is the goal of that meeting?
 [Dunning-Kruger-Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) [metacognitive](https://en.wikipedia.org/wiki/Metacognition) 
 
 - don’t see superior abilities of others
-  - cannot see the extent of their own incompetene
-    - it’s forbidden to question an unrealistic utopia – they suffer from the utopia syndrome (see [Change by Watzlawik, Weakland, Fisch](http://www.amazon.de/gp/product/B00VUMSR16/ref=dp-kindle-redirect?ie=UTF8&btkr=1)) … and other become victims of a foreign utopia
+- cannot see the extent of their own incompetence
+- it’s forbidden to question an unrealistic utopia – they suffer from the utopia syndrome (see [Change by Watzlawik, Weakland, Fisch](http://www.amazon.de/gp/product/B00VUMSR16/ref=dp-kindle-redirect?ie=UTF8&btkr=1)) … and other become victims of a foreign utopia
 
 Unrealistic targets lead to:
 + some employees that openly protest (but often to the powerless middle management … that starts to pacify)
@@ -114,3 +115,8 @@ Control points everywhere
 ## Follow up
 
 [Watch Video At: https://youtu.be/rc37ov1iVFQ](https://youtu.be/rc37ov1iVFQ)
+
+# Linking
++ [[Leadership Coaching]]
++ [[Facilitation]]
++ [[My spiky points of view]]

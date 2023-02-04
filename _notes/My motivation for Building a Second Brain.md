@@ -6,6 +6,7 @@ tags:
 ---
 # My motivation for Building a Second Brain
 
+⏳ [[2023-02-06_Mon]] - [ ] Convert to proper LinkedIn post
 
 What was my motivation? Why did I invest in Building my Second Brain?
 + I was not satisfied with the way of working with my previous learnings. I read a lot but lost much of this information.

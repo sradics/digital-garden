@@ -23,3 +23,4 @@ Used in ideation approaches when working with evolving an Opportunity Solution T
 # Linking
 + [[Facilitation]]
 + [[MOC Product Discovery]]
++ [[Swarm Stupidity]]

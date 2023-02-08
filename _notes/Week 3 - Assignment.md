@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - digital_garden
 ---
 # Week 3 - Assignment
@@ -27,3 +26,5 @@ Focus on one of the key techniques to train our introspection muscle: Journaling
 > Just as with meditation, it's more the process of sitting down with your own thoughts that's important than any sort of immediately tangible thing that might result from it.
 > 
 
+# Linking
++ [[MOC 10K$ framework]]

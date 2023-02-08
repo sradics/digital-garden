@@ -1,6 +1,5 @@
 ---
 tags: 
-- level/expert
 - digital_garden
 ---
 # Building an Inbox Zero System

@@ -1,7 +1,5 @@
 ---
 tags: 
-- level/advanced
-- systems
 - digital_garden
 ---
 # Systems Thinking

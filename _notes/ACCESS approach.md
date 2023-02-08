@@ -1,9 +1,8 @@
 ---
 aliases: 
 tags: 
-- pkms
-- permanent
 - digital_garden
+- epstatus/2-brewed
 ---
 # ACCESS approach
 An interesting mapping of tools in the areas *folders vs links* and *knowledge vs action*

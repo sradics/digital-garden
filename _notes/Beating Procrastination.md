@@ -1,10 +1,5 @@
 ---
 tags: 
-- focus
-- procrastination
-- self management
-- coaching
-- permanent
 - digital_garden
 ---
 # Beating Procrastination

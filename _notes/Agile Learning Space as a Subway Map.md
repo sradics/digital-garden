@@ -1,11 +1,5 @@
 ---
 tags: 
-- level/intermediate
-- level/beginner
-- level/advanced
-- role/all roles
-- learning_speed/fast
-- availability/free
 - digital_garden
 ---
 # Agile Learning Space as a Subway Map

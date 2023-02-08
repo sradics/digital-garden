@@ -1,7 +1,5 @@
 ---
 tags: 
-- 10k_course
-- habits
 - matter/processed
 - digital_garden
 ---
@@ -54,3 +52,7 @@ tags:
 * tap into our core human desire: ==avoiding social rejection.==
 * ==getting an accountability partner==,
 * Being even more public about your habits (via, Social Media) can make the costs of violating your promises public and painful.
+
+# Linking
++ [[MOC 10K$ framework]]
++ [[Habit building]]

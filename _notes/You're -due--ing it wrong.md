@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - matter/processed
 - digital_garden
 ---
@@ -20,3 +19,8 @@ tags:
 * The Weekly Review ensures that every 7 days, you “check-in” on all your tasks, elevating those that need your attention,
 
 ![[Pasted image 20220723070829.png]]
+
+
+
+# Linking
++ [[MOC 10K$ framework]]

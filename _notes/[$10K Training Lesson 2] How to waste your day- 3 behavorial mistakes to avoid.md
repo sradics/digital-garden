@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - matter/processed
 - digital_garden
 ---
@@ -26,3 +25,6 @@ Meet the Present Bias (the yin to Delayed Gratification’s yang). This behavior
 	* ==Taking an outside view: Base your estimates on external sources (like interviews)== 
 	* Conducting a ==pre-mortem==: ==Imagine your project was late and work backwards to identify the cause of the delay.== 
 	* ==Questioning your motivations==: Are there subjective reasons such as internal politics, a personal deadline such as a holiday trip, or external pressure that may lead to unrealistic deadlines?
+
+# Linking
++ [[MOC 10K$ framework]]

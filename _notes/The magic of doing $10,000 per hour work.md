@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - matter/processed
 - digital_garden
 ---
@@ -33,3 +32,8 @@ tags:
 
 
 ![[Pasted image 20220723065921.png]]
+
+
+
+# Linking
++ [[MOC 10K$ framework]]

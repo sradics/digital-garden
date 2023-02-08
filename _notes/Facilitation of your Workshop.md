@@ -1,6 +1,5 @@
 ---
 tags: 
-- level/master
 - digital_garden
 ---
 # Facilitation of your Workshop

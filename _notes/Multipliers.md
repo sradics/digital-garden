@@ -1,12 +1,6 @@
 ---
 aliases: 
 tags: 
-- consumption/via_reading
-- consumption/via_audio
-- books/just_bib
-- books/mysummary
-- leadership
-- permanent
 - digital_garden
 ---
 # Multipliers 

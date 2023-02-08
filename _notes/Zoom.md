@@ -1,8 +1,5 @@
 ---
-tags: 
-- level/master
-- collaboration
-- tool
+tags:
 - digital_garden
 ---
 # Zoom

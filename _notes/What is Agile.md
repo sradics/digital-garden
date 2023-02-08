@@ -1,7 +1,5 @@
 ---
 tags: 
-- level/beginner
-- role/all roles
 - digital_garden
 ---
 # What is Agile
@@ -15,7 +13,7 @@ tags:
 - [[Understanding Agile - Udemy Course]]
 
 ## Next
-+ [[Project Management]]
++ [[S01 Personal/030-039 Areas/38 Agile/38.45 Agile Learning Path/Project Management]]
 + [[Agile Software Development]]
 
 

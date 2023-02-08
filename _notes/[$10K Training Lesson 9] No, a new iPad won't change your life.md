@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - matter/processed
 - digital_garden
 ---
@@ -25,3 +24,7 @@ tags:
 * [[The Seven Principles For Making Marriage Work - John Gottman]]
 * ==[[The Feynman Technique]]==: This method focuses on distilling ideas to childlike simplicity to enforce retention.
 * YNAB for budgeting:
+
+
+# Linking
++ [[MOC 10K$ framework]]

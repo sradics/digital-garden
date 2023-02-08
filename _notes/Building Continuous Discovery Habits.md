@@ -1,6 +1,5 @@
 ---
 tags: 
-- level/advanced
 - digital_garden
 ---
 # Building Continuous Discovery Habits

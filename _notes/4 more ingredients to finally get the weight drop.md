@@ -19,9 +19,7 @@ Starting this year I added 4 more incredients and my weight dropped by 7 kilos i
   
 (4) And I added more bacteria to my life  
   
-I'm feeling strong, even more awake and energised and happy that I found a solution that builds on my already strong foundation of my training habit.  
-  
-[#okr](https://www.linkedin.com/feed/hashtag/?keywords=okr&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7023171343990849536) [#weightloss](https://www.linkedin.com/feed/hashtag/?keywords=weightloss&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7023171343990849536) [#nutrition](https://www.linkedin.com/feed/hashtag/?keywords=nutrition&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7023171343990849536) [#bacteria](https://www.linkedin.com/feed/hashtag/?keywords=bacteria&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7023171343990849536) [#habit](https://www.linkedin.com/feed/hashtag/?keywords=habit&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7023171343990849536) [#training‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍](https://www.linkedin.com/feed/hashtag/?keywords=training&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7023171343990849536)
+I'm feeling strong, even more awake and energised and happy that I found a solution that builds on my already strong foundation of my training habit.    
 
 Posted on [LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_okr-weightloss-nutrition-activity-7023171343990849536-Yhya?utm_source=share&utm_medium=member_desktop) on January 2023
 
@@ -30,5 +28,3 @@ Posted on [LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_okr-weightl
 + [[MOC Vegan Living]]
 + [[Atomic Habits - James Clear]]
 
-
-#okr #bacteria #habits 

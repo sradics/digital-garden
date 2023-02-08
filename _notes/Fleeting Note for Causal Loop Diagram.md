@@ -1,6 +1,5 @@
 ---
 tags: 
-- systems
 - digital_garden
 ---
 # Fleeting Note for Causal Loop Diagram
@@ -42,3 +41,7 @@ From these events, move to showing (perhaps only qualitatively) the pattern of b
 + Have sales been growing? 
 + Oscillating? S-shaped? 
 + Finally, once the pattern of behavior is determined, use the concepts of positive and negative feedback loops, with their associated generic patterns of behavior, to begin constructing a causal loop diagram which will explain the observed pattern of behavior.
+
+
+# Linking
++ [[Systems Thinking]]

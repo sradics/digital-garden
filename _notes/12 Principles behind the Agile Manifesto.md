@@ -1,9 +1,5 @@
 ---
 tags: 
-- level/beginner
-- role/all roles
-- learning_speed/fast
-- availability/free
 - digital_garden
 ---
 # 12 Principles behind the Agile Manifesto

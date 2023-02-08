@@ -1,6 +1,5 @@
 ---
 tags: 
-- productivity
 - digital_garden
 ---
 # Focus on the right work

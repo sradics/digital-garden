@@ -1,6 +1,5 @@
 ---
 tags: 
-- level/advanced
 - digital_garden
 ---
 # Obsidian - PKMS - 2nd Brain

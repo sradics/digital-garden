@@ -25,7 +25,7 @@ See this embedded reading list [_Reading Order](_Reading%20Order.md)
 Displays the calendar tab on the right side. In the calendar daily notes from your journal will be automatically linked. And you can also easily create a daily note from the calendar. In addition the calendar is displayed on topic right in your daily note.
 
 ## Templater
-Provides a set of useful functions to work with templates. E.g. if you create a note in [ Fleeting Notes](S01%20Personal/030-039%20Areas/32%20Zettelkasten/Fleeting%20Notes/Fleeting%20Notes.md) the temlate [TPL Fleeting Note](TPL%20Fleeting%20Note.md) is automatically applied.
+Provides a set of useful functions to work with templates. E.g. if you create a note in [Fleeting notes](S01%20Personal/030-039%20Areas/32%20Zettelkasten/Fleeting%20notes/Fleeting%20notes.md) the temlate [TPL Fleeting Note](TPL%20Fleeting%20Note.md) is automatically applied.
 
 ## Admonition
 Provide a rich configuration to work with Callouts in your notes like that:
@@ -40,7 +40,6 @@ Working with callouts provides a great way to better format important informatio
 Let's you work with tasks inside Obisidan.
 - [x] Check when you got an overview on the installed plugins ✅ 2023-02-06
 
-And these tasks also get listed e.g in your [](Home.md#Tasks) via [#Dataview](#Dataview) queries.
 
 ## Minimal Theme Settings
 Further detailed adjustments to your Obsidian appearance. This Second Brain configuration is base on the Minimal Theme for Obsidian. 

@@ -1,9 +1,5 @@
 ---
 tags: 
-- level/advanced
-- flow
-- value
-- tool
 - digital_garden
 ---
 # Value Stream Mapping

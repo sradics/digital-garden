@@ -1,9 +1,5 @@
 ---
 tags: 
-- emergance
-- systems
-- pkms
-- 2ndbrainsummit
 - digital_garden
 ---
 # A systems thinking approach to Life & Knowledge Management
@@ -55,3 +51,4 @@ live OS
 
 ## Linking
 + [[Systems Thinking]]
++ [[MOC Building a 2nd brain]]

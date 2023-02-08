@@ -1,7 +1,6 @@
 ---
 tags: 
 - digital_garden
-- coaching
 ---
 # Kopf frei - Free Mind
 ## Book information
@@ -45,3 +44,7 @@ Nixen - do nothing and let you mind wander. This leads to our Default Mode Netwo
 
 ![[Kopf frei.pdf]]
 
+# Linking
++ [[Leadership Coaching]]
++ [[Systems Thinking]]
++ [[Personal Systemic Coaching]]

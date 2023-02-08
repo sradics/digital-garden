@@ -1,7 +1,6 @@
 ---
 tags: 
 - digital_garden
-- design-thinking
 ---
 # Cross Functional Teams - Ideo Shopping Cart example
 

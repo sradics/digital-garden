@@ -1,7 +1,6 @@
 ---
 aliases: 
 tags: 
-- principle/design principle
 - digital_garden
 ---
 # progressive disclosure

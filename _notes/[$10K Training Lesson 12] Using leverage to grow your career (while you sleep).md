@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - matter/processed
 - digital_garden
 ---
@@ -34,3 +33,5 @@ tags:
 * ==Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.==
 * And while Supercharge Your Productivity is one of the very few paid courses in our lineup, there will also be a free bootcamp leading up to it. Click below to let me know if you're interested and I'll reach out to you once the date is set.
 
+# Linking
++ [[MOC 10K$ framework]]

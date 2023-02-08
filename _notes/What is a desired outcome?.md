@@ -1,8 +1,6 @@
 ---
 aliases: 
 tags: 
-- hypothesis
-- outcomes
 - digital_garden
 ---
 # What is a desired outcome?
@@ -42,3 +40,7 @@ Underlying questions for falsification:
 - What kind of support or updates will licensees require to maintain a subscription? Is it a one-time transaction or does it require building a relationship?
 
 This kind of goal is _designed to be falsified_, just like a scientific hypothesis. Answering any one of the questions above will require shifting the goal, which is exactly the point. I want the goal to track changes over time, getting closer and closer to reality as completion gets nearer.
+
+# Linking
++ [[Good StrategyBad Strategy]]
++ [[MOC Continuous Discovery Habits]]

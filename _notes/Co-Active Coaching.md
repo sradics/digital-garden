@@ -1,11 +1,6 @@
 ---
 aliases: 
 tags: 
-- coaching
-- deep level thinking
-- intuition
-- curiosit
-- permanent
 - digital_garden
 ---
 # Co-Active Coaching
@@ -56,3 +51,8 @@ Connect the clients proposed actions/decisions to the values. How does that conn
 
 ## 1st pass notes
 ![[CoActive Coaching.pdf]]
+
+
+# Linking
++ [[Leadership Coaching]]
++ [[Personal Systemic Coaching]]

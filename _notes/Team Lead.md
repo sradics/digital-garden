@@ -1,8 +1,5 @@
 ---
 tags: 
-- level/expert
-- teams
-- leadership
 - digital_garden
 ---
 # Team Lead

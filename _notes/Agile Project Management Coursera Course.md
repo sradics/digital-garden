@@ -1,11 +1,5 @@
 ---
 tags: 
-- level/beginner
-- level/intermediate
-- role/all roles
-- availability/paid
-- learnings_speed/medium
-- certificate
 - digital_garden
 ---
 

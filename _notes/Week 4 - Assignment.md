@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - digital_garden
 ---
 # Week 4 - Assignment
@@ -21,3 +20,7 @@ What is your current job? Which skills would supplement and leverage your existi
 + How will you track/measure your progress?
 + Can you compile a list of resources to help?
 + Could you hire someone to help?
+
+
+# Linking
++ [[MOC 10K$ framework]]

@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - matter/processed
 - digital_garden
 ---
@@ -30,3 +29,7 @@ tags:
 * ==not underestimate the influence of shadow power==—advisors, assistants, consultants, and most especially spouses.
 * ==generosity-first networking== (which BTW is one of the most popular modules from Supercharge your Productivity).
 * Having a system * ==Following-up methodically== * Leading with generosity * ==Connecting the dots==
+
+
+# Linking
++ [[MOC 10K$ framework]]

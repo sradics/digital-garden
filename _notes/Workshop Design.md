@@ -1,8 +1,5 @@
 ---
 tags: 
-- level/master
-- facilitation
-- workshops
 - digital_garden
 ---
 # Workshop Design

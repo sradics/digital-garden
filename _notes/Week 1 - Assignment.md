@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - digital_garden
 ---
 # Week 1 - Assignment
@@ -20,5 +19,5 @@ Write down all the things that you currently are working on, that you should be 
 ## Step 3: Pick a $10K Task to work on
 Now take a look at your $10K tasks. Each day, commit 25 minutes to work on one of those tasks.
 
-
-
+# Linking
++ [[MOC 10K$ framework]]

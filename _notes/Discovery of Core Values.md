@@ -1,7 +1,5 @@
 ---
 tags: 
-- leadership
-- values
 - digital_garden
 ---
 # Discovery of Core Values

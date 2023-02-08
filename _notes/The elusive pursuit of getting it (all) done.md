@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - matter/processed
 - digital_garden
 ---
@@ -17,3 +16,7 @@ tags:
 * ==list of things that require a lot of mental bandwith== and a ==list of things I can do at the end of the day when my energy is depleted.==
 * Oliver Burkeman writes in his 8 Secrets to a (fairly) fulfilling life,
 * find what matters most, yet accept that it all won’t get done.
+
+
+# Linking
++ [[MOC 10K$ framework]]

@@ -1,7 +1,5 @@
 ---
-tags: 
-- tool
-- value
+tags:
 - digital_garden
 ---
 # Value Stream Mapping - theoretical background

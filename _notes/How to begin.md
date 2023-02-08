@@ -1,11 +1,6 @@
 ---
 aliases: 
 tags: 
-- coaching
-- goalsetting
-- books/just_bib
-- books/mysummary
-- permanent
 - digital_garden
 ---
 # How to begin

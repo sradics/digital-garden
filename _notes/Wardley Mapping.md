@@ -1,9 +1,5 @@
 ---
 tags: 
-- level/novice
-- tool
-- strategy
-- systems
 - digital_garden
 ---
 # Wardley Mapping

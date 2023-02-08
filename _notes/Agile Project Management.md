@@ -1,8 +1,5 @@
 ---
 tags: 
-- role/project_manager
-- role/product_manager
-- role/leadership
 - digital_garden
 ---
 

@@ -1,6 +1,5 @@
 ---
 tags: 
-- level/master
 - digital_garden
 ---
 # Actionable Agile Metrics

@@ -1,9 +1,5 @@
 ---
 tags: 
-- level/expert
-- management
-- leadership
-- complexity
 - digital_garden
 ---
 # Management 3.0 - Management for Complex Domain

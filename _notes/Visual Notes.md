@@ -1,9 +1,6 @@
 ---
 aliases: 
 tags: 
-- basb
-- PARA
-- basb/CODE
 - digital_garden
 ---
 # Visual Notes

@@ -1,6 +1,5 @@
 ---
 tags: 
-- coaching
 - digital_garden
 ---
 # $10K Work

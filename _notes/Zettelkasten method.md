@@ -104,7 +104,7 @@ It is of the utmost importance for permanent notes to be 100% yours. It’s tota
 As I’ve mentioned, linking is one of the core practices of Zettelkasten. Atomic ideas are great, but they become much more valuable when combined with other ones. In tools such as Obsidian, this can be done in multiple ways:
 
 -   Using actual links (e.g., [[Some Other Note]])
--   Using tags (e.g., #topic)
+-   Using tags (e.g.,  tag topic)
 -   Using [Maps of Content (MoCs)](https://www.notion.so/Maps-of-Content-MoCs-57bf4d39b8de417f8f533efb7e11dc6d)
 
 Linking and tagging are part of the note-taking process. It’s something that you should almost always do when you add new notes to your knowledge base. It doesn’t have to be perfect (nothing can!), but you should take time to think about how these new ideas relate to the ones that are already there; whether those are literature notes or permanent notes.

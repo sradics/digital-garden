@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - matter/processed
 - digital_garden
 ---
@@ -19,3 +18,7 @@ tags:
 * age and risk tolerance - two variables to consider when building own work portfolio
 * ==the earlier you are in your career, the less agency you have to get rid of $10 and $100 tasks==. (can be interesting for coaching!)
 * ==the more you advance professionally, the more you should shift your focus towards the big picture==.
+
+
+# Linking
++ [[MOC 10K$ framework]]

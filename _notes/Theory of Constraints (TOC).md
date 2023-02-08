@@ -1,13 +1,5 @@
 ---
 tags: 
-- level/expert
-- product_development
-- product_delivery
-- focus
-- flow
-- agility
-- lean
-- framework
 - digital_garden
 ---
 # Theory of Constraints (TOC)

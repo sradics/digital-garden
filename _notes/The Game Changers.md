@@ -3,8 +3,6 @@ tags:
 - digital_garden
 ---
 # The Game Changers
-
-#TeamGameChangers
 [GameChangersMovie.com](https://gamechangersmovie.com/)
 
 [The Game Changers](https://www.imdb.com/title/tt7455754/) inspired me as a great source about sports and being vegan. I have been to one of the live cinema sessions in Berlin. For me the first time with standing ovations in a cinema. 

@@ -1,8 +1,5 @@
 ---
 tags: 
-- level/beginner
-- role/all roles
-- availability/free
 - digital_garden
 ---
 # BiBs Learning about Agile

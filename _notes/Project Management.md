@@ -1,7 +1,5 @@
 ---
 tags: 
-- level/advanced
-- project_management
 - digital_garden
 ---
 # Project Management

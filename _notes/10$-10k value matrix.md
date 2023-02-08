@@ -1,6 +1,5 @@
 ---
 tags: 
-- level/novice
 - digital_garden
 ---
 # 10$-10k value matrix

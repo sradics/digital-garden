@@ -1,7 +1,5 @@
 ---
 tags: 
-- level/advanced
-- teams
 - digital_garden
 ---
 # Team Development
@@ -66,7 +64,7 @@ Advanced
 [[The Fifth Discipline]]
 [[The Primes]]
 [[The SPEED of Trust]]
-[[What are Self-Managing Teams-]]
+[[S01 Personal/030-039 Areas/38 Agile/38.43 Teams/What are Self-Managing Teams-]]
 [[Wir sind Chef]]
 [[Work Rules!]]
 [[Work Together Anywhere]]

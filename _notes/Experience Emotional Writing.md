@@ -1,9 +1,6 @@
 ---
 aliases: 
 tags: 
-- writing
-- reasoning
-- decision-making
 - digital_garden
 ---
 # Experience Emotional Writing
@@ -27,3 +24,4 @@ And I immediately understood how **digital-gardening connects to my need of bein
 ## Linking
 + [[The Coach in your head]]
 + [[Personal Systemic Coaching]]
++ [[Decision Making]]

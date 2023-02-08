@@ -1,9 +1,6 @@
 ---
 aliases: 
 tags: 
-- coaching
-- focus
-- permanent
 - digital_garden
 ---
 # The Coach in your head
@@ -26,7 +23,9 @@ Explore the focus area by asking:
 > [!quote] 
 > Stop thinking and trust your reactions
 ## Linking
-[[The inner game of tennis]]
++ [[The inner game of tennis]]
++ [[Personal Systemic Coaching]]
++ [[Leadership Coaching]]
 
 
 ## 1st pass processing notes

@@ -1,7 +1,6 @@
 ---
 aliases: 
 tags: 
-- permanent
 - digital_garden
 - epstatus/2-brewed
 ---

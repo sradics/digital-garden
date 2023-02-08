@@ -1,12 +1,5 @@
 ---
 tags: 
-- level/beginner
-- level/intermediate
-- role/product manager
-- role/leadership
-- availability/oaid
-- learnings_speed/slow
-- certificate
 - digital_garden
 ---
 

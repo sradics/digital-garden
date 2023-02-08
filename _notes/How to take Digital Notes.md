@@ -1,8 +1,6 @@
 ---
 aliases: 
 tags: 
-- PKMS
-- HowTo
 - digital_garden
 ---
 # How to take Digital Notes
@@ -84,3 +82,9 @@ And only some take active moment to reflect on all the projects that are going o
 
 ## Questions
 How can I annotate my highlights from Kindle with the 
+
+
+# Linking
++ [[MOC Building a 2nd brain]]
++ [[How to Take Smart Notes]]
++ [[Progressive Summarization]]

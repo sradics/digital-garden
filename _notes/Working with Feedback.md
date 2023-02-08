@@ -1,8 +1,5 @@
 ---
 tags: 
-- level/expert
-- feedback
-- personal_development
 - digital_garden
 ---
 # Working with Feedback

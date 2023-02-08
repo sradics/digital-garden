@@ -14,14 +14,14 @@ Full credits for this well designed 4 weeks training to [Khe Why](https://radrea
 
 ![[Pasted image 20220731085826.png]]
 ### Week 1
-+ Lesson 1 - [[The magic of doing $10,000 per hour work]]
-+ Lesson 2 - [[[$10K Training Lesson 2] How to waste your day- 3 behavorial mistakes to avoid]]
-- Lesson 3 - [[You're -due--ing it wrong]]
-- Lesson 4 - [[The elusive pursuit of getting it (all) done]]
++ Lesson 1 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/The magic of doing $10,000 per hour work]]
++ Lesson 2 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/[$10K Training Lesson 2] How to waste your day- 3 behavorial mistakes to avoid]]
+- Lesson 3 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/You're -due--ing it wrong]]
+- Lesson 4 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/The elusive pursuit of getting it (all) done]]
 
 ### Week 2
-- Lesson 5 - [[How to design the perfect day]]
-- Lesson 6 - [[How to set goals (that actually work)]]
+- Lesson 5 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/How to design the perfect day]]
+- Lesson 6 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/How to set goals (that actually work)]]
 - Lesson 7 - [[[$10K Training Lesson 7] The ultimate $10K task hiding in plain sight]]
 
 ### Week 3

@@ -1,9 +1,6 @@
 ---
 aliases: 
 tags: 
-- PARA
-- Productivity
-- PKMS
 - digital_garden
 ---
 # Para Blog by Tiago Forte
@@ -253,4 +250,5 @@ If it’s unclear where a project begins and ends, it’s like an irregularly sh
 [[The Power of Habit]]
 
 ## Linking
-[[PARA Method Notes]] (later integrate both notes)
++ [[PARA Method Notes]] (later integrate both notes)
++ [[MOC Building a 2nd brain]]

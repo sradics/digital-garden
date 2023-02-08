@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - matter/processed
 - digital_garden
 ---
@@ -41,3 +40,7 @@ tags:
 * It helps to ==make the apology specific==. “I apologize for raising my voice. I apologize for saying this mean thing.”
 * ==“I appreciate you.”==
 * ==Say it as often as possible. Just make sure you mean it. Just make sure you feel it.==
+
+
+# Linking
++ [[MOC 10K$ framework]]

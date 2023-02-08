@@ -1,7 +1,6 @@
 ---
 aliases: 
 tags: 
-- games
 - digital_garden
 ---
 # Point and Untell
@@ -16,3 +15,7 @@ Source: Blinkist
 
 ## When to use
 To open creativity. Just do this game in the beginning to get our minds opening
+
+# Linking
++ [[Facilitation]]
++ [[Facilitation of your Workshop]]

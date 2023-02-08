@@ -1,7 +1,5 @@
 ---
 tags: 
-- tool
-- m30
 - digital_garden
 ---
 # Delegation Matrix

@@ -1,6 +1,5 @@
 ---
 tags: 
-- 10k_course
 - matter/processed
 - digital_garden
 ---
@@ -21,3 +20,7 @@ tags:
 * Might saying no today actually increase your potential for a future hell yeah?
 * ==Saying no doesn’t make you a bad person==.
 * learning to say no will ==help you say HELL YES to the things you truly want== to do.
+
+
+# Linking
++ [[MOC 10K$ framework]]

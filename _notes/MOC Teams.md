@@ -7,7 +7,7 @@ tags:
 ## Resources about teams
 + [[High Performance Teams]]
 + [[Bibs about Teams]]
-+ [[What are Self-Managing Teams-]]
++ [[S01 Personal/030-039 Areas/38 Agile/38.43 Teams/What are Self-Managing Teams-]]
 + [[Cross Functional Teams - Ideo Shopping Cart example]]
 + [[Agile for Starters Learning Path with Blinkist]]
 + [[Five factors for team effectiveness]]

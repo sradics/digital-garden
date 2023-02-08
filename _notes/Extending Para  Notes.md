@@ -72,11 +72,16 @@ Tagging systems won't replace folder hierarchies, that’s right. But they can v
 + strive to make every tag count
 + choose a lightweight, antifragile approach to tagging
 
+### His examples
+[Source](https://fractalproductivity.substack.com/p/paramore-4-the-meta-layer-supplementary)
+
+![[Pasted image 20230208070044.png]]
+
 ## Meta
 + **Containers growing too large for efficient navigation**
 + **Lacking an overview by item type.** What if you need an overview of all your book summaries or list all the checklists you have ever created?
 
-# About capturing
+## About capturing
 [Source](https://fractalproductivity.substack.com/p/paramore-5-paria-unlocking-the-incubator)
 A solid capture habit is worth a lot, but it can lead to a problem. It makes us prone to _**over-capture**; to keep more than we are able to use._
 
@@ -84,6 +89,18 @@ Use a heuristic like “**when in doubt, discard it.”**
 
 To create my safe area / someday maybe empire I added a 5th _space_ to my P.A.R.A. I called it my "incubator" since stuff there is lingering and waiting to be born.
 *Comment:* I achieve that my taking smart notes and adding such things to fleeting notes that I will then further process.
+
+## About Inbox management
+[Source](https://fractalproductivity.substack.com/p/paramore-6-inbox-management)
+That's why I deem it legit to consider the inbox as a hidden space of P.A.R.A. (think **i.P.A.R.A.**)
+
+*Comment:* I actually using my Fleeting Notes folder as my inbox and this works just fine and is in alignment with  [[How to Take Smart Notes]].
+
+![[Pasted image 20230208065738.png]]
+
+Some advanced users may be able to actually ever only inbox triage _opportunistically_ based on how they feel about the current contents.
+
+A third way you can approach it is what I call **Inbox Kanban**. Here you triage based on the number of items the inbox contains.
 
 # Linking
 + [[MOC Building a 2nd brain]]

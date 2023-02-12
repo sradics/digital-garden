@@ -75,7 +75,7 @@ Tagging systems won't replace folder hierarchies, that’s right. But they can v
 ### His examples
 [Source](https://fractalproductivity.substack.com/p/paramore-4-the-meta-layer-supplementary)
 
-![[Pasted image 20230208070044.png]]
+![300](Pasted%20image%2020230208070044.png)
 
 ## Meta
 + **Containers growing too large for efficient navigation**

@@ -2,6 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
+creation: <%+ tp.file.creation_date() %>
 ---
 # Progressive Summarization
 [Source](https://www.youtube.com/watch?v=fWFKoVbSwGo)
@@ -18,3 +19,10 @@ tags:
 * what jumps out
 * things that we separated in the source come closer and one can see the connections
 * 1/3 of the time of pass #1
+
+# 3rd pass
+Learned from Blinkist Guide with Tiago Forte
++ extract the distilled highlights and write it in your own structure and words
++ *addition by me*: add Linking, Comments
+
+Prepare for express or start expressing right away

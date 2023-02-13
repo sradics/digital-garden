@@ -14,6 +14,8 @@ This MOC provides an overview on several sources I've used since I started my Ve
 
 ### Nutrition
 + [[The Optimum Nutrition Bible]] helped me a lot in understanding different aspects of nutrition and how it connects to our health and body
++ about fat - ARD: [Superstoff Fett - Wie viel Körperfett ist ideal?](https://www.ardmediathek.de/video/superstoffe/superstoff-fett-wie-viel-koerperfett-ist-ideal/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3N1cGVyc3RvZmYvOWVlZDdkODAtMThlYi00ZGEwLWI5OGEtZjlhNGM5MmQ0ZGEy)
+	+ with further interesting session about Protein, Vitamin D, Carbs
 
 ### Sugar
 + [[Garantiert gesundheitsgefährdend]]

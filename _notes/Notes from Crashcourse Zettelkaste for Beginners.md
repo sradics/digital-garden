@@ -35,10 +35,27 @@ Further note types beside Literature notes and permanent notes
 + be consistent in processing
 + make notes atomic
 + extract the common concept
+	+ comment: makes the note more compatible with other notes (but might also dilute the note)
 + use sentences as titles
+	+ forces to bring key insight to the surface and enforces concept of atomic notes
+	+ makes it better embeddable in floating text
 + use links inside the text (so my chapter with Linking is not yet the best approach)
 + think of connections with other notes
 + ensure each notes is easily reachable
+
+# Templates, tags, folders
+[Chapter 4](https://www.youtube.com/watch?v=-9FXrz-xvlk)
+
+## Folders
++ to distinguish private and public areas
++ to bundle topics
++ to have project related topics
++ see [[PARA Method Notes]]
+
+## Tags
++ for note type (Fleeting, Permanent, Literature,...)
++ for status
++ work with nested tags eg. note type/status
 
 # Observations
 + When working with tags I can better visualize that in the graph view of Obsidian (vs. working with folders)

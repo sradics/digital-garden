@@ -5,20 +5,15 @@ tags:
 - epstatus/0-bean
 ---
 # Notes from Guide Master your 4 pillars of energy
-
-+ [[Living Forward - Michael Hyatt Daniel Harkavy]] ([Blinkist version](https://www.blinkist.com/de/app/books/living-forward-en))
-+ Blinkist Guide *[Master your four pillars of Energy](
+Insights from Blinkist Guide *[Master your four pillars of Energy](
 https://www.blinkist.com/guides/master-your-four-pillars-of-energy-with-chase-tucker)*
-
-[[Notes from Guide Master your 4 pillars of energy]]
-
-
 
 Four main energy pillars *spirituality, mindfulness, body/fitness and emotional*.
 
 # Spirituality
 ==**What do I stand for and do I act accordingly?**==
-
++ [[Notes from Living Forward]]
++ [[Living Forward - Michael Hyatt Daniel Harkavy]] ([Blinkist version](https://www.blinkist.com/de/app/books/living-forward-en))
 ## Create a life plan
 A document about 15 pages long that outlines my detailed picture of my life. Including goals that I would like to achieve.
 

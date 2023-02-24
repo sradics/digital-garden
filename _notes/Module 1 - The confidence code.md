@@ -9,7 +9,7 @@ tags:
 ## What is confidence about
 * **==_confidence_, the belief in our abilities==** vs. **==_competence_, the knowledge of our qualifications in a certain field==**
 * confidence means having **==belief in own abilities that we become active==**
-* Confident shows in being more sociable and taking more risks
+* Confidence shows in being more sociable and taking more risks
 
 ## Why does confidence matter
 The business world requires a certain amount of self-promotion and self-initiative. We have to get _ourselves_ noticed.

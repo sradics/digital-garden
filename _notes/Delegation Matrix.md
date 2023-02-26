@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/1-🌱
 ---
 # Delegation Matrix
 A Delegation Matrix is used to visualize what decisions have to be delegated. In addition, it visualizes the status of the delegation.

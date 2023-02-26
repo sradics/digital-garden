@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - matter/processed
+- epstatus/1-🌱
+- type/literature-note
 ---
 # Figma is making you a bad designer.
 ## Metadata

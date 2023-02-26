@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/fleeting-note
+- epstatus/1-🌱
 ---
 # Excalidraw Learning
 ![[LearnToDrawAndEmbed.excalidraw.svg]]

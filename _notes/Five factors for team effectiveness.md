@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/3-🌳
 ---
 # Five factors for team effectiveness
 [Source re:work](https://rework.withgoogle.com/print/guides/5721312655835136/)

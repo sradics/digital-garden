@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/3-🌳
 ---
 # Co-Active Coaching
 [source](https://www.blinkist.com/en/nc/browse/books/co-active-coaching-en?r=1&st=Co-a)

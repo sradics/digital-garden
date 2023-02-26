@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/1-🌱
 ---
 # Create an outline
 Thinking and writing at the same time is extremely difficult.

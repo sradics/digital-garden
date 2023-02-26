@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/2-🪴
 ---
 # Continuous Interviewing extract from CDH insights
 ## Argumentation for continuous interviewing
@@ -149,7 +151,6 @@ Let them describe what they’re looking for and then ask them 2 follow up quest
 ## Linking
 + [[MOC Continuous Discovery Habits]]
 
-
 [^1]: Torres, Teresa. Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (S.88). Product Talk LLC. Kindle-Version. 
-[^2]: Torres, Teresa. Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (S.90-91). Product Talk LLC. Kindle-Version. 
 [^3]: Torres, Teresa. Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (S.94). Product Talk LLC. Kindle-Version. 
+[^2]: Torres, Teresa. Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (S.90-91). Product Talk LLC. Kindle-Version. 

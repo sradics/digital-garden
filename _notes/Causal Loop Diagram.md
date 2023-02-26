@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- epstatus/2-🪴
 ---
 # Causal Loop Diagram
 ## Topic
@@ -36,5 +38,5 @@ Sparring Partner in creating Causal Loop diagrams for your topic
 Advanced
 
 ## Linking
-+ [[Fleeting Note for Causal Loop Diagram]]
++ [[Note about Causal Loop Diagram]]
 + [[Causal Loop examples pictures]]

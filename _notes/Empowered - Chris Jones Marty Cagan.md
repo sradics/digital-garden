@@ -1,6 +1,7 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
 ---
 # Empowered - Chris Jones Marty Cagan
 

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/3-🌳
 ---
 # Extract from The Art of Action
 **What do you want me to do?**

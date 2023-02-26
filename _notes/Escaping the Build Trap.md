@@ -11,6 +11,8 @@ isbn13: 9781491973769
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/0-🌰
 ---
 # Escaping the Build Trap
 bought on Kindle

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/2-🪴
+- type/literature-note
 ---
 # Course Notes - Eliminate unconscious bias at work
 

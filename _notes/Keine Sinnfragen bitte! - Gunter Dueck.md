@@ -16,7 +16,10 @@ isbn10: 359351611X
 isbn13: 9783593516110
 tags:
 - digital_garden
+- type/literature-note
+- epstatus/0-🌰
 ---
+# Keine Sinnfragen bitte! - Gunter Dueck
 
 title: Keine Sinnfragen, bitte!
 subtitle: Wir arbeiten leidenschaftlich - für die Tonne

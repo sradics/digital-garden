@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/1-🌱
 ---
 # Integrating Graphics and Text for my Smart Note taking
 I currently rely a lot on text only and do not leverage my Remarkable and also not Obsidian Excalidraw. 

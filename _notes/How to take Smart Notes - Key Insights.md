@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # How to take Smart Notes - Key Insights
 ## High level instructions for the Slip Box

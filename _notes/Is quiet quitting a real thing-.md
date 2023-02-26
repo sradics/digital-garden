@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - matter/processed
+- type/literature-note
+- epstatus/1-🌱
 ---
 # Is quiet quitting a real thing-
 ## Metadata

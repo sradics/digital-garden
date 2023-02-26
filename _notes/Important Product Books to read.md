@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- epstatus/2-🪴
 ---
 # Important Product Books to read
 Inspired by [Gerard Chiva in his book Product Roadmapping](https://leanpub.com/product-roadmapping-in-practice) (p126)

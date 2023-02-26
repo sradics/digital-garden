@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # How to take Digital Notes
 
@@ -9,7 +11,6 @@ tags:
 
 * Notetaking to extend/enhance our capabilities of our brains. 
 * Livelong personal knowledge management
-* 
 ### What to capture
 ![[Pasted image 20220604110609.png]]
 **Inspiring** - If it is something that is moving you. That is uniquely inspiring for me.

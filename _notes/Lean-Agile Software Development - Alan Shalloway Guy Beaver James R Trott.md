@@ -16,4 +16,7 @@ isbn10: 0321647998
 isbn13: 9780321647993
 tags:
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
+# Lean-Agile Software Development - Alan Shalloway Guy Beaver James R Trott

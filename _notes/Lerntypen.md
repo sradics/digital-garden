@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/1-🌱
 ---
 # Lerntypen
 [source](https://www.linkedin.com/posts/trainergeheimnisse_onlinekursen-didaktik-lernarchitektur-activity-6985863836633305089-Vxda?utm_source=share&utm_medium=member_desktop) by [Michael Smetana](https://www.linkedin.com/in/trainergeheimnisse/)

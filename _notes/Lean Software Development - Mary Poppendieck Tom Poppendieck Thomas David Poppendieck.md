@@ -16,4 +16,7 @@ isbn13: 9780321150783
 isbn10: 0321150783
 tags:
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
+# Lean Software Development - Mary Poppendieck Tom Poppendieck Thomas David Poppendieck

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/3-🌳
 ---
 # Kanban - An overview
 “The Kanban Method introduces a complex adaptive system that is intended to catalyze a Lean outcome within an organization.” ( [[Learning Agile]] (p315) )
@@ -37,4 +39,3 @@ The work item has a larger lifecycle that extends beyond the team that’s build
 ## Linking
 + [[Learning Agile]]
 + [[Lean - an overview]]
-+ 

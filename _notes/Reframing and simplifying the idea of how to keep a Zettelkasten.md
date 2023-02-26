@@ -1,9 +1,9 @@
 ---
 tags: 
 - matter/processed
-- type/literature
+- type/literature-note
 - digital_garden
-- epstatus/1-brewing
+- epstatus/1-🌱
 ---
 ## Metadata
 * URL: [https://boffosocko.com/2022/06/10/reframing-and-simplifying-the-idea-of-how-to-keep-a-zettelkasten/](https://boffosocko.com/2022/06/10/reframing-and-simplifying-the-idea-of-how-to-keep-a-zettelkasten/)

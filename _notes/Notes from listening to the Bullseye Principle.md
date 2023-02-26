@@ -1,7 +1,7 @@
 ---
 tags: 
 - digital_garden
-- epstatus/1-brewing
+- epstatus/1-🌱
 ---
 # Notes from listening to the Bullseye Principle
 [Source](https://www.blinkist.com/en/app/books/the-bullseye-principle-en)

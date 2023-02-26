@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # What makes content sticky?
 [source](https://growth.design/case-studies/tiktok-feed-psychology)

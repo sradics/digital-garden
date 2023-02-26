@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/2-🪴
 ---
 # Take notes after each chapter - Learnings
 With the book [[Notes for Keine Sinnfragen, Bitte]] I tried the first time to take my notes immediately after I finished reading a chapter. 
@@ -32,8 +34,9 @@ I was triggered because I read the book as a paperback version.
 + My note taking is still not yet enough oriented on the areas and projects. Maybe I can achieve that by asking this question while building connections.
 
 
-## Linking
+# Linking
 + [[MOC Building a 2nd brain]] and [[How to take Smart Notes - Key Insights]]
+
 # Footnotes
 [^1]: [[How to take Smart Notes - Key Insights#Full focus]] - Chapter Full Foucs
 [^2]: [[How to take Smart Notes - Key Insights#Linking while taking notes]] - Chapter Linking while taking notes

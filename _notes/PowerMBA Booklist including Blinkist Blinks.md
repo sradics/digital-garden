@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/3-🌳
+- type/index-note
 ---
 # Power MBABooklist including Blinkist Blinks
 

@@ -1,8 +1,8 @@
 ---
 tags: 
 - digital_garden
-- epstatus/2-brewed
-- linkedIn_post
+- epstatus/2-🪴
+- type/social-media/linkedIn-post-note
 ---
 # [[4 pillars of energy ]]
 This morning I added several key insights from the great Blinkist Guide: Master your 4 pillars of Energy to My Second Brain.

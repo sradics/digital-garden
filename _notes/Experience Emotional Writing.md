@@ -1,7 +1,8 @@
 ---
-aliases: 
 tags: 
 - digital_garden
+- epstatus/2-🪴
+- type/permanent-note
 ---
 # Experience Emotional Writing
 I faced a question about the topic digital gardening and why I would like to publish my thoughts. This time I took the time to ==externalize my thoughts via just writing== about it. Flushing it without thinking about formatting, proper phrasing and if what I'm writing is right or wrong or phrased in a not offending way.

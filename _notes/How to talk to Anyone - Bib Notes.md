@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/2-🪴
+- type/literature-note
 ---
 # How to talk to Anyone - Bib Notes
 

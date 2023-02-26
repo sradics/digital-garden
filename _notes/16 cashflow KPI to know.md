@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # 16 cashflow KPI to know
 [Source](https://www.linkedin.com/posts/oanalabes_entrepreneur-finance-business-activity-7025432361060171776-oko3?utm_source=share&utm_medium=member_desktop)

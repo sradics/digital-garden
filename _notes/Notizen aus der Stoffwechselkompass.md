@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # Notizen aus der Stoffwechselkompass
 [Source at Blinkist](https://www.blinkist.com/de/nc/reader/der-stoffwechsel-kompass-de)

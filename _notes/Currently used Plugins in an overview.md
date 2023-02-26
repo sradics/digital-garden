@@ -1,7 +1,7 @@
 ---
 tags: 
 - digital_garden
-- epstatus/2-brewed
+- epstatus/2-🪴
 ---
 
 # Currently used Plugins in an overview

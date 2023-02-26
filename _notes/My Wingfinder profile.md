@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # My Wingfinder profile
 taken on 25.11.2022

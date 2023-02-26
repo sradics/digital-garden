@@ -2,6 +2,7 @@
 tags: 
 - digital_garden
 - MOC
+- type/index-note
 ---
 # Digital Garden MOC
 

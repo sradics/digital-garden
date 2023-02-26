@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 - fastlane
 ---
 # Zettelkasten - Taking Smart Notes - Notes from a video by Joshua Meyer

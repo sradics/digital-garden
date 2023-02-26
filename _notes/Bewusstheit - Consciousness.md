@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/3-🌳
 ---
 # Bewusstheit - Consciousness
 ## Book information

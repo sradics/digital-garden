@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/1-🌱
+- type/permanent-note
 ---
 # tooth power
 [Teethlovers](https://teethlovers.de/) I'm using this powder since some days an already can feel the difference. Need to monitor this further. 

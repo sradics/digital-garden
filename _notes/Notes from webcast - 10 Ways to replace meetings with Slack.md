@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 - fastlane
 ---
 # Notes from webcast - 10 Ways to replace meetings with Slack

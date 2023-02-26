@@ -1,8 +1,8 @@
 ---
 tags: 
 - digital_garden
-- epstatus/2-brewed
-- linkedIn_post
+- epstatus/2-🪴
+- type/social-media/linkedIn-post-note
 ---
 # [[Using Second Brain for capturing presentation content fast ]]
 Based on a great presentation by David about Discovering hidden assumptions I used Obsidian to fast capture my learnings from his workshop. 

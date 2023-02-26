@@ -1,7 +1,7 @@
 ---
 tags: 
 - digital_garden
-- epstatus/1-brewing
+- epstatus/1-🌱
 ---
 # The Ladder of Evidence
 Generate high value learning in your customer interviews.

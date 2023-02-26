@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/1-🌱
+- type/permanent-note
 ---
 # Write a book summary (Blog based)
 [Source](https://fortelabs.co/blog/the-ultimate-guide-to-summarizing-books/)
@@ -14,5 +16,5 @@ tags:
 
 [[Write a book summary]] -Video format extract for the same content
 
-## Linking
+# Linking
 + [[MOC Building a 2nd brain]]

@@ -1,7 +1,7 @@
 ---
 tags: 
 - digital_garden
-- epstatus/2-brewed
+- epstatus/2-🪴
 ---
 # 4 more ingredients to finally get the weight drop
 

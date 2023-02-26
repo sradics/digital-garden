@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- MOC
 ---
 # MOC Lifehacks
 + [[tooth power]]

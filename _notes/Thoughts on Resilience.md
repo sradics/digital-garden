@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # Thoughts on Resilience
 [Source](https://www.linkedin.com/posts/petersum_resilience-is-such-an-underrated-quality-activity-7028316367070068736-hqsJ?utm_source=share&utm_medium=member_desktop)

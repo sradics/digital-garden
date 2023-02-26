@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # Open Space - Description for Miro
 [Source](https://miro.com/app/board/uXjVPHIu3MY=/?moveToWidget=3458764537623942586&cot=14)

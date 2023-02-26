@@ -1,7 +1,7 @@
 ---
 tags: 
 - digital_garden
-- epstatus/2-brewed
+- epstatus/2-🪴
 ---
 # 5 advantages of using a second brain to manage my knowledge
 

@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/1-brewing
+- epstatus/1-🌱
 ---
 # Notes from the Fifth Discipline
 + [Blink version of the book](https://www.blinkist.com/en/nc/reader/the-fifth-discipline-en)

@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
-- #epstatus/2-brewed
+- epstatus/3-🌳
+- type/permanent-note
 ---
 # 16 Workflow Strategies for Executing Modern Projects
 [Source](https://fortelabs.com/blog/just-in-time-pm-21-workflow-strategies/) by Tiago Forte 

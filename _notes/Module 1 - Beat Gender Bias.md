@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # Module 1 - Beat Gender Bias
 [Source](https://www.blinkist.com/en/app/books/beat-gender-bias-en)

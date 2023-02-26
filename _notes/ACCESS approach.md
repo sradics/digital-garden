@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/2-brewed
+- epstatus/2-🪴
 ---
 # ACCESS approach
 An interesting mapping of tools in the areas *folders vs links* and *knowledge vs action*

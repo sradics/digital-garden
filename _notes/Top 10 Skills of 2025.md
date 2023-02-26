@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/1-🌱
 ---
 # Top 10 Skills of 2025
 

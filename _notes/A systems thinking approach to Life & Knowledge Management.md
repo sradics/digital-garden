@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/1-🌱
+- type/permanent-note
 ---
 # A systems thinking approach to Life & Knowledge Management
 [source](https://www.youtube.com/watch?v=HJ0dC82mZZE)

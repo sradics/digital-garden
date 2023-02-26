@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/2-brewed
+- epstatus/2-🪴
 ---
 # 12 rules for life
 [Source](https://www.blinkist.com/en/nc/browse/books/12-rules-for-life-de?r=1&st=12+rules)

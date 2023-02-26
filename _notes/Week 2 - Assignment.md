@@ -6,7 +6,7 @@ tags:
 
 My **Daily Energy Graph**
 
-Remember Lesson 5 [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/How to design the perfect day]]?
+Remember Lesson 5 [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to design the perfect day]]?
 
 ## Step 1: Download the Daily Energy Graph Generator
 [Daily Energy Graph Generator](https://drive.google.com/file/d/16jfKG9knotlIQcgQe6vRH8EDY8-LjKG-/view)

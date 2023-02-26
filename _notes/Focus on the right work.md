@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/2-🪴
+- type/permanent-note
 ---
 # Focus on the right work
 [Source](https://www.youtube.com/watch?v=CDZGgwguvYs&list=PLVNXAaej57W61wW9vtPNYPIuDnVQLP5TH&index=14)

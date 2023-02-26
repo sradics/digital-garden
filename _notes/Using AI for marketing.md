@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
+- type/fleeting-note
+- fastlane
 ---
 # Using AI for marketing
 

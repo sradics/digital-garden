@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/2-🪴
 ---
 # Notes for Keine Sinnfragen, Bitte
 Source: [[Keine Sinnfragen bitte! - Gunter Dueck]]

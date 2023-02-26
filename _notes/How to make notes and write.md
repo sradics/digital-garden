@@ -2,9 +2,9 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 - fastlane
-- type/literature
+- type/literature-note
 ---
 # How to make notes and write
 ## Highlights

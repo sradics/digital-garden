@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/1-brewing
+- epstatus/1-🌱
 ---
 # Teaser for Second brain and capturing the 1%
 

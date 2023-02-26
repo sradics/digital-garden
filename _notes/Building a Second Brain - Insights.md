@@ -63,7 +63,8 @@ tags:
 + Open-ended: ==Taking notes is a continuous process that never really ends==
 + ==A knowledge asset is anything that can be used in the future to solve a problem==
 
-### Capture - Keep What Resonates
+### CODE - Capture-Organize-Distill-Express
+#### Capture - Keep What Resonates
 + ==you jot down the idea as a digital note on your smartphone==
 + ==You dictate a quick audio memo to your phone as you drive, which gets automatically transcribed and saved in your notes==
 + ==objectives, challenges, questions, concerns, contributions, and reminders you’ve collected==
@@ -100,13 +101,13 @@ tags:
 + ==Knowledge is best applied through execution, which means whatever doesn’t help you make progress on your projects is probably detracting from them==
 + ==Your fears, doubts, mistakes, missteps, failures, and self-criticism—it’s all just information to be taken in, processed, and made sense of==. 
 
-#### What not to keep
+##### What not to keep
 + ==sensitive information you’d like to keep secure==
 + ==special format or file type better handled by a dedicated app==
 + ==very large file==
 + ==collaboratively edited==
 
-### Organize - Save for Actionability
+#### Organize - Save for Actionability
 + ==goal of organizing our knowledge is to move our goals forward==
 + ==avoid organizing methods that are overly rigid and prescriptive.==
 + ==organize for action==
@@ -119,7 +120,7 @@ tags:
 + ==“In which project will this be most useful?”==
 + ==need clear workspaces to be able to create.==
 
-#### ==Move Quickly, Touch Lightly==
+##### ==Move Quickly, Touch Lightly==
 + ==look for the path of least resistance and make progress in short steps==
 + “==What is the smallest, easiest step I can take that moves me in the right direction?==”
 + Look at your calendar: ==What do you need to follow up on from the past? What needs planning and preparation for the future?==
@@ -127,18 +128,18 @@ tags:
 + ==What are you keeping around because it is part of a larger project?==
 
 
-#### PARA Overview
+##### PARA Overview
 + ==universal, encompassing any kind of information, from any source, in any format, for any purpose==
 + ==PARA guides you in quickly sorting your ideas according to what really matters: your goals==.
 +  Priming Your Mind (and Notes) for Action
 + ==we only really improve when we standardize the way we do something.== 
 
-#### Projects
+##### Projects
 +  ==starting each project with a stated goal==
 + ==How did you do? Did you get to your goal? Did you improve on it? Did it change along the way? Could you have done it all more efficiently?==”
 + ==have a specific, clear outcome that needs to happen in order for them to be checked off as complete, such as “finalize,” “green-light,” “launch,” or “publish.”==
 
-#### Areas
+##### Areas
 + ==What I’m Committed to Over Time==
 + 12 problems
 	+ ==“What are the questions I’ve always been interested in?”==
@@ -152,17 +153,17 @@ tags:
 + ==Standards of performance you are responsible for==
 + ==there is a standard that you want to uphold in each of these areas==
 
-#### Resources
+##### Resources
 + ==catchall for anything that doesn’t belong to a project or an area and could include any topic you’re interested in gathering information about==
 + ==What topics are you interested in?==
 + ==What subjects are you researching==?
 + What ==useful information do you want to be able to reference==?
 + Which ==hobbies or passions== do you have?
 
-#### Archive
+##### Archive
 
 
-### Distill Find the Essence
+#### Distill Find the Essence
 + ==Picasso’s Secret: Prune the Good to Surface the Great== 
 + ==Picasso’s act of distillation involves stripping away the unnecessary so that only the essential remains
 + ==when you drop the merely good parts, the great parts can shine more brightly.==
@@ -185,7 +186,7 @@ tags:
 + ==only the very few sources that are truly unique and valuable, I’ll add an “executive summary”== 
 + ==best stuff always sticks in your mind for an hour or two==.
 
-#### Mistakes
+##### Mistakes
 + ==Mistake #1: Over-Highlighting==
 	+ ==layer of highlighting should include no more than 10–20 percent of the previous layer.==
 + ==Mistake #2: Highlighting Without a Purpose in Mind==
@@ -193,13 +194,13 @@ tags:
 	+ passages will ==move you, pique your attention, make your heart beat faster, or provoke you.==
 + 
 
-### Express - Show Your Work
+#### Express - Show Your Work
 + ==personal knowledge management exists to support taking action==
 + ==Information becomes knowledge—personal, embodied, verified—only when we put it to use==
 + ==shift as much of your time and effort as possible from consuming to creating==
 + synonyms: ==evaluate, share, teach, record, post, and lobby==
 
-#### Working with Intermediate packets
+##### Working with Intermediate packets
 + ==expressing your ideas earlier, more frequently, and in smaller chunks to test what works and gather feedback from others==
 + ==stuck on a task, break it down into smaller steps==
 + ==Distilled notes==

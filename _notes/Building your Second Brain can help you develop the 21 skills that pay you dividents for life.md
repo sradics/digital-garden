@@ -1,7 +1,7 @@
 ---
 tags: 
 - digital_garden
-- epstatus/2-brewed
+- epstatus/2-🪴
 ---
 # Building your Second Brain can help you develop the 21 skills that pay you dividents for life
 

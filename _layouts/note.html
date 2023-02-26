@@ -5,11 +5,52 @@ layout: default
 <article>
         
   <div>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+    {% for tag in  page.tags %}
+        {% if tag == 'epstatus/0-🌰' %}
+            <a href="../maturity-model-for-my-obsidian-notes#nut-" class="epstatus">🌰 (nut) | </a> 
+        {% endif %}  
+        {% if tag == 'epstatus/1-🌱' %}
+            <a href="../maturity-model-for-my-obsidian-notes#seedling-" class="epstatus">🌱 (seedling) | </a> 
+        {% endif %}  
+        {% if tag == 'epstatus/2-🪴' %}
+            <a href="../maturity-model-for-my-obsidian-notes#potted-plant-" class="epstatus">🪴 (plotted plant) | </a> 
+        {% endif %}  
+        {% if tag == 'epstatus/3-🌳' %}
+            <a href="../maturity-model-for-my-obsidian-notes#tree-" class="epstatus">🌳 (tree) | </a> 
+        {% endif %}
+        {% if tag == 'epstatus/4-🍁' %}
+            <a href="../maturity-model-for-my-obsidian-notes#ancient-tree-" class="epstatus">🍁 (ancient tree) | </a> 
+        {% endif %}  
+        {% if tag == 'epstatus/5-🍂' %}
+            <a href="../maturity-model-for-my-obsidian-notes#fallen-leaf-" class="epstatus">🍂 (fallen leaf) | </a> 
+        {% endif %}  
+    {% endfor %}
+      
+      {% for tag in  page.tags %}
+        {% if tag == 'type/fleeting-note' %}
+            <a href="../about-my-usage-of-fleeting-notes-permanent-notes-and-literature-notes#fleeting-notes" class="note_type">Fleeting note | </a> 
+        {% endif %}  
+        {% if tag == 'type/index-note' %}
+            <a href="../about-my-usage-of-fleeting-notes-permanent-notes-and-literature-notes#index-notes" class="note_type">Index note | </a> 
+        {% endif %}  
+        {% if tag == 'type/literature-note' %}
+            <a href="../about-my-usage-of-fleeting-notes-permanent-notes-and-literature-notes#literature-notes" class="note_type">Literature note | </a> 
+        {% endif %}  
+        {% if tag == 'type/permanent-note' %}
+            <a href="../about-my-usage-of-fleeting-notes-permanent-notes-and-literature-notes#permanent-notes" class="note_type">Permanent note | </a> 
+        {% endif %}
+    {% endfor %}
+      
+      <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
   </div>
+<div>
+    
+    
+</div>    
+    
     
 <div class="container">
   <div class="row">

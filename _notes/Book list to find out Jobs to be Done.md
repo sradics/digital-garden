@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # Book list to find out Jobs to be Done
 [Source](https://www.linkedin.com/posts/robertcmeza_behavioralscience-behavioraldesign-innovation-activity-7023541483517411328--OKX?utm_source=share&utm_medium=member_desktop)

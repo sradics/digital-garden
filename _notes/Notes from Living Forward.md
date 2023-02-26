@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # Notes from Living Forward
 [[Living Forward - Michael Hyatt Daniel Harkavy]]

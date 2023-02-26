@@ -1,7 +1,7 @@
 ---
 tags: 
 - digital_garden
-- epstatus/2-brewed
+- epstatus/2-🪴
 ---
 # Motivation for Second Brain
 We consume a huge amount of information, but fail to leverage it to grow our knowledge. 🤯

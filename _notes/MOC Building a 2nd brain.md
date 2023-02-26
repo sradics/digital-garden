@@ -2,7 +2,7 @@
 tags: 
 - digital_garden
 - MOC
-- epstatus/2-brewed
+- epstatus/2-🪴
 ---
 # MOC Building a 2nd brain
 

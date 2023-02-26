@@ -1,8 +1,8 @@
 ---
 tags: 
 - digital_garden
-- epstatus/2-brewed
-- linkedIn_post
+- epstatus/2-🪴
+- type/social-media/linkedIn-post-note
 ---
 # [[Testfile xyz ]]
 

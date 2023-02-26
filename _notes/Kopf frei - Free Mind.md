@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/2-🪴
+- type/literature-note
 ---
 # Kopf frei - Free Mind
 ## Book information

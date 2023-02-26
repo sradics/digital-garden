@@ -1,7 +1,7 @@
 ---
 tags: 
 - digital_garden
-- epstatus/2-brewed
+- epstatus/2-🪴
 ---
 # AI in Obsidian
 Recently I unlocked new possibilities with Text Generator in my Obsidian Second Brain 🧠 - it's a great addition! rephrase: Now I can super easy  get what I want

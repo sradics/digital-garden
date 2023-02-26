@@ -1,6 +1,6 @@
 ---
 tags: 
-- idea/unshared
+- type/idea-note/unshared
 - digital_garden
 ---
 # Focus Digitial Garden on helping young people to learn better (early on)

@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/1-brewing
+- epstatus/1-🌱
+- type/permanent-note
 ---
 # Accountability ladder
 [Source](https://www.linkedin.com/posts/andolfimarco_worklife-motivation-futureofwork-activity-7016644788401618944-6BV9?utm_source=share&utm_medium=member_desktop)

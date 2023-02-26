@@ -1,6 +1,7 @@
 ---
 tags: 
 - digital_garden
+- epstatus/2-🪴
 ---
 # Hook Model
 The Hook-Model connects [[Trigger]], [[Action]], [[Rewards]] and [[Investments]] to form and establish user [[Habit]].

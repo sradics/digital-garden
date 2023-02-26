@@ -1,12 +1,10 @@
 ---
 tags: 
 - digital_garden
-- epstatus/0-🌰
-- fastlane
-- type/fleeting-note
+- epstatus/1-🌱
+- type/permanent-note
 ---
 # [[<% tp.file.title %> ]]
-
 <% tp.file.cursor() %>
 
 # Linking

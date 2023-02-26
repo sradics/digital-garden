@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # Notes from Guide Master your 4 pillars of energy
 Insights from Blinkist Guide *[Master your four pillars of Energy](

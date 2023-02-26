@@ -1,7 +1,8 @@
 ---
 tags: 
 - digital_garden
-- epstatus/1-brewing
+- epstatus/2-🪴
+- type/permanent-note
 ---
 # Why Brainstorming fails
 [[How to Take Smart Notes |source]]

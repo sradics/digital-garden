@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/2-🪴
 ---
 # How to create things with your notes
 + [How to create things with your notes](https://www.youtube.com/watch?v=4zrs_vVRwD4) (about publishing)

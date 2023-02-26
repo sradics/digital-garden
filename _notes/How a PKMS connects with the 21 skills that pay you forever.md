@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # How a PKMS connects with the 21 skills that pay you forever
 Discover how your PKMS can be leveraged to unlock the full potential of the [[21 Important Skills| 21 skills that will pay you dividends for life]].

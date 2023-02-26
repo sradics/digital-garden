@@ -1,7 +1,7 @@
 ---
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # MOC Learning
 + [[Lerntypen]]

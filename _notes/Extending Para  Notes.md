@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # Extending Para  Notes
 [Source](https://fractalproductivity.substack.com/p/paramore?ck_subscriber_id=1758824896)

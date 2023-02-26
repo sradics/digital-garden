@@ -1,6 +1,9 @@
 ---
 tags: 
 - digital_garden
+- type/fleeting-note
+- epstatus/0-🌰
+- fastlane
 ---
 # Top  gadgets for remote workers
 

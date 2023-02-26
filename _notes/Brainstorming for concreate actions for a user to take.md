@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 - fastlane
 ---
 # Brainstorming for concreate actions for a user to take

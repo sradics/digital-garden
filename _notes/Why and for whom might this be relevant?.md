@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/0-🌰
 ---
 # Why and for whom might this be relevant?
 [[15 Powerful Life Illustrations]]

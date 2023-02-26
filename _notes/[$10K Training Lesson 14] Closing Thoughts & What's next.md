@@ -12,13 +12,13 @@ tags:
 ## Highlights
 
 ## Week 1 - Turn each day into a great day
-* ==three biases that work against us== and how we can use the $10K Framework to fight them [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/[$10K Training Lesson 2] How to waste your day- 3 behavorial mistakes to avoid]]
-* A ==hard look at our To-Do lis==t revealed some common misconceptions [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/You're -due--ing it wrong]]
-* we'll never be really "done"  [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/The elusive pursuit of getting it (all) done]]
+* ==three biases that work against us== and how we can use the $10K Framework to fight them [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/[$10K Training Lesson 2] How to waste your day- 3 behavorial mistakes to avoid]]
+* A ==hard look at our To-Do lis==t revealed some common misconceptions [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/You're -due--ing it wrong]]
+* we'll never be really "done"  [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The elusive pursuit of getting it (all) done]]
 
 ## Week 2 - how to get (and keep) going.
-* shift from merely managing our time to managing our energy [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/How to design the perfect day]]
-* Goals (and how to make them work) in [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/How to set goals (that actually work)]] and habits in [[[$10K Training Lesson 7] The ultimate $10K task hiding in plain sight]]
+* shift from merely managing our time to managing our energy [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to design the perfect day]]
+* Goals (and how to make them work) in [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to set goals (that actually work)]] and habits in [[[$10K Training Lesson 7] The ultimate $10K task hiding in plain sight]]
 
 ## Week 3 - Turned to Introspection
 * $10K Work in our relationships in the longest [[How to detect the silent relationship killer before its too late]]

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/2-🪴
+- type/permanent-note
 ---
 # Smart Oven
 ## My simple setup

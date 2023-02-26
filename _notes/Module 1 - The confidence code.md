@@ -1,7 +1,7 @@
 ---
 tags: 
 - digital_garden
-- epstatus/0-bean
+- epstatus/1-🌱
 ---
 # Module 1 - The confidence code
 [Source](https://www.blinkist.com/en/nc/reader/the-confidence-code-en)
@@ -12,7 +12,7 @@ tags:
 * Confidence shows in being more sociable and taking more risks
 
 ## Why does confidence matter
-The business world requires a certain amount of self-promotion and self-initiative. We have to get _ourselves_ noticed.
+The business world requires a certain amount of self-promotion and self-initiative. ==We have to get _ourselves_ noticed==.
 
 ## Consequences of lower confidence
 * if we lack confidence, we prefer to **==stay inactive==**

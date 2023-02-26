@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/1-🌱
 ---
 # Automated Recruiting
 
@@ -21,3 +23,5 @@ We’ve pretty quickly been able to identify opportunities and test our assumpti
 + Dan says about 50% of interviews are no shows
 + If you can, include a dial-in phone number into your meeting link as an alternate method.
 
+# Linking
++ [[MOC Continuous Discovery Habits]]

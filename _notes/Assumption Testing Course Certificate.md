@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/fleeting-note
+- epstatus/3-🌳
 ---
 # Assumption Testing Course Certificate
 

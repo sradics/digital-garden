@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/2-🪴
 ---
 # Agile Principles
 [Principles from the Agile Manifesto](https://agilemanifesto.org/principles.html)

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # Agile Manifesto for Business Contexts
 [Business Agility: An agile approach beyond IT](https://www.nagarro.com/en/blog/agile-manifesto-achieving-business-agility)

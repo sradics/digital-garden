@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/1-🌱
 ---
 # Analyze costs and benefits
 Proper initiation also helps ensure that the _benefits_ of the project outcomes will outweigh the _costs_.

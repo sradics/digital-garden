@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- epstatus/3-🌳
 ---
 # BiBs Learning about Agile
 

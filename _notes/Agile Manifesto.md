@@ -1,6 +1,7 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
 ---
 # Agile Manifesto
 

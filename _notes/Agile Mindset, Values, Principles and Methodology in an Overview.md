@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/2-🪴
 ---
 # Agile Mindset, Values, Principles and Methodology in an Overview
 The following pictures provides an overview for different terms from the Agile Landscape and their connection. Elements are nested in spheres and it means that outer circles contain elements in inner circles and inner circles are parts of the outer circles.

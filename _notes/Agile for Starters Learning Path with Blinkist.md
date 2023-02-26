@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/3-🌳
 ---
 # Agile for Starters Learning Path with Blinkist
 ## Week 1 - Core of Agile

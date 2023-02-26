@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/1-🌱
+- type/fleeting-note
 ---
 # Agile Learning Space as a Subway Map
 https://www.agilealliance.org/agile101/subway-map-to-agile-practices/

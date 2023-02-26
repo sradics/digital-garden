@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - matter/processed
+- type/literature-note
+- epstatus/1-🌱
 ---
 # How to implement OKRs at your small business
 ## Metadata
@@ -17,7 +19,6 @@ tags:
 *[Source](https://getlighthouse.com/blog/developing-leaders-team-grows-big/)*
 
 * The average manager has 7 direct reports (and assuming 40 hour work weeks) is responsible for the direction of 280 hours a week.
-* 
 > [!quote]
 > “If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.”  *Steven Covey*
 

@@ -10,4 +10,7 @@ isbn10: 3800660466
 isbn13: 9783800660469
 tags:
 - digital_garden
+- type/literature-note
+- epstatus/0-🌰
 ---
+# High Output Management - Andrew S Grove

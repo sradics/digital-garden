@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
 # How to set goals (that actually work)
 

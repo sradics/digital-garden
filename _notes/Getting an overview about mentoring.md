@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/2-🪴
 ---
 # Getting an overview about mentoring
 [Source](https://www.pushfar.com/org/resources/pushfar-videos/mentoring-others/9/)

@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # Forte Labs - Theory of Contraints Blog Series
 [Source](https://fortelabs.co/blog/theory-of-constraints-101-table-of-contents/#.qtqvp9fnv)

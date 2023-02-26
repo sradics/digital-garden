@@ -2,7 +2,10 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
+
 # How to begin
 Major goals should be **daunting**, **important** and **thrilling** 
 

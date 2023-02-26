@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/3-🌳
 ---
 # Focus on on 4 main assumption test approaches that cover 90% of the tests needed to learn fast
 + **Simulate a moment** and evaluate **behavior** OR

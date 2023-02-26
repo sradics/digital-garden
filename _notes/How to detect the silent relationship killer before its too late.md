@@ -2,6 +2,8 @@
 tags: 
 - matter/processed
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
 ## Metadata
 * URL: [https://radreads.co/relationship-resentment/](https://radreads.co/relationship-resentment/)

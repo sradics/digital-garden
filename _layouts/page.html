@@ -23,7 +23,29 @@ layout: default
         {{ "---" | markdownify }}
         {{ "#### Pages" | markdownify }}
         {% for page in site.notes %}
-        <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
+        <a href="{{ site.url }}{{ page.url }}">{{ page.title }}
+        {% for tag in  page.tags %}
+        {% if tag == 'epstatus/0-🌰' %}
+        &nbsp;🌰  
+        {% endif %}  
+        {% if tag == 'epstatus/1-🌱' %}
+            &nbsp;🌱
+        {% endif %}  
+        {% if tag == 'epstatus/2-🪴' %}
+            &nbsp;🪴 
+        {% endif %}  
+        {% if tag == 'epstatus/3-🌳' %}
+            &nbsp;🌳
+        {% endif %}
+        {% if tag == 'epstatus/4-🍁' %}
+            &nbsp;🍁
+        {% endif %}  
+        {% if tag == 'epstatus/5-🍂' %}
+            &nbsp;🍂
+        {% endif %}  
+        {% endfor %}
+        
+        </a><br>
         {% endfor %}  
     </div>
     <div class="col-sm-8">

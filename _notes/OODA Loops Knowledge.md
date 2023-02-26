@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/3-🌳
 ---
 # OODA Loops Knowledge
 > [!info] Attribution

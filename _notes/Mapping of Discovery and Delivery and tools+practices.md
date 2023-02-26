@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/fleeting-note
+- epstatus/1-🌱
 ---
 # Mapping of Discovery and Delivery and tools+practices
 [https://openpracticelibrary.com/](https://openpracticelibrary.com/)

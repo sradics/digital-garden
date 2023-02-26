@@ -3,6 +3,7 @@ tags:
 - digital_garden
 - type/index-note
 - MOC
+- epstatus/1-🌱
 ---
 # MOC Lifehacks
 + [[tooth power]]

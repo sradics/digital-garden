@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/1-🌱
+- type/index-note
 ---
 # MOC Strategy
 + [[OODA Loops Knowledge]]

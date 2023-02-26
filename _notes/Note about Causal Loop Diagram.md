@@ -3,7 +3,6 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
- - 
 ---
 # Note about Causal Loop Diagram
 

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- epstatus/3-🌳
 ---
 # List of most important product videos
 1. The Root Causes of Product Failure by [Marty Cagan](https://www.linkedin.com/in/ACoAAAAAjycBVwSf0tRMLhZIJgQhgC8WlvNo9g8)  

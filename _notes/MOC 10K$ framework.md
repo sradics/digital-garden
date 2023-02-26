@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - MOC
+- type/index-note
+- epstatus/3-🌳
 ---
 # MOC 10K$ framework
 

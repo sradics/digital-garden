@@ -3,6 +3,7 @@ tags:
 - digital_garden
 - MOC
 - type/index-note
+- epstatus/2-🪴
 ---
 # Digital Garden MOC
 
@@ -17,5 +18,4 @@ tags:
 + [[Building a digital garden]]
 + [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos)
 	+ [and as GitHub](https://github.com/sw-yx/digital-garden-tos)
-+ 
 

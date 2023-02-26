@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - MOC
+- type/index-note
+- epstatus/1-🌱
 ---
 # My Agile Coach Knowledge Portfolio
 

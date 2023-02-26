@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/1-🌱
+- type/literature-note
 ---
 # Notes from Working Smarter through your tech stack
 + the **challenge of Hybrid Working**

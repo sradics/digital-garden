@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - MOC
+- epstatus/2-🪴
+- type/index-note
 ---
 # MOC Vegan Living
 

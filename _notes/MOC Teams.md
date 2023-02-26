@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - MOC
+- epstatus/3-🌳
+- type/index-note
 ---
 # MOC Teams
 ## Resources about teams

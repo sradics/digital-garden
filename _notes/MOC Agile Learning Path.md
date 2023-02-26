@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - MOC
+- type/index-note
+- epstatus/2-🪴
 ---
 # MOC Agile Learning Path
  - [[12 Principles behind the Agile Manifesto]]

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/2-🪴
+- type/literature-note
 ---
 # Notes from Johanna Rothman - Short Feedback Loops
 Source: From [Johanna Rothman](https://www.jrothman.com/pragmaticmanager/) and [her blog post](https://www.jrothman.com/mpd/2020/12/multiple-short-feedback-loops-support-innovation/)

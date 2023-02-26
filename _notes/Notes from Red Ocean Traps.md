@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
 # Notes from Red Ocean Traps
 [Source](https://hbr.org/2015/03/red-ocean-traps?ab=at_art_art_1x4_s03)

@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/3-🌳
 ---
 # Multipliers 
 [source](https://www.blinkist.com/en/nc/browse/books/multipliers-en?r=1&st=Multipliers)

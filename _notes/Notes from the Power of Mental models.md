@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
 # Notes from the Power of Mental models
 Captured from distributed 22 by Miro and with [Maja Voje](https://www.linkedin.com/in/majavoje/).

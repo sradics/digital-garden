@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/0-🌰
 ---
 # Boiling Frogs CGHQ Paper
 [source](https://github.com/gchq/BoilingFrogs)

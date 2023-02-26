@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- epstatus/2-🪴
 ---
 # Building an Inbox Zero System
 ## Topic

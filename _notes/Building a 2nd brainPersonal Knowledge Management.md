@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/2-🪴
+- type/index-note
 ---
 # Building a 2nd brainPersonal Knowledge Management
 ## Topic

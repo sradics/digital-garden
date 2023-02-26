@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/3-🌳
 ---
 # Bibs about Teams
 ## Team Genius by Rich Karlgaard and Michael S. Malone

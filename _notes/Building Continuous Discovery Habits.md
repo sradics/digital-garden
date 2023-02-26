@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- epstatus/2-🪴
 ---
 # Building Continuous Discovery Habits
 ## Topic

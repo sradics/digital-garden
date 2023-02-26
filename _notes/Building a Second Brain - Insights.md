@@ -2,8 +2,11 @@
 alias: Building a 2nd Brain
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
-# Building a Second Brain
+# Building a Second Brain - Insights
+
 > [!tip] Definition for 2nd brain
 > A repeatable, reliable system for generating ideas, gathering and organizing them, and putting them to use in concrete form 
 > 
@@ -35,7 +38,6 @@ tags:
 ### Value of information
 + Human ==capital includes “the knowledge and the knowhow embodied in humans—their education, their experience, their wisdom, their skills, their relationships, their common sense, their intuition.”==
 + ==treating my thoughts as treasures== 
-+ 
 ### Aspect of Time Management
 + ==26 percent of a typical knowledge worker’s day is spent looking for and consolidating information spread across a variety of systems.==
 + ==only 56 percent of the time are they able to find the information==
@@ -192,7 +194,6 @@ tags:
 + ==Mistake #2: Highlighting Without a Purpose in Mind==
 + ==Mistake #3: Making Highlighting Difficult==
 	+ passages will ==move you, pique your attention, make your heart beat faster, or provoke you.==
-+ 
 
 #### Express - Show Your Work
 + ==personal knowledge management exists to support taking action==
@@ -235,7 +236,6 @@ tags:
 + ==You open the space of possibilities and consider as many options as possible.==
 + ==purpose of divergence is to generate new ideas, so the process is necessarily spontaneous, chaotic, and messy. You can’t fully plan or organize what you’re doing in divergence mode, and you shouldn’t try. This is the time to wander.==
 + ==Capture and Organize, make up divergence
-+ 
 + ==divergently gather a group of ideas, sources, or points that will form the backbone of your essay, presentation, or deliverable==.
 
 ##### Convergence

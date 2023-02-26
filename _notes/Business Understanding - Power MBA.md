@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- epstatus/2-🪴
 ---
 # Business Understanding - Power MBA
 ## Topic

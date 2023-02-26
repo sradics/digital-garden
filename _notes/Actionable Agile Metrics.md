@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/2-🪴
+- type/index-note
 ---
 # Actionable Agile Metrics
 ## Topic

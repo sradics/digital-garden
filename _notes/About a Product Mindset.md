@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/1-🌱
+- type/permanent-note
 ---
 # About a Product Mindset
 + Consider the problem to solve for the customer. 
@@ -22,5 +24,6 @@ tags:
 + If we want to achieve (an outcome) how about ...?
 
 ## Footnotes
-[^1]:  [Gerard Chiva - Product Roadmapping](https://leanpub.com/product-roadmapping-in-practice (p5)
+
 [^2]: [[Mindset]]
+[^1]:  [Gerard Chiva - Product Roadmapping](https://leanpub.com/product-roadmapping-in-practice (p5)

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/3-🌳
+- type/permanent-note 
 ---
 # 5 main assumptions to test
 Test assumptions across several ideas. Don't fall into the trap of trying to test whole ideas.

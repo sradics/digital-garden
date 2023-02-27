@@ -54,7 +54,7 @@ There are different entry points for literature notes but all will stored in [[L
 + [[Kindle]] contains all Kindle book highlights by Kindle title. The obsidian *Kindle* plugin connects to my Amazon account. In Kindle I already do first stage highlighting while reading a book.
 + [[Bibs]] contains further condensed versions for Blinkist books in Blinks (BiB). I already applied 1st stage and partially 2nd stage processing. I use the template [[TPL Blink Note]] for starting with this kind of note
 
-The folder [[Matter]] contains all notes forwarded from the read later app *Matter* that I use for capturing Online Articles and 1st stage highlighting. 
+The folder [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/Matter]] contains all notes forwarded from the read later app *Matter* that I use for capturing Online Articles and 1st stage highlighting. 
 
 ## Index notes
 An index note marks note that act as entry point to find other notes. Or like Maps of Content provide a high level intro about a topic and provide possibilities to drill down.

@@ -53,7 +53,7 @@ Move - Reflect - Grow
 *comment:* Reminds me of the productivity days by [Dr. Antoine Larchez](https://www.linkedin.com/in/antoinelarchez/)
 
 ### 20 minutes to move
-+ get sweaty - it creates BDNF proteins (see [[Brain-Derived Neurotrophic Factor- A Key Molecule for Memory in the Healthy and the Pathological Brain]]) that is connected with brain plasticity and forming new neural connections
++ get sweaty - it creates BDNF proteins (see [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/Brain-Derived Neurotrophic Factor- A Key Molecule for Memory in the Healthy and the Pathological Brain]]) that is connected with brain plasticity and forming new neural connections
 + sweating also reduced cortisol - the hormone of fear
 
 ### 20 minutes to reflect

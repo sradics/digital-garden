@@ -190,4 +190,4 @@ Getting Up to Speed Quickly in Today’s Ever-Changing Sales World
 
 
 ## Linking
-+ [[Best Agile Books]]
++ [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/Best Agile Books]]

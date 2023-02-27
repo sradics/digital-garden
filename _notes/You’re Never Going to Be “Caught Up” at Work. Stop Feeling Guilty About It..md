@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - matter/processed
+- type/literature-note
+- epstatus/2-🪴
 ---
 # You’re Never Going to Be “Caught Up” at Work. Stop Feeling Guilty About It.
 

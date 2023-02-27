@@ -2,6 +2,8 @@
 tags:
 - digital_garden
 - matter/processed
+- type/literature-note
+- epstatus/3-🌳
 ---
 # 60 useful performance review phrases
 ## Metadata

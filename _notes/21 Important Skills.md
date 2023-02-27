@@ -116,7 +116,7 @@ Skill level: 7/10
 + starting knowledge in working with numbers [[Making Numbers Count]] and [[Storytelling with Data]]
 + data visualization 
 + [[How to Measure Anything]] 
-+ [[The 7 most important KPIs to measure the success of UX research]]
++ [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/The 7 most important KPIs to measure the success of UX research]]
 + [[Thinking, Fast and Slow]]
 
 ### I should extend my abilities in

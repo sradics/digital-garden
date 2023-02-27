@@ -2,6 +2,9 @@
 tags: 
 - digital_garden
 - matter/processed
+- type/literature-note
+- epstatus/0-🌰
+ - 
 ---
 # 10 Popular Product Frameworks - A brief guide
 ## Metadata

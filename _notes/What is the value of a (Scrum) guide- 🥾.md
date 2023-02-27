@@ -2,6 +2,8 @@
 tags: 
 - matter/processed
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # What is the value of a (Scrum) guide- 🥾
 ## Metadata

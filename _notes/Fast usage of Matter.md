@@ -13,7 +13,7 @@ With creating some highlights this also enable fetching the Matter highlights to
 Workflow to integrate the *mattered*  page:
 + Open research page in Chrome Browser and highlight main pages relevant for current note
 + Sync matter within Obisidian
-+ Open [[Matter]] page and check for new entry
++ Open [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/Matter]] page and check for new entry
 + Link new entry in the current note
 
 - [ ] Create a better entry point to link to CODE - here I do need an entry point to Capture

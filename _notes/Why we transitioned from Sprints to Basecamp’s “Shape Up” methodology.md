@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - matter/processed
+- type/literature-note
+- epstatus/2-🪴
 ---
 # Why we transitioned from Sprints to Basecamp’s “Shape Up” methodology
 ## Metadata

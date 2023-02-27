@@ -2,6 +2,8 @@
 tags: 
 - matter/processed
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # How Elon Musk Learns Faster Than Everyone Else
 ## Metadata

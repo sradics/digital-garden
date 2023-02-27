@@ -35,7 +35,7 @@ tags:
 * Do it until you have between 500 and 1000 cards (based on some surveys and anecdotal evidence), and you should begin seeing some serendipitous and intriguing results as you use your system for your writing.
 
 # Linking
-+ originated from literature note [[The Two Definitions of Zettelkasten]]
++ originated from literature note [[The Two Definitions of Zettelkasten 1]]
 + [[Zettelkasten method]]
 + [[How to take Smart Notes - Key Insights]]
 + [[MOC Building a 2nd brain]]

@@ -2,6 +2,8 @@
 tags: 
 - matter/processed
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # The magic of doing $10,000 per hour work
 

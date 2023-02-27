@@ -16,26 +16,26 @@ Full credits for this well designed 4 weeks training to [Khe Why](https://radrea
 
 ![[Pasted image 20220731085826.png]]
 ### Week 1
-+ Lesson 1 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The magic of doing $10,000 per hour work]]
-+ Lesson 2 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/[$10K Training Lesson 2] How to waste your day- 3 behavorial mistakes to avoid]]
-- Lesson 3 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/You're -due--ing it wrong]]
-- Lesson 4 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The elusive pursuit of getting it (all) done]]
++ Lesson 1 - [[The magic of doing $10,000 per hour work 1]]
++ Lesson 2 - [[[$10K Training Lesson 2] How to waste your day- 3 behavorial mistakes to avoid 1]]
+- Lesson 3 - [[You're -due--ing it wrong 1]]
+- Lesson 4 - [[The elusive pursuit of getting it (all) done 1]]
 
 ### Week 2
-- Lesson 5 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to design the perfect day]]
-- Lesson 6 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to set goals (that actually work)]]
-- Lesson 7 - [[[$10K Training Lesson 7] The ultimate $10K task hiding in plain sight]]
+- Lesson 5 - [[How to design the perfect day 1]]
+- Lesson 6 - [[How to set goals (that actually work) 1]]
+- Lesson 7 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/[$10K Training Lesson 7] The ultimate $10K task hiding in plain sight]]
 
 ### Week 3
-- Lesson 8 - [[How to detect the silent relationship killer before its too late]]
-- Lesson 9 - [[[$10K Training Lesson 9] No, a new iPad won't change your life]]
-- Lesson 10 - [[How to stop saying yes when you want to say no]]
+- Lesson 8 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/How to detect the silent relationship killer before its too late]]
+- Lesson 9 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/[$10K Training Lesson 9] No, a new iPad won't change your life]]
+- Lesson 10 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/How to stop saying yes when you want to say no]]
 
 ### Week 4
-- Lesson 11 - [[Becoming indispensable- a pandemic power move]]
-- Lesson 12 - [[[$10K Training Lesson 12] Using leverage to grow your career (while you sleep)]]
-- Lesson 13 - [[[$10K Training Lesson 13] A portfolio approach to $10K Work]]
-- Lesson 14 - [[[$10K Training Lesson 14] Closing Thoughts & What's next]]
+- Lesson 11 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/Becoming indispensable- a pandemic power move]]
+- Lesson 12 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/[$10K Training Lesson 12] Using leverage to grow your career (while you sleep)]]
+- Lesson 13 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/[$10K Training Lesson 13] A portfolio approach to $10K Work]]
+- Lesson 14 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/[$10K Training Lesson 14] Closing Thoughts & What's next]]
 
 ## Weekly Assignments
 + [[Week 1 - Assignment]]

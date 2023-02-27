@@ -13,9 +13,9 @@ tags:
 * [[Focus Digitial Garden on helping young people to learn better (early on)]]
 
 ## Articles about digital gardening
-+ [[A Brief History & Ethos of the Digital Garden]] 
++ [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/A Brief History & Ethos of the Digital Garden]] 
 + https://github.com/MaggieAppleton/digital-gardeners
-+ [[Building a digital garden]]
++ [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/Building a digital garden]]
 + [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos)
 	+ [and as GitHub](https://github.com/sw-yx/digital-garden-tos)
 

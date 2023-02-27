@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/0-🌰
 ---
 # Where to Play - Marc Gruber Sharon Tal
 

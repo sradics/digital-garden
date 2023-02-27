@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/0-🌰
 ---
 # Why The Impact Effort Prioritization Matrix Doesn't Work
 ## Metadata

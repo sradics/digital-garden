@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # Use OKRs for professional development
 

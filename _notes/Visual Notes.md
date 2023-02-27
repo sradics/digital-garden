@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
 # Visual Notes
 [Source](https://twitter.com/Silly_Strokes/status/1532795669458853889?s=20&t=agfAegzS0fM7COpQZ6THyA) by [@Silly_Strokes](https://twitter.com/Silly_Strokes)

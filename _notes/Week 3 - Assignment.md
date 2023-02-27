@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
 # Week 3 - Assignment
 

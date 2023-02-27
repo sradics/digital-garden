@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
 # _What is a literature note
 [Source](https://fortelabs.co/blog/how-to-take-smart-notes/)

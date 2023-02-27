@@ -2,6 +2,8 @@
 aliases: 
 tags:
 - digital_garden
+- type/permanent-note
+- epstatus/1-🌱
 ---
 # the magic number 4
 [[What is a desired outcome?]]

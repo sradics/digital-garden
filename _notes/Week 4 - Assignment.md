@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # Week 4 - Assignment
 ## Step 1: Brainstorm skills adjacent to your existing skillset

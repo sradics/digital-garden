@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/0-🌰
 ---
 # Working better with stakeholder - 3 advanced techniques
 ## Metadata

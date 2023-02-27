@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
 # Write a book summary
 [Source](https://www.youtube.com/watch?v=AdWyWK2QFRE&t=38s)

@@ -1,6 +1,8 @@
 ---
 tags:
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
 # Value Stream Mapping - theoretical background
 This page provides a theoretical foundation for value stream mapping. The content is an extract from the book _Value Stream Mapping_ ([https://www.amazon.com/Value-Stream-Mapping-Organizational-Transformation/dp/0071828915](https://www.amazon.com/Value-Stream-Mapping-Organizational-Transformation/dp/0071828915 "https://www.amazon.com/Value-Stream-Mapping-Organizational-Transformation/dp/0071828915")) that is one of the view books that combine value stream maps with knowledge work.

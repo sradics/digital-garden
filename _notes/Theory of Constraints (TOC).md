@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- epstatus/2-🪴
 ---
 # Theory of Constraints (TOC)
 ## Topic

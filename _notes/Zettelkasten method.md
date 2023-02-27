@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/2-🪴
 ---
 # Zettelkasten method
 [[supreme-locket-8f6_notion_site.Notion  The all-in-one workspace for your notes tasks wikis and databases|Source]]

@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # What is a fleeting note
 [Source](https://fortelabs.co/blog/how-to-take-smart-notes/)

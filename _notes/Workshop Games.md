@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- epstatus/0-🌰
 ---
 # Workshop Games
 [https://www.workshop-spiele.de/](https://www.workshop-spiele.de/)

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/1-🌱
 ---
 # Risk Probability Matrix
 The risk/probability matrix can be used to access which risks to tackle first. Risks with a high probability to occur and a high impact are located in the right upper quadrant/red zone and should be mitigated first. On the other side, risks with low probability and impact, located in the green zone can be accepted for now.

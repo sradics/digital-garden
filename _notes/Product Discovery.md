@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- epstatus/0-🌰
 ---
 # Product Discovery
 + [[MOC Product Discovery]]

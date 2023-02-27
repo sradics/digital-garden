@@ -14,4 +14,7 @@ isbn10: 3954531984
 isbn13: 9783954531981
 tags:
 - digital_garden
+- type/literature-note
+- epstatus/0-🌰
 ---
+# Deftig vegan - Anne-Katrin Weber

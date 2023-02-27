@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/3-🌳
 ---
 # The Power of Habit
 [https://www.blinkist.com/en/nc/new-reader/the-power-of-habit-en](https://www.blinkist.com/en/nc/new-reader/the-power-of-habit-en)

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/0-🌰
 ---
 # Product Leadership - Richard Banfield Martin Eriksson Nate Walkingshaw
 

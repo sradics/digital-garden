@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/3-🌳
 ---
 # Para Blog by Tiago Forte
 ## Based on

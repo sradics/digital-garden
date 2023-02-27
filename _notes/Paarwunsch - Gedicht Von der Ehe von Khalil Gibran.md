@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- epstatus/3-🌳
+- type/permanent-note
 ---
 # Paarwunsch - Gedicht Von der Ehe von Khalil Gibran
 Diese besonderen Zeilen wurden und von Anne und Christian als Teil unseres Hochzeitsgeschenks gewidmet.

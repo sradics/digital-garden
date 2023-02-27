@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/index-note
+- epstatus/1-🌱
 ---
 # MOC OKRs
 + [[Use OKRs for professional development]]

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/3-🌳
 ---
 # Product Strategy
 Source [Gerard Chiva in his book Product Roadmapping](https://leanpub.com/product-roadmapping-in-practice)

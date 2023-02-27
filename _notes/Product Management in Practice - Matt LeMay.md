@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/0-🌰
 ---
 # Product Management in Practice - Matt LeMay
 

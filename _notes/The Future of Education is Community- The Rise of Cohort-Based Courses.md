@@ -2,6 +2,8 @@
 tags: 
 - matter/processed
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # The Future of Education is Community- The Rise of Cohort-Based Courses
 ## Metadata

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/1-🌱
 ---
 # Some quizzes
 [https://www.youtube.com/watch?v=kqPGHE4Ubew](https://www.youtube.com/watch?v=kqPGHE4Ubew)

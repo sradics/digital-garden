@@ -2,7 +2,7 @@
 tags: 
 - digital_garden
 - type/literature-note
-- epstatus/1-🌱**
+- epstatus/1-🌱
 ---
 # Estimations (story point usage)
 

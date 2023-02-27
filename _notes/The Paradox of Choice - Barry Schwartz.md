@@ -14,4 +14,7 @@ isbn13: 9780061748998
 isbn10: 0061748994
 tags:
 - digital_garden
+- type/literature-note
+- epstatus/0-🌰
 ---
+# The Paradox of Choice - Barry Schwartz

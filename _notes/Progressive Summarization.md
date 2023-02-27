@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
-creation: <%+ tp.file.creation_date() %>
+- type/literature-note
+- epstatus/3-🌳
 ---
 # Progressive Summarization
 [Source](https://www.youtube.com/watch?v=fWFKoVbSwGo)

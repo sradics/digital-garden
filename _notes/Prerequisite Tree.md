@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/1-🌱
 ---
 # Prerequisite Tree
 [https://fortelabs.co/blog/theory-of-constraints-101-table-of-contents/#.qtqvp9fnv](https://fortelabs.co/blog/theory-of-constraints-101-table-of-contents/#.qtqvp9fnv)

@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - MOC
+- type/index-note
+- epstatus/1-🌱
 ---
 # MOC Product Discovery
 [[What is Product Discovery about]]

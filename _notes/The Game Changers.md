@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # The Game Changers
 [GameChangersMovie.com](https://gamechangersmovie.com/)

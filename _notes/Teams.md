@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/1-🌱
 ---
 # Teams
 + [[What is a team]]

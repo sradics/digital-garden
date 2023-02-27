@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - matter/processed
+- type/literature-note
+- epstatus/0-🌰
 ---
 # How Much Discovery is Enough-
 ## Metadata

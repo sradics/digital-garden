@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - matter/processed
+- type/literature-note
+- epstatus/2-🪴
 ---
 # How to Write Objectives and Key Results- - Best OKR Examples of 2019
 ## Metadata

@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - matter/processed
+- type/literature-note
+- epstatus/2-🪴
 ---
 # The 7 most important KPIs to measure the success of UX research
 ## Metadata

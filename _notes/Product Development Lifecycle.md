@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/2-🪴
 ---
 # Product Development Lifecycle
 

@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - matter/processed
+- type/literature-note
+- epstatus/2-🪴
 ---
 # Sprint Review Anti-Patterns
 ## Metadata

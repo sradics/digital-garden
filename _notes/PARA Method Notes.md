@@ -2,6 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
+- type/permanent-note
+- epstatus/2-🪴
 ---
 # PARA Method Notes
 Put **personally relevant** information in Areas, and **generally useful** information in Resources (allows you to share notes from your resources without having to comb through for any personal information).

@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # Team Genius - some quotes
 

@@ -2,6 +2,8 @@
 tags: 
 - matter/processed
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # The 9 Biggest Myths and Misconceptions about Building a Second Brain
 ## Metadata

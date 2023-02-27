@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - matter/processed
+- type/literature-note
+- epstatus/2-🪴
 ---
 # How to Create a Product Roadmap That Everyone Can Understand!
 ## Metadata

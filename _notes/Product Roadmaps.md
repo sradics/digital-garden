@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+- type/literature-note
+- epstatus/2-🪴
 ---
 # Product Roadmaps
 
@@ -203,6 +205,7 @@ Process metrics allow us to evaluate the performance of the discovery engine, th
 + [Roadmapping Approach described](https://www.linkedin.com/posts/andre-albuquerque_productmanagement-product-activity-6985144091827138560-2Eun?utm_source=share&utm_medium=member_desktop)
 
 ## Footnotes
+
+[^3]: [Product Roadmapping - Gerard Chiva](https://leanpub.com/product-roadmapping-in-practice) p48
 [^1]: [Product Roadmapping - Gerard Chiva](https://leanpub.com/product-roadmapping-in-practice) p17
 [^2]: [Product Roadmapping - Gerard Chiva](https://leanpub.com/product-roadmapping-in-practice) p36
-[^3]: [Product Roadmapping - Gerard Chiva](https://leanpub.com/product-roadmapping-in-practice) p48

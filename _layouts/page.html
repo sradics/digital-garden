@@ -2,8 +2,48 @@
 layout: default
 ---
 <script>
+    const highlightStatus = new Map();
+    highlightStatus.set(".none",false);
+    highlightStatus.set(".nut",false);
+    highlightStatus.set(".seedling",false);
+    highlightStatus.set(".plotted_plant",false);
+    highlightStatus.set(".tree",false);
+    highlightStatus.set(".ancient_tree",false);
+    highlightStatus.set(".fallen_leaf",false);
+    
+    
     function highlightByMaturity(classToHighlight){
-        jQuery(classToHighlight).css( "font-weight", "bold" );
+        if (highlightStatus.get(classToHighlight)==false){
+            jQuery(classToHighlight).css( "font-weight", "bold" );
+            highlightStatus.set(classToHighlight,true)
+            
+        }else {
+            jQuery(classToHighlight).css( "font-weight", "normal" );
+            highlightStatus.set(classToHighlight,false)
+            
+        }
+        
+        var somethingIsHighlighted = false;
+        for (const [key, value] of highlightStatus.entries()) {            
+            if (value==true){
+                somethingIsHighlighted = true;
+            }
+        }
+        
+        if (somethingIsHighlighted==true){
+            for (const [key, value] of highlightStatus.entries()) {
+              if (value==false){
+                jQuery(key).addClass("linkDisabled");        
+              }else{
+                jQuery(key).removeClass("linkDisabled");                  
+              }
+            }     
+        }else {
+            for (const [key, value] of highlightStatus.entries()) {
+                jQuery(key).removeClass("linkDisabled");                  
+            }
+        }
+        
     }
 </script> 
 
@@ -27,10 +67,12 @@ layout: default
         {% endfor %}
         
         {{ "---" | markdownify }}
-        <div><a href="javascript:highlightByMaturity('.nut');" class="maturitySelecter">nut 🌰</a> → <a href="javascript:highlightByMaturity('.seedling');" class="maturitySelecter">seedling 🌱</a> → <a href="javascript:highlightByMaturity('.plotted_plant');" class="maturitySelecter">potted plant 🪴</a> → <a href="javascript:highlightByMaturity('.tree');" class="maturitySelecter">tree 🌳</a> → <a href="javascript:highlightByMaturity('.ancient_tree');" class="maturitySelecter">ancient tree 🍁</a> → <a href="javascript:highlightByMaturity('.fallen_leaf');" class="maturitySelecter">fallen leaf 🍂</a></div>
+        <div>
+            <a href="javascript:highlightByMaturity('.none');" class="maturitySelecter">undefined</a> → 
+            <a href="javascript:highlightByMaturity('.nut');" class="maturitySelecter">nut 🌰</a> → <a href="javascript:highlightByMaturity('.seedling');" class="maturitySelecter">seedling 🌱</a> → <a href="javascript:highlightByMaturity('.plotted_plant');" class="maturitySelecter">potted plant 🪴</a> → <a href="javascript:highlightByMaturity('.tree');" class="maturitySelecter">tree 🌳</a> → <a href="javascript:highlightByMaturity('.ancient_tree');" class="maturitySelecter">ancient tree 🍁</a> → <a href="javascript:highlightByMaturity('.fallen_leaf');" class="maturitySelecter">fallen leaf 🍂</a></div>
         {{ "#### Pages" | markdownify }}
         {% for page in site.notes %}
-        {% assign epstatus = '' %}
+        {% assign epstatus = 'none' %}
         {% assign note_type = '' %}
         {% for tag in  page.tags %}
         {% if tag == 'epstatus/0-🌰' %}
@@ -65,7 +107,7 @@ layout: default
         {% endif %}
         {% endfor %}
         
-        <a href="{{ site.url }}{{ page.url }}" class="{{ epstatus }} {{ note_type }}">{{ page.title }}
+        <a href="{{ site.url }}{{ page.url }}" class="notelink {{ epstatus }} {{ note_type }}">{{ page.title }}
         {% if epstatus == 'nut' %}
             &nbsp;🌰    
         {% endif %}    

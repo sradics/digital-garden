@@ -14,3 +14,10 @@ tags:
 🏃🏻 𝗪𝗜𝗘-Lerner: Die müssen es erst einmal selbst ausprobieren. Idealerweise TUN die dann auch tatsächlich etwas. Aber auch etwas auszurechnen, sich eine Frage selbst zu beantworten oder sich etwas auszudenken, ist für diese Menschen hilfreich.   
   
 🪞 𝗪𝗔𝗦𝗪𝗘𝗡𝗡-Lerner: Die brauchen zum Lernen den Austausch mit Gleichgesinnten, wo sie mögliche Anwendungen der neu gelernten Impulse entwickeln und deren Auswirkungen reflektieren können. Das kann über auditive Kanäle (z.B. plaudern) gehen - kann aber auch genauso gut über visuelle Kanäle (z.B. chatten) laufen.
+
+
+# Linking
++ [[MOC Building a 2nd brain]] - supports claim *Our brain is not for storing ideas but for having them*
++ [[Grow the top 10 skills 2025 by Building your Second Brain]] 
+- [ ] Check how that connects to the main skills
++ [[Incorporating top 5 marketing breaktroughs]] ... can be used in marketing *Building a Second Brain with Obsidian*

@@ -10,5 +10,5 @@ Test assumptions across several ideas. Don't fall into the trap of trying to tes
 Focus on differentiating assumptions - that allow us to compare and contrast.
 
 ![[assumptiontest_circles.excalidraw.svg]]
- + Usability assumptions
-+ Ethical assumption
++ Usability assumptions: Is it usable?
++ Ethical assumption: Is there any potential harm in building this solution?

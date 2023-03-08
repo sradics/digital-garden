@@ -13,6 +13,7 @@ Thanks to [Tiago Forte](https://fortelabs.co/) for the inspiration with your **B
 Building a 2nd brain in a nutshell - [[Visual Notes]] 
 [[Building a Second Brain - Insights]] - insights from [[Building a Second Brain - Tiago Forte]]
 
+# CODE - Capture-Organize-Distill-Express
 ## Capture
 
 ## Distill

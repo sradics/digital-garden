@@ -6,7 +6,7 @@ tags:
 ---
 # Forming Continuous Discovery Habits - Presentation
 
-[Slides from Forming Continuous Discovery Habits presentation](FormingContinuousDiscoveryHabits.pdf)
+[Slides from Forming Continuous Discovery Habits presentation](../assets/FormingContinuousDiscoveryHabits.pdf)
 
 ## Background
 I gave that presentation on [[2023-03-09_Thu]] on [Agile Get Together](https://www.agile-gt.com/details-registrierung/how-to-form-continuous-discovery-habits-at-blinkist-expert-talk) as Expert talk.

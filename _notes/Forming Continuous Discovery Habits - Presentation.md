@@ -16,4 +16,5 @@ I used Obsidian Advanced Slides plugin for the presentation and implemented the 
 # Linking
 * [[Presentation Form Continuous Discovery Habits]] - as Advanced Slide format
 * [[MOC Continuous Discovery Habits]]
+* [[Mapping Agile and Continuous Discovery Habits]] - in more detail
 

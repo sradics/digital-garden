@@ -1,7 +1,7 @@
 ---
 tags: 
 - digital_garden
-- epstatus/1-🌱
+- epstatus/2-🪴
 - type/permanent-note
 ---
 # Mapping Agile and Continuous Discovery Habits
@@ -14,7 +14,21 @@ tags:
 
 ### Impact
 Impact with CDH: High
-+ Product trios include technical and business aspects. And via CDH their is a frequent translation happening.
++ Product trios include technical and business aspects. And via CDH their is a frequent translation happening.---
+tags: 
+- digital_garden
+- epstatus/0-🌰
+- fastlane
+- type/fleeting-note
+---
+# [[Mapping Agile and Continuous Discovery Habits ]]
+
+<% tp.file.cursor() %>
+
+# Linking
+
+
+
 + Assumption Testing includes aspects of (business) viability and (technical) feasibility
 + Opportunity-Solution-Tree includes Business Outcome to represent business aspect and looks at solutions and opportunities from user perspective and accessing e.g. technical feasibility on assumption level.
 

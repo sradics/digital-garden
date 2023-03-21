@@ -1,6 +1,6 @@
 ---
 tags:
- - type/literature-note
+ - type/index-note
  - MOC
  - digital_garden
  - epstatus/0-🌰

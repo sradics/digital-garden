@@ -9,6 +9,7 @@ tags:
  - [[12 Principles behind the Agile Manifesto]]
  - [[Actionable Agile Metrics for Predictability]]
  - [[Agile 101]]
+ - [[MOC Agile 2]] (deep insights about the next iteration of Agile)
  - [[Agile Framework Scrum]]
  - [[Agile Learning Space as a Subway Map]]
  - [[Agile Manifesto for Business Contexts]]

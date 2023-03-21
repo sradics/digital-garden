@@ -6,8 +6,8 @@ tags:
 ---
 # Sparks from Agile 2
 + Investigate Socratic leadership (and socratic discussion) --> [[Socratic Leadership]]
-+ Detail different form of leadershio. Especially interesting Druckers inside person, outside person and someone to get things done
-+ nice linking with mission command -- I guess that this was also connected to team of teams (need to check for the military link here)
++ Detail different form of leadershio. Especially interesting Druckers inside person, outside person and someone to get things done - [[Agile 2 and Leadership]]
+	+ nice linking with mission command -- I guess that this was also connected to team of teams (need to check for the military link here) [[Agile 2 and Leadership#Mission Command]]
 + Create a list of referred books and check for Bibs to dive deeper
 	+ linked with [[Note about Causal Loop Diagram]]
 + Clayton Christensen -- JOTB?

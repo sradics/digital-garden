@@ -36,3 +36,6 @@ Implemented ICE score tracking in Jira.
 ## My level of expertise
 
 Advanced
+
+# Linking
++ [[Confidence Meter]]

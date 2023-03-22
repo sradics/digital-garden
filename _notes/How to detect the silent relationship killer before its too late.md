@@ -5,6 +5,7 @@ tags:
 - type/literature-note
 - epstatus/1-🌱
 ---
+# How to detect the silent relationship killer before its too late
 ## Metadata
 * URL: [https://radreads.co/relationship-resentment/](https://radreads.co/relationship-resentment/)
 * Published Date: 2019-01-19

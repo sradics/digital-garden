@@ -5,6 +5,7 @@ tags:
 - type/literature-note
 - epstatus/1-🌱
 ---
+# How to stop saying yes when you want to say no
 
 ## Metadata
 * URL: [https://radreads.co/how-to-say-no/](https://radreads.co/how-to-say-no/)

@@ -131,6 +131,8 @@ The Organizer is someone who ==stays on top== of everything, ==watches for probl
 
 ## Leadership roles within product
 
+
+
 ## All Leadership
 + Personal involvement in the organization's products and services seems to be a characteristic of highly successful tech companies
 

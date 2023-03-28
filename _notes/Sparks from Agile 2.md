@@ -39,7 +39,8 @@ tags:
 + Good questions for scaling
 + Check what that Agile PeopleOps framework is about
 + Perspectives on what people to hire!
-+ 
++ Team of Teams (Stefano)
++ Understanding Feedback loops and working with complex systems 
 
 # Linking
 

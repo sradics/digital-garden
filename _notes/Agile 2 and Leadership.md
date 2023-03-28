@@ -10,8 +10,14 @@ Understanding leadership is core for understanding how a group of individuals ca
 
 Leadership is a complex and multifaceted issue. 
 
+Leadership is any means of ==getting people to follow,== including inspiring people and gaining their trust. ==Leadership is influence==
+
 
 ## Different leadership approaches
+> [!important] Agile 2 Principle
+> A team often needs more than one leader, each of a different kind
+> 
+
 A person is a leader if they have influence over others.
 
 A Manager is a leader who has authority.
@@ -117,6 +123,7 @@ Connects well with [[#Authority: The Path-Goal Leadership Model]]
 
 ### Authority: Inside, Outside, Get-things-done
 Mentioned  by Peter Drucker (Source?)
+==Outward-focused leadership is about representing and advocating for a group; inward-focused leadership is about the relationship with the group, and it can be planning, organizing, directing, coordinating, or controlling (managing risk)==. — location: [3235](kindle://book?action=open&asin=B08TPJWLHC&location=3235) ^ref-4649
 
 #### Inside Person
 An ==Inside person== is someone who can form ==relationships of trust==, someone they ==look up to.== E.g. a visionary CTO or product designer.
@@ -130,7 +137,7 @@ This person needs to ==manage expectations== and come across ==personable==, ==t
 The Organizer is someone who ==stays on top== of everything, ==watches for problems==, ==takes action==s as soon as there is a problem and ==orchestrates discussion== and timely ==decision making==.
 
 ## Leadership roles within product
-
+[[Leadership roles in product development]]
 
 
 ## All Leadership

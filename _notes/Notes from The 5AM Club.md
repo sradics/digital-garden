@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 - digital_garden
-- epstatus/0-🌰
+- epstatus/1-🌱
+- type/literature-note
 ---
 # Notes from The 5AM Club
 

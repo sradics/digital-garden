@@ -36,3 +36,7 @@ I offer to facilitate sessions where you need facilitation and want to join for 
 ## My level of expertise
 
 Master
+
+# Linking
++ [[Learning from Breakthrough Facilitation by Gwyn Wansbrough]]
++ [[Breakthrough Facilitation - Virtual Facilitator Workshop]]

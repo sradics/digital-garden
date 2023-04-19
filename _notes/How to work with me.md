@@ -18,7 +18,7 @@ My top 5 strengths seem to be (according to Clifton Strenghts - Strenghtfinder):
 * Learner
 * Strategic
 
-see: [[StrengthFinder_34.pdf]]
+see: ![[StrengthFinder_34.pdf]]
 
 ## How to communicate with me...
 ### Radical Candor, Transparent, Direct

@@ -7,3 +7,4 @@ tags:
 + [[Lerntypen]]
 + [[E-Learning Training Checklist by Trainergeheimnisse]]
 + [[The Fifth Discipline]] (also as [Blinkist version](https://www.blinkist.com/en/app/books/the-fifth-discipline-en))
++ [[Dimensions to manifest learning - example learning to facilitate]]

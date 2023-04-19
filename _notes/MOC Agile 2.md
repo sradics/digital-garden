@@ -11,6 +11,10 @@ tags:
 ## Emphasize on Leadership
 + [[Agile 2 and Leadership]] - condensed aspects of leadership described throughout the book
 	+ [[Socratic Leadership]] - this was new to me, really interesting approach to empower groups and also to foster learning. 
+	+ [[Leadership roles in product development]]
+	+ [[Gemba - Go where the work gets done]]
+	+ [Leadership Taxonomy](https://agile2.net/more-resources/a-leadership-taxonomy/)
+	+ [Leadership sketch](https://agile2.net/more-resources/a-leadership-sketch/)
 
 # Linking
 + [[MOC Agile Learning Path]] - overall agile learning areas

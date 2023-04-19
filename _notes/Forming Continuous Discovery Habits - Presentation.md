@@ -14,7 +14,7 @@ I gave that presentation on [[2023-03-09_Thu]] on [Agile Get Together](https://w
 I used Obsidian Advanced Slides plugin for the presentation and implemented the presentation directly in Obsidian. Slide-Flow was prepared using Obsidian's Canvas - ![[Flow.canvas]]
 
 # Linking
-* [[Presentation Form Continuous Discovery Habits]] - as Advanced Slide format
+* [[S01 Personal/100-199 Projects/111 Session Form Continuous Discovery Habits/30-39 Areas/Presentation Form Continuous Discovery Habits]] - as Advanced Slide format
 * [[MOC Continuous Discovery Habits]]
 * [[Mapping Agile and Continuous Discovery Habits]] - in more detail
 

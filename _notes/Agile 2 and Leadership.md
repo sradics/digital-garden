@@ -29,7 +29,7 @@ Guiding to ==choose the best paths to reach goals==. Leaders job to ==assist and
 
 Direction to ensure individual goals are aligned with organization's goals. 
 
-Leaders show be flexible and adjust leadership style as situations require.
+Leaders should be flexible and adjust leadership style as situations require.
 
 #### Directive Leadership Behavior
 Tells how to perform their tasks.
@@ -127,6 +127,9 @@ Mentioned  by Peter Drucker (Source?)
 
 #### Inside Person
 An ==Inside person== is someone who can form ==relationships of trust==, someone they ==look up to.== E.g. a visionary CTO or product designer.
+
+it is ==someone who people admire or trust or feel is competent to make big decisions==. — location: [3864](kindle://book?action=open&asin=B08TPJWLHC&location=3864) ^ref-17887
+
 
 #### Outside Person
 An Outside person is someone to deal with the ==outside world==. Outside world means the ==larger ecosystem== a team is embedded in.

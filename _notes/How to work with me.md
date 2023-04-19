@@ -11,13 +11,14 @@ I'm a knowledge nerd, somewhere in the middle between introvert and extrovert. F
 
 And I really enjoy building my [[MOC Building a 2nd brain| Second Brain]]. I discovered that learning brings me joy and satisfaction. 
 
-My top 5 strengths seem to be (according to Clifton Strenghts - Strenghtfinder [[StrengthFinder_34.pdf]]):
+My top 5 strengths seem to be (according to Clifton Strenghts - Strenghtfinder):
 * Driver/Energy
 * Brainpower
 * Empathy
 * Learner
 * Strategic
 
+see: [[StrengthFinder_34.pdf]]
 
 ## How to communicate with me...
 ### Radical Candor, Transparent, Direct

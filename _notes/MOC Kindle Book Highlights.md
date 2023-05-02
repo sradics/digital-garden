@@ -62,7 +62,7 @@ tags:
  - [[Good StrategyBad Strategy|Good StrategyBad Strategy]]
  - [[Heilung des Herzens|Heilung des Herzens]]
  - [[Holacracy|Holacracy]]
- - [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Book notes/Hooked/Hooked|Hooked]]
+ - [[S01 Personal/030-039 Areas/32 Zettelkasten/Permanent notes/Hooked/Hooked|Hooked]]
  - [[How to Get Rich|How to Get Rich]]
  - [[How to Measure Anything|How to Measure Anything]]
  - [[Ich bin dann mal weg|Ich bin dann mal weg]]

@@ -215,7 +215,7 @@ Leads to a **Mind like water** as one does not have to keep everything in memory
 ## Quotes to use later
 > [!quote]
 > I never force myself to do anything I don't feel like. Whenever I am stuck, I do something else 
-> I only write when I immediately, when I immediately know how to do it
+> I only write when I immediately know how to do it
 > *(Luhmann)*
 
 Dunning Kruger effect - poor students often feel more successful (until they are tested), because they don’t experience much self-doubt.

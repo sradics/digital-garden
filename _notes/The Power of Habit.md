@@ -49,5 +49,5 @@ _LATTE_ method, which outlines a series of steps to take in a stressful situati
 Once we become aware of a harmful habit, it becomes our responsibility to address and change it.
 
 ## Linking
-[[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Book notes/Hooked/Hooked]]
+[[S01 Personal/030-039 Areas/32 Zettelkasten/Permanent notes/Hooked/Hooked]]
 

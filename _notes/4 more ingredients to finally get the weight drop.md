@@ -2,6 +2,7 @@
 tags: 
 - digital_garden
 - epstatus/2-🪴
+- type/social-media/linkedIn-post-note
 ---
 # 4 more ingredients to finally get the weight drop
 

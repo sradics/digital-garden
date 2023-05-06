@@ -15,24 +15,34 @@ Building a 2nd brain in a nutshell - [[Visual Notes]]
 
 # CODE - Capture-Organize-Distill-Express
 ## Capture
++ [[BASB - Learning about Capture]]
+
+## Organize - PARA
++ [[A perfect organizational system]]
++ [[Para Blog by Tiago Forte]]
++ [[PARA Method Notes]]
++ [[BASB - Learning about Organize]]
+
 
 ## Distill
++ [[BASB - Learning about Distill]]
+
 ### Book Summarization
 + [[How to take Digital Notes]]
 + [[Progressive Summarization]]
 + [[Write a book summary]]
 + [[Create an outline]]
 
-## Organize - PARA
-+ [[A perfect organizational system]]
-+ [[Para Blog by Tiago Forte]]
-+ [[PARA Method Notes]]
 
 ## Express
 + effective communication following [The Bullseye Principle](https://www.blinkist.com/en/app/books/the-bullseye-principle-en) how to hit the bullseye with your target audience. Some notes from the Book in Blinks - [[Notes from listening to the Bullseye Principle]]
++ [[BASB - Learning about Express]]
 
 
-## Linking
+# Direct learning from Tiago Forte and Cohort#18 Building a Second Brain
++ [[MOC BASB Masterclass]]
+
+# Linking
 + [[How to take Smart Notes - Key Insights]]
 + [Nice video explanation by Zsolt](https://www.youtube.com/watch?v=3i4CiImIYYA)
 + [Hacks to boost productivity with Tiago Forte (by Blinkist)](https://www.blinkist.com/guides/hacks-to-boost-productivity-with-tiago-forte)

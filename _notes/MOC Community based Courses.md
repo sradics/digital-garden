@@ -4,6 +4,7 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - MOC
+- type/index-note
 ---
 # MOC Community based Courses
 

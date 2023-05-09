@@ -17,7 +17,7 @@ Full credits for this well designed 4 weeks training to [Khe Why](https://radrea
 ![[Pasted image 20220731085826.png]]
 ### Week 1
 + Lesson 1 - [[The magic of doing $10,000 per hour work]]
-+ Lesson 2 - [[S01 Personal/030-039 Areas/36 Coaching/36.01 $10K work/$10K Training Lesson 2 How to waste your day- 3 behavorial mistakes to avoid]]
++ Lesson 2 - [[Training Lesson 2 How to waste your day 3 behavorial mistakes to avoid]]
 - Lesson 3 - [[You're -due--ing it wrong]]
 - Lesson 4 - [[The elusive pursuit of getting it (all) done]]
 
@@ -29,7 +29,7 @@ Full credits for this well designed 4 weeks training to [Khe Why](https://radrea
 ### Week 3
 - Lesson 8 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to detect the silent relationship killer before its too late]]
 - Lesson 9 - [[$10K Training Lesson 9 No, a new iPad won't change your life]]
-- Lesson 10 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to stop saying yes when you want to say no]]
+- Lesson 10 - [[How to stop saying yes when you want to say no]]
 
 ### Week 4
 - Lesson 11 - [[Becoming indispensable a pandemic power move]]

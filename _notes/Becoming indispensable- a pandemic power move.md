@@ -5,6 +5,7 @@ tags:
 - type/literature-note
 - epstatus/2-🪴
 ---
+# Becoming indispensable- a pandemic power move
 
 ## Metadata
 * URL: [https://radreads.co/becoming-indispensable/?utm_source=brainpint&utm_medium=email&utm_campaign=obvious_to_you_amazing_to_others&utm_term=2020-10-13](https://radreads.co/becoming-indispensable/?utm_source=brainpint&utm_medium=email&utm_campaign=obvious_to_you_amazing_to_others&utm_term=2020-10-13)

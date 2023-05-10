@@ -27,12 +27,12 @@ Full credits for this well designed 4 weeks training to [Khe Why](https://radrea
 - Lesson 7 - [[$10K Training Lesson 7 The ultimate $10K task hiding in plain sight]]
 
 ### Week 3
-- Lesson 8 - [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to detect the silent relationship killer before its too late]]
+- Lesson 8 - [[How to detect the silent relationship killer before its too late]]
 - Lesson 9 - [[$10K Training Lesson 9 No, a new iPad won't change your life]]
 - Lesson 10 - [[How to stop saying yes when you want to say no]]
 
 ### Week 4
-- Lesson 11 - [[Becoming indispensable a pandemic power move]]
+- Lesson 11 - [[Becoming indispensable- a pandemic power move]]
 - Lesson 12 - [[$10K Training Lesson 12 Using leverage to grow your career (while you sleep)]]
 - Lesson 13 - [[$10K Training Lesson 13 A portfolio approach to $10K Work]]
 - Lesson 14 - [[$10K Training Lesson 14 Closing Thoughts & What's next]]

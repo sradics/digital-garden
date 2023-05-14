@@ -18,4 +18,5 @@ tags:
 + [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Building a digital garden]]
 + [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos)
 	+ [and as GitHub](https://github.com/sw-yx/digital-garden-tos)
++ [https://nesslabs.com/mind-garden](https://nesslabs.com/mind-garden)
 

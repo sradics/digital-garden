@@ -36,3 +36,9 @@ I can run individual coaching session. Although this is not the core of my role 
 ## My level of expertise
 
 Advanced
+
+# Linking
++ [[TGROW Coaching Model]]
++ [[The CORE feedback model]]
++ [[Growth Zone Model]]
++ [[MOC Learning]]

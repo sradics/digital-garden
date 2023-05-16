@@ -21,6 +21,8 @@ Course claim: **Learn more effectively and with less frustration**
 ***
 *Octopus of attention reaching through 4 focus points of focussed brain*
 ![[Pasted image 20230514130217.png|400]]
+*** 
+
 
 ***
 *Different building blocks that form networks and are the foundation for storing chunks in our brain*
@@ -85,6 +87,7 @@ Bottom up learning. Learn **how to use a chunk.**  Practice and repeat
 
 ## Illusion of competence
 ### Recall
+
 > [!note] Recall
 > Mental **retrieval of the key ideas**.
 
@@ -144,6 +147,7 @@ The amygdala integrates emotions and cognition. Involved in processing memory an
 + affects learning and decision making
 + also transmitted when projecting future rewards
 + drugs increase dopamine but hijack free will
+
 ### Serotonin
 + affects social life
 + linked to risk taking behavior - lower levels lead to higher risk taking
@@ -245,6 +249,7 @@ Can be implemented e.g. **by jumping between different chapters of the learning 
 + Spend learning time with **really high focus** and apply highly efficient methods
 
 # Linking
+* ➡ [[Week 3 - Course Notes]]
 * ⬅ [[Week 1 - Course Notes]]
 
 

@@ -79,6 +79,17 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     current_note.content.gsub!(/!\[\[(.*)\]\]/, "<a href='assets/\\1'>\\1</a>")
     current_note.content.gsub!(/\*\*\*/,"<div><hr></div>")    
         
+    #Replace | in links to avoid wrong assumption to render that as a table
+    current_note.content.gsub!(/(\[\[)(.*)(\]\])/) do |test|
+        part_1=test.gsub(/(\[\[)(.*)(\]\])/,'\\1')
+        part_2=test.gsub(/(\[\[)(.*)(\]\])/,'\\2')
+        part_3=test.gsub(/(\[\[)(.*)(\]\])/,'\\3')
+
+        part_2.gsub!(/\|/,'&#124;')
+
+        part_1+part_2+part_3
+      end     
+        
     
     
     # Don't need that further marking of invalid link. This partially is causing trouble with pages.    

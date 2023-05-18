@@ -14,5 +14,8 @@ Jekyll::Hooks.register [:pages], :post_convert do |doc|
 end
 
 def replace(doc)
-  doc.content.gsub!(/==+(\w(.*?)?[^ .=]?)==+/, "<mark>\\1</mark>")
+  doc.content.gsub!(/(==)+(.*?)(==)+/,'<mark>\\2</mark>')
+  #doc.content.gsub!(/==+(\w(.*?)?[^ .=]?)==+/, "<mark>\\1</mark>")
+  #doc.content.gsub!(/==\*\*+(\w(.*?)?[^ .=]?)\*\*==+/,'<mark><strong>\\1</strong></mark>')
+  #doc.content.gsub!(/==\<strong\>+(\w(.*?)?[^ .=]?)\<\/strong\>==+/,'<mark><strong>\\1</strong></mark>')
 end

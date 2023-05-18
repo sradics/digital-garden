@@ -73,28 +73,28 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       end
         
     current_note.content.gsub!(/!\[\[(.*)(\.png|\.jpeg|\.gif|\.jpg)\]\]/, "<img src='assets/\\1\\2'>")
+    current_note.content.gsub!(/!\[\[(.*)(\.png|\.jpeg|\.gif|\.jpg)\|(.*)\]\]/, "<img src='assets/\\1\\2' width='\\3'>")
     current_note.content.gsub!(/!\[\[(.*)(\.svg)\]\]/, "<object type='image/svg+xml' data='assets/\\1\\2'></object>")
     current_note.content.gsub!(/!\[\[(.*)(\.pdf)\]\]/, "<object type='application/pdf' data='assets/\\1\\2' style='width:600px;height:400px;'></object>")
     current_note.content.gsub!(/!\[\[(.*)\]\]/, "<a href='assets/\\1'>\\1</a>")
+    current_note.content.gsub!(/\*\*\*/,"<div><hr></div>")    
         
-    # <object type="image/svg+xml" data="image.svg"></object>
     
-    #Jekyll.logger.warn "1xxx10 test basti"
-
-        
+    
+    # Don't need that further marking of invalid link. This partially is causing trouble with pages.    
       
       # At this point, all remaining double-bracket-wrapped words are
       # pointing to non-existing pages, so let's turn them into disabled
       # links by greying them out and changing the cursor
-      current_note.content = current_note.content.gsub(
-        /\[\[([^\]]+)\]\]/i, # match on the remaining double-bracket links
-        <<~HTML.delete("\n") # replace with this HTML (\\1 is what was inside the brackets)
-          <span title='There is no note that matches this link.' class='invalid-link'>
-            <span class='invalid-link-brackets'>[[</span>
-            \\1
-            <span class='invalid-link-brackets'>]]</span></span>
-        HTML
-      )
+      #current_note.content = current_note.content.gsub(
+    #    /\[\[([^\]]+)\]\]/i, # match on the remaining double-bracket links
+    #    <<~HTML.delete("\n") # replace with this HTML (\\1 is what was inside the brackets)
+    #      <span title='There is no note that matches this link.' class='invalid-link'>
+    #        <span class='invalid-link-brackets'>[[</span>
+    #        \\1
+    #        <span class='invalid-link-brackets'>]]</span></span>
+    #    HTML
+    #  )
                 
         
           

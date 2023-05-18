@@ -242,6 +242,7 @@ For coaching
 
 ## Linking
 + [[How to Take Smart Notes]] and [Blinkist version as Book in Blinks](https://www.blinkist.com/de/nc/browse/books/how-to-take-smart-notes-en?r=1&st=how+to+tak)
++ [Summary by Tiago Forte](https://fortelabs.com/blog/how-to-take-smart-notes/)
 + [[MOC Building a 2nd brain]]
 + [[MOC Digital Garden]]
 + [[Die 5 Elemente effektiven Denkens - Edward B Burger Michael Starbird]]

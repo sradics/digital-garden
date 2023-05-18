@@ -59,7 +59,7 @@ layout: default
   
          {% for tag in  page.tags %}
           {% if tag == 'MOC' %}
-            <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a><br>
+            <a href="{{ page.url }}">{{ page.title }}</a><br>
           {% endif %}
 
          {% endfor %}
@@ -107,7 +107,7 @@ layout: default
         {% endif %}
         {% endfor %}
         
-        <a href="{{ site.url }}{{ page.url }}" class="notelink {{ epstatus }} {{ note_type }}">{{ page.title }}
+        <a href="{{ page.url }}" class="notelink {{ epstatus }} {{ note_type }}">{{ page.title }}
         {% if epstatus == 'nut' %}
             &nbsp;🌰    
         {% endif %}    

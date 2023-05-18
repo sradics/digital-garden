@@ -27,3 +27,6 @@ Learned from Blinkist Guide with Tiago Forte
 + *addition by me*: add Linking, Comments
 
 Prepare for express or start expressing right away
+
+# Linking
++ [The Ultimate Guide to Summarizing Books: How to Distill Ideas to Accelerate Your Learning](https://fortelabs.com/blog/the-ultimate-guide-to-summarizing-books/)

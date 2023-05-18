@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - epstatus/1-🌱
+date_created: Thursday, January 12th 2023, 1:59:44 pm
+date_modified: Thursday, May 18th 2023, 6:15:54 pm
 ---
 # Module 1 - The confidence code
 [Source](https://www.blinkist.com/en/nc/reader/the-confidence-code-en)

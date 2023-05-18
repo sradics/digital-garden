@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - fastlane
+date_created: Wednesday, February 15th 2023, 7:53:55 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Krawatte binden super easy
 

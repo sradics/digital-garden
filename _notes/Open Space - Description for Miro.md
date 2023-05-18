@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Wednesday, December 7th 2022, 8:08:26 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Open Space - Description for Miro
 [Source](https://miro.com/app/board/uXjVPHIu3MY=/?moveToWidget=3458764537623942586&cot=14)

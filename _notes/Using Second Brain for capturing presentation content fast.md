@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/social-media/linkedIn-post-note
+date_created: Wednesday, February 22nd 2023, 5:29:19 am
+date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---
 # [[Using Second Brain for capturing presentation content fast ]]
 Based on a great presentation by David about Discovering hidden assumptions I used Obsidian to fast capture my learnings from his workshop. 

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/literature-note
+date_created: Sunday, May 14th 2023, 8:41:48 am
+date_modified: Thursday, May 18th 2023, 5:50:01 pm
 ---
 # Week 2 - Course Notes
 Course: [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) by Dr. Barbara Oakley, Dr. Terrence Sejnowski

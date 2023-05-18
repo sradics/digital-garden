@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - epstatus/1-🌱
+date_created: Monday, November 21st 2022, 2:07:47 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Notes from listening to the Bullseye Principle
 [Source](https://www.blinkist.com/en/app/books/the-bullseye-principle-en)

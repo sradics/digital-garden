@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Wednesday, August 31st 2022, 9:55:58 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Cross Functional Teams - Ideo Shopping Cart example
 

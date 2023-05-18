@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
+date_created: Friday, July 22nd 2022, 7:14:50 pm
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # How to Create a Product Roadmap That Everyone Can Understand!
 ## Metadata

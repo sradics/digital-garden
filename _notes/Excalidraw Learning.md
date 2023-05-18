@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/fleeting-note
 - epstatus/1-🌱
+date_created: Sunday, October 23rd 2022, 9:12:03 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Excalidraw Learning
 ![[LearnToDrawAndEmbed.excalidraw.svg]]

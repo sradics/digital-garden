@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/2-🪴
+date_created: Saturday, June 11th 2022, 9:35:54 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # ACCESS approach
 An interesting mapping of tools in the areas *folders vs links* and *knowledge vs action*

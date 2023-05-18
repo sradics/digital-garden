@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Monday, June 6th 2022, 3:58:05 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Forte Labs - Theory of Contraints Blog Series
 [Source](https://fortelabs.co/blog/theory-of-constraints-101-table-of-contents/#.qtqvp9fnv)

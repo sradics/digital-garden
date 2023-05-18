@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/social-media/linkedIn-post-note
+date_created: Sunday, February 19th 2023, 2:19:06 pm
+date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---
 # [[4 pillars of energy ]]
 This morning I added several key insights from the great Blinkist Guide: Master your 4 pillars of Energy to My Second Brain.

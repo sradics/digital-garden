@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Thursday, July 21st 2022, 7:06:29 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # Becoming indispensable- a pandemic power move
 

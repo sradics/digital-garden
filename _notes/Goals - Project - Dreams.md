@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Monday, September 12th 2022, 9:33:54 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Goals - Project - Dreams
 > [!important]

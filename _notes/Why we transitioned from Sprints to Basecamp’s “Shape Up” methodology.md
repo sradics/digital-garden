@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
+date_created: Friday, August 19th 2022, 5:20:24 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Why we transitioned from Sprints to Basecamp’s “Shape Up” methodology
 ## Metadata

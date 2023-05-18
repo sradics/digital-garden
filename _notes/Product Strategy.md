@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
+date_created: Thursday, September 29th 2022, 7:02:48 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Product Strategy
 Source [Gerard Chiva in his book Product Roadmapping](https://leanpub.com/product-roadmapping-in-practice)

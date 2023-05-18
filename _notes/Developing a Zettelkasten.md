@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - fastlane
+date_created: Monday, February 13th 2023, 11:52:08 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Developing a Zettelkasten
 [Source](https://www.youtube.com/watch?v=5Br2gBA-1rM)

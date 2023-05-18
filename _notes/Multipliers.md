@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
+date_created: Tuesday, June 7th 2022, 11:27:07 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Multipliers 
 [source](https://www.blinkist.com/en/nc/browse/books/multipliers-en?r=1&st=Multipliers)

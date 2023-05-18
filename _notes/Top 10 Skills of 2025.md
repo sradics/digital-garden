@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/1-🌱
+date_created: Thursday, February 16th 2023, 6:40:47 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Top 10 Skills of 2025
 

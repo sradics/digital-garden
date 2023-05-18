@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Thursday, June 2nd 2022, 6:28:37 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # PARA Method Notes
 Put **personally relevant** information in Areas, and **generally useful** information in Resources (allows you to share notes from your resources without having to comb through for any personal information).

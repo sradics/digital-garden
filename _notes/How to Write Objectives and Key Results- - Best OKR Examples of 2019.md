@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
+date_created: Monday, July 18th 2022, 7:20:21 pm
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # How to Write Objectives and Key Results- - Best OKR Examples of 2019
 ## Metadata

@@ -4,6 +4,8 @@ tags:
 - MOC
 - epstatus/3-🌳
 - type/index-note
+date_created: Friday, August 12th 2022, 6:32:02 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # MOC Teams
 ## Resources about teams

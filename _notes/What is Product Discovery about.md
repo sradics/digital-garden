@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Monday, September 12th 2022, 2:56:41 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # What is Product Discovery about
 

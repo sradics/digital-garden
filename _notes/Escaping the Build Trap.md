@@ -13,6 +13,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/0-🌰
+date_created: Friday, May 27th 2022, 5:57:04 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # Escaping the Build Trap
 bought on Kindle

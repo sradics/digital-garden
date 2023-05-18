@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/literature-note
+date_created: Monday, November 14th 2022, 9:35:38 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Notes from Johanna Rothman - Short Feedback Loops
 Source: From [Johanna Rothman](https://www.jrothman.com/pragmaticmanager/) and [her blog post](https://www.jrothman.com/mpd/2020/12/multiple-short-feedback-loops-support-innovation/)
@@ -47,7 +49,6 @@ And now it gets worse - based in members of a team just working in silos on a to
 ## Some good questions
 + What will help us get this story to done today?
 + How little can we do and still get a valuable result that will tell us what to do next?
-+ 
 
 ## Linking
 + [[Product Roadmaps]]

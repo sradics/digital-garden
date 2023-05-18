@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Sunday, July 17th 2022, 9:23:47 am
+date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---
 # Use OKRs for professional development
 

@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Monday, July 18th 2022, 5:46:30 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # $10K Training Lesson 9 No, a new iPad won't change your life
 

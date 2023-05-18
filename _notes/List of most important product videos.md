@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/3-🌳
+date_created: Friday, September 30th 2022, 5:22:20 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # List of most important product videos
 1. The Root Causes of Product Failure by [Marty Cagan](https://www.linkedin.com/in/ACoAAAAAjycBVwSf0tRMLhZIJgQhgC8WlvNo9g8)  

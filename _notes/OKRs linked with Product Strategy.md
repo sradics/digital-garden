@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
+date_created: Wednesday, October 12th 2022, 12:20:26 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # OKRs linked with Product Strategy
 

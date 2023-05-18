@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - fastlane
+date_created: Monday, February 13th 2023, 11:37:53 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Zettelkasten - Taking Smart Notes - Notes from a video by Joshua Meyer
 [Source](https://www.youtube.com/watch?v=avb6b0nL3NQ)

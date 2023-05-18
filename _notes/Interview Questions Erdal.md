@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/3-🌳
+date_created: Tuesday, October 11th 2022, 6:47:38 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Interview Questions Erdal
 [the interview was published by AgyleOS on October 12,2022](https://agyleos.com/post/an-agile-mindset-enables-impactful-leadership)

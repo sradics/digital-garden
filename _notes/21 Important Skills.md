@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/1-🌱
+date_created: Tuesday, December 27th 2022, 5:00:38 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # 21 Important Skills
 [Source](https://www.linkedin.com/posts/clausreestrup_activity-7013532245126692864-h-LF?utm_source=share&utm_medium=member_desktop)

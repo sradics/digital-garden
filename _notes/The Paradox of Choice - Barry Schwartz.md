@@ -16,5 +16,7 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/0-🌰
+date_created: Sunday, September 11th 2022, 5:10:56 pm
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # The Paradox of Choice - Barry Schwartz

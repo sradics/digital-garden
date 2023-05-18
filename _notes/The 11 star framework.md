@@ -3,6 +3,8 @@ tags:
 - epstatus/0-🌰
 - type/literature-note
 - digital_garden
+date_created: Monday, March 13th 2023, 10:23:43 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # The 11 star framework
 The **11** **★ Framework** makes you think and design to the extreme and then work backward to develop a delightful and word-of-mouth worthy experience.

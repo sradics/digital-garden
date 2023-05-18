@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - epstatus/2-🪴
+date_created: Saturday, February 4th 2023, 5:23:06 pm
+date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---
 # Motivation for Second Brain
 We consume a huge amount of information, but fail to leverage it to grow our knowledge. 🤯

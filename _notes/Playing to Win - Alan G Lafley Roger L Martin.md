@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/0-🌰
+date_created: Wednesday, September 28th 2022, 7:06:30 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # Playing to Win - Alan G Lafley Roger L Martin
 

@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
+date_created: Monday, June 6th 2022, 9:27:06 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # The Power of Habit
 [https://www.blinkist.com/en/nc/new-reader/the-power-of-habit-en](https://www.blinkist.com/en/nc/new-reader/the-power-of-habit-en)

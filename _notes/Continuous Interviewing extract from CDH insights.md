@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Monday, October 24th 2022, 8:17:41 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Continuous Interviewing extract from CDH insights
 ## Argumentation for continuous interviewing

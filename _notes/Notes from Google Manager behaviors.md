@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Tuesday, January 31st 2023, 9:39:50 am
+date_modified: Thursday, May 18th 2023, 6:15:54 pm
 ---
 # Notes from Google Manager behaviors
 [Source](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/)

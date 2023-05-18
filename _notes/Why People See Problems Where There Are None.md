@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
+date_created: Saturday, July 23rd 2022, 7:16:27 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Why People See Problems Where There Are None
 ## Metadata

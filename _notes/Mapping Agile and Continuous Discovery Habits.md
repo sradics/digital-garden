@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note
+date_created: Sunday, March 5th 2023, 5:26:59 am
+date_modified: Thursday, May 18th 2023, 6:15:54 pm
 ---
 # Mapping Agile and Continuous Discovery Habits
 

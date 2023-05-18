@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/literature-note
+date_created: Monday, March 27th 2023, 10:44:33 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Notes from - What impact AI will have on you
 Source: a recent mail by Tiago Forte

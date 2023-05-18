@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+date_created: Thursday, June 30th 2022, 5:03:19 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # 10$-10k value matrix
 ## Topic

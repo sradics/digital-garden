@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Monday, January 2nd 2023, 10:10:38 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Price your coaching
 For high ticket pricing!

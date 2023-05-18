@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Wednesday, October 26th 2022, 11:23:39 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Getting an overview about mentoring
 [Source](https://www.pushfar.com/org/resources/pushfar-videos/mentoring-others/9/)

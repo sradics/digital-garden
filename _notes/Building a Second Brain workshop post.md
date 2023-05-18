@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/social-media/linkedIn-post-note
+date_created: Thursday, May 4th 2023, 9:01:05 am
+date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---
 # Building a Second Brain workshop post
 Last Friday I conducted my first full day workshop about **Building a Second Brain with Obsidian**. With 8 attendees, many great insights, practical learnings it set the foundation to work with a Second Brain. 

@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - epstatus/1-🌱
 - type/literature-note
+date_created: Friday, August 19th 2022, 5:20:24 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # Figma is making you a bad designer.
 ## Metadata

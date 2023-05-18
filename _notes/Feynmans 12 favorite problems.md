@@ -3,6 +3,8 @@ tags:
 - type/permanent-note
 - epstatus/1-🌱
 - digital_garden
+date_created: Sunday, April 30th 2023, 11:12:51 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Feynmans 12 favorite problems
 

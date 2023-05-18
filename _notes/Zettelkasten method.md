@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Monday, May 30th 2022, 8:46:43 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Zettelkasten method
 [[supreme-locket-8f6_notion_site.Notion  The all-in-one workspace for your notes tasks wikis and databases|Source]]

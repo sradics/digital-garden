@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
+date_created: Tuesday, June 28th 2022, 6:10:42 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # The hardest pill to swallow about self-improvement.
 ## Metadata

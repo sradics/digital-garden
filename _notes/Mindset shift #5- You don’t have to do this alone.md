@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Sunday, September 11th 2022, 8:51:43 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Social Learning
 ## Metadata

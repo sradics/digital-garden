@@ -4,6 +4,8 @@ tags:
 - MOC
 - type/index-note
 - epstatus/3-🌳
+date_created: Monday, July 25th 2022, 5:38:31 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # MOC 10K$ framework
 

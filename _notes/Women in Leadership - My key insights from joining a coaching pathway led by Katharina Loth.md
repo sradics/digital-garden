@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Sunday, February 26th 2023, 4:54:25 am
+date_modified: Thursday, May 18th 2023, 6:15:54 pm
 ---
 # [[Women in Leadership - My key insights from joining a coaching pathway led by Katharina Loth ]]
 

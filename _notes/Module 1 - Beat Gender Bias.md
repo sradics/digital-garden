@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Thursday, January 12th 2023, 2:50:18 pm
+date_modified: Thursday, May 18th 2023, 6:15:54 pm
 ---
 # Module 1 - Beat Gender Bias
 [Source](https://www.blinkist.com/en/app/books/beat-gender-bias-en)
@@ -46,7 +48,6 @@ Team diversity, such as teammates being of different genders, only benefits perf
 When a team’s work involves routine tasks, where stability and efficiency are the biggest predictors of success, then homogenous, nondiverse teams perform best.
 
 Diverse teams make more accurate predictions, generate a greater number of high-quality ideas and opinions, think more critically, are more creative, and are better at discerning truth from falsehoods than homogenous teams are
-* 
 # Linking
 + [[Team Genius]]
 

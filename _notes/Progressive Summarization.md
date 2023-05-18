@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
+date_created: Saturday, June 4th 2022, 12:02:51 pm
+date_modified: Thursday, May 18th 2023, 5:50:32 pm
 ---
 # Progressive Summarization
 [Source](https://www.youtube.com/watch?v=fWFKoVbSwGo)

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
+date_created: Sunday, July 3rd 2022, 7:08:55 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Management 3.0 - Management for Complex Domain
 ## Topic

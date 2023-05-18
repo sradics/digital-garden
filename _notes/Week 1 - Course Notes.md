@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/literature-note
+date_created: Friday, May 12th 2023, 4:58:25 pm
+date_modified: Thursday, May 18th 2023, 5:50:10 pm
 ---
 # Week 1 - Course Notes
 Course: [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) by Dr. Barbara Oakley, Dr. Terrence Sejnowski
@@ -125,6 +127,5 @@ Leading scientist in the world of topic neuroscience.
 * [[A Mind For Numbers - Barbara Oakley PhD]] ([Blinkist](https://www.blinkist.com/en/app/books/a-mind-for-numbers-en))
 * [[85 Steps to Writing Faster Better - Daphne Gray-Grant]]
 * [[My Reflective Essay]]
-
 
 [^1]: Connects with [[BASB - Learning about Express#ROA - Return on Attention - The most important metric for knowledge workers|Return on Attention]]

@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
+date_created: Sunday, August 14th 2022, 12:43:16 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Why You’ll Probably Never Run Out Of Money
 ## Metadata

@@ -4,6 +4,8 @@ tags:
 - epstatus/0-🌰
 - fastlane
 - type/fleeting-note
+date_created: Tuesday, February 28th 2023, 1:25:07 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # The 5 Models Of Content Curation
 **The 5 Models Of Content Curation**

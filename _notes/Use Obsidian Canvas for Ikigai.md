@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - fastlane
+date_created: Friday, February 24th 2023, 1:09:15 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Use Obsidian Canvas for Ikigai
 

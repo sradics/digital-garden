@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note
+date_created: Sunday, September 11th 2022, 5:20:03 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Why Brainstorming fails
 [[How to Take Smart Notes |source]]

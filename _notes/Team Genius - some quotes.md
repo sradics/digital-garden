@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Thursday, November 10th 2022, 10:34:56 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Team Genius - some quotes
 

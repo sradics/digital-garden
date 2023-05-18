@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Friday, July 22nd 2022, 7:14:50 pm
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # $10K Training Lesson 12 Using leverage to grow your career (while you sleep)
 ## Metadata

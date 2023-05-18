@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Sunday, March 12th 2023, 6:40:34 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Visualize my Knowledge Portfolio as T-Shaped graph
 Idea is to use my [[31.01 Knowledge Portfolio]] and create a visualization in Excalidraw that displays my expertise areas and also shows the level of T expertise in certain aspects.

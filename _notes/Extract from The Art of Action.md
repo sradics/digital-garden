@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
+date_created: Sunday, August 14th 2022, 1:39:56 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Extract from The Art of Action
 **What do you want me to do?**

@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/1-🌱
+date_created: Monday, November 28th 2022, 7:43:26 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Teaser for Second brain and capturing the 1%
 

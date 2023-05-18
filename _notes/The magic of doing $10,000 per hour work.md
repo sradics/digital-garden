@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Monday, July 11th 2022, 3:58:59 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # The magic of doing $10,000 per hour work
 

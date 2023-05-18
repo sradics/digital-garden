@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
+date_created: Thursday, July 7th 2022, 5:09:57 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # How to design the perfect day
 

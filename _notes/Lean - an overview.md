@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
+date_created: Sunday, September 18th 2022, 3:13:20 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Lean
 Unlike Scrum and XP, Lean doesn’t include a set of practices. Lean is a mindset, and just like with the mindset for Scrum or XP, Lean comes with values and principles (which, in Lean terminology, are called “thinking tools”). 

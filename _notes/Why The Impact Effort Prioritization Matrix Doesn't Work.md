@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/0-🌰
+date_created: Friday, July 8th 2022, 7:15:25 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Why The Impact Effort Prioritization Matrix Doesn't Work
 ## Metadata

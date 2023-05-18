@@ -4,6 +4,8 @@ tags:
  - MOC
  - digital_garden
  - epstatus/0-🌰
+date_created: Sunday, March 19th 2023, 8:26:50 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # MOC Agile 2
 [[Sparks from Agile 2]] - captured initial thoughts what to further look at, what was inspiring while reading

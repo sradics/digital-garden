@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/3-🌳
 - type/index-note
+date_created: Thursday, July 28th 2022, 3:31:42 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Power MBABooklist including Blinkist Blinks
 

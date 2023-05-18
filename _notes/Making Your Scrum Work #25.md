@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Monday, September 19th 2022, 6:27:02 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Making Your Scrum Work #25
 ## Metadata

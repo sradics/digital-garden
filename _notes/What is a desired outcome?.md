@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Monday, June 6th 2022, 9:30:28 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # What is a desired outcome?
 

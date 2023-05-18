@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/literature-note
+date_created: Sunday, August 21st 2022, 6:59:00 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Kopf frei - Free Mind
 ## Book information

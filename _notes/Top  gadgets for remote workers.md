@@ -4,6 +4,8 @@ tags:
 - type/fleeting-note
 - epstatus/0-🌰
 - fastlane
+date_created: Sunday, July 24th 2022, 6:48:55 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Top  gadgets for remote workers
 

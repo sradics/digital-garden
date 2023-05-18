@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/literature-note
+date_created: Wednesday, January 4th 2023, 11:41:00 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # How to talk to Anyone - Bib Notes
 

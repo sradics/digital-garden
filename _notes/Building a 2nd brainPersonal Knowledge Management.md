@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/index-note
+date_created: Thursday, June 30th 2022, 5:01:52 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Building a 2nd brainPersonal Knowledge Management
 ## Topic

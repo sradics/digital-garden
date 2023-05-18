@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/1-🌱
+date_created: Tuesday, November 22nd 2022, 6:54:23 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Notes from the Fifth Discipline
 + [Blink version of the book](https://www.blinkist.com/en/nc/reader/the-fifth-discipline-en)

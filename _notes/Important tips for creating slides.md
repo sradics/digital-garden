@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Wednesday, January 25th 2023, 6:17:34 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Important tips for creating slides
 

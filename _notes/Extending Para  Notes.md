@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Tuesday, February 7th 2023, 4:25:26 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Extending Para  Notes
 [Source](https://fractalproductivity.substack.com/p/paramore?ck_subscriber_id=1758824896)

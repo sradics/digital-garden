@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/permanent-note
+date_created: Wednesday, March 1st 2023, 9:01:02 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # [[Note about lead magnets ]]
 Source: Maven info mail by Maven

@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/1-🌱
+date_created: Monday, September 5th 2022, 5:39:34 pm
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # How to implement OKRs at your small business
 ## Metadata

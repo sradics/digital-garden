@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/literature-note
+date_created: Wednesday, November 16th 2022, 5:04:59 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Notes from Working Smarter through your tech stack
 + the **challenge of Hybrid Working**

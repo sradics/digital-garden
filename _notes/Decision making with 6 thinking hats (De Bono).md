@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Monday, May 15th 2023, 10:39:10 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Decision making with 6 thinking hats (De Bono)
 Work with the 6 hats *Data* (white), *Emotion* (red), *Risks* (black), *Optimism* (yellow), *Creativity* (green), *Process* (blue).

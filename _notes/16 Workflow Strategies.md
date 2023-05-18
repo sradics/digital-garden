@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/3-🌳
 - type/permanent-note
+date_created: Tuesday, November 22nd 2022, 5:18:36 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # 16 Workflow Strategies for Executing Modern Projects
 [Source](https://fortelabs.com/blog/just-in-time-pm-21-workflow-strategies/) by Tiago Forte 

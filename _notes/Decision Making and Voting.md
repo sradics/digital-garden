@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Wednesday, March 22nd 2023, 6:13:49 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Decision Making and Voting
 According to [[Kurt Cagle-Agile 2]] - Voting is not recommended for important issues. ==A vote indicates popularity== of an idea, rather than determining whether the idea is best.

@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
+date_created: Saturday, June 4th 2022, 11:58:00 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Para Blog by Tiago Forte
 ## Based on

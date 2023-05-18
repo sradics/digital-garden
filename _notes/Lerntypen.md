@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
+date_created: Wednesday, October 12th 2022, 5:09:44 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Lerntypen
 [source](https://www.linkedin.com/posts/trainergeheimnisse_onlinekursen-didaktik-lernarchitektur-activity-6985863836633305089-Vxda?utm_source=share&utm_medium=member_desktop) by [Michael Smetana](https://www.linkedin.com/in/trainergeheimnisse/)

@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/literature-note
+date_created: Sunday, February 19th 2023, 9:08:59 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Notes from The 5AM Club
 

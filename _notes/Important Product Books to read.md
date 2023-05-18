@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
+date_created: Wednesday, September 28th 2022, 6:57:51 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # Important Product Books to read
 Inspired by [Gerard Chiva in his book Product Roadmapping](https://leanpub.com/product-roadmapping-in-practice) (p126)

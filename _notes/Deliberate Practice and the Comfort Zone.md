@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Saturday, February 4th 2023, 5:57:05 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Deliberate Practice and the Comfort Zone
 

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Tuesday, May 2nd 2023, 4:01:31 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Notes on the Crisis of Fractured Organizations
 [Source](https://www.airtable.com/ty/resources/reports/crisis-of-the-fractured-organization)

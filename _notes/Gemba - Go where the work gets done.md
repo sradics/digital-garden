@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Wednesday, March 29th 2023, 6:07:20 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Gemba - Go where the work gets done
 

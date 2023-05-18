@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/3-🌳
 - type/permanent-note
+date_created: Sunday, November 20th 2022, 12:57:32 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Maturity Model for my Obsidian Notes
 Based on the [great input from Nitin Pai](https://notes.nitinpai.in/Colophon/Bean)

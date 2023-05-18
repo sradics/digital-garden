@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/0-🌰
+date_created: Sunday, August 7th 2022, 10:35:44 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # 10 Popular Product Frameworks - A brief guide
 ## Metadata

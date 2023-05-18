@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
+date_created: Tuesday, March 28th 2023, 9:43:39 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Thought around deep work - 2023-03-28
 Based on [[Notes from Das erschoepfte Gehirn]] I had some interesting thoughts during my sports session on Peloton. This is just to externalise thoughts...

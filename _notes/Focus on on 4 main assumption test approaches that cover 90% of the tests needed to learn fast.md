@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/3-🌳
+date_created: Thursday, October 27th 2022, 4:40:41 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Focus on on 4 main assumption test approaches that cover 90% of the tests needed to learn fast
 + **Simulate a moment** and evaluate **behavior** OR

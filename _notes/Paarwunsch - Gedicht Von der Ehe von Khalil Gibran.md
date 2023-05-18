@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/3-🌳
 - type/permanent-note
+date_created: Wednesday, September 7th 2022, 8:48:29 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Paarwunsch - Gedicht Von der Ehe von Khalil Gibran
 Diese besonderen Zeilen wurden und von Anne und Christian als Teil unseres Hochzeitsgeschenks gewidmet.

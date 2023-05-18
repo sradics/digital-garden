@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note
+date_created: Friday, September 16th 2022, 9:20:36 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Smart Oven
 ## My simple setup

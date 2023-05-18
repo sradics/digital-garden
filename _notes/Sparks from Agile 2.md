@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
+date_created: Sunday, March 19th 2023, 12:16:39 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Sparks from Agile 2
 + Investigate Socratic leadership (and socratic discussion) --> [[Socratic Leadership]]

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/index-note
+date_created: Sunday, August 14th 2022, 12:59:29 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # MOC Strategy
 + [[OODA Loops Knowledge]]

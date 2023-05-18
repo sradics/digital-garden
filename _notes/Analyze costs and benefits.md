@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
+date_created: Friday, July 1st 2022, 5:14:06 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Analyze costs and benefits
 Proper initiation also helps ensure that the _benefits_ of the project outcomes will outweigh the _costs_.

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Thursday, September 8th 2022, 6:16:15 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # How to take Smart Notes - Key Insights
 ## High level instructions for the Slip Box

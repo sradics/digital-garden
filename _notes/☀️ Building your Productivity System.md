@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
+date_created: Sunday, August 7th 2022, 10:35:45 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Building your Productivity System
 ## Metadata

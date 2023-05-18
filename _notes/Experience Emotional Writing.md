@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note
+date_created: Tuesday, May 31st 2022, 8:08:02 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Experience Emotional Writing
 I faced a question about the topic digital gardening and why I would like to publish my thoughts. This time I took the time to ==externalize my thoughts via just writing== about it. Flushing it without thinking about formatting, proper phrasing and if what I'm writing is right or wrong or phrased in a not offending way.

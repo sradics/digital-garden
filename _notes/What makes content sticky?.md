@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Saturday, January 14th 2023, 8:08:41 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # What makes content sticky?
 [source](https://growth.design/case-studies/tiktok-feed-psychology)

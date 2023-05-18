@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Monday, January 30th 2023, 2:57:31 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Agile Coach Career model from Spotify
 

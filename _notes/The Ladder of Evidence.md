@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - epstatus/1-🌱
+date_created: Tuesday, October 25th 2022, 3:09:33 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # The Ladder of Evidence
 Generate high value learning in your customer interviews.

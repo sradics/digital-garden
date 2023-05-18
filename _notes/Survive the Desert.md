@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/3-🌳
+date_created: Thursday, November 10th 2022, 9:54:11 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Survive the Desert
 

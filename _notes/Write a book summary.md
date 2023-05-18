@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
+date_created: Tuesday, June 7th 2022, 7:37:51 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Write a book summary
 [Source](https://www.youtube.com/watch?v=AdWyWK2QFRE&t=38s)

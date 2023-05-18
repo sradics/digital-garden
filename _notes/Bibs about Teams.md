@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
+date_created: Friday, July 1st 2022, 6:06:08 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Bibs about Teams
 ## Team Genius by Rich Karlgaard and Michael S. Malone

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Sunday, July 31st 2022, 8:36:23 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Week 4 - Assignment
 ## Step 1: Brainstorm skills adjacent to your existing skillset

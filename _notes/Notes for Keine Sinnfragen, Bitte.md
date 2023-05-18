@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Sunday, September 25th 2022, 7:14:55 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Notes for Keine Sinnfragen, Bitte
 Source: [[Keine Sinnfragen bitte! - Gunter Dueck]]

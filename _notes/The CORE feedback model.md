@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
+date_created: Monday, May 15th 2023, 10:20:04 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # The CORE feedback model
 ## Context

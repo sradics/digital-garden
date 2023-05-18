@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Friday, September 16th 2022, 5:58:42 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Shotgun surgery
 mentioned in [[Learning Agile]] page 226 it happens "==when you attempt to make a small change to one part of the code, but find that is requires change to, say, two or three more seemingly unrelated or barely related parts of the codebase=="

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note
+date_created: Saturday, February 25th 2023, 8:49:54 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # [[Grow 21 skills that pay you forever by Building your Second Brain ]]
 

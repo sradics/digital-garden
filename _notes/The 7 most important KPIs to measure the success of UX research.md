@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
+date_created: Friday, August 19th 2022, 5:20:24 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # The 7 most important KPIs to measure the success of UX research
 ## Metadata

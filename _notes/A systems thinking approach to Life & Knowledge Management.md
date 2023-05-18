@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Thursday, June 16th 2022, 9:32:29 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # A systems thinking approach to Life & Knowledge Management
 [source](https://www.youtube.com/watch?v=HJ0dC82mZZE)

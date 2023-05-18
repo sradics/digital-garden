@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
+date_created: Tuesday, June 7th 2022, 9:56:59 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # _What is a literature note
 [Source](https://fortelabs.co/blog/how-to-take-smart-notes/)

@@ -3,6 +3,8 @@ tags:
 - epstatus/2-🪴
 - type/literature-note
 - digital_garden
+date_created: Tuesday, March 28th 2023, 6:17:44 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Notes from Das erschoepfte Gehirn - The exhausted brain
 [Source](https://www.blinkist.com/en/nc/reader/das-erschopfte-gehirn-de) Author: Michael Nehls

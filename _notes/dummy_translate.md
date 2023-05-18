@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
+date_created: Friday, May 5th 2023, 1:32:56 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # dummy_translate
 Es gibt so viel zu entdecken in wer Welt. Und hier kommt Blinkist ins Spiel. 

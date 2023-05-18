@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
+date_created: Wednesday, August 17th 2022, 9:15:27 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # MOC Continuous Discovery Habits
 ## Cross Linking for Continuous Discovery Habits

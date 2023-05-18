@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note
+date_created: Friday, June 24th 2022, 5:28:48 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Focus on the right work
 [Source](https://www.youtube.com/watch?v=CDZGgwguvYs&list=PLVNXAaej57W61wW9vtPNYPIuDnVQLP5TH&index=14)

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Tuesday, August 30th 2022, 1:02:56 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Empiricism
 Information is gained by observation rather than prediction.

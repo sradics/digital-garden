@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Thursday, April 20th 2023, 9:34:03 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Creating a flow of energy
 ## Creating an energy flow

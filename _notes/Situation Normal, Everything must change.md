@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - epstatus/1-🌱
+date_created: Wednesday, November 16th 2022, 4:25:30 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Situation Normal, Everything must change
 Five factors that matter in competition.

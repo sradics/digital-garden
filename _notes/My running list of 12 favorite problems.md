@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Monday, May 1st 2023, 5:49:50 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # My running list of 12 favorite problems
 

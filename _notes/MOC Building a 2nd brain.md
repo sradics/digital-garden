@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - MOC
 - epstatus/2-🪴
+date_created: Thursday, July 28th 2022, 3:17:39 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # MOC Building a 2nd brain
 

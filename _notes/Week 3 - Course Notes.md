@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/literature-note
+date_created: Monday, May 15th 2023, 5:41:23 am
+date_modified: Thursday, May 18th 2023, 6:15:54 pm
 ---
 # Week 3 - Course Notes - Procrastination and Memory
 Course: [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) by Dr. Barbara Oakley, Dr. Terrence Sejnowski

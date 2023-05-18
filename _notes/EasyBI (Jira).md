@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
+date_created: Thursday, June 30th 2022, 5:04:14 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # EasyBI (Jira)
 ## Topic

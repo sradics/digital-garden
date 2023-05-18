@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - epstatus/2-🪴
+date_created: Saturday, February 4th 2023, 10:13:53 pm
+date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---
 # 5 advantages of using a second brain to manage my knowledge
 

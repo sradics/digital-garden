@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/literature-note
+date_created: Tuesday, November 15th 2022, 7:12:12 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Course Notes - Eliminate unconscious bias at work
 

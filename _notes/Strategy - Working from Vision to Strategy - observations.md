@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Wednesday, May 10th 2023, 4:34:05 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Strategy - Working from Vision to Strategy - observations
 In 2023-05 I was involved in a team to create the product strategy for 3 years. This note outlines some observations & learnings on structure

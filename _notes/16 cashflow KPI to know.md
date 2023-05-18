@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Sunday, January 29th 2023, 5:30:40 pm
+date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---
 # 16 cashflow KPI to know
 [Source](https://www.linkedin.com/posts/oanalabes_entrepreneur-finance-business-activity-7025432361060171776-oko3?utm_source=share&utm_medium=member_desktop)

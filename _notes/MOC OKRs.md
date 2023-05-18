@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
+date_created: Thursday, September 29th 2022, 5:51:06 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # MOC OKRs
 + [[Use OKRs for professional development]]

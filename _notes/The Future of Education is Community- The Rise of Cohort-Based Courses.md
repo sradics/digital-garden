@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Wednesday, September 7th 2022, 6:01:52 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # The Future of Education is Community- The Rise of Cohort-Based Courses
 ## Metadata

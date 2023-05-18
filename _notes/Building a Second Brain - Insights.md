@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Thursday, June 16th 2022, 5:42:02 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Building a Second Brain - Insights
 

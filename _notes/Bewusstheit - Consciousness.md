@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
+date_created: Monday, August 22nd 2022, 7:33:16 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Bewusstheit - Consciousness
 ## Book information

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Monday, September 26th 2022, 1:20:05 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Take notes after each chapter - Learnings
 With the book [[Notes for Keine Sinnfragen, Bitte]] I tried the first time to take my notes immediately after I finished reading a chapter. 

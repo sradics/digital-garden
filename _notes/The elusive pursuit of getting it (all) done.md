@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Monday, July 11th 2022, 3:59:00 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 
 ## Metadata

@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Tuesday, January 24th 2023, 11:52:57 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Book list to find out Jobs to be Done
 [Source](https://www.linkedin.com/posts/robertcmeza_behavioralscience-behavioraldesign-innovation-activity-7023541483517411328--OKX?utm_source=share&utm_medium=member_desktop)

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Thursday, September 29th 2022, 6:17:21 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # About a Product Mindset
 + Consider the problem to solve for the customer. 

@@ -4,6 +4,8 @@ tags:
 - MOC
 - type/index-note
 - epstatus/2-🪴
+date_created: Thursday, September 22nd 2022, 8:17:33 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # MOC Agile Learning Path
  - [[12 Principles behind the Agile Manifesto]]

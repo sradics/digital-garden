@@ -12,5 +12,7 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/0-🌰
+date_created: Sunday, July 31st 2022, 8:46:38 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # High Output Management - Andrew S Grove

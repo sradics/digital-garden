@@ -5,6 +5,8 @@ tags:
 - epstatus/0-🌰
 - type/fleeting-note
 - fastlane
+date_created: Wednesday, January 25th 2023, 6:08:16 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Using AI for marketing
 

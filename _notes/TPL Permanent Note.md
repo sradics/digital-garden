@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Saturday, February 25th 2023, 8:38:18 am
+date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---
 <%* const newFolder = '/S01 Personal/030-039 Areas/32 Zettelkasten/Permanent notes/' -%>
 <%* function log(msg) { console.log(msg); } -%>

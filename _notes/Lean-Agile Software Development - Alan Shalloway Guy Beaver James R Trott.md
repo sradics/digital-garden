@@ -18,5 +18,7 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
+date_created: Sunday, September 18th 2022, 3:34:52 pm
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # Lean-Agile Software Development - Alan Shalloway Guy Beaver James R Trott

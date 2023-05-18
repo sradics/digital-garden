@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Tuesday, May 9th 2023, 12:22:23 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Argumentation for Cohort Based Courses
 > [!note] Definition for CBC

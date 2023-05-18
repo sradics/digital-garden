@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Friday, November 25th 2022, 8:53:22 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # OKRs and continuous discovery habits
 

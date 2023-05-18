@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - epstatus/2-🪴
+date_created: Saturday, February 4th 2023, 2:34:21 pm
+date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---
 # AI in Obsidian
 Recently I unlocked new possibilities with Text Generator in my Obsidian Second Brain 🧠 - it's a great addition! rephrase: Now I can super easy  get what I want

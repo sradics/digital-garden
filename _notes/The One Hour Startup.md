@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Monday, January 30th 2023, 2:46:13 pm
+date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---
 # The One Hour Startup
 

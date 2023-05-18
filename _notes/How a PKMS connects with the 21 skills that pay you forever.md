@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Sunday, January 29th 2023, 7:20:28 am
+date_modified: Thursday, May 18th 2023, 6:15:54 pm
 ---
 # How a PKMS connects with the 21 skills that pay you forever
 Discover how your PKMS can be leveraged to unlock the full potential of the [[21 Important Skills| 21 skills that will pay you dividends for life]].

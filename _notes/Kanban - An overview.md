@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/3-🌳
+date_created: Thursday, July 28th 2022, 3:14:36 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Kanban - An overview
 “The Kanban Method introduces a complex adaptive system that is intended to catalyze a Lean outcome within an organization.” ( [[Learning Agile]] (p315) )

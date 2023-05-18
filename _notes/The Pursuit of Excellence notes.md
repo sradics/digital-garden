@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Thursday, February 9th 2023, 6:08:53 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # The Pursuit of Excellence notes
 

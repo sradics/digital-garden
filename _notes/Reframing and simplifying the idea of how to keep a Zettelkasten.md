@@ -4,6 +4,8 @@ tags:
 - type/literature-note
 - digital_garden
 - epstatus/1-🌱
+date_created: Tuesday, February 21st 2023, 6:57:13 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 ## Metadata
 * URL: [https://boffosocko.com/2022/06/10/reframing-and-simplifying-the-idea-of-how-to-keep-a-zettelkasten/](https://boffosocko.com/2022/06/10/reframing-and-simplifying-the-idea-of-how-to-keep-a-zettelkasten/)

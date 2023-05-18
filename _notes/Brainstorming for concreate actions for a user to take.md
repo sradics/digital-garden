@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - fastlane
+date_created: Saturday, February 11th 2023, 8:24:16 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Brainstorming for concreate actions for a user to take
 
@@ -32,4 +34,3 @@ tags:
 	+ Implement the list of projects in your PARA folder structure
 + Create a list of Areas
 	+ Implement the folder structure for your areas
-	+ 

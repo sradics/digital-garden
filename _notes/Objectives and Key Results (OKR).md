@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/3-🌳
+date_created: Monday, July 18th 2022, 7:20:21 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Objectives and Key Results (OKR)
 ## Metadata

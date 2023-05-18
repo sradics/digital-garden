@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Friday, May 12th 2023, 6:12:56 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # 5 books about mental models
 + Thinking, Fast and Slow (Daniel Kahneman) ([at Blinkist](https://www.blinkist.com/en/app/books/thinking-fast-and-slow-en))

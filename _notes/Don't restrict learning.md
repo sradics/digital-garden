@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Monday, September 19th 2022, 9:12:14 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Don't restrict learning
 

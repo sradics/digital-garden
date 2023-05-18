@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/0-🌰
+date_created: Tuesday, May 9th 2023, 10:48:31 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # $10K Training Lesson 2 How to waste your day- 3 behavorial mistakes to avoid
 ## Metadata

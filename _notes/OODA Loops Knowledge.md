@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/3-🌳
+date_created: Sunday, August 14th 2022, 12:25:14 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # OODA Loops Knowledge
 > [!info] Attribution

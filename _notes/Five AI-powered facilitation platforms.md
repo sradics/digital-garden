@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Tuesday, January 24th 2023, 6:51:21 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Five AI-powered facilitation platforms
 

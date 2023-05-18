@@ -18,6 +18,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/0-🌰
+date_created: Sunday, September 25th 2022, 7:21:42 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # Keine Sinnfragen bitte! - Gunter Dueck
 

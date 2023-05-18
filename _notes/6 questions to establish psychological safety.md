@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Monday, May 15th 2023, 11:04:26 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # 6 questions to establish psychological safety
 + What is the thing you see me doing that is helping **me to best contribute** to the team?

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/0-🌰
+date_created: Wednesday, September 28th 2022, 7:10:31 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # Product Leadership - Richard Banfield Martin Eriksson Nate Walkingshaw
 

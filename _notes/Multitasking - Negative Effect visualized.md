@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/fleeting-note
 - epstatus/1-🌱
+date_created: Tuesday, July 5th 2022, 8:25:56 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Multitasking - Negative Effect visualized
 

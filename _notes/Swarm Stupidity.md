@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Monday, October 24th 2022, 6:41:07 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Swarm Stupidity
 

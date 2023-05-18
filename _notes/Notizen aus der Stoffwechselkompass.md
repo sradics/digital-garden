@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Sunday, February 12th 2023, 7:20:35 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Notizen aus der Stoffwechselkompass
 [Source at Blinkist](https://www.blinkist.com/de/nc/reader/der-stoffwechsel-kompass-de)

@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note
+date_created: Friday, February 24th 2023, 10:29:20 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # About my usage of Fleeting Notes, Permanent notes and Literature Notes
 ## Fleeting notes

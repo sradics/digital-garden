@@ -2,6 +2,8 @@
 tags: 
 - digital_garden
 - epstatus/2-🪴
+date_created: Monday, February 6th 2023, 9:53:30 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 
 # Currently used Plugins in an overview

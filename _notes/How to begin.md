@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Thursday, June 9th 2022, 5:49:56 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 
 # How to begin

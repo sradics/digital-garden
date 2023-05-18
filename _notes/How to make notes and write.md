@@ -5,6 +5,8 @@ tags:
 - epstatus/0-🌰
 - fastlane
 - type/literature-note
+date_created: Tuesday, February 21st 2023, 6:39:08 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # How to make notes and write
 ## Highlights

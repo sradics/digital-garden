@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - fastlane
+date_created: Monday, February 13th 2023, 12:17:40 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Notes from Crashcourse Zettelkaste for Beginners
 [Source](https://www.youtube.com/watch?v=cxREbrWzP8w)

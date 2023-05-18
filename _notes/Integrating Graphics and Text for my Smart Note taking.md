@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
+date_created: Tuesday, September 20th 2022, 3:05:28 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Integrating Graphics and Text for my Smart Note taking
 I currently rely a lot on text only and do not leverage my Remarkable and also not Obsidian Excalidraw. 

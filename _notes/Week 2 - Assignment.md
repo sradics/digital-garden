@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
+date_created: Sunday, July 31st 2022, 9:15:12 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Week 2 - Assignment
 

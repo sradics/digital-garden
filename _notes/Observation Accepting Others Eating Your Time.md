@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
+date_created: Tuesday, May 31st 2022, 8:52:16 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Observation Accepting Others Eating Your Time
 

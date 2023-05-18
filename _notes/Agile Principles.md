@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Sunday, September 18th 2022, 2:13:59 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Agile Principles
 [Principles from the Agile Manifesto](https://agilemanifesto.org/principles.html)

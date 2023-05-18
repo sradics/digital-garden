@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Saturday, February 4th 2023, 5:51:44 pm
+date_modified: Thursday, May 18th 2023, 6:15:54 pm
 ---
 # Why and for whom might this be relevant?
 [[15 Powerful Life Illustrations]]

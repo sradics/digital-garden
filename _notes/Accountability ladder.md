@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Thursday, January 5th 2023, 12:57:11 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Accountability ladder
 [Source](https://www.linkedin.com/posts/andolfimarco_worklife-motivation-futureofwork-activity-7016644788401618944-6BV9?utm_source=share&utm_medium=member_desktop)

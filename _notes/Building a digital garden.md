@@ -4,6 +4,8 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
+date_created: Tuesday, July 26th 2022, 8:24:34 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # Building a digital garden
 

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: Friday, March 3rd 2023, 5:20:08 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # [[The Learning Pyramid ]]
 + [Source](https://www.educationcorner.com/the-learning-pyramid.html)

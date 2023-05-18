@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Saturday, December 10th 2022, 7:45:05 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Notes from Wista taking video tutorial
 

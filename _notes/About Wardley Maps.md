@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note 
+date_created: Friday, June 24th 2022, 6:59:43 am
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # About Wardley Maps
 

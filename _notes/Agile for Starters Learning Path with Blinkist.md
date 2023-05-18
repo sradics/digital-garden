@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/3-🌳
+date_created: Wednesday, August 31st 2022, 2:51:04 pm
+date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---
 # Agile for Starters Learning Path with Blinkist
 ## Week 1 - Core of Agile

@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
+date_created: Friday, November 18th 2022, 12:49:05 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Notes from Red Ocean Traps
 [Source](https://hbr.org/2015/03/red-ocean-traps?ab=at_art_art_1x4_s03)

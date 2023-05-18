@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/literature-note
+date_created: Saturday, February 18th 2023, 5:28:54 pm
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Notes from Guide Master your 4 pillars of energy
 Insights from Blinkist Guide *[Master your four pillars of Energy](

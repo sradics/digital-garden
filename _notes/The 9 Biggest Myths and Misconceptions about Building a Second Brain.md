@@ -4,6 +4,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
+date_created: Wednesday, September 21st 2022, 8:40:28 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # The 9 Biggest Myths and Misconceptions about Building a Second Brain
 ## Metadata

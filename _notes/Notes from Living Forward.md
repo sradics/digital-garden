@@ -3,6 +3,8 @@ aliases:
 tags: 
 - digital_garden
 - epstatus/0-🌰
+date_created: Sunday, February 19th 2023, 8:07:36 am
+date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---
 # Notes from Living Forward
 [[Living Forward - Michael Hyatt Daniel Harkavy]]

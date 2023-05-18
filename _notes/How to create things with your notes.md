@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
+date_created: Sunday, July 24th 2022, 11:40:09 am
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # How to create things with your notes
 + [How to create things with your notes](https://www.youtube.com/watch?v=4zrs_vVRwD4) (about publishing)

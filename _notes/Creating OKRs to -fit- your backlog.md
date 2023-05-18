@@ -1,6 +1,8 @@
 ---
 tags: 
 - digital_garden
+date_created: Sunday, July 10th 2022, 3:24:47 pm
+date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # Creating OKRs to -fit- your backlog
 ## Metadata

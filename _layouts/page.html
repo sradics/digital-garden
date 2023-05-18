@@ -146,6 +146,11 @@ layout: default
         {% endfor %}  
     </div>
     <div class="col-sm-8">
+        {{ "#### Recent 10 new notes" | markdownify }}    
+        {% simple_tag %} 
+            <a href='_url_' title='_alt_'>_name_</a> |
+        {% endsimple_tag %}  
+         <hr>   
      <content>
         {{ content }}
      </content>

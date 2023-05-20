@@ -4,8 +4,8 @@ tags:
 - epstatus/3-🌳
 - type/permanent-note/essay
 - 
-date_created: Saturday, February 25th 2023, 8:38:18 am
-date_modified: Thursday, May 18th 2023, 6:15:55 pm
+date_created: Friday, May 19th 2023, 1:09:56 pm
+date_modified: Saturday, May 20th 2023, 8:25:41 am
 ---
 # Essay - The CODE to leverage the effect of compounding knowledge
 

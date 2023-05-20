@@ -3,8 +3,7 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-date_created: Tuesday, November 22nd 2022, 6:57:26 am
-date_modified: Thursday, May 18th 2023, 6:15:55 pm
+
 ---
 <%* const newFolder = '/S01 Personal/030-039 Areas/32 Zettelkasten/Fleeting notes/' -%>
 <%* function log(msg) { console.log(msg); } -%>

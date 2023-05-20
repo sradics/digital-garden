@@ -4,7 +4,7 @@ tags:
 - epstatus/3-🌳
 - type/permanent-note
 date_created: Sunday, November 20th 2022, 12:57:32 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_modified: Saturday, May 20th 2023, 8:35:12 am
 ---
 # Maturity Model for my Obsidian Notes
 Based on the [great input from Nitin Pai](https://notes.nitinpai.in/Colophon/Bean)
@@ -72,7 +72,7 @@ my notes falls into five non-linear levels: [Bean](https://notes.nitinpai.in/Co
 
 ## Bean
 
-![[bean.png]]
+![[bean.png|100]]
 
 Bean is the primary raw material for a cup of coffee. It may be fresh or roasted. And there are different kinds of roast: light, medium and dark.
 
@@ -82,7 +82,7 @@ It could be factually wrong, inaccurate, misleading, a dead end, a red herring, 
 
 
 ## Brewing
-![[brewing.png]]
+![[brewing.png|100]]
 The process of brewing is complex, has several variables that can be tweaked, several untweakable and involves time and effort
 
 A note is "brewing" when I have started working on it, but do not think it is ready for sampling. You might smell the coffee at this stage, but it is premature to consume.
@@ -90,14 +90,14 @@ A note is "brewing" when I have started working on it, but do not think it is re
 
 ## Brewed
 
-![[brewed.png]]
+![[brewed.png|100]]
 
 Coffee is brewed when its maker had decided that the brewing is complete. It is filtered in one way or the other and poured into a cup. You can smell the coffee and taste it too. While it is ready for consumption, the aroma and flavour will change with time.
 
 A note is brewed when I think it has finished brewing. So you can consume it with greater confidence. That said, metaphors take us only so far, and I might decide that it needs some more brewing.
 
 ## Overbrewed
-![[overbrewed.png]]
+![[overbrewed.png|100]]
 A note is overbrewed when I revise and modify what I had previously considered brewed. I do it because I think it will improve, but I might have made things worse.
 
 ## In-the-sink

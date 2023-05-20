@@ -15,6 +15,6 @@ permalink: /
 
 <style>
   .wrapper {
-    max-width: 46em;
+    /*max-width: 46em;*/
   }
 </style>

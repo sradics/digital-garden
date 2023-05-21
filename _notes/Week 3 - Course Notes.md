@@ -178,6 +178,69 @@ Memory palace is a powerful group technique for things to remember. It is **usef
 + Make the concept images funny when you connect them to a place. E.g. a huge bread that you put on your table in the dining room (to remember bread).
 + then imagine walking through the place and pick up the items
 
+## Interviews
+### Interview with Nelson Dellis - Memory champion and athlete
++ His exceptional **memory system is trained** and was not given to him by birth.
++ Is **replacing numbers with pictures**. As **pictures are more familiar to our brain**, we can memorize pictures better.
++ core component of memorizing techniques
+	+ memorization - turn **something to memorize into a mental picture that means something to me**
+	+ the picture can be anything
+	+ **attach that picture to a location** (e.g. in your memory palace)
++ for free speeches
+	+ memorize keywords
++ for names
+	+ pay attention
+	+ use a distinguishing feature to store - e.g. a face part, something special. And connect to something this person is remembering you
++ [extremememorychallenge.com ](extremememorychallenge.com)
+
+#### Brain Health - 4 important incredients
++ **keep my brain active**
+	+ Try to memorize things
+	+ Learn new skills
++ **be physically active**
++ **be social** and involve myself with friends and community
++ **diet** - things we eat impact our brain too
+	+ Omega 3
+
+### Interview with Dr. Robert Gamache - Bilingual Scientist
++ **Study every subject every day** - so using it all the time, it is right there in our brains and we can recall that much more easily
++ **repetition** hard wires our brain
++ when **getting stuck - take a break and relax a bit**, **do some small activities** like bouncing a ball or sleep over it
++ **being with family - is also helping with relaxing** and getting back later being much more productive
++ the art of being a professor is in choosing the examples that explain things in a easy to digest way. 
+
+### Interview with Dr. Keith Devlin - the Math Guy
+[[Introduction to Mathematical Thinking - Keith J Devlin]]
+
+Question to look at, when trying to solve a problem
++ What are you trying to do?
++ What do you want to achieve?
++ What information do you have?
+
+Familiarise with a problem so deep as if that becomes a member of your family. Then our brain capabilities of solving real world, day-2-day problems will do its magic.
+
+**==Live inside that problem.==**
+
+Solving a problem is a journey
+
+1) Does an existing technique work?
+2) Can I adapt an existing technique?
+3) If nothing know helps .. go away from the problem and focus on something else ... the come back to it. Fresh eye.
+
+So focus and diffuse brain mode at play.
+
+> [!quote]
+> The brain sorts it out, when it is left alone to do it 
+
+Works very intensily and focussed on one topic at a time. And got very efficient at switching between topics.
+
+
+Cliff Nass worked a lot on research about multitasking. 
+
+
+
+
+
 
 
 

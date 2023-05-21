@@ -246,6 +246,7 @@ Cliff Nass worked a lot on research about multitasking.
 
 # Linking
 * ⬅ [[Week 2 - Course Notes]]
+* ➡ [[Week 4 - Course Notes]]
 
 ### Procrastination
 + [The Procrastination Cure](https://www.blinkist.com/en/app/books/the-procrastination-cure-en-jeffery-combs)

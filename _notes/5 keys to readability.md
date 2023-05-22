@@ -3,7 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-
+date_created: Sunday, May 21st 2023, 9:29:09 pm
+date_modified: Monday, May 22nd 2023, 8:38:21 am
 ---
 # 5 keys to readability
 [Source: 5 keys to readbility](https://readablewriting.com/five-keys-to-readability/)

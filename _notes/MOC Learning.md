@@ -3,7 +3,7 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 date_created: Tuesday, November 22nd 2022, 6:46:47 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_modified: Tuesday, May 23rd 2023, 9:15:12 pm
 ---
 # MOC Learning
 + [[Lerntypen]]
@@ -14,4 +14,5 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 	+ [[Week 1 - Course Notes]]
 	+ [[Week 2 - Course Notes]]
 	+ [[Week 3 - Course Notes]]
+	+ [[Week 4 - Course Notes]]
 + [[Growth Zone Model]]

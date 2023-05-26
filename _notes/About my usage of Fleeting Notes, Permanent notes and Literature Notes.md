@@ -12,6 +12,8 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 Based on (TODO: Insert recent source here) a ==fleeting note is using for highly temporary notes== that one will like trash later. They should be just pointers for following up information, maybe also ToDo lists, more noise level information. 
 Fire and forget would be just fine on this level.
 
+Create them e.g while reading, just 1..2 words when a thought appears.
+
 Use [[TPL Fleeting Note]] and best using the command to create a fleeting note from a template.
 
 ### Storing fleeting notes

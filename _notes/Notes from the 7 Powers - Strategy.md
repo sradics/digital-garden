@@ -84,7 +84,7 @@ Examples: Facebook, LinkedIn - each users adds value to other users.
 
 
 #### Benefit
-+ charge higher prices, because it provides higher value trough the network (and the power of more users)
++ charge higher prices, because it provides higher value through the network (and the power of more users)
 #### Barrier
 + unattractive cost of gaining share (what can be extremely high, when one needs to buy out users to join another network)
 

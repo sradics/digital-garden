@@ -4,9 +4,9 @@ tags:
 - type/literature-note
 - digital_garden
 date_created: Monday, June 5th 2023, 7:36:27 pm
-date_modified: Monday, June 5th 2023, 8:49:36 pm
+date_modified: Monday, June 5th 2023, 8:52:07 pm
 ---
-# Great ralk about Agile and Musk Companies
+# Great talk about Agile and Musk Companies
 Great talk on Agile … How would Elon Musk run your business: [Source](https://www.youtube.com/watch?v=w9koMbfO6_s)  - full credits to [AgeOfProduct](https://age-of-product.com/) and [Joe Justice](https://www.youtube.com/c/JoeJustice0/videos)
 
 + drive to align the board

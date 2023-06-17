@@ -5,7 +5,7 @@ tags:
 - type/permanent-note
 - epstatus/2-🪴
 date_created: Thursday, June 2nd 2022, 6:28:37 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_modified: Saturday, June 17th 2023, 7:47:41 am
 ---
 # PARA Method Notes
 Put **personally relevant** information in Areas, and **generally useful** information in Resources (allows you to share notes from your resources without having to comb through for any personal information).
@@ -13,8 +13,11 @@ Put **personally relevant** information in Areas, and **generally useful** i
 As yourself: When would you like to face this information next time?
 
 ## Projects
-Projects → **Goals** to be achieved by a deadline
-A series of tasks linked to a goal, with a deadline
+> [!note]
+> Short term efforts in your work-life that you're working on now
+> Projects → **Goals** to be achieved by a deadline
+> A series of tasks linked to a goal, with a deadline
+
 
 "Any outcome you’re committed to that requires more than one work session to complete"
 
@@ -31,31 +34,44 @@ If you are using verbs such as manage, oversee, ensure, or maximize, it is proba
 ### About Goals
 - A goal without a corresponding project is a "dream"
 - A project without a corresponding goal is a "hobby"
+
 ## Areas of Responsibility
-A sphere of activity with a standard to be maintained over time
+> [!note]
+> **Long term responsibilities** you want to manage over time.
+> A sphere of activity with a standard to be maintained over time.
 
 * The roles you take on in life and the hats you wear (Spouse, Mother/Father, Team Leader, Soccer Coach)
 * The ongoing standards where the buck stops with you (Product Development, Company Newsletter, Legal)
 * Things that take a certain amount of constant attention (Exercise, Finances, Apartment, Pets)
+
 ## Resources
+> [!note]
+> **Topics or interest** that may be useful in the future 
+
+
 - Interests (web design, crowdfunding, woodworking, frisbee golf, bio-hacking
 - Themes (psychology, politics, leadership, integrity)
 - Assets (stock photos, typography links, marketing swipe file, product testimonials, code snippets)
 
+## Archives
+> [!note]
+>  inactive items from any of the 3 categories (PAR)
+
+
 ## Flow of items
 ### From Projects
-- TO AREAS: A project can become a long-term, ongoing responsibility
-- TO RESOURCES: Scan the "intermediate work" (brainstorms, notes, background research, diagrams, interview notes, etc.) generated during a project that may be useful for future projects
-- TO ARCHIVES: Moving completed or inactive projects to Archives for future reference
+- ➡ AREAS: A project can become a long-term, ongoing responsibility
+- ➡ RESOURCES: Scan the "intermediate work" (brainstorms, notes, background research, diagrams, interview notes, etc.) generated during a project that may be useful for future projects
+- ➡ ARCHIVES: Moving completed or inactive projects to Archives for future reference
 
 ### From Areas
-- TO PROJECTS: Information you've been collecting may be useful to a new project you started
-- TO RESOURCES: If you realize a note that you thought was only relevant to you can also provide value to others
-- TO ARCHIVES: Archiving an area that ceases to be active (this applies to relationships)
+- ➡ PROJECTS: Information you've been collecting may be useful to a new project you started
+- ➡ RESOURCES: If you realize a note that you thought was only relevant to you can also provide value to others
+- ➡ ARCHIVES: Archiving an area that ceases to be active (this applies to relationships)
 
 ### From Resources
-- TO PROJECTS: An interest can become a full-blown project (one of the primary use cases for resource notebooks)
-- TO AREAS: When you realize a piece of information in a resource notebook could apply to an area of responsibility in your life
+- ➡ PROJECTS: An interest can become a full-blown project (one of the primary use cases for resource notebooks)
+- ➡ AREAS: When you realize a piece of information in a resource notebook could apply to an area of responsibility in your life
 
 
 ## Core Principle of Organization

@@ -18,18 +18,23 @@ As yourself: When would you like to face this information next time?
 > Projects → **Goals** to be achieved by a deadline
 > A series of tasks linked to a goal, with a deadline
 
++ Rule of thumb: max to 10-15 projects. 
++ Pay attention to goo titles for a project
 
 "Any outcome you’re committed to that requires more than one work session to complete"
 
-Write desired outcomes in the present tense to project yourself forward in time to when the outcome you are describing has come true (For example, Project: Schedule doctor's appointment ⇒ Outcome: Back pain is resolved and I can sleep through the night without discomfort)
+Write **desired outcomes** in the present tense to project yourself forward in time to when the outcome you are describing has come true (For example, Project: Schedule doctor's appointment ⇒ Outcome: Back pain is resolved and I can sleep through the night without discomfort)
 
 Add a date
+
+> [!important]
+> Completed projects are the oxygen of your Second Brain 
+
 
 ### Language patterns
 We're looking for a verb that describes DONE: finalize, submit, deliver, complete, send, clarify, organize, update, implement, resolve, submit, reorganize, design, roll out, install, set up, publish, or complete
 
 If you are using verbs such as manage, oversee, ensure, or maximize, it is probably an ongoing Area of Responsibility, not a Project
-
 
 ### About Goals
 - A goal without a corresponding project is a "dream"
@@ -38,25 +43,49 @@ If you are using verbs such as manage, oversee, ensure, or maximize, it is proba
 ## Areas of Responsibility
 > [!note]
 > **Long term responsibilities** you want to manage over time.
-> A sphere of activity with a standard to be maintained over time.
+> A sphere of activity with **a standard to be maintained over time**.
 
 * The roles you take on in life and the hats you wear (Spouse, Mother/Father, Team Leader, Soccer Coach)
 * The ongoing standards where the buck stops with you (Product Development, Company Newsletter, Legal)
 * Things that take a certain amount of constant attention (Exercise, Finances, Apartment, Pets)
+* **==Require ongoing or repeated actions now or in the future==**
+
+### Examples
++ *Finance* - Managing your money well does not have a finite end-date
+	+ Standard: e.g. Pay the bills on time
++ Monthly reports
++ Marketing
++ Project Management
++ Travel
++ Friends, Kids
++ Home
++ Health
+	+ Standard: A commitment to exercise and eating vegan and healthy food
++ Learning
 
 ## Resources
 > [!note]
 > **Topics or interest** that may be useful in the future 
 
-
-- Interests (web design, crowdfunding, woodworking, frisbee golf, bio-hacking
++ **==Catch-all for anything that does not belong to a project or area==**
+- Are **not especially actionable right now**
+- Interests (web design, crowdfunding, woodworking, frisbee golf, bio-hacking, books, meeting notes, favorite quotes, music, pictures)
 - Themes (psychology, politics, leadership, integrity)
 - Assets (stock photos, typography links, marketing swipe file, product testimonials, code snippets)
+
 
 ## Archives
 > [!note]
 >  inactive items from any of the 3 categories (PAR)
 
+
+## Inbox
+> [!note]
+> A waiting room for new ideas and notes 
+
++ keep it to a max around 9 notes during a week
++ when filing - go via P ➡ A ➡ R and ask in what way that might be useful
++ review in weekly review session
 
 ## Flow of items
 ### From Projects

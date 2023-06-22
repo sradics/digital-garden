@@ -8,26 +8,26 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
 # My running list of 12 favorite problems
 
-How can I extend my nutrition with healthy elements without at the same time harming the environment?
+How can I **extend my nutrition with healthy elements** without at the same time harming the environment?
 
-How can I help others to grow & learn fast and leverage my knowledge and build on what I learned over the years?
+How can I **help others to grow & learn fast** and leverage my knowledge and build on what I learned over the years?
 
-How can I grow a permaculture based garden where I flourish with being in flow while thinking about topics?
+How can I **grow a permaculture based garden** where I flourish with being in flow while thinking about topics?
 
 How can I find a good balance of learning topics that make sense to get capable of and at the same time leverage technology and already existing knowledge?
 + How can I establish my OKR habit - How can I consistently achieve the goals I set for myself?
 + What facets of my life can I automate?
 
-How can I grow my wealth to a level that I can think and act independently and at the same time stay connected, social and caring?
+How can I **==grow my wealth to a level that I can think and act independently==** and at the same time stay connected, social and caring?
 + How can I generate income pursuing my interests?
 
-How can I hold a good connection with all my children and help with their growth and at the same time ensure that they stay highly engaged, with their curiosity?
+How can I **==hold a good connection with all my children and help with their growth==** and at the same time ensure that they stay highly engaged, with their curiosity?
 
-How can I stay financial self managed and incorporate best knowledge to create a compounding income, leveraging advantages of tax management?
+How can I stay financial self managed and incorporate best knowledge to **create a compounding income**, leveraging advantages of tax management?
 
-What does living in integrity with myself look like?
+What does **living in integrity with myself** look like?
 
-How do I express myself clearly and regularly my wife to show her that I love her to the moon and beyond? How can we cultivate a romantic relationship of respect, understanding, support, care, affection, and passion as a couple?
+How do I **==express myself clearly and regularly my wife to show her that I love her to the moon==** and beyond? How can we cultivate a romantic relationship of respect, understanding, support, care, affection, and passion as a couple?
 
 What can I do to get clearer on my purpose?
 

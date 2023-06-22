@@ -71,5 +71,7 @@ Please message me whenever it suits you best. I'm responsible for managing my ti
 
 ## More
 + [[My Wingfinder profile]]
++ [[My Emotional Quotient]]
++ [[My DISC profile]]
 + me on [LinkedIn](https://www.linkedin.com/in/sebastiankamilli/)
 + [My digital garden](https://digital-garden.ontheagilepath.net/) 🌱

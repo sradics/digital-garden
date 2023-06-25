@@ -4,7 +4,7 @@ tags:
 - type/index-note
 - epstatus/2-🪴
 date_created: Tuesday, August 2nd 2022, 8:44:21 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_modified: Sunday, June 25th 2023, 2:37:26 pm
 ---
 # Obsidian Plugins I'm using
 

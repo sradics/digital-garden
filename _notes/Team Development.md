@@ -58,7 +58,7 @@ Advanced
 [[Radical Focus]]
 [[Schwarmdumm]]
 [[Simple Rules]]
-[[S02 Blinkist/200-299 Projects/213 My Agile Coach offers/10-19 Meta/SMART Goals]]
+[[S02 Blinkist/Archive/213 My Agile Coach offers/10-19 Meta/SMART Goals]]
 [[Systemische Interventionen]]
 [[Team]]
 [[Team Genius]]

@@ -82,6 +82,7 @@ date_modified: Friday, June 23rd 2023, 7:53:45 pm
 + make PKM resources available to enhance intelligence and relevance of responses
 
 
+
 # Linking
 + [[MOC Building a 2nd brain]]
 

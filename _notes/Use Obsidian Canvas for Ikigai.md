@@ -17,4 +17,5 @@ Inspiration for combining Obsidian Canvas to create an Ikigai diagram.
 
 # Linking
 + [[Personal Systemic Coaching]]
++ [[Find your Ikigai]]
 

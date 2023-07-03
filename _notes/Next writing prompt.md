@@ -4,7 +4,7 @@ tags:
 - type/permanent-note
 - epstatus/1-🌱
 date_created: Monday, July 3rd 2023, 2:04:14 pm
-date_modified: Monday, July 3rd 2023, 2:48:39 pm
+date_modified: Monday, July 3rd 2023, 4:44:27 pm
 ---
 # Next writing prompt - Ness Labs creative hour - Making the most out of Remote Work
 
@@ -50,3 +50,7 @@ I **invest a little more in my Task Management**, using Todoist. In combination 
 **Learning about building a Second Brain and applying its organizing principles and information processing approach helps me a lot to work with compounding knowledge and have an easier exchange with people around the globe**. I still need to become stronger in my weekly planning and weekly review. This is not yet in my habits so that I fully leverage its strengths.
 
 To stay in close connection with what is going on in my team, we invested in **building a structure of information management that works for teams** and is orienting on Building a Second Brain. We did harmonize the way we store information, the way we document projects and tasks and our way of communication as a team. This makes it very efficient to follow conversations and allow for faster switching times between topics.
+
+# Linking
+* [[Reflection on my setup to become interruption proof]]
+* [[MOC Building a 2nd brain]]

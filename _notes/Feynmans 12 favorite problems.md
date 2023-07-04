@@ -21,7 +21,7 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 - [ ] Read Feynman: Biographie: [[Richard Feynman - John Gribbin Mary Gribbin]]
 - [ ] What are my recurring, long term interests/open questions?
 
-# Nice open ended questions to define or find my 12 questions
+## Nice open ended questions to define or find my 12 questions
 
 How can I…?
 
@@ -46,6 +46,16 @@ What would I do if…?
 What would happen if…?
 
 What would have to be true to…?
+
+## Summarized version
+**Keep a list of around a dozen favorite problems or open questions** that interest them over the years. These questions are like recurring long-term interests that they continuously explore.
+
+The writer further explains that whenever **they come across new information**, whether it's from reading books, articles, listening to podcasts, or other sources, they **ask themselves if the information has any relevance to their list of favorite problems**. They use this as **a tool to filter and evaluate the relevance** of the incoming information to their unique interests and curiosities.
+
+While most of the time the answer is "no," the writer emphasizes that when they make a connection between the new information and one of their favorite problems, it often leads to unexpected and profound breakthroughs. These connections can be original and interesting, helping them deepen their understanding, generate new ideas, or make discoveries in the areas they are passionate about.
+
+In this way, the writer's strategy **mirrors Feynman's advice of constantly testing new information against their list of favorite problems**, allowing them to explore various fields and interests while remaining focused on their personal areas of curiosity and inquiry.
+
 
 # Linking
 + [How to generate your favorite problems](https://fortelabs.com/blog/how-to-generate-your-own-favorite-problems-a-4-step-guide/)

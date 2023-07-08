@@ -11,3 +11,4 @@ date_modified: Tuesday, July 4th 2023, 11:29:10 pm
 + [[Growing AI productivity stack]]
 + [[Using AI for marketing]]
 + [[Five AI-powered facilitation platforms]]
++ [[Midjourney Learning]]

@@ -18,6 +18,7 @@ Building a 2nd brain in a nutshell - [[Visual Notes]]
 # CODE - Capture-Organize-Distill-Express
 ## Capture
 + [[BASB - Learning about Capture]]
++ [[BASB  - My ways to capture to my Second Brain]]
 
 ## Organize - PARA
 + [[A perfect organizational system]]

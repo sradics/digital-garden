@@ -130,7 +130,7 @@ Retrieval practice. Retrieval is strengthening the links. It is the best way to 
 Use flashcards to retrieve information over a number of days.
 
 [iDoRecall.com](iDoRecall.com) , but actually I can use this inside Obsidian.
-- [ ] Re-learn to use spaced repetition in Obsidian
+- [x] Re-learn to use spaced repetition in Obsidian
 
 ## What motivates you?
 **Neuromodulators** - carry information about value and importance of an information in the future.

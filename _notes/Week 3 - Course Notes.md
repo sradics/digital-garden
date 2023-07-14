@@ -97,7 +97,7 @@ With writing down the tasks, you **free up scarce working memory** (that you can
 Learn over time, what size and specifics of a task is working.
 
 - [ ] Link with rich set of procrastination mastery tools from Blinkist (Carl Newport)
-- [ ] Start to embed Pomodorro
+- [x] Start to embed Pomodorro
 - [ ] Work on my procrastination habit - what is the cue?
 
 ## Diving deeper into memory

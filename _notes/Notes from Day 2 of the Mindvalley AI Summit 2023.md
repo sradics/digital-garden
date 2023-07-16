@@ -10,6 +10,16 @@ date_modified: Sunday, July 16th 2023, 12:00:27 pm
 > [!important] THANK YOU
 > Thank you [Mindvalley](https://www.mindvalley.com/ctl?utm_source=mvcom&utm_campaign=vwo) for making this great summit possible 💚
 
+## AI Summary for day 2
+- The summit showcased AI's application in image generation, content creation, and music production.
+- AI tools like Midjourney and ChatGPT were demonstrated for image creation and copywriting.
+- The concept of "Image Hooks" for creating attention-grabbing images was introduced.
+- AI's role in designing virtual and physical spaces was discussed.
+- The ethical considerations of AI, including transparency and fairness, were highlighted.
+- The potential of AI in personalizing education was explored.
+- The importance of human-AI collaboration was emphasized.
+- Predictions were made about AI's increasing integration into everyday life and its role in driving innovation.
+
 ## Set the stage - Image generation with Midjourney and ChatGPT
 + Create images that match company brand
 + shows ChatGPT to Midjourney connection to generate images
@@ -337,6 +347,122 @@ This is a path to more humanistic AI.
 + Cut time to generate an article from 8 hrs to 5hrs
 
 ### Step 1 - Feed transcript to ChatGPT
+Feed with content that you own:
++ from an interview
++ from a podcast
++ from your recorded thoughts
+
+> [!tldr] Prompt
+> I'm writing a long SEO blog article about "*primary keyword*."
+This is an article to *a list of what will be in the article based on the structure in the content brief*. The main insights and learnings will come from *Mindvalley trainer*.
+You will be receiving a transcription of a *podcast interview/lesson/etc.* in chunks. Your task is to wait for all the chunks and then follow further instructions.
+Wait for me to start. 
+
+### Step 2 - Create the Article
+> [!tldr] Prompt
+> The article should follow this structure:
+> - Introduction
+> - Adam Vibe Gunton's Story
+> - X Ways to Fight Addiction, According to Adam Vibe Gunton
+> - Conclusion
+> 
+> Based on the six chunks and structure I gave you can you create a content brief based on the structure I've given you? 
+
+### Step 3 - Titles and Descriptions
+> [!tldr] Prompt
+> Great. Now, let's start with meta-titles
+Can you list meta-title suggestions that are engaging and pique interest? It must have the exact keyword "stones of overcoming addiction." Maximum of 50 characters. 
+
+> [!tldr] Follow up prompt
+> I like "Defeating Demons: Stories of Overcoming Addiction with Adam Gunton."
+With this title and the information I gave you for the content brief, can you come up with a list of suggested meta descriptions?
+It must be two sentences with a maximum of 155 characters total. It must have the keyword "stories of overcoming addiction." And it must provide a benefit so that the reader will know what they'll get out of the article by reading it. 
+
+It is important to use your own data and content!
+
+> [!tldr] Follow up prompt
+> Great. This is the meta description I'm choosing to go with:
+"*insert meta description you're going with.*" 
+
+### Step 4  - Create a description
+> [!tldr] Prompt
+> Now, on to the introduction. Here's the structure you suggested:
+-Start with an attention-grabbing hook that highlights the significance of the topic.
+-Briefly introduce Eric Edmeades and his approach to hesith and wellness.
+-Preview the main points you'll cover in the article.
+Make it engaging, humorous, and lighthearted. I do like how Caitlin Moran writes-but in a toned down version and in an American tone of voice. 
+
+### Step 5  - Humanize
+Use a simple checker, that checks for AI written text. Make sure it has a human tone.
+LLM as word prediction engine.
++ AI Checker [https://aiwritingcheck.org/](https://aiwritingcheck.org/)
++ [GPTZero](https://gptzero.me/)
+
+Check for the score.
+
+### Consider for writing a book
++ Cost of writing goes down (in his case by half)
++ Time needed (translated to cost) for having an editor goes down (in his case by 80%)
++ Speak out ideas in voice - get transcript - and let it write an article
+
+## Make your blog vocal
++ with ElevenLabs voice cloning (see above)
+
+## AI as your copywriter
+Reduced 70% of copywriting work.
+
+> [!tldr] Prompt
+> I want you to be a world class copywriter who specializes in direct response and persuasion. You are able to bring together the styles of legendary copywriters like Gary Halbert, Joe Sugarman, Frank Kern, and David Ogilvy among others. 
+
+> [!tldr] Followup prompt
+> OK now write some bulleted copy for WHY a person should free up 1 to 2 days a week. Talk about the advantages you will gain in life with 1 to 2 days a week free up because you're using A.I intelligently. 
+> Add an appropriate emoji in the beginning of each bullet point.
+
+> [!tldr] Followup prompt
+> Now reduce the character count by 30%
+
+### Great list of bullet points generated
++ **More with Less**: Achieve equal or better results with A.I doing your heavy lifting, free 1-2 days weekly.
++ **Creativity Boost**: Extra time sparks innovative thinking, bringing fresh ideas to your business and life.
++ **Learn More**: Use free time for upskilling, diving deeper Into A.I, and staying on the cutting edge.
++ Quality Life: Delegate mundane tasks to A.I, enjoy moments with loved ones, pursue hobbies, and unwind.
++ **Strategic Time**: Extra time allows reflection on business operations, enabling strategic planning and leveling up.
++ **A Better Health**: Less stress, better work-life balance, and more time for self-care equates to a healthler you.
++ A Financial Success: Leverage A.I for business efficiency. driving higher revenues and cost savings.
++ **Lead the Pack**: Adopting A.I keeps you ahead, positioning you as a visionary leader in your field.
++ **Growth Environment**: Extra time fosters continuous improvement for you and your team in the ever-evolving business world.
++ **Maximize Productivity**: A.I handles tasks 24/7, ensuring your business remains productive even when you're not working.
+
+## Improving existing copy
+20% increased conversion with 50% less time to create content...
+
+### Improve eMail
+> [!tldr] Prompt
+> Now please improve that copy to make it suitable for email. Do you know what makes an email work and boosts click through rate? State the factors that make an email highly responsive 
+
+## Business Mastery program
+Chief AI evangelist
+Become a master of applied AI.
+
+![[Pasted image 20230716133208.png|400]]
+
++ 2hrs a week for 25 weeks
++ be part of a community of people
++ Mindvalley - worlds leading transforming company
++ Starts August 16th
+
+
+![[Pasted image 20230716133650.png|400]]
+
+![[Pasted image 20230716134012.png]]
+
+![[Pasted image 20230716134145.png]]
+
+![[Pasted image 20230716134413.png]]
+
+
+
+
 
 
 # Linking

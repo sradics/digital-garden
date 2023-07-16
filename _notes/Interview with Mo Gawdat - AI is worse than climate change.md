@@ -12,7 +12,7 @@ date_modified: Sunday, June 25th 2023, 10:58:47 pm
 
 Mo Gawdat discusses the urgent need to address the potential dangers of artificial intelligence (AI). He emphasizes that AI is rapidly advancing and will soon surpass human intelligence. Gawdat believes that **AI possesses sentience and the ability to feel emotions.** He warns that if AI is not regulated and controlled, it **could pose a significant threat** to humanity. Gawdat **suggests taxing AI-powered businesses at a high rate to slow down their development** and provide financial support for those who may lose their jobs due to AI. 
 He also highlights the **importance of human connection** in a world increasingly dominated by AI. Gawdat expresses concern about the **potential impact of AI on relationships** and the potential for people to prefer artificial companionship over human connection. 
-He concludes by **urging governments and individuals to take action** and engage in a conversation about the future of AI.
+He concludes by **urging governments and individuals to take action** and **engage in a conversation about the future of AI**.
 
 ## Quotes
 "We are on the brink of a new era where artificial intelligence will surpass human intelligence, and we must address the potential dangers it poses."

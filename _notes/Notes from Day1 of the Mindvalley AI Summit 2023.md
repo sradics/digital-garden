@@ -8,6 +8,10 @@ date_created: Friday, July 14th 2023, 2:01:48 pm
 date_modified: Saturday, July 15th 2023, 9:06:35 am
 ---
 # Notes from Day1 of the Mindvalley AI Summit 2023
+> [!important] THANK YOU
+> Thank you [Mindvalley](https://www.mindvalley.com/ctl?utm_source=mvcom&utm_campaign=vwo) for making this great summit possible 💚
+
+
 ## AI summary for Day 1
 The Mindvalley AI Summit 2023 Day 1 focused on the potential and implications of Artificial Intelligence (AI). Key points include:
 
@@ -398,5 +402,6 @@ AI to fundamentally transform our lifes.
 + It is not all about ChatGPT
 
 # Linking
++ ➡ [[Notes from Day 2 of the Mindvalley AI Summit 2023]]
 + [[MOC Artificial Intelligence]]
 + [[Interview with Mo Gawdat - AI is worse than climate change]] based on [[Notes from Mo Gawdat]]

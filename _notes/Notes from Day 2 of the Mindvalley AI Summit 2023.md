@@ -467,5 +467,6 @@ Become a master of applied AI.
 
 # Linking
 + ⬅ [[Notes from Day1 of the Mindvalley AI Summit 2023]]
++ ➡ [[Notes from Day 3 of the Mindvalley AI Summit 2023]]
 + [[MOC Artificial Intelligence]]
 + [[MOC - Learning How to Learn]]

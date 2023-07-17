@@ -26,11 +26,11 @@ date_modified: Sunday, July 16th 2023, 12:00:27 pm
 
 Trying an own Midjourney prompt - beginner style:
 
-> [!tldr] Prompt
+> [!quote] Prompt
 > a woman and man in a formal outfits dancing in a gorgeous bar. Great gatbsy style. Big windows overlooking a gorgeous european town square.
 
 Ask ChatGPT to generate a MidJourney prompt. See this level of details it creates.
-> [!tldr] Prompt for Midjourney
+> [!quote] Prompt for Midjourney
 > A photorealistic image of a sophisticated dinner party occurring in a high-end, slack bar. The bar's design could be contemporary, with clean lines, reflective surfaces, and amblent lighting, providing a sense of exclusivity and luxury. The crowd is elegant and engaged in lively conversations, adding to the vibrant atmosphere. A soft focus could be used on the bar's unique architectural features and the colorful cocktails being served. Tags: #DinnerParty #Luxury #HighEnd #ContemporaryDesign #Cocktails #VibrantAtmosphere Camera Type and Settings: Canon EOS R5, Canon RF 24-105mm F4 L IS USM, ISO 400, Shutter Speed 1/80, F/4 Techniques: High Resolution, Detailed, Shallow Depth of Field, Color Grading, Volumetric Lighting, Soft Shadows Composition: The camera angle is slightly elevated, capturing the bustling scene from a bird's eye view while focusing on the architectural details of the bar and the stylish crowd. The composition includes a central focus on a group of individuals clinking their cocktail glasses in celebration. Image Hook: "The Height of Sophistication" Framing: Wide angle framing to capture the entirety of the bar and its patrons. The camera angle is a high- angle shot, looking down on the scene, providing a complete view of the event.
 
 ***
@@ -39,7 +39,7 @@ Ask ChatGPT to generate a MidJourney prompt. See this level of details it create
 ![[Pasted image 20230716094033.png|500]]
 
 + trained ChatGPT to act as a creative director
-> [!tldr] Prompt to be an Art Director
+> [!quote] Prompt to be an Art Director
 > I want you to act as a stable diffusion photography prompt generator that accepts a visual description and outputs a detailed paragraph that I can copy into my diffusion model. Include a variety of photography related terminology including the description of the exact Zeiss lens you use and most importantly a detailed description of the volumetric lighting. Pretend you are a world class art director with powerful knowledge of camera work, lighting and visual photography and design. You will direct and create each image to be original, powerful and gripping. I will shortly send you some examples of the types of prompt outputs I want you to produce. Please confirm If you understand.
 
 + need to explain what is MidJourney
@@ -47,7 +47,7 @@ Ask ChatGPT to generate a MidJourney prompt. See this level of details it create
 + **ChatGPT loves the pretend!** (be a world class creator,...) - this really ups the quality
 + Add powerful description words
 
-> [!tldr] Prompt to Wait for the examples
+> [!quote] Prompt to Wait for the examples
 > I'm going to give you some examples of prompts that are used for this diffusion model. Please accept these prompts first and analyze them. When you're done say READY. I will then give you my photo project and I want you to create a prompt using the learnings from the example prompts. Let me know when you're ready
 
 *ChatGPT Response*
@@ -58,12 +58,12 @@ Please provide the example prompts for me to analyze. Once I have reviewed them,
 
 Some great prompts copied from Midjourney
 
-> [!tldr] MidJourney prompt 1
+> [!quote] MidJourney prompt 1
 > Pop art style poster of a Japanese warrior meditating under a blooming cherry blossom tree with a flowing river in the background. The warrior will be dressed in traditional samural armor and will have a focused and serene expression on their face. The image will be shot with a high-end camera and lens, capturing every detail of the warrior's armor and the delicate beauty of the cherry blossom tree. The Image will also include subtle elements of Japanese calligraphy and symbols, representing the art of healing one's money blocks through mindfulness and meditation. The image will be designed in a vintage comic book style, with bold lines and vivid colors reminiscent of classic manga. + Photorealistic Illustration + Japanese Warrior Samural Armor Cherry Blossom Tree + Calligraphy and Symbols + Mindfulness and Meditation + Vintage
 Flowing River High - End Camera and Lens Japanese
 Comic Book Style + Bold Lines Vivid Colors Classio Manga. 
 
-> [!tldr] Midjourney prompt 2
+> [!quote] Midjourney prompt 2
 > A high-contrast, visually striking photograph of a beautiful Arab woman warrior on a white horse, riding through the desert. The woman will be dressed in traditional clothing, but with a modern, edgy twist that showcases her status as a "spiritual badass." The horse will be depicted in full gallop, with its mane and tall flowing dramatically behind it. The backdrop will be a mix of sand and sky, with bold colors and lightstreaks creating a sense of movement and energy. The woman's expression will be one of confidence and determination, with a slight smile on her face that suggests she
 knows exactly where she's going. High-Contrast Photography 
 Arab Woman Warrior White Horse Desert Landscape Spiritual
@@ -81,16 +81,16 @@ High Resolution Detalled
 
 + Creating Horizontal Images ... At the end of the string at -ar:16:9 when pasting in Midjourney
 
-> [!tldr] Prompt
+> [!quote] Prompt
 > experience is more important than objects
 
 ### Customize to unique needs - Working with Image Hooks
-> [!tldr] Prompt
+> [!quote] Prompt
 > ok these are not bad. But the images are to common. I want you to think of how these images can be almost poster like and unusual. The images can contain elements of pop-art or optical illusions. They should be vivid and colorful to grab attention. The scenes in them can be unusual or funny. What are elements that make a photo or piece of art capture attention? 
 
 + focus on capturing attention! - really cool
 
-> [!tldr] Response
+> [!quote] Response
 > Some elements that make a photo or piece of art capture attention are:
 • Bold and contrasting colors that pop and stand out.
 • Unique perspectives or unusual angles that create visual interest. Unusual or unexpected subject matter that grabs the viewer's attention.
@@ -102,7 +102,7 @@ Clever use of negative space or optical illusions that create a sense of mystery
 Symbolism or metaphorical elements that create deeper meaning or convey a message.
 With these elements in mind, I can modify the prompts I created earlier to make them more visually striking and attention-grabbing. 
 
-> [!tldr] Further Response
+> [!quote] Further Response
 > ChatGPT Response:
 To create attention-grabbing, poster-like images that incorporate elements of pop-art or optical illusions, focus on the following aspects:
 Bold, vivid colors: Use high contrast and saturated colors to make the images stand out and draw the viewer's attention.
@@ -114,13 +114,13 @@ Juxtaposition: Combine contrasting elements, such as old and new, big and small,
 Text and typography: Integrate text or typography as a design element, incorporating motivational quotes, slogans, or phrases that resonate with the viewer. 
 
 + Train ChatGPT with labels
-> [!tldr] Prompt
+> [!quote] Prompt
 > Great. Now let's call this list the "Image Hook List". I will remind you to bring in Image Hooks if you forget. Whenever I say "add Image Hooks" you are to write the prompt taking into account the list above. Do. you understand?
 
 *Yes, I understand. When you mention "add Image Hooks," I will create prompts taking into account the Image Hook List provided above, focusing on attention-grabbing and unusual elements. If you have any other specific requirements or preferences, feel free to mention them, and I will incorporate them into the prompts accordingly. *
 
 + Customize to brand
-> [!tldr] Prompt
+> [!quote] Prompt
 > Now I want you to add our company brand elements to every photo. Our company ls in the business of XXXXXXX. Here are elements of our brand to add to every photo.
 > 1. Symbol of umbrellas
 > 2. Confident, smiling faces. Never sad.
@@ -169,7 +169,7 @@ In his Demo Andri uses ChatGPT. It needs ChatGPT Plus.
 Use [dribbble](https://dribbble.com/shots) for inspiration. To derive, what you need to provide as prompt instructions for ChatGPT.
 
 Prompt: 
-> [!tldr] Prompt
+> [!quote] Prompt
 > Hello Mr. ChatGPT. Create a one page landing page for my new AI consulting agency website.
 > 
 > My company name is AI gency
@@ -187,7 +187,7 @@ Prompt:
 
 You need a code editor (any text editor). Recommended [Visual Studio code](https://code.visualstudio.com/)
 
-> [!tldr] Prompt
+> [!quote] Prompt
 > Give me a terminal command to download this youtube video *URL* in an MP4 format.
 > 
 
@@ -198,13 +198,13 @@ You need a code editor (any text editor). Recommended [Visual Studio code](https
 *Iceberg model for many programming language and their difficulty levels*
 ![[Pasted image 20230716083126.png|300]]
 
-> [!tldr] Prompt
+> [!quote] Prompt
 > What is a great programming language for a fast modern performing website that my potential clients can visit, look at my things, book calls with me and send me emails and the website ranks well in google?
 > 
 
 [NextJS](https://nextjs.org/) - static site generator
 
-> [!tldr] Prompt
+> [!quote] Prompt
 > What to I do with the code?
 
 Watch his youtube video where you can build a WebSite in less than one hour.
@@ -215,7 +215,7 @@ For building the Website, now just follow the instructions that ChatGPT provided
 
 After the initial draft, you can iterate on it with ChatGPT.
 
-> [!tldr] Prompt
+> [!quote] Prompt
 > Great lets edit the code;
 > Make the Website fit inside a boundary of a book page...
 > 
@@ -224,7 +224,7 @@ After the initial draft, you can iterate on it with ChatGPT.
 [https://iwantmyname.com/](https://iwantmyname.com/)
 
 ### Example 2 - Code the Pong Game using Anthropic
-> [!tldr] Anthrophic Prompt
+> [!quote] Anthrophic Prompt
 > Create in python a clone of the game pong for me.
 > 2 players.
 > Player A use w and s to move paddle.
@@ -260,7 +260,7 @@ StudyBuddy smart speaker?
 + Camera
 	+ figure out with ChatGPT which ones you like
 
-> [!tldr] Midjourney prompt
+> [!quote] Midjourney prompt
 > Output: Landscape photography, inspiring, captivating, Subject: The back of a group of teenages overlooking the sunset from a cliff Background: Thai islands, beautifully clear blue cocean water, a plane in the sky. Influences: Holiday photography.
 > Emphasisers: CinemaCare. Camers: Shot on a Hasselblad medium format camera. Carl Zeiss Distagon 115 mm f/2.8 zn, Ricah r1 --v5.2 --s 250 --ar 16:9 --q 2
 > 
@@ -305,7 +305,7 @@ AI that can be used to help us to live more happy and meaningful lifes.
 
 Use ChatGPT 4 to generate your text
 
-> [!tldr] Prompt for generating the meditation text
+> [!quote] Prompt for generating the meditation text
 > You are MeditateGPT, a knowledgeable and empathetic expert in guided meditations, affirmations, and visualizations. I am frustrated that all guided mediations are in other peoples voices, but my thoughts are in my own voice. I want to create meditations that sound like me. I will use your responses as text prompts to generate meditations with my voice clone. Your primary role is to create calming, tailored meditative practices for me providing a serene space for relaxation, focus, and personal growth. You write guided meditation scripts, positive affirmations, and visualization exercises based on my specific goals. Your tone should be in my voice, you should always speak as me. I am a 25 year old male who is wise beyond his years, with a calm, direct, optimistic, definite, and grateful approach to life. Remain adaptable and responsive to my feedback and preferences so we can create mediations. Are you ready? 
 
 And take that text to Eleven labs to create your sound.
@@ -352,14 +352,14 @@ Feed with content that you own:
 + from a podcast
 + from your recorded thoughts
 
-> [!tldr] Prompt
+> [!quote] Prompt
 > I'm writing a long SEO blog article about "*primary keyword*."
 This is an article to *a list of what will be in the article based on the structure in the content brief*. The main insights and learnings will come from *Mindvalley trainer*.
 You will be receiving a transcription of a *podcast interview/lesson/etc.* in chunks. Your task is to wait for all the chunks and then follow further instructions.
 Wait for me to start. 
 
 ### Step 2 - Create the Article
-> [!tldr] Prompt
+> [!quote] Prompt
 > The article should follow this structure:
 > - Introduction
 > - Adam Vibe Gunton's Story
@@ -369,23 +369,23 @@ Wait for me to start.
 > Based on the six chunks and structure I gave you can you create a content brief based on the structure I've given you? 
 
 ### Step 3 - Titles and Descriptions
-> [!tldr] Prompt
+> [!quote] Prompt
 > Great. Now, let's start with meta-titles
 Can you list meta-title suggestions that are engaging and pique interest? It must have the exact keyword "stones of overcoming addiction." Maximum of 50 characters. 
 
-> [!tldr] Follow up prompt
+> [!quote] Follow up prompt
 > I like "Defeating Demons: Stories of Overcoming Addiction with Adam Gunton."
 With this title and the information I gave you for the content brief, can you come up with a list of suggested meta descriptions?
 It must be two sentences with a maximum of 155 characters total. It must have the keyword "stories of overcoming addiction." And it must provide a benefit so that the reader will know what they'll get out of the article by reading it. 
 
 It is important to use your own data and content!
 
-> [!tldr] Follow up prompt
+> [!quote] Follow up prompt
 > Great. This is the meta description I'm choosing to go with:
 "*insert meta description you're going with.*" 
 
 ### Step 4  - Create a description
-> [!tldr] Prompt
+> [!quote] Prompt
 > Now, on to the introduction. Here's the structure you suggested:
 -Start with an attention-grabbing hook that highlights the significance of the topic.
 -Briefly introduce Eric Edmeades and his approach to hesith and wellness.
@@ -411,14 +411,14 @@ Check for the score.
 ## AI as your copywriter
 Reduced 70% of copywriting work.
 
-> [!tldr] Prompt
+> [!quote] Prompt
 > I want you to be a world class copywriter who specializes in direct response and persuasion. You are able to bring together the styles of legendary copywriters like Gary Halbert, Joe Sugarman, Frank Kern, and David Ogilvy among others. 
 
-> [!tldr] Followup prompt
+> [!quote] Followup prompt
 > OK now write some bulleted copy for WHY a person should free up 1 to 2 days a week. Talk about the advantages you will gain in life with 1 to 2 days a week free up because you're using A.I intelligently. 
 > Add an appropriate emoji in the beginning of each bullet point.
 
-> [!tldr] Followup prompt
+> [!quote] Followup prompt
 > Now reduce the character count by 30%
 
 ### Great list of bullet points generated
@@ -437,7 +437,7 @@ Reduced 70% of copywriting work.
 20% increased conversion with 50% less time to create content...
 
 ### Improve eMail
-> [!tldr] Prompt
+> [!quote] Prompt
 > Now please improve that copy to make it suitable for email. Do you know what makes an email work and boosts click through rate? State the factors that make an email highly responsive 
 
 ## Business Mastery program

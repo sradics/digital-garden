@@ -99,13 +99,13 @@ For long form optimized
 ChatGPT is a powerful tool for text analysis.
 By understanding the context of words and phrases, it can be used for a variety of tasks, such as sentiment analysis, SEO, and text mining..
 
-> [!tldr] Prompt Example 1
+> [!quote] Prompt Example 1
 > Analyze the following content and give me a detailed description of your analysis for each of these properties: Topic Overview, Content format, Tone and voice, keywords usage, SEO, Sources, content length, call to action. Here is the content: *INPUT*
 
-> [!tldr] Prompt example 2
+> [!quote] Prompt example 2
 > can you analyze this *CONTENT* and give me 5 scores out of 10 by evaluating these 5 parameters readability, engagement and delivery, grammar and correctness, writing style, and SEO score. First start by giving the score for each of these then proceed to give me suggestions on how to make each better and how to get the score higher for each. Give the suggestions in bulleted points. 
 
-> [!tldr] Prompt example 3
+> [!quote] Prompt example 3
 > Pretend to be an authority on keyword research. Take a look at the article I've copied and pasted below. Find the article's primary keyword, A 2-moed or 3-word keyword may be used. Determine the keyword density for the most popular 2- and 3-word phrases. Each keyword should contain at least two words. Any keyword with only one word should be ignored. Simply provide me with the top five keywords, separated by commas. Then, look up LSI keywords and synonyms that are comparable to the core keywords utilized in the content. Simply provide me with a list of five keywords, separated by commas. Once you've finished up here you need to pose as a copywriting expert. I want you to create a thorough article outine using the most popular keywords. Review the article I copied and pasted to create the outine. Additionally, I want you to compile a list of 10 frequently asked questions based on the content of the article I've pasted below and the keywords with the highest keyword density, Use headers and a line break for each Step. Please type it in English 
 
 Ask ChatGPT to analyze content and then to improve it.
@@ -128,7 +128,7 @@ Ask ChatGPT to analyze content and then to improve it.
 Content ideas > Research > script > Lights and Camera Set up > RunwayGen-1 > Supporting visuals with ArtGrid and Runway Gen2 > Edit in cap cut + auto subtitles built in > Transcribe > Captions and Hashtags > Insights to find time to post > Daily Metrics
 
 ### Training GPT
-> [!tldr] Prompt
+> [!quote] Prompt
 > What are the components of a brand voice that need to be defined to clearly describe the voice a brand speaks through. 
 
 1. Brand Persona: This is the character that your brand embodies. If your brand were a person, what kind of person would it be? Is it serious and professional, or casual and fun? This component often includes aspects such as gender, age, social status, and personality traits.
@@ -173,7 +173,7 @@ Unfairness, Fear, Frustration
 ### Value Equation
 ![[Pasted image 20230716153916.png|300]]
 
-> [!tldr] Prompt
+> [!quote] Prompt
 > I want to do an exercise that will help us understand our users
 *Dream Outcome:
 problems around Al.
@@ -192,7 +192,7 @@ Perceived reasons for non achievement? example: I am already so far behind that 
 
 ![[Pasted image 20230716154035.png]]
 
-> [!tldr] Followup prompt
+> [!quote] Followup prompt
 > perfect you're amazing. Now please write a solution for each of these In the format of a hook headline for copy as, "How to....", statement. 
 
 ![[Pasted image 20230716154242.png]]
@@ -214,7 +214,7 @@ A list of highly influencing people in AI
 - @mindvalley
 
 ### Script
-> [!tldr] Prompt
+> [!quote] Prompt
 > Here is research I gathered about our topic: How to leverage Al to enhance your competitive edge.
 Please write a script using this information in our brand voice, using our template. 
 
@@ -236,7 +236,7 @@ Take your transcript and ask: Can you please write a caption and hashtags...
 ![[Pasted image 20230716155604.png]]
 
 ### Daily Metrics
-> [!tldr] Prompt
+> [!quote] Prompt
 > Hey Agent! Here is a metric check
 > Last 30 Days:
 > 2.6M Accounts Reached

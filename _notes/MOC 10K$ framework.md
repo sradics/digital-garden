@@ -12,7 +12,8 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 Full credits for this well designed 4 weeks training to [Khe Why](https://radreads.co/) - *Supercharge your productivity by working smarter (and on the right things)*
 
 ## Extract from an article
-[[Focus on the right work]]
++ [[Focus on the right work]]
++ [[Notes from How to Win your Week]]
 
 ## Extracts from the 4 weeks training lessons
 

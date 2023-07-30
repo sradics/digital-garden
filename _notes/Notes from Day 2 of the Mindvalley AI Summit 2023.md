@@ -3,6 +3,7 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
+- publish_in_newsletter
 date_created: Saturday, July 15th 2023, 1:58:48 pm
 date_modified: Sunday, July 16th 2023, 12:00:27 pm
 ---

@@ -3,7 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-
+date_created: Thursday, July 27th 2023, 7:11:21 am
+date_modified: Saturday, July 29th 2023, 4:44:27 pm
 ---
 # Flow inside PARA and Zettelkasten
 What helped me a lot was the  [[About my usage of Fleeting Notes, Permanent notes and Literature Notes|distinction between types of notes]](Fleeting Notes, Literature Notes, Permanent Notes). And I blend these types alongside with PARA.
@@ -22,5 +23,4 @@ Lastly I would also like to access the [[Maturity Model for my Obsidian Notes|ma
 + [[Essay - The CODE to leverage the effect of compounding knowledge]]
 + [[Maturity Model for my Obsidian Notes]]
 + [[BASB - Learning about Express]]
-
 

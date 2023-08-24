@@ -3,6 +3,7 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+- publish_in_newsletter
 date_created: Sunday, August 20th 2023, 6:53:17 am
 date_modified: Sunday, August 20th 2023, 6:55:26 am
 ---

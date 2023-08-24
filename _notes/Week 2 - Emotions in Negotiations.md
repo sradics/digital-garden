@@ -30,20 +30,20 @@ The second topic of the course focuses on **effective communication** in negotia
 In summary, effective communication, deeply intertwined with Perception, Cognition, and Emotion, is central to the negotiation process. Developing Emotional Intelligence as a negotiation strategy is key to understanding and managing these components, fostering empathy and trust, and ultimately achieving more successful negotiation outcomes.
 
 ## Perception
-**perception** when faced with a stimulus; for example, a buyer explaining the reason for his offer, and the reaction of the seller who tries to exert tension in the opposite direction.
+**Perception** when faced with a stimulus; for example, a buyer explaining the reason for his offer, and the reaction of the seller who tries to exert tension in the opposite direction.
 
-authors Lewicki, Barry, and Saunders in their book Negotiation, (2006)
-+ analyzes negotiation from a systemic perspective, ranging from communication to the use of power in negotiation, ethics in negotiation, and the importance of relationships in a negotiation
+📖 Authors Lewicki, Barry, and Saunders in their book Negotiation, (2006)
++ analyze negotiation from a systemic perspective, ranging from communication to the use of power in negotiation, ethics in negotiation, and the importance of relationships in a negotiation
 
 **The barrier of distortion** - Perception is a physical and psychological process that creates a mental representation of what the senses capture. Perceptions vary from person to person.
-+ **Stereotypes** are a common distortion of perception. They occur when we generalize some aspect (usually negative) of the human condition and we apply it to individuals that belong to a specific group, whether gender, nationality, profession, and on and on.
-+ **selective perception** happens when we see things our way, “**the only correct way,”** and ignore any points of view that differ from ours.
++ **Stereotypes** are a **common distortion** of perception. They occur **when we generalize some aspect** (usually negative) of the human condition and we apply it to individuals that belong to a specific group, whether gender, nationality, profession, and on and on.
++ **Selective perception** happens when we see things our way, “**the only correct way,”** and ignore any points of view that differ from ours.
 
-## Cognition
+## Cognitive bias
 **The barrier of bias** - During the negotiation process, the negotiators use information that they process to make decisions. There is a tendency to process information incorrectly when there are cognitive biases, which hinder the effectiveness of the negotiation.
 
 ## Steps to minimize effects of perception and bias
-**listening is more important than speaking**
+**Listening is more important than speaking**
 
 - **Listen carefully** to the other party’s arguments and analyze the logic of their reason.
 - Clarify the proposals you don’t understand with Wh-questions: **how, why, where, when, and why.**

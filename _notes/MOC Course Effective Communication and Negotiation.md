@@ -4,6 +4,7 @@ tags:
 - epstatus/1-🌱
 - MOC
 - type/index-note
+- publish_in_newsletter
 date_created: Saturday, August 19th 2023, 4:12:15 pm
 date_modified: Saturday, August 19th 2023, 4:12:35 pm
 ---

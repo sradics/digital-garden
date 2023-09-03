@@ -13,6 +13,8 @@ The following video is based on my [[Essay - The CODE to leverage the effect of 
 
 [The CODE to leverage the effect of compounding knowledge](https://youtu.be/wtPpRNTZkGQ)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wtPpRNTZkGQ?si=s5Ags0KjCZPlUJ5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 I took the following steps to create this video:
 + Create a [summary](https://poe.com/s/gugr9E2rprdtGyXEXgvU) for the essay with [Claude ](https://poe.com/s/QpWW9d2n1RTJXHzE2BJq) using [Poe](https://poe.com/)

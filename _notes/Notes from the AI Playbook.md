@@ -50,6 +50,37 @@ Then, if you’re looking to speed up the training and deployment of your machin
 ## Machine Learning Frameworks
 popular open-source machine learning frameworks - **TensorFlow** (Google) **PyTorch** (Facebook) . Additionally, you may need to install specific libraries for your chosen model architecture, such as **Hugging Face's Transformers library.**
 
+
+## Summarization
+```
+I want you to act as an analytical assistant for video transcripts.
+
+I will provide you with the full text of a short video transcript, and you need to analyze this and provide me with bullet points highlighting the key points discussed in the video. The bullet points should be concise, clear, and directly drawn from the information in the transcript. The responses should not include any personal interpretations or inferences, but should stick strictly to the content provided in the transcript. Please do not elaborate on the bullet points or provide any additional commentary.
+
+## Transcript
+
+{transcript}
+```
+
+
+## Fine tuning
+[OpenAI fine tuning guide](https://platform.openai.com/docs/guides/fine-tuning)
+
+## Images
+### Working with DallEE
+[Detailed instructions](https://the-decoder.com/openai-dall-e-2-prompt-guide-how-to-control-image-generation/)
+
+### Working with Midjourney
+* [Fast overview on prompts and some styles](https://docs.midjourney.com/docs/prompts)
+* [Styles and keyword reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
+* [Detailed instructions](https://medium.com/mlearning-ai/an-advanced-guide-to-writing-prompts-for-midjourney-text-to-image-aa12a1e33b6)
+* [Detailed instructions](https://metaroids.com/learn/midjourney-mastery-a-guide-to-using-image-prompts/?utm_content=cmp-true) and [mattered](https://web.getmatter.com/entry/36425195)
+* [200 Art styles](https://metaroids.com/lists/midjourney-art-styles-gigapack-free-200-prompt-keywords/)
+
+
+## Video
+[Pictory](https://pictory.ai/)
+
 # Linking
 + [[MOC Artificial Intelligence]]
 

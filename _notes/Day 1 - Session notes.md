@@ -134,4 +134,5 @@ The most/best/only *specific tile* for *target customer* who want to *desired re
 I'm a *specific title* that's known for helping *target customer* achieve *specific result* using my *framework*.
 
 # Linking
++ ➡ [[Day 2 - Session notes]]
 + [[MOC Community based Courses]]

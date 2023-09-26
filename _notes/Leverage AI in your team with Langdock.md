@@ -4,6 +4,8 @@ tags:
   - epstatus/1-🌱
   - type/permanent-note
   - publish_in_newsletter
+date_created: Tuesday, September 26th 2023, 5:49:41 am
+date_modified: Tuesday, September 26th 2023, 7:26:52 am
 ---
 # Leverage AI in your team with Langdock
 Recently I got to know [Langdock https://www.langdock.com/](https://www.langdock.com/) - the "GDPR ChatGPT for your team" that so much more. The following list of features impressed me right away:
@@ -41,11 +43,9 @@ Recently I got to know [Langdock https://www.langdock.com/](https://www.langdock
 
 ![[Pasted image 20230926063638.png]]
 
-
 ***
 *Working as a team in Chats together*
 ![[Pasted image 20230926064002.png]]
-
 
 ***
 *Some pre-defined prompts*
@@ -57,5 +57,4 @@ I'm looking forward to next steps of Langdock
 + [[MOC Artificial Intelligence]]
 + [[Essay - The CODE to leverage the effect of compounding knowledge]]
 + Wonder about the examples referenced here and the Coaching topic? [Find more here https://www.coachingbyblinkist.com/](https://www.coachingbyblinkist.com/)
-
 

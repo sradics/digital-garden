@@ -5,9 +5,10 @@ tags:
   - type/permanent-note
   - publish_in_newsletter
 date_created: Tuesday, October 17th 2023, 8:38:04 am
-date_modified: Tuesday, October 17th 2023, 9:28:33 am
+date_modified: Tuesday, October 24th 2023, 8:27:34 am
 ---
 # Power Poses
+
 Confidence building Power Poses generate with ChatGPT & Dalle 3.
 Based on [TED Talk about body language](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?language=en)
 

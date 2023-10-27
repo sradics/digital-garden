@@ -3,10 +3,11 @@ tags:
   - digital_garden
   - type/fleeting-note
   - epstatus/1-🌱
+date_created: Thursday, October 26th 2023, 5:15:33 pm
+date_modified: Friday, October 27th 2023, 6:15:41 am
 ---
 # Capture for Getting Shit Done
 [Source](https://www.linkedin.com/posts/donnellychris_do-more-and-stress-less-steal-this-productivity-activity-7123275007677337601-v5yY?utm_source=share&utm_medium=member_desktop)
-
 
 ![[Pasted image 20231026171550.png]]
 
@@ -24,5 +25,4 @@ Reflection:
 + [[S01 Personal/050-059 Resources/themes/58 Agile/Eisenhower Matrix|Eisenhower Matrix]]
 + [[The Eisenhower matrix of prioritisation]]
 + [[Week 3 - Course Notes#Beating procrastination]]
-
 

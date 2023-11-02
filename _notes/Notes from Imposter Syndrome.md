@@ -53,4 +53,6 @@ date_modified: Tuesday, October 31st 2023, 5:35:36 am
 
 ## Moving forward
 + **self-doubt is telling you something, you just have to listen.**
-+ 
++ consider your internal voices but also the external limiting factors
++ recommendation [Say No, Set boundaries](https://www.blinkist.com/en/app/guides/say-no-set-boundaries-with-the-blinkist-team)
+

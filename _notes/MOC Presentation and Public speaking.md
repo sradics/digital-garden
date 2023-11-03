@@ -19,6 +19,7 @@ Notes from [Blinkist Collection - Beat anxiety in 9 days](https://www.blinkist.c
 + [[Notes from Book Talk like TEDs]]
 + [[Notes from the book Magic Words]]
 + [[Notes from the book - The Art of influencing Anyone]]
++ [[Notes from the book - The Art of Public Speaking]]
 
 ## Notes from Breathing for Health
 [Source](https://www.blinkist.com/en/app/shortcasts/the-doctor-s-kitchen/455?collection=beat-presentation-anxiety-in-9-days)

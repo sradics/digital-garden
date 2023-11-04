@@ -73,7 +73,7 @@ Always **aiming high**.
 ### Fast track practices to be coming a Multiplier
 + **focusing on one skill that you can maximize** and one weakness that you can neutralize
 + maximize your Challenger by **setting ambitious goals**, and minimize your Tyrant tendencies by giving your team more **room to breathe**
-+ **challenge** challenge your assumptions
++ **challenge** your assumptions
 
 ## The Diminisher
 Have a **diminishing effect on the capability and productivity of their underlings**.

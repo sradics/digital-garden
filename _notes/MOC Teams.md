@@ -5,7 +5,7 @@ tags:
 - epstatus/3-🌳
 - type/index-note
 date_created: Friday, August 12th 2022, 6:32:02 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_modified: Saturday, November 4th 2023, 12:34:44 pm
 ---
 # MOC Teams
 ## Resources about teams
@@ -17,6 +17,11 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 + [[Five factors for team effectiveness]]
 + [[Mapping 5 Dysfunctions and team effectiveness with Tuckman]]
 + [[Team Genius - some quotes]]
++ [[Notes from book Trillion Dollar Coach]]
++ [[Notes from book Leading with Love and Laughter]]
++ [[The Culture of Feedback]] - topic psychological safety
++ [[Multipliers]] - important facets of leadership
++ [[Notes from book Work Rules by Laszlo Bock]]
 
 ### From my blog
 + [Efficient group decisions](https://ontheagilepath.net/articles/Efficient%20group%20decisions%20using%20the%207%20levels%20of%20decision%20making%20%20an%20agile%20coach%20must%20have.pdf)
@@ -29,16 +34,11 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 + [Five Dysfunctions for a team video explainer](https://www.youtube.com/watch?v=Ro0NBgHo_a8)
 + [Goole re:work 5 factors for team effectiveness](https://rework.withgoogle.com/print/guides/5721312655835136/)
 
-
-
-
-
 ## Exercises with teams
 + [[Team Starter Exercise]]
 + [[38.05 Agile Games]]
 + [[Survive the Desert]]
 + Movie *Remember the Titans* / *Gegen jede Regel* 
-
 
 ![[Pasted image 20221024064713.png]]
 *[Source](https://www.leadingagile.com/2018/02/lines-of-communication-team-size-applying-brooks-law/)*

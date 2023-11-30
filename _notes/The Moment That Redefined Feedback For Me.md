@@ -4,6 +4,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
+date_created: Thursday, November 30th 2023, 6:09:40 pm
+date_modified: Thursday, November 30th 2023, 6:49:50 pm
 ---
 # The Moment That Redefined Feedback For Me
 ![[Pasted image 20231130181054.png]]
@@ -25,10 +27,7 @@ I'd love to hear your stories. Have you ever experienced feedback that missed th
   
 [#Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [#Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [#GrowthMindset](https://www.linkedin.com/feed/hashtag/?keywords=growthmindset&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [#ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184)
 
-
-
 # Linking
 + [[MOC Feedback]]
 + ➡ [[The Swimming Competition That Taught Me Empathy]]
-
 

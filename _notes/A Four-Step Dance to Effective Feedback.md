@@ -4,6 +4,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
+date_created: Thursday, November 30th 2023, 6:20:32 pm
+date_modified: Thursday, November 30th 2023, 6:49:27 pm
 ---
 # A Four-Step Dance to Effective Feedback
 Feedback is a dance of communication where both the giver and receiver need to be in sync. It's not just about what you say, but also when and how you say it.  
@@ -37,5 +39,4 @@ Have you tried a structured approach to feedback like this? How has it worked fo
 + [[MOC Feedback]]
 + ⬅ [[Are We Masking the Real Issue with Feedback Tools]]
 + ➡ [[Power Dynamics and the Art of Feedback]]
-
 

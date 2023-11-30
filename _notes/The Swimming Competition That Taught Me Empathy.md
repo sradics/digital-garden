@@ -5,7 +5,7 @@ tags:
   - epstatus/2-🪴
   - publish_in_newsletter
 date_created: Thursday, November 30th 2023, 6:13:50 pm
-date_modified: Thursday, November 30th 2023, 6:15:21 pm
+date_modified: Thursday, November 30th 2023, 6:491345:21 pm
 ---
 # The Swimming Competition That Taught Me Empathy
 ![[Pasted image 20231130181446.png]]

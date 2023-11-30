@@ -4,6 +4,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
+date_created: Thursday, November 30th 2023, 6:26:33 pm
+date_modified: Thursday, November 30th 2023, 6:49:21 pm
 ---
 # Feedforward - A Future-Focused Twist on Feedback
 ![[Pasted image 20231130182925.png|400]]
@@ -34,5 +36,4 @@ For a deeper dive into Feedforward, check out this insightful essay by Marshall 
 # Linking
 + [[MOC Feedback]]
 + ⬅ [[Reflecting Through the Lens of Radical Candor]]
-
 

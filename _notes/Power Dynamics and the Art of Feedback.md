@@ -4,6 +4,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
+date_created: Thursday, November 30th 2023, 6:22:15 pm
+date_modified: Thursday, November 30th 2023, 6:49:25 pm
 ---
 # Power Dynamics and the Art of Feedback
 ![[Pasted image 20231130182314.png|400]]
@@ -33,5 +35,4 @@ Have you ever been in a similar situation, either as the one giving or receiving
 + [[MOC Feedback]]
 + ⬅ [[A Four-Step Dance to Effective Feedback]]
 + ➡ [[Reflecting Through the Lens of Radical Candor]]
-
 

@@ -4,6 +4,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
+date_created: Thursday, November 30th 2023, 6:16:57 pm
+date_modified: Thursday, November 30th 2023, 6:49:31 pm
 ---
 # Are We Masking the Real Issue with Feedback Tools
 ![[Pasted image 20231130181945.png]]
@@ -27,10 +29,8 @@ I'm curious to hear your thoughts and experiences. Have you found feedback tools
   
 [#Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134212364790308864) [#Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134212364790308864) [#Communication](https://www.linkedin.com/feed/hashtag/?keywords=communication&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134212364790308864) [#ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134212364790308864)
 
-
 # Linking
 + [[MOC Feedback]]
 + ⬅ [[The Swimming Competition That Taught Me Empathy]]
 + ➡ [[A Four-Step Dance to Effective Feedback]]
-
 

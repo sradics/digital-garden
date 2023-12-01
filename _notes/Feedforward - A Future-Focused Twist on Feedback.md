@@ -36,4 +36,5 @@ For a deeper dive into Feedforward, check out this insightful essay by Marshall 
 # Linking
 + [[MOC Feedback]]
 + ⬅ [[Reflecting Through the Lens of Radical Candor]]
++ ➡ [[Harnessing AI for Feedback - A Powerful Ally]]
 

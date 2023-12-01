@@ -16,6 +16,7 @@ date_modified: Thursday, November 30th 2023, 6:07:40 pm
 + [[Power Dynamics and the Art of Feedback]]
 + [[Reflecting Through the Lens of Radical Candor]]
 + [[Feedforward - A Future-Focused Twist on Feedback]]
++ [[Harnessing AI for Feedback - A Powerful Ally]]
 
 ## Books & further resources
 + [[Radical Candor]], [[Radical Candor work material]]

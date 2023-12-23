@@ -19,13 +19,18 @@ Some highlights were:
 + [[Introduction to Change]]
 	+ [[Introduction to Change#Week 1 - Overview on Change]]
 	+ [[Introduction to Change#Week 2 - Agile Leadership]]
-	+ 
+	+ [[Introduction to Change#Week 3 - Agile and Teams]]
+	+ [[Introduction to Change#Week 4 - Agile and Organizations]]
+
 ## Module 2 - Agile Leader Training
 + [[Neuroscience of Change]]
+
 ## Module 3 - Developing a Team
 + [[Developing a Team]]
+
 ## Module 4 - Agile Organization
 + [[Agile Organisation]]
+
 ## Module 5 - Capstone Project
 + [[Agile Leadership Capstone]]
 
@@ -36,6 +41,7 @@ Some highlights were:
 + [[Agile Organisation#Certificate]]
 + [[Agile Leadership Capstone#Certificate]]
 + Full specialization certificate - [[Agile Leadership Capstone#Certificate]]
+
 # Linking
 + [My Blinkist Guide on Agile - effektiver Arbeite mit Agile](https://www.blinkist.com/en/app/guides/effektiver-arbeiten-mit-agile-mit-sebastian-kamilli)
 

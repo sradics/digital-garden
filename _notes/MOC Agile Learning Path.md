@@ -48,7 +48,9 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
  - [[S01 Personal/030-039 Areas/38 Agile/38.45 Agile Learning Path/Teams]]
  - [[Understanding Agile - Udemy Course]]
  - [[What is a team]]
+	 - [[Developing a Team]]
  - [[What is Agile]]
  - [[What is Design Thinking]]
  - [[What is extreme programming]]
+ - [[MOC Agile Leadership Course]]
 

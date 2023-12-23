@@ -22,6 +22,7 @@ date_modified: Saturday, November 4th 2023, 12:34:44 pm
 + [[The Culture of Feedback]] - topic psychological safety
 + [[Multipliers]] - important facets of leadership
 + [[Notes from book Work Rules by Laszlo Bock]]
++ [[Developing a Team]] from [[MOC Agile Leadership Course]]
 
 ### From my blog
 + [Efficient group decisions](https://ontheagilepath.net/articles/Efficient%20group%20decisions%20using%20the%207%20levels%20of%20decision%20making%20%20an%20agile%20coach%20must%20have.pdf)

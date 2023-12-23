@@ -124,7 +124,7 @@ Could be used the access a groups current emotional status when running through 
 - I enjoy changing priorities and projects. 1
 - Reflect on the last 12 months of your life. On a scale of 1 (Not at All!) to 10 (I Can Handle Anything!), how comfortable are you with changes in life and work? 2
 
-# Week 3
+# Week 3 - Agile and Teams
 ## Traditional team
 + A traditional team is a team of  individuals assigned to a project to deliver a specific prescribed outcome appropriate to the individual's level of expertise.
 + rigid, well documented process
@@ -162,7 +162,7 @@ Mission as a agile leaders to harness motivation and creativity of the individua
 - Members of the team understand their roles and responsibilities 1
 - Team members feel supported and empowered to do their best work 1
 
-# Week 4
+# Week 4 - Agile and Organizations
 
 ## Traditional organization
 + stable an rigid structures, rules, policies, procedures
@@ -196,7 +196,8 @@ Mission as a agile leaders to harness motivation and creativity of the individua
 - Agile and Continuous improvement principles and philosophy are practiced throughout the organization 1
 
 # Certificate
-[[Coursera PDWYH27NLD24 - Introduction to Change.pdf]]
+
+![[Coursera PDWYH27NLD24 - Introduction to Change.pdf]]
 
 # Linking
 + ➡ [[Neuroscience of Change]]

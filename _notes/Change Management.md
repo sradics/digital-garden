@@ -40,3 +40,7 @@ Implementing changes.
 ## My level of expertise
 
 Expert
+
+# Linking
++ [[Neuroscience of Change]]
++ [[Introduction to Change]]

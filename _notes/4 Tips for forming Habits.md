@@ -4,6 +4,8 @@ tags:
   - epstatus/1-🌱
   - type/permanent-note
   - publish_in_newsletter
+date_created: Saturday, December 30th 2023, 7:43:54 pm
+date_modified: Saturday, December 30th 2023, 7:49:28 pm
 ---
 # 4 Tips for forming Habits
 ## 30-for-30 Approach
@@ -23,5 +25,4 @@ This approach encourages **==daily effort towards a goal, emphasizing that any p
 + [[Atomic Habits - James Clear]]
 + [[The difference between habits, routines and rituals]]
 + [[The Power of Habit]]
-
 

@@ -24,6 +24,10 @@ date_modified: Thursday, January 4th 2024, 1:57:05 pm
 	* idiosyncratic rater effect
 	* it's more bouncing me back on me
 * there is a fundamental flaw in my source of data. And adding more of data makes it even worse
+
+> [!quote] Quote on idiosyncratic rater effect
+> human beings are unreliable raters of other human beings. All the data show that when I rate you, over 60% of your rating is about me, and not you. Which is a big problem, because we are paying, promoting, training, and deploying you based on that rating — which doesn’t reflect you. So ratings are a terrible performance measurement tool, because they claim to measure one thing but actually measure another. [Source](https://www.marcusbuckingham.com/good-data-bad-data-idiosyncratic-rater-effect/) 
+
 ### Fallacy Nr. 2 - Learning is information transfer
 + I just tell someone what is missing and they will pick it up. Like an empty vessel
 + Scholl is often about that approach on learning
@@ -48,11 +52,44 @@ date_modified: Thursday, January 4th 2024, 1:57:05 pm
 + essay - underline couple of sentences that really work and expression your emotions with it
 + replay on what you already did super well
 + leads to replication and repetition of what works super well
-## Way forward
+## Way forward - Q&A notes
 + What are the performance outcomes? 
 + What is my way of contributing to that?
++ How to best collect data on feedback?
+	+ you can count things -- e.g. lost work days
+	+ what can you rate?
+		+ you can't solve the idiosyncratic rater effect
+		+ people can rate their own experience and feelings on the team
+			+ Do I feel respects in the team?
+			+ Do I know what is expected of me?
+			+ Do feel that your manager is caring about you?
+			+ Does someone encourage you to grow?
+			+ bundle that and bring that back to the manager
+	+ So the questions in performance reviews need to change!
++ As a manager share your reactions as raw material for the other to discover themselves
+	+ they learn to know when they are their best selves
+	+ give people self advocacy
+	+ they can discover when they are at their best
+	+ get increasingly specific in describing for yourself when and at what you are your best
++ feedback in remote environments
+	+ most engaging state is hybrid
+	+ remote and onsite are about 10 points lower
+	+ people are grown ups! and they want to manage their times and at the same time people (often) love meeting with other people
+	+ frequent check-ins - every week, that matters
+		+ How did you feel about last week? 
+		+ What are your plans for next week
+		+ leads to higher level of engagement and resilience and lower levels of turnover
+		+ in the frequency lies detail
++ frequency of interaction is what really matters. (Don't become a people lead if you don't like doing that)
++ change the vocabulary
+	+ no one is rated by someone else
++ Cisco as an example that changes their feedback culture
++ Mindset of broadening and building
 
 # Linking
 + [[MOC Feedback]]
 + [[Radical Candor]]
++ [Idiosyncratic rater effect](https://www.marcusbuckingham.com/good-data-bad-data-idiosyncratic-rater-effect/)
++ [[Effective Communication For Leaders]]
++ might be well connected with the Leadership Formula too
 

@@ -31,6 +31,7 @@ date_modified: Thursday, January 4th 2024, 1:57:05 pm
 ### Fallacy Nr. 2 - Learning is information transfer
 + I just tell someone what is missing and they will pick it up. Like an empty vessel
 + Scholl is often about that approach on learning
+
 ### Fallacy Nr. 3 - Excellence can be defined in advance
 + skills and competency matrix are a problem
 + you can define average in advance and a minimum
@@ -42,16 +43,19 @@ date_modified: Thursday, January 4th 2024, 1:57:05 pm
 + "I was lost when you said that"
 + This is really good data for a feedback receiver
 + Stay on your side of the river
+
 ### Learning is insight - help others discover it
 + Feeling on knowingness that happens inside our brain
 + Help discover those insights ... create occasions where a learner can discover insights
 + link to Montessouri
+
 ### Excellence is connected to the person - replay their moments of excellence
 + get a person back into a moment that worked (coaching)
 + source of greatness is their goodness
 + essay - underline couple of sentences that really work and expression your emotions with it
 + replay on what you already did super well
 + leads to replication and repetition of what works super well
+
 ## Way forward - Q&A notes
 + What are the performance outcomes? 
 + What is my way of contributing to that?

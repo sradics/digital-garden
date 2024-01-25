@@ -22,7 +22,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * Planning: You download a training schedule (planning) * Execution: You start running * Accountability: There’s a social penalty for not completing them
 * The case AGAINST goals
 * They are at odds with long-term progress * They restrict your happiness * They rob you of the present moment * They set you up for self-judgement * They are arbitrary
-* many people find themselves reverting to their old habits after accomplishing a goal.
+* **==many people find themselves reverting to their old habits after accomplishing a goal.==**
 * to the when-then trap, which mistakenly says “Once I achieve [X] then I’ll be happy.”
 * Making happiness contingent on future success is one of the devastating effects of the hedonic treadmill.
 * When you have one foot in the future and the other in the past, you piss on the present.
@@ -33,5 +33,5 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * if you trust your inputs (focus, kindness, self-accountability, habits, a growth mindset) the outputs should take care of themselves.
 * One approach is to turn outcome goals into process goals.
 * An outcome goal is binary, measurable and time-bound such as: * Grow my newsletter audience by 5,000 readers * Lose 10 pounds * Generate $250,000 in annual sales
-* A process goal is non-binary, iterative and ongoing: * Send two newsletters every week * Work out for 45 minutes five times a week * Make three sales calls each day
+* **==A process goal is non-binary, iterative and ongoing: * Send two newsletters every week * Work out for 45 minutes five times a week * Make three sales calls each day==**
 * And did you notice how our goals sneakily became habits?

@@ -31,8 +31,8 @@ date_modified: Thursday, May 25th 2023, 1:37:16 pm
 ## PARI - Pact - Act - React - Impact
 +  **Pact** - accessing your situation, exploring options and committing to a direction
 + **Act** - getting started, staying motivated, and maintaining momentum
-+ **React** - is build on Metacognition - Thinking about thinking, look at the me. Reflecting o progress and course correct when needed
-+ **Impact** - Reimagine succes, reinvent yourself and embrace the squiggly path. **==Fall in love with the journey==**
++ **React** - is build on Metacognition - Thinking about thinking, look at the me. Reflecting on progress and course correct when needed
++ **Impact** - Reimagine success, reinvent yourself and embrace the squiggly path. **==Fall in love with the journey==**
 
 more details: [[The PARI system by Anne-Laure Le Cunff (Ness Labs)]]
 

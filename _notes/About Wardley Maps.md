@@ -15,6 +15,7 @@ An easy way to start mapping is [**https://www.onlinewardleymaps.com**](https:/
 + [Video - An introduction to Wardley Mapping](https://www.youtube.com/watch?v=L3wgzl2iUR4)
 + [Video - Strategy Mapping Session with Simon Wardley](https://www.youtube.com/watch?v=JMlFv2Sod54)
 + [Great lightweight intro to Wardley Mapping](https://learnwardleymapping.com/)
++ [Video on System of Theft - Pioneers, Settlers, Townplanners](https://www.youtube.com/watch?v=n3Q8825onA4&list=PLP0vnsXbJsRUlWgayGuYWxJ00gs1nK91_&index=1)
 
 ## About maps
 -   Space has a meaning
@@ -23,6 +24,7 @@ An easy way to start mapping is [**https://www.onlinewardleymaps.com**](https:/
 -   „Maps“ in business are mainly not a map but a diagram
 -   Anchor: can be the customer
 -   Start with the customer and create a chain of needs for that customer down to the low level system components
+- [https://list.wardleymaps.com/](https://list.wardleymaps.com/)
 
 ## Main Steps
 + The purpose - the moral comparative

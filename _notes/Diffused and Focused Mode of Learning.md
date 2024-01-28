@@ -1,9 +1,12 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - publish_in_newsletter
+date_created: Friday, January 5th 2024, 9:43:24 am
+date_modified: Sunday, January 28th 2024, 9:45:07 pm
 ---
 # [[Diffused and Focused Mode of Learning]]
 
@@ -32,8 +35,9 @@ I'm curious about your experiences with learning modes. How do you balance focus
   
 Also, if you're intrigued by concepts like learning modes, productivity, and building a Second Brain, I invite you to subscribe to my newsletter. I regularly share updates from my digital garden, offering more such insights. (you can find a subscription form in the Learning How To Learn insights linked in the comment) 🌱💌
 
+[Posted on **LINKEDIN**](https://www.linkedin.com/posts/sebastiankamilli_unlocking-the-power-of-learning-focused-activity-7148965583257026560-gLHm?utm_source=share&utm_medium=member_desktop) on 2024-01-05_Fri  
 
+👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
-[Posted on **LINKEDIN**](https://www.linkedin.com/posts/sebastiankamilli_unlocking-the-power-of-learning-focused-activity-7148965583257026560-gLHm?utm_source=share&utm_medium=member_desktop) on 2024-01-05_Fri
 # Linking
 + [[MOC - Learning How to Learn]]

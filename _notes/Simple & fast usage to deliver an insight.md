@@ -1,8 +1,9 @@
 ---
 aliases: 
-tags: 
-- digital_garden
-- epstatus/0-🌰
+tags:
+  - digital_garden
+  - epstatus/0-🌰
+  - linkedin/processed
 date_created: Monday, February 6th 2023, 1:04:31 pm
 date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---

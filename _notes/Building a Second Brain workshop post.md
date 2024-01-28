@@ -1,8 +1,9 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
 date_created: Thursday, May 4th 2023, 9:01:05 am
 date_modified: Thursday, May 18th 2023, 6:15:55 pm
 ---

@@ -23,7 +23,7 @@ This approach encourages **==daily effort towards a goal, emphasizing that any p
 + [Source](https://www.linkedin.com/posts/sahilbloom_harsh-truth-ideas-arecheap-execution-is-activity-7146844145578385408-hHqE?utm_source=share&utm_medium=member_desktop)
 + [[Habit building]]
 + [[Atomic Habits - James Clear]]
-+ [[The difference between habits, routines and rituals]]
++ [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The difference between habits, routines and rituals]]
 + [[The Power of Habit]]
 + [[Neuroscience of Change#Habit Forming]]]
 

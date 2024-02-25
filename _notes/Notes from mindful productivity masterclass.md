@@ -34,7 +34,7 @@ date_modified: Thursday, May 25th 2023, 1:37:16 pm
 + **React** - is build on Metacognition - Thinking about thinking, look at the me. Reflecting on progress and course correct when needed
 + **Impact** - Reimagine success, reinvent yourself and embrace the squiggly path. **==Fall in love with the journey==**
 
-more details: [[The PARI system by Anne-Laure Le Cunff (Ness Labs)]]
+more details: [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The PARI system by Anne-Laure Le Cunff (Ness Labs)]]
 
 ***
 *Great flywheel to create impact*

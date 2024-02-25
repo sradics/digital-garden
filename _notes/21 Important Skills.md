@@ -40,7 +40,7 @@ Skill level: 10/10
 + Slicing down topics and extract the high impact/high urgency topics
 + [[MOC Continuous Discovery Habits]]
 + [[Kanban - An overview]]
-+ [[S01 Personal/030-039 Areas/31 Me/31.01 Knowledge Portfolio/Project Management]]
++ [[Midjourney V6 prompts examples/030-039 Areas/31 Me/31.01 Knowledge Portfolio/Project Management]]
 
 ### I should extend my abilities in
 + I'm currently fine here

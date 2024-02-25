@@ -16,7 +16,7 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ## Next
 - [[Product Management]]
 - [[Agile Framework Scrum]]
-- [[S01 Personal/030-039 Areas/38 Agile/38.45 Agile Learning Path/Lean |Lean]]
-- [[S01 Personal/030-039 Areas/38 Agile/38.45 Agile Learning Path/Kanban |Kanban]]
+- [[Midjourney V6 prompts examples/030-039 Areas/38 Agile/38.45 Agile Learning Path/Lean|Lean]]
+- [[Midjourney V6 prompts examples/030-039 Areas/38 Agile/38.45 Agile Learning Path/Kanban|Kanban]]
 - [[Six Sigma]]
 - [[Scrumban]]

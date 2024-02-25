@@ -18,7 +18,7 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ### Mere Urgency Effect. 
 It dictates that humans ==choose objectively worse options (email) over objectively better options (client presentations) when “the unimportant tasks are characterized by spurious urgency (e.g. an illusion of expiration).==
 * In other words: ==if it looks urgent, we want to get it "off the table" and don't question whether it's actually worth doing.==
-* First, the trusty [[S01 Personal/050-059 Resources/themes/58 Agile/Eisenhower Matrix |Eisenhower Matrix]] can help distinguish the urgent from the important.
+* First, the trusty [[Midjourney V6 prompts examples/050-059 Resources/themes/58 Agile/Eisenhower Matrix|Eisenhower Matrix]] can help distinguish the urgent from the important.
 * If it’s your job to eat a frog, it’s best to do it first thing in the morning. And If it’s your job to eat two frogs, it’s best to eat the biggest one first.
 * ==What’s something that would be 10x more impactful== than checking my mail?
 

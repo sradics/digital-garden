@@ -18,7 +18,7 @@ date_modified: Saturday, June 24th 2023, 5:15:41 am
 ## Highlights
 ***
 *Great 2x2 for the Eisenhower Matrix*
-![[Pasted image 20230624051437.png|300]]
+![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20230624051437.png|300]]
 ***
 
 

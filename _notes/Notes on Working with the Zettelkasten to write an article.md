@@ -19,7 +19,7 @@ Source: [https://www.youtube.com/watch?v=9OUn2-h6oVc](https://www.youtube.com/wa
 
 # Linking
 + [[My personal writing style]]
-+ [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The 5 pillars of my writing process|The 5 pillars of my writing process]]
++ [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The 5 pillars of my writing process|The 5 pillars of my writing process]]
 + [[Notes from Writing a book in 30 days]]
 + [[Thinking about Essays]]
 

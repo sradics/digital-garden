@@ -7,7 +7,7 @@ date_created: Sunday, June 4th 2023, 9:30:08 pm
 date_modified: Sunday, June 4th 2023, 10:09:48 pm
 ---
 # Notes from The Extended Mind
-[Source](https://fortelabs.com/blog/the-extended-mind-reimagining-the-nature-of-intelligence/) and  [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature Notes/Matter/The Extended Mind- Reimagining the Nature of Intelligence|Matter Highlights]]
+[Source](https://fortelabs.com/blog/the-extended-mind-reimagining-the-nature-of-intelligence/) and  [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The Extended Mind- Reimagining the Nature of Intelligence|Matter Highlights]]
 
 Succeeding in such a world requires a range of mental abilities: 
 + focused attention

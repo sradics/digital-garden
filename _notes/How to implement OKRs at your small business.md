@@ -17,7 +17,7 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ## Highlights
 * Here’s how the lines of communication multiply as you go from 3 employees to 14 employees:
 
-![[Pasted image 20220919064909.png]]
+![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20220919064909.png]]
 *[Source](https://getlighthouse.com/blog/developing-leaders-team-grows-big/)*
 
 * The average manager has 7 direct reports (and assuming 40 hour work weeks) is responsible for the direction of 280 hours a week.

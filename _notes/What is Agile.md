@@ -17,7 +17,7 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 - [[Understanding Agile - Udemy Course]]
 
 ## Next
-+ [[S01 Personal/030-039 Areas/38 Agile/38.45 Agile Learning Path/Project Management]]
++ [[Midjourney V6 prompts examples/030-039 Areas/38 Agile/38.45 Agile Learning Path/Project Management]]
 + [[Agile Software Development]]
 
 

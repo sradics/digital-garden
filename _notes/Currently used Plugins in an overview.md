@@ -27,7 +27,7 @@ See this embedded reading list [_Reading Order](_Reading%20Order.md)
 Displays the calendar tab on the right side. In the calendar daily notes from your journal will be automatically linked. And you can also easily create a daily note from the calendar. In addition the calendar is displayed on topic right in your daily note.
 
 ## Templater
-Provides a set of useful functions to work with templates. E.g. if you create a note in [Fleeting notes](S01%20Personal/030-039%20Areas/32%20Zettelkasten/Fleeting%20notes/Fleeting%20notes.md) the temlate [TPL Fleeting Note](TPL%20Fleeting%20Note.md) is automatically applied.
+Provides a set of useful functions to work with templates. E.g. if you create a note in [Fleeting notes](Midjourney%20V6%20prompts%20examples/030-039%20Areas/32%20Zettelkasten/Fleeting%20notes/Fleeting%20notes.md) the temlate [TPL Fleeting Note](TPL%20Fleeting%20Note.md) is automatically applied.
 
 ## Admonition
 Provide a rich configuration to work with Callouts in your notes like that:
@@ -154,7 +154,7 @@ Lets you create a project for writing several chapters/scenes and then rendering
 Access a worldwide database of books and add book metadata to your Obsidian. E.g. the entries in [[_Reading Order]] are created from the book search.
 
 ## Zoottelkeeper Plugin
-Renders folder overview pages that you can e.g. use for linking to folders like [[S01 Personal]].
+Renders folder overview pages that you can e.g. use for linking to folders like [[Midjourney V6 prompts examples]].
 
 ## Extract URL content
 Extracts content from external pages and imports as a markdown file

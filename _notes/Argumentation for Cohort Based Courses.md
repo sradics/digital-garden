@@ -46,7 +46,7 @@ MOOC stands for *massively open online courses*.
 	+ assumption: being in a learning community real-time is a scarce moment too
 
 # Linking
-+ Source: [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature Notes/Matter/In Online Ed, Content Is No Longer King-Cohorts Are]]
++ Source: [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/In Online Ed, Content Is No Longer King-Cohorts Are]]
 + [[post_print-MOOC_Pivot.pdf| Study showing low completion rate of MOOCs]] 
 
 

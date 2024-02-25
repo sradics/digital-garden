@@ -32,10 +32,10 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 
 > [!important]
 > ==What is 1000 more impactful than email?==
-> ![[Pasted image 20220723065847.png]]
+> ![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20220723065847.png]]
 
 
-![[Pasted image 20220723065921.png]]
+![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20220723065921.png]]
 
 
 

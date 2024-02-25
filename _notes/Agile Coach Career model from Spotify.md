@@ -65,7 +65,7 @@ Examples
 I'm on level 3-4 here
 + high skill level when it comes to working with Actionable Agile Metrics
 + advanced knowledge of Kanban and building a flow based system
-+ good understanding of Value Stream mapping although I'm missing deeper practical experience [[S01 Personal/030-039 Areas/31 Me/31.01 Knowledge Portfolio/Value Stream Mapping]]
++ good understanding of Value Stream mapping although I'm missing deeper practical experience [[Midjourney V6 prompts examples/030-039 Areas/31 Me/31.01 Knowledge Portfolio/Value Stream Mapping]]
 + good understanding of [[Lean - an overview]]
 
 ## Pillar Impact

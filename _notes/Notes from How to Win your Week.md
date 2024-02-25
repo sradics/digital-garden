@@ -58,5 +58,5 @@ How to eliminate $100 Work:
 
 # Linking
 + [[MOC 10K$ framework]]
-+ [[S01 Personal/050-059 Resources/themes/58 Agile/Eisenhower Matrix|Eisenhower Matrix]]
++ [[Midjourney V6 prompts examples/050-059 Resources/themes/58 Agile/Eisenhower Matrix|Eisenhower Matrix]]
 + [[Getting Things Done]]

@@ -22,7 +22,7 @@ At the moment still missing in the space:
 
 ## Good Strategy, Bad Strategy
 + [[Good strategy, bad strategy visualized]],
-+ [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Good Strategy, Bad Strategy|Good Strategy, Bad Strategy]]
++ [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Good Strategy, Bad Strategy|Good Strategy, Bad Strategy]]
 + 📓[[Good StrategyBad Strategy]]
 + [[MOC Strategy]]
 + [[Notes from The Alamanack]]

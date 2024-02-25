@@ -19,26 +19,26 @@ Full credits for this well designed 4 weeks training to [Khe Why](https://radrea
 
 ![[Pasted image 20220731085826.png]]
 ### Week 1
-+ Lesson 1 - [[The magic of doing $10,000 per hour work]]
++ Lesson 1 - [[Midjourney V6 prompts examples/030-039 Areas/36 Coaching/36.01 $10K work/The magic of doing $10,000 per hour work]]
 + Lesson 2 - [[Training Lesson 2 How to waste your day 3 behavorial mistakes to avoid]]
-- Lesson 3 - [[You're -due--ing it wrong]]
-- Lesson 4 - [[The elusive pursuit of getting it (all) done]]
+- Lesson 3 - [[Midjourney V6 prompts examples/030-039 Areas/36 Coaching/36.01 $10K work/You're -due--ing it wrong]]
+- Lesson 4 - [[Midjourney V6 prompts examples/030-039 Areas/36 Coaching/36.01 $10K work/The elusive pursuit of getting it (all) done]]
 
 ### Week 2
-- Lesson 5 - [[How to design the perfect day]]
-- Lesson 6 - [[How to set goals (that actually work)]]
-- Lesson 7 - [[$10K Training Lesson 7 The ultimate $10K task hiding in plain sight]]
+- Lesson 5 - [[Midjourney V6 prompts examples/030-039 Areas/36 Coaching/36.01 $10K work/How to design the perfect day]]
+- Lesson 6 - [[Midjourney V6 prompts examples/030-039 Areas/37 Product/37.06 Goal setting/How to set goals (that actually work)]]
+- Lesson 7 - [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/$10K Training Lesson 7 The ultimate $10K task hiding in plain sight]]
 
 ### Week 3
-- Lesson 8 - [[How to detect the silent relationship killer before its too late]]
-- Lesson 9 - [[$10K Training Lesson 9 No, a new iPad won't change your life]]
-- Lesson 10 - [[How to stop saying yes when you want to say no]]
+- Lesson 8 - [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to detect the silent relationship killer before its too late]]
+- Lesson 9 - [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/$10K Training Lesson 9 No, a new iPad won't change your life]]
+- Lesson 10 - [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to stop saying yes when you want to say no]]
 
 ### Week 4
-- Lesson 11 - [[Becoming indispensable- a pandemic power move]]
-- Lesson 12 - [[$10K Training Lesson 12 Using leverage to grow your career (while you sleep)]]
-- Lesson 13 - [[$10K Training Lesson 13 A portfolio approach to $10K Work]]
-- Lesson 14 - [[$10K Training Lesson 14 Closing Thoughts & What's next]]
+- Lesson 11 - [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Becoming indispensable- a pandemic power move]]
+- Lesson 12 - [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/$10K Training Lesson 12 Using leverage to grow your career (while you sleep)]]
+- Lesson 13 - [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/$10K Training Lesson 13 A portfolio approach to $10K Work]]
+- Lesson 14 - [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/$10K Training Lesson 14 Closing Thoughts & What's next]]
 
 ## Weekly Assignments
 + [[Week 1 - Assignment]]

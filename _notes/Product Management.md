@@ -12,4 +12,4 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 
 
 ## Next 
-[[S01 Personal/030-039 Areas/38 Agile/38.45 Agile Learning Path/Product Discovery |Product Discovery]]
+[[Midjourney V6 prompts examples/030-039 Areas/38 Agile/38.45 Agile Learning Path/Product Discovery|Product Discovery]]

@@ -9,5 +9,5 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 # Agile Software Development
 - [[Extreme Programming]]
 - [[Dev Ops]]
-- [[S01 Personal/030-039 Areas/38 Agile/38.45 Agile Learning Path/Teams]]
+- [[Midjourney V6 prompts examples/030-039 Areas/38 Agile/38.45 Agile Learning Path/Teams]]
 - [[Metrics]]

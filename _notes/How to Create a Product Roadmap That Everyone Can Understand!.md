@@ -25,7 +25,7 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 	+ ==Next — Tasks that are coming up soon== 
 	+ ==Later — Tasks that you’d like to work on in the future or need to do a bit more research before you move on==
 
-![[Pasted image 20220919064752.png]]
+![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20220919064752.png]]
 
 * A theme-based map replaces this with themes, which appear as cards on your roadmap.
 * ==themes are “a promise to solve problems, not build features.”==

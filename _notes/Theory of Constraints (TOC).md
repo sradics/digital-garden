@@ -40,7 +40,7 @@ Expert
 ## Linking
 - [[38.40 Theory of Constraints]]
 - [[Forte Labs - Theory of Contraints Blog Series]]
-- [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Book notes/Kindle/Kanban]]
+- [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Book notes/Kindle/Kanban]]
 - [[Kanban in der Praxis]]
 - [[The Phoenix Project]]
 

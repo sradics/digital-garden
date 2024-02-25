@@ -13,7 +13,7 @@ date_modified: Friday, October 27th 2023, 6:15:41 am
 
 Reflection:
 + I apply eat the frog often and also couple that with my Todoist task management and flagging that with energy levels
-	+ [[Manage your energy, not your time]]
+	+ [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Manage your energy, not your time]]
 	+ [[Notes from Guide Master your 4 pillars of energy]]
 + 3/3/3 - seems similar for Learn-Reflect-Grow for learning
 + Timeblocking - I'm often already blocking time for e.g. course preparations beforehand in my calendar, even if that event will be just in some weeks. This then reminds me early on and I have already time blocked. I guess this can be combined with 3/3/3
@@ -22,7 +22,7 @@ Reflection:
 + Eisenhower Matrix - just a great tool, that I apply unconsciously often. At the same time I did not yet fully integrate it in my routines. I find [[MOC 10K$ framework]] more appealing and integrated that with my Todoist.
 
 # Linking
-+ [[S01 Personal/050-059 Resources/themes/58 Agile/Eisenhower Matrix|Eisenhower Matrix]]
-+ [[The Eisenhower matrix of prioritisation]]
++ [[Midjourney V6 prompts examples/050-059 Resources/themes/58 Agile/Eisenhower Matrix|Eisenhower Matrix]]
++ [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The Eisenhower matrix of prioritisation]]
 + [[Week 3 - Course Notes#Beating procrastination]]
 

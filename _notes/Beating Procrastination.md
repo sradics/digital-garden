@@ -87,6 +87,6 @@ Strengthen autonomy, competence and relatedness.
 
 ## Linking
 [Indistractible](https://www.blinkist.com/en/nc/browse/books/indistractable-en?r=1&st=indi)
-[[S01 Personal/030-039 Areas/32 Zettelkasten/Permanent notes/Hooked/Hooked |Hooked]]
+[[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Permanent notes/Hooked/Hooked|Hooked]]
 
 ![[Blinkist Guide - Beating Procrastination - nir eyal.pdf]]

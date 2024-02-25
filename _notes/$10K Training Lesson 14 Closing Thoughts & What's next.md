@@ -29,7 +29,7 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 * a new iPad won't solve all our problems [[[$10K Training Lesson 9] No, a new iPad won't change your life 1]]
 * get more comfortable with saying no [[How to stop saying yes when you want to say no 1]]
 
-![[Pasted image 20220731090754.png]]
+![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20220731090754.png]]
 
 ## Week 4 to gain some first insights on the all-encompassing question: what's the right thing to do?
 * $10K Trio of Becoming Indispensable in [[Becoming indispensable- a pandemic power move 1]]

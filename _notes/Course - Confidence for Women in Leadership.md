@@ -432,7 +432,7 @@ Place IN MY OPINION in front of everything someone says ... this connects it to 
 + look in their eyes
 	+ respect, eagerness
 	+ look in eyes, nose, mouth and repeat
-+ use [[Power Poses]]
++ use [[Midjourney V6 prompts examples/030-039 Areas/36 Coaching/36.03 Woman in Leadership/Power Poses]]
 	+ 2 minutes can change your confidence levels
 	+ higher levels of testosterone and cortisol
 	+ 15'

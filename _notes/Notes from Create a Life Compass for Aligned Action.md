@@ -68,7 +68,7 @@ What will add joy/color to my life if that would happen regularly?
 
 # Linking
 + [[MOC BASB Masterclass]]
-+ [[12 Favorite Problems- How to Spark Genius With the Power of Open Questions]]
++ [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/12 Favorite Problems- How to Spark Genius With the Power of Open Questions]]
 + [[Feynmans 12 favorite problems]]
 + [[My running list of 12 favorite problems]]
 

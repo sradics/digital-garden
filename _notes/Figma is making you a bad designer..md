@@ -17,7 +17,7 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 * If you jump straight into a design tool you’re not using it, it’s using you and it’s sucking your creativity dry.
 * if I couldn’t do my job with pen and paper (or whiteboard and marker), then I wasn’t a very good designer. To this day, I find the sentiment to be at my advantage.
 
-![[Pasted image 20220820192104.png]]
+![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20220820192104.png]]
 
 * If you sit down to build something with a box of Legos, you’re likely going to take your inspiration from the Legos in front of you and build with what you have. Doing this over and over again, you’ll get really good at building things with those particular blocks, though they will all look pretty similar.
 * **“I don’t think we have what we need here,**” and articulating what it is you do need.

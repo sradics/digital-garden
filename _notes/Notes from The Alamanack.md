@@ -20,7 +20,7 @@ tags:
 	+ if you love money .. money constantly occupies your mind. It is all you think about and it frames every decision
 	+ Cycle of dissatisfaction and paranoia
 + Avoid constantly upgrading to new levels of money
-	+ Links to frugal living (e.g. [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/To Retire 10 Years Early, Stop Buying These 10 Things|To Retire 10 Years Early, Stop Buying These 10 Things]])
+	+ Links to frugal living (e.g. [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/To Retire 10 Years Early, Stop Buying These 10 Things|To Retire 10 Years Early, Stop Buying These 10 Things]])
 + Happiness is a choice to remain in the present moment
 	+ Happiness is just one possible way of responding to a neutral world ... we can choose to be happy
 + The **==fewer desires==** you have, the greater your ability to accept the way things are right now

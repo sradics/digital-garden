@@ -203,7 +203,7 @@ Process metrics allow us to evaluate the performance of the discovery engine, th
 ## Linking
 + Inspired by [Gerard Chiva in his book Product Roadmapping](https://leanpub.com/product-roadmapping-in-practice)
 + [[Product Roadmaps Relaunched]]
-+ [[How to Create a Product Roadmap That Everyone Can Understand!]]
++ [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to Create a Product Roadmap That Everyone Can Understand!]]
 + [Roadmapping Approach described](https://www.linkedin.com/posts/andre-albuquerque_productmanagement-product-activity-6985144091827138560-2Eun?utm_source=share&utm_medium=member_desktop)
 
 ## Footnotes

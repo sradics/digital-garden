@@ -13,7 +13,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 
 
 [Source](https://minnstate.pressbooks.pub/write/)
-![[How-to-Make-Notes-and-Write-1660330156.pdf]]
+![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/How-to-Make-Notes-and-Write-1660330156.pdf]]
 
 # Linking
 + Literature note: [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/The Two Definitions of Zettelkasten]]

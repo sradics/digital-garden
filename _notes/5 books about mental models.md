@@ -19,6 +19,6 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 
 # Linking
 + [[Notes from the Power of Mental models]]
-+ [[30 mental models to add to your thinking toolbox]] (source that inspired me to create that note and actually also led to the discovery of that great collection)
++ [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/30 mental models to add to your thinking toolbox]] (source that inspired me to create that note and actually also led to the discovery of that great collection)
 
 

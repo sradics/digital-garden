@@ -52,4 +52,4 @@ Chapter 6: Appropriate humor in the workplace provides many benefits. [Source](h
 - Humble leaders are confident without arrogance, sincere, modest, and able to laugh at themselves openly.
 
 # Linking
-+ [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Mindset shift -2- Your brain is for having ideas, not holding them|Mindset shift -2- Your brain is for having ideas, not holding them]]
++ [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Mindset shift -2- Your brain is for having ideas, not holding them|Mindset shift -2- Your brain is for having ideas, not holding them]]

@@ -13,7 +13,7 @@ Chapter 1: **Public speaking is a great way to spread your ideas**; **anyone can
 - risking being disliked, ridiculed or even worse, ignored.
 - it’s a great opportunity to get your ideas out into the world.
 - public speaking is a skill that anyone can learn.
-- links to [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The Two Mindsets|The Two Mindsets]],  [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/From fixed mindset to growth mindset- the complete guide|From fixed mindset to growth mindset- the complete guide]]
+- links to [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The Two Mindsets|The Two Mindsets]],  [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/From fixed mindset to growth mindset- the complete guide|From fixed mindset to growth mindset- the complete guide]]
 
 Chapter 2: **Earn** your audience’s **trust by making eye contact** **and showing your vulnerability.** [Source](https://blinkist.com/nc/reader/ted-talks-en?chapter=2)
 - One is to get personal,

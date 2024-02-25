@@ -22,7 +22,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 	* is your line of ==defense against things falling through the cracks==.
 * The Weekly Review ensures that every 7 days, you “check-in” on all your tasks, elevating those that need your attention,
 
-![[Pasted image 20220723070829.png]]
+![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20220723070829.png]]
 
 
 

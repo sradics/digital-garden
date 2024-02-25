@@ -21,4 +21,4 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 	* Then in the case of the “bad” scenario, write down, step by step, what it would really mean for you to run out of money.
 
 
-![[Pasted image 20220823103225.png]]
+![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20220823103225.png]]

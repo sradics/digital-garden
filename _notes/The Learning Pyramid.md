@@ -6,7 +6,7 @@ tags:
 date_created: Friday, March 3rd 2023, 5:20:08 am
 date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ---
-# [[The Learning Pyramid ]]
+# [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Permanent notes/The Learning Pyramid]]
 + [Source](https://www.educationcorner.com/the-learning-pyramid.html)
 + developed by *National Training Laboratory*
 

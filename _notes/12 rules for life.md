@@ -9,7 +9,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 # 12 rules for life
 [Source](https://www.blinkist.com/en/nc/browse/books/12-rules-for-life-de?r=1&st=12+rules)
 
-### Kopf hoch,Brust raus
+## Kopf hoch,Brust raus
 
 > [!tip] Regel #1
 > Steh aufrecht & mach die Schultern breit

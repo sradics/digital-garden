@@ -77,3 +77,4 @@ Posted on **LINKEDIN** on 2024-02-25_Sun
 * [[My personal writing style]]
 * [[Experience Emotional Writing]]
 * [[LinkedIn writing tips collection]]
+* [[5 keys to readability]]

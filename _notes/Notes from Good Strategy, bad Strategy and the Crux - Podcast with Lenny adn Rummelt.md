@@ -23,7 +23,6 @@ Instead on strategy one might call it Action Agenda
    - **==What is holding you back?==**
    
 ### Guiding Policy
-   - What are we going to do about it?
    - What are we going to do about this problem?
    - How will we deal with the situation
 

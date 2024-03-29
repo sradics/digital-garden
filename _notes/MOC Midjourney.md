@@ -14,4 +14,4 @@ date_modified: Wednesday, March 13th 2024, 9:33:45 pm
 + [[The Complete Guide to Writing Midjourney Prompts]]
 + [[Midjourney Mastery- A Guide to Using Image Prompts]]
 + [[Midjourney Character Consistency]]
-+ 
++ [[Midjourney CREF and SREF examples]]

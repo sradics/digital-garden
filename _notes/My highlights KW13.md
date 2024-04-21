@@ -1,14 +1,35 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+date_created: Friday, March 29th 2024, 5:31:55 am
+date_modified: Sunday, April 21st 2024, 8:44:37 am
 ---
 # [[My highlights KW13]]
 ## LinkedIn Post
 [Post at LinkedIn]()
+
+![[Pasted image 20240421084417.png|400]]
+
+5 LinkedIn Posts That Changed How I Think This Week  
+(Because LinkedIn Posts DO Influence People...)  
   
+This week on LinkedIn, I loved the mix of inspiration and practicality:  
+  
+[](https://www.linkedin.com/in/ACoAADFnrGQB8F7Vva4YmgHCR_T6rhQMrRdSa28)[Heike Dreißigacker](https://www.linkedin.com/in/heikedrei%C3%9Figacker/): Great visualization for the Mindset for Knowledge- and Collaboration (DE) - [https://lnkd.in/emjM5hJF](https://lnkd.in/emjM5hJF)  
+  
+[](https://www.linkedin.com/in/ACoAAAIORJIBEoHqn58LQs7XJfr3BzzXs9n47cU)[Steve Pereira](https://www.linkedin.com/in/devopsto/): The Flow of Your Microlearning. Linking to a great Course about Value Stream Management  
+[https://lnkd.in/eat9rmbt](https://lnkd.in/eat9rmbt)  
+  
+[](https://www.linkedin.com/in/ACoAADf4bgUB_SYYxrCCxXN6bqAhLp0S6YOWpWU)[Lara Acosta](https://www.linkedin.com/in/laraacostar/): I read 52 books in 52 weeks (but these 5 helped me hit $100k/mo < 2 years). Love the 5 books and again what a hook headline! - [https://lnkd.in/eekAny84](https://lnkd.in/eekAny84)  
+  
+[](https://www.linkedin.com/in/ACoAAAIwPEUBTm7mSG8ek5CbpWfNoImNJhww2JQ)[Udo Wiegärtner](https://www.linkedin.com/in/udowiegaertner/): What a great story about being connected! Touched me emotionally. (DE) - [https://lnkd.in/eScrUgCw](https://lnkd.in/eScrUgCw)  
+  
+My top post: 🏆 7 AI tools I leverage daily (Based on 1 year experimentation) - [https://lnkd.in/euskqkXn](https://lnkd.in/euskqkXn)  
+  
+What were your highlights this week?
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 

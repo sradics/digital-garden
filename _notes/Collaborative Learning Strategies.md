@@ -5,18 +5,17 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+date_created: Tuesday, March 19th 2024, 6:15:50 am
+date_modified: Sunday, April 21st 2024, 9:24:43 am
 ---
 # [[Collaborative Learning Strategies]]
 ## LinkedIn Post
-[Post at LinkedIn]()
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_7-ingredients-for-collaborative-learning-activity-7175770545857167360-0ryR?utm_source=share&utm_medium=member_desktop)
+![[Collaborative Learning.pdf]]
 
 **Unlock the Power of Collaborative Learning** 
 
-  
-
 Struggling to turn team knowledge into growth?  Collaborative learning could be your superpower.
-
-  
 
 **7 key ingredients for Collaborative Learning:**
 
@@ -26,13 +25,9 @@ Struggling to turn team knowledge into growth?  Collaborative learning could be
 
 ✪ Timing is everything. Launch your learning initiative when it resonates most – a corporate milestone, a market shift, or a ticking clock. 
 
-  
-
 ✪ Engagement is key. Kickstart sessions by gauging commitment. Ask, On a scale of 1-5, how engaged do you plan to be in the session today? What would it take to increase that number by 1?
 
 ✪ Harness the BRAC rhythm. Minds thrive on cycles of focus and rest. Keep sessions snappy – 30 minutes to 2 hours max.
-
-  
 
 ✪ Simplify to amplify. Use models to build skills without overloading minds. Combine with the "I do, we do, you do" teaching approach
 
@@ -40,19 +35,13 @@ Struggling to turn team knowledge into growth?  Collaborative learning could be
 
 ✪ Commit in the moment. When minds are ignited. "When this happens, then I'll do that." 
 
-  
-
-  
-
 Harnessing these strategies isn't just about learning; it's about evolving together in a way that's dynamic, engaging, and effective.
-
-  
 
 👉 FOLLOW ME for more insights on transformative learning strategies.
 
 What's YOUR best collaborative learning tip? Share in the comments!
 
-![[Collaborative Learning.pdf]]
+
 
 ![[BRAC Cycle.jpg]]
 

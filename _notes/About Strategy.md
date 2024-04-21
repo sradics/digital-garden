@@ -1,14 +1,48 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - publish_in_newsletter
+date_created: Friday, March 15th 2024, 5:00:39 am
+date_modified: Sunday, April 21st 2024, 9:31:52 am
 ---
 # [[About Strategy]]
 ## LinkedIn Post
-[Post at LinkedIn]()
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_good-strategy-bad-strategy-activity-7174313388695597056-4Rox?utm_source=share&utm_medium=member_desktop)
+
+![[GoodStrategy_BadStrategy.pdf]]
+
+Unlock the Secret to Winning Strategies!  
+(Tired of confusing strategy with tools?)  
   
+It is about understanding the essence of strategy, beyond the analytical tools often mistaken for the strategy itself.  
+  
+The kernel of your strategy is a triad: Diagnosis, Guiding Policy, and Coherent Action.  
+  
+Diagnosis  
+‾‾‾‾‾  
+First, ask, "What's the real challenge here?" 🧐  
+Craft hypotheses. Connect the dots. Understand the root cause.  
+  
+"We're facing this hurdle because..."  
+  
+Pinpoint your Crux - the toughest nut to crack that’s holding you back.  
+  
+Guiding Policy  
+‾‾‾‾‾  
+What are you going to do about this problem?  
+How can you apply your Source of Power on a target that you can affect?  
+  
+'Think Again'. Always question, always analyze.  
+  
+Coherent Action  
+‾‾‾‾‾  
+Your plan to implement your strategy. Overcome inertia. Make those decisive moves.  
+Apply laser FOCUS. Prioritize what matters.  
+
+👉 Want more strategy insights like this? Let's connect!
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
@@ -51,7 +85,6 @@ Most important tool: Focus
    - Fluff, word salad
    - Incoherent actions
    - goals are not the strategy as they leave out important aspects
-
 
 Posted on **LINKEDIN** on 2024-03-15_Fri
 # Linking

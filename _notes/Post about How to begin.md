@@ -1,14 +1,83 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - publish_in_newsletter
+date_created: Tuesday, March 5th 2024, 5:41:07 am
+date_modified: Sunday, April 21st 2024, 9:41:11 am
 ---
 # [[Post about How to begin]]
 ## LinkedIn Post
-[Post at LinkedIn]()
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ever-feel-stuck-setting-goals-that-really-activity-7170689607540420609-ZkdV?utm_source=share&utm_medium=member_desktop)
+
+![[Pasted image 20240421094019.png|400]]
+
+Ever feel stuck setting goals that really excite you?  
+(Get inspired by the impactful method described in How to Begin)  
   
+Major goals should be DAUNTING, IMPORTANT and THRILLING  
+It is the qualities that our goals possess, that will make them worthy goals.  
+  
+Sounds challenging right? Read on to learn HOW TO BEGIN.  
+  
+Step 1 - Sketch the goal ✏️  
+‾‾‾‾‾  
+Do a first sketch of the goal to make the goal tangible. Combine it with quick word associations. For the word associations ask:  
+  
+✪ What makes this goal daunting?  
+✪ Why is this important?  
+✪ What makes it thrilling?  
+  
+Step 2 - Draft a Mission statement 📜  
+‾‾‾‾‾  
+Create a first mission statement that expresses your draft in some sentences. This helps combine your thoughts.  
+  
+Nothing complicated, just invest some minutes!  
+  
+Step 3 - Do a Spousish Test 🤲  
+‾‾‾‾‾  
+Reflect with someone who really knows you.  
+✪ reality check  
+✪ catch problems  
+✪ discover blind spots  
+  
+Watch out for extreme reactions. Take what is value adding and at the same time leave out what does not resonate!  
+  
+Step 4 - Goldy locks zone test 👸  
+‾‾‾‾‾  
+Is the goal too small or too big? Look for the perfect spot.  
+Tweak the sketch and mission statement.  
+  
+Step 5 - Add SPICE 🌶️  
+‾‾‾‾‾  
+✪ Can you aim higher?  
+✪ Change timeline  
+✪ Include team power?  
+✪ Extend reach?  
+✪ Lift outcomes?  
+  
+Change the mission statement and experiment with powerful verbs and adjectives.  
+  
+💡verbs: ignite, forge, pioneer, surmount, eradicate, mobilize, enrich, foster, orchestrate, amplify  
+💡adjectives: innovative, impactful, revolutionary, dynamic, empowering, resilient, visionary, transformative, unprecedented, pioneering  
+  
+Step 6 - Status Quo and Rewards check  
+‾‾‾‾‾  
+Weigh the comfort of inaction against the thrill of pursuit.  
+  
+✪ What are the BENEFITS of NOT taking on that goal?  
+✪ What are the REWARDS for not doing it?  
+✪ What are the COSTS of not pursuing the goal?  
+  
+Step 7 - Move forward  
+‾‾‾‾‾  
+🌀MOVE🌀 ... with small steps, but MOVE.  
+  
+And do a recap of your progress and success every 6 weeks.  
+  
+👉 Ready to spice up your goal setting? Share your thoughts or even thrilling goals in the comments!
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
@@ -68,3 +137,5 @@ And do a recap of your progress and success every 6 weeks.
 
 Posted on **LINKEDIN** on 2024-03-05_Tue
 # Linking
++ [[My running list of 12 favorite problems#Help others to grow]]
++ [[My running list of 12 favorite problems#Continuous Learning]]

@@ -1,14 +1,36 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - publish_in_newsletter
+date_created: Monday, April 1st 2024, 8:56:30 am
+date_modified: Sunday, April 21st 2024, 8:39:47 am
 ---
 # [[6 Top Books recommended by Lara Acosta]]
 ## LinkedIn Post
-[Post at LinkedIn]()
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_6-top-books-recommended-by-lara-acosta-activity-7180464974182391808-gei-?utm_source=share&utm_medium=member_desktop)
+
+![[6 Top Books recommended by Lara Acosta.pdf]]
+
+Hitting $100k/month in under 2 years?  
+(Lara Acosta credits these 5 books as key to her success)  
   
+Inspired by Lara Acosta's top 5 book recommendations - [https://lnkd.in/eejefkxw](https://lnkd.in/eejefkxw).  
+  
+Short on time? I created a Blinkist Space with KEY INSIGHTS from all 5 books. Explore it for free:  
+‾‾‾‾‾  
+✪ Influence by Robert Cialdini  
+✪ The Compound Effect by Darren Hardy  
+✪ How to Win Friends and Influence People  
+✪ Nudge by Richard H. Thaler and Cass R. Sunstein  
+✪ Steal Like an Artist by Austin Kleon  
+✪ The Happiness Hypothesis by Jonathan Haidt  
+  
+My favorite - The Compound Effect! What is yours?  
+  
+👉 Follow me for regular fast access to key insights
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
@@ -29,3 +51,4 @@ My favorite - The Compound Effect! What is yours?
 
 Posted on **LINKEDIN** on 2024-04-01_Mon
 # Linking
++ [[My running list of 12 favorite problems#Continuous Learning]]

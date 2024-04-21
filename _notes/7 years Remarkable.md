@@ -1,19 +1,46 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - publish_in_newsletter
+date_created: Sunday, March 3rd 2024, 5:41:50 am
+date_modified: Sunday, April 21st 2024, 9:43:19 am
 ---
 # [[7 years Remarkable]]
 ## LinkedIn Post
-[Post at LinkedIn]()
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-the-power-of-hybrid-note-taking-activity-7169979946772217856-V2bg?utm_source=share&utm_medium=member_desktop)
+
+![[7yearsWriting.jpg|400]]
+
+Unlock the Power of Hybrid Note-Taking! 📝✨  
+(7 Years & 5000 Pages: My Remarkable Journey)  
   
+Ever felt like traditional note-taking was holding you back?  
+I did—until I discovered a game-changer for my workflow. Here's a glimpse into my 7-year odyssey with the Remarkable tablet.  
+  
+Imagine flipping through 5000 pages that capture your intellectual evolution.  
+My notes capture thoughts I've had while using my Remarkable for:  
+  
+✪ One-on-ones, allowing me to staying present—less fumbling, more engaging  
+  
+✪ Reflection - the digital "paper" ignites my creative spark in a way a screen never could  
+  
+✪ Sketching - with markers, arrows, and scribbles in my notes that bring ideas to life  
+  
+✪ Reading and annotating PDFs on that crisp, large display  
+
+I organize my 1000+ notebooks using the PARA principle – a crucial part of my Second Brain.  
+When I want deeper integration with my digital notes, I import them to my Obsidian hub.  
+  
+Looking ahead, I’m excited about AI advancements like ChatGPT for text recognition to streamline my process even more.  
+  
+👉 FOLLOW ME for more productivity and note-taking tips
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
-![[7yearsWriting.jpg]]
 
 My perfect combination of hand written notes and digital extensions
 (Reflecting on 7 years using Remarkable)

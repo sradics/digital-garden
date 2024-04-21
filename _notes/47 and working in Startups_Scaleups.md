@@ -1,14 +1,40 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - publish_in_newsletter
+date_created: Wednesday, March 27th 2024, 5:20:35 am
+date_modified: Sunday, April 21st 2024, 8:56:35 am
 ---
 # [[47 and working in Startups_Scaleups]]
 ## LinkedIn Post
-[Post at LinkedIn]()
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_47-and-counting-how-i-become-a-startup-swiss-activity-7178662201728073728-2JeI?utm_source=share&utm_medium=member_desktop)
+![[Pasted image 20240421085541.png|400]]  
+
+47 and Counting: How I become a Startup Swiss Army Knife 🌟  
+(Unlock your edge!)  
   
+Imagine thriving in startups at 47. It's my reality. 🚀  
+  
+Since 2009, I've embraced the startup/scaleup journey. Here's what I've learned:  
+  
+✪ I never stop learning. From coding, coaching, leading, developing products to AI, I approach every role with curiosity. It's about value, not titles. 💡  
+✪ I flex my skills. Like a Swiss Army Knife, my generalist background paired with acquired deep expertise means I solve a wide range of problems. 🛠️  
+✪ Soft skills are my key to connect. My Systemic Coach training honed my empathetic, patient, and respectful yet assertive approach. This unlocks potential in myself and others. 🗝️  
+✪ Comfort zone? I constantly explore new territories. It's about the extra mile. 🧭 I avoid equilibrium!  
+✪ Health is my foundation. My 99.62% availability proves investment in well-being means peak performance. 🏆  
+  
+Age brings wisdom and a unique perspective. Sometimes I guide; other times, I learn. Understanding how to influence and interact effectively is crucial.  
+  
+I stay youthful by surrounding myself with fresh perspectives. My younger colleagues inspire me daily. It's a two-way street of knowledge! 🔄  
+  
+To sum it up: Embrace continuous learning, stay mentally nimble, invest in your interpersonal skills, keep pushing your boundaries, prioritize your health, embrace diverse viewpoints. Avoid the equilibrium!  
+  
+How do you adapt in a fast-paced world? Share your best tips below!  
+  
+👉 FOLLOW ME for more insights on building compound knowledge
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
@@ -31,3 +57,4 @@ To summarize - invest in always learning, mental flexibility, social skills, con
 
 Posted on **LINKEDIN** on 2024-03-27_Wed
 # Linking
++ [[My running list of 12 favorite problems#Leading questions to discover more of my 12 questions]]

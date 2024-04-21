@@ -118,14 +118,14 @@ A winning idea lights your reader on fire, getting them to declare:
 connects with [[The Human Experience#Claim - Proof Model]]
 ![[Pasted image 20240329175531.png|400]]
 
-+ Why should my reader care? 
++ **==Why should my reader care?==** 
 	+ What makes this different?
 	+ What problem(s) does it solve? 
-+ When did I realise this? 
++ **==When did I realise this?==** 
 	+ What moment did I first find this?
 	+ What other times have I noticed? 
-+ What can I build to help my reader win?
++ **==What can I build to help my reader win?==**
 	+ What is my unique mechanism? 
-+ Who else can support this argument? 
++ **==Who else can support this argument?==** 
 	+ Client, Stories & statistics, Mentors
 

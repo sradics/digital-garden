@@ -14,6 +14,18 @@ tags:
 
 ## Content preparation
 <% tp.file.cursor() %>
+Hook:
+
+One person:
+
+One Problem: 
+
+One Solution:
+
+One Story:
+
+One CTA:
 
 Posted on **LINKEDIN** on <% tp.date.now("YYYY-MM-DD_ddd") %>
 # Linking
++ [[My running list of 12 favorite problems]]

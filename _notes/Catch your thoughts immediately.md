@@ -6,13 +6,13 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
 date_created: Sunday, April 21st 2024, 5:59:57 am
-date_modified: Sunday, April 21st 2024, 8:33:46 am
+date_modified: Sunday, April 21st 2024, 10:42:33 am
 ---
 # [[Catch your thoughts immediately]]
 ## LinkedIn Post
 [Post at LinkedIn]()
 
-![[InspirationIsPerishable.jpg |400]]
+![[InspirationIsPerishable.jpg|400]]
 
 💡How I capture my Ideas, instead of losing them
 

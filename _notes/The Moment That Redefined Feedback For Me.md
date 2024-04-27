@@ -25,7 +25,7 @@ From that moment, I committed to a different path. **When I give feedback now, I
   
 I'd love to hear your stories. Have you ever experienced feedback that missed the mark on delivery? How did it shape your approach to giving and receiving feedback?  
   
-[#Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [#Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [#GrowthMindset](https://www.linkedin.com/feed/hashtag/?keywords=growthmindset&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [#ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184)
+[Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [GrowthMindset](https://www.linkedin.com/feed/hashtag/?keywords=growthmindset&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184)
 
 # Linking
 + [[MOC Feedback]]

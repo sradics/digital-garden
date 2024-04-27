@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/test
 ---
 # [[Your mind is for having ideas not holding them]]
 ## LinkedIn Post

@@ -7,7 +7,7 @@ tags:
 date_created: Thursday, November 30th 2023, 6:24:19 pm
 date_modified: Thursday, November 30th 2023, 6:50:08 pm
 ---
-# Reflecting Through the Lens of Radical Candor
+ Reflecting Through the Lens of Radical Candor
 ![[Pasted image 20231130182515.png]]
 
 One of the tools I frequently turn to when reflecting on my feedback behavior is Kim Scott's Radical Candor model. This framework, with its two dimensions of 'care personally' and 'challenge directly', creates a 2x2 matrix that helps me categorize and understand my feedback style. It illuminates the areas of 'ruinous empathy', 'manipulative insincerity', 'obnoxious aggression', and 'radical candor'.  
@@ -22,9 +22,9 @@ If you're interested in using Radical Candor as a reflective tool, consider thes
   
 I'd love to hear your thoughts. Have you used the Radical Candor model? What are your experiences with it? If you haven't used it, what are your initial impressions?  
   
-[#RadicalCandor](https://www.linkedin.com/feed/hashtag/?keywords=radicalcandor&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135673803350691840) [#Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135673803350691840) [#Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135673803350691840) [#ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135673803350691840)
+[RadicalCandor](https://www.linkedin.com/feed/hashtag/?keywords=radicalcandor&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135673803350691840) [Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135673803350691840) [Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135673803350691840) [ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135673803350691840)
 
-# Linking
+ Linking
 + [[MOC Feedback]]
 + ⬅ [[Power Dynamics and the Art of Feedback]]
 + ➡ [[Feedforward - A Future-Focused Twist on Feedback]]

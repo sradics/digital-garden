@@ -7,7 +7,7 @@ tags:
 date_created: Thursday, November 30th 2023, 6:20:32 pm
 date_modified: Thursday, November 30th 2023, 6:49:27 pm
 ---
-# A Four-Step Dance to Effective Feedback
+ A Four-Step Dance to Effective Feedback
 Feedback is a dance of communication where both the giver and receiver need to be in sync. It's not just about what you say, but also when and how you say it.  
   
 One approach I've found valuable is from Systemic Aggression Management.  
@@ -34,8 +34,8 @@ This four-step dance ensures that feedback is delivered in a considerate, respec
   
 Have you tried a structured approach to feedback like this? How has it worked for you? Share your experiences and insights below.  
   
-[#Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134947739376738305) [#Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134947739376738305) [#Communication](https://www.linkedin.com/feed/hashtag/?keywords=communication&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134947739376738305) [#ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134947739376738305)
-# Linking
+[Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134947739376738305) [Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134947739376738305) [Communication](https://www.linkedin.com/feed/hashtag/?keywords=communication&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134947739376738305) [ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7134947739376738305)
+ Linking
 + [[MOC Feedback]]
 + ⬅ [[Are We Masking the Real Issue with Feedback Tools]]
 + ➡ [[Power Dynamics and the Art of Feedback]]

@@ -1,14 +1,18 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - rating/⭐️⭐️
+  - 12_fav_problems/continuous_learning
+  - 12_fav_problems/help_others_grow
+date_created: Saturday, April 27th 2024, 5:31:12 am
+date_modified: Saturday, April 27th 2024, 12:08:00 pm
 ---
 # [[7 Advantages from Working out loud in my digital garden]]
 ## LinkedIn Post
 [Post at LinkedIn]()
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 

@@ -7,7 +7,7 @@ tags:
 date_created: Thursday, November 30th 2023, 6:26:33 pm
 date_modified: Thursday, November 30th 2023, 6:49:21 pm
 ---
-# Feedforward - A Future-Focused Twist on Feedback
+ Feedforward - A Future-Focused Twist on Feedback
 ![[Pasted image 20231130182925.png|400]]
 We often look back to improve, basing our changes on past actions. But what if we flipped the script, focusing on the future instead of the past? Welcome to the concept of Feedforward.  
   
@@ -31,9 +31,9 @@ What are your thoughts on Feedforward? Have you tried using this approach? Share
   
 For a deeper dive into Feedforward, check out this insightful essay by Marshall Goldsmith in the comments.  
   
-[#Feedforward](https://www.linkedin.com/feed/hashtag/?keywords=feedforward&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7136036164599214080) [#Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7136036164599214080) [#GrowthMindset](https://www.linkedin.com/feed/hashtag/?keywords=growthmindset&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7136036164599214080) [#ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7136036164599214080)
+[Feedforward](https://www.linkedin.com/feed/hashtag/?keywords=feedforward&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7136036164599214080) [Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7136036164599214080) [GrowthMindset](https://www.linkedin.com/feed/hashtag/?keywords=growthmindset&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7136036164599214080) [ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7136036164599214080)
 
-# Linking
+ Linking
 + [[MOC Feedback]]
 + ⬅ [[Reflecting Through the Lens of Radical Candor]]
 + ➡ [[Harnessing AI for Feedback - A Powerful Ally]]

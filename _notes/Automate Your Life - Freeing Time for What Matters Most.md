@@ -48,7 +48,7 @@ Are you ready to embrace [hashtag#automation](https://www.linkedin.com/feed/hash
 Automate Your Life: Freeing Time for What Matters Most
 (Automations in my PKM)
 
-A well-structured productivity system, including task managers, digital calendars, note-taking apps, and email apps, can streamline your workflow and save time. In my recent post: Unleashing the Power of Personal [#KnowledgeManagement](https://www.linkedin.com/feed/hashtag/?keywords=knowledgemanagement&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7156926314552156161): Uncover My Unique Tool Stack 🛠️ you can find an insight about my Personal Knowledge management approach.
+A well-structured productivity system, including task managers, digital calendars, note-taking apps, and email apps, can streamline your workflow and save time. In my recent post: Unleashing the Power of Personal [KnowledgeManagement](https://www.linkedin.com/feed/hashtag/?keywords=knowledgemanagement&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7156926314552156161): Uncover My Unique Tool Stack 🛠️ you can find an insight about my Personal Knowledge management approach.
 
 Some automations in that approach:
 + My captured and already distilled insights from reading a book in Kindle and from scanning through an article, video transcript or podcast transcript in Matter are automatically synced with my Second Brain in Obsidian. No more manually copy & pasting.

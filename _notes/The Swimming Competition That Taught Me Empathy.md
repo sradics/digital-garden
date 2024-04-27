@@ -7,7 +7,7 @@ tags:
 date_created: Thursday, November 30th 2023, 6:13:50 pm
 date_modified: Thursday, November 30th 2023, 6:491345:21 pm
 ---
-# The Swimming Competition That Taught Me Empathy
+ The Swimming Competition That Taught Me Empathy
 ![[Pasted image 20231130181446.png]]
 At the age of 10, I learned a lesson in empathy and team spirit—not in a classroom, but at a swimming competition, with the echo of splashes as my soundtrack.  
   
@@ -26,9 +26,9 @@ As a child, I made a mistake, but it was a mistake that shaped me. Now, when I p
   
 How about you? Have you ever had a moment where you learned the importance of empathy in feedback? Share your story below.  
   
-[#Teamwork](https://www.linkedin.com/feed/hashtag/?keywords=teamwork&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133861404234653696) [#Empathy](https://www.linkedin.com/feed/hashtag/?keywords=empathy&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133861404234653696) [#Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133861404234653696) [#Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133861404234653696)
+[Teamwork](https://www.linkedin.com/feed/hashtag/?keywords=teamwork&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133861404234653696) [Empathy](https://www.linkedin.com/feed/hashtag/?keywords=empathy&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133861404234653696) [Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133861404234653696) [Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133861404234653696)
 
-# Linking
+ Linking
 + [[MOC Feedback]]
 + ⬅ [[The Moment That Redefined Feedback For Me]]
 + ➡ [[Are We Masking the Real Issue with Feedback Tools]]

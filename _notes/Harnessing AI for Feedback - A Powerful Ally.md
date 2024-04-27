@@ -7,7 +7,7 @@ tags:
 date_created: Friday, December 1st 2023, 11:11:23 am
 date_modified: Friday, December 1st 2023, 11:16:26 am
 ---
-# Harnessing AI for Feedback - A Powerful Ally  
+ Harnessing AI for Feedback - A Powerful Ally  
 ![[Pasted image 20231201111703.png|400]]
 
 The power of Artificial Intelligence (AI) can be harnessed in various ways to enhance the feedback process, both in preparation and analysis.  
@@ -34,9 +34,9 @@ Remember, the nuanced understanding, empathy, and perspective that human feedbac
   
 What are your thoughts on using AI for feedback? Have you tried any AI tools in your feedback process? Share your experiences and insights below.  
 
-[#AI](https://www.linkedin.com/feed/hashtag/?keywords=ai) [#Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback) [#FutureOfWork](https://www.linkedin.com/feed/hashtag/?keywords=futureofwork) [#ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment)
+[AI](https://www.linkedin.com/feed/hashtag/?keywords=ai) [Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback) [FutureOfWork](https://www.linkedin.com/feed/hashtag/?keywords=futureofwork) [ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment)
 
-# Linking
+ Linking
 + [[MOC Feedback]]
 + ⬅ [[Feedforward - A Future-Focused Twist on Feedback]]
 

@@ -69,7 +69,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 	+ Matter import
 + ==2nd Slip-Box for collecting and generating ideas== (mainly in response to reading)
 	+ These are my Fleeting Notes, Permanent notes. Permanent notes spread through [[Para Blog by Tiago Forte | PARA]]
-+ ==restrict to one idea per note== and be a precise as possible
++ ==restrict to one idea per note== and be as precise as possible
 + a lack of structure and restrictions is a big threat to creativity
 
 ### 3 Types of Notes

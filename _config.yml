@@ -48,6 +48,7 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-news-sitemap
   - jekyll-spaceship
+  - jekyll-sitemap
 
 sass:
   sass_dir:          _sass

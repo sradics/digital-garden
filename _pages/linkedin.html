@@ -5,26 +5,37 @@ permalink: /linkedin
 ---
 
 
-{% assign 12favs_string = "12_fav_problems/continuous_learning,12_fav_problems/help_others_grow,12_fav_problems/test,others" %}
+{% assign 12favs_string = "12_fav_problems/continuous_learning,12_fav_problems/help_others_grow,12_fav_problems/relationships,12_fav_problems/health,ln_weekly_highlight,others" %}
 {% assign 12favs = 12favs_string | split: "," %}
 
+<style>
+    iframe {
+        width: 100%;
+        height: 350px; /* Adjust the height as needed */
+        border: none; /* Optional: removes the iframe border */
+    }
+</style>
 
 <div class="row">
 {% for item in 12favs %}
-    <div class="col-6 col-md-4">
+    <div class="col-6 col-md-4" style="margin-bottom: 20px">
     {% assign headline_title = "Others" %}    
     {% if item == "12_fav_problems/continuous_learning" %}
-        {% assign headline_title = "Livelong Learning" %}    
+        {% assign headline_title = "💡 Livelong Learning 📚" %}    
     {% elsif item == "12_fav_problems/help_others_grow" %}
-        {% assign headline_title = "Helping others to grow" %}    
-    {% elsif item == "12_fav_problems/test" %}
-        {% assign headline_title = "Test" %}        
+        {% assign headline_title = "🌱 Helping others to grow 👐" %}    
+    {% elsif item == "12_fav_problems/relationships" %}
+        {% assign headline_title = "💖 Relationships 🤝" %}        
+    {% elsif item == "12_fav_problems/health" %}
+        {% assign headline_title = "🏃 Health 🍎" %}  
+    {% elsif item == "ln_weekly_highlight" %}
+        {% assign headline_title = "Weekly highlights" %}      
     {% endif %}    
     
     <h1 class"fav_problem">{{ headline_title }}</h1>
     
     
-    {% assign lipages = site.notes | where: "tags", "linkedin/processed" %}    
+    {% assign lipages = site.notes | where: "tags", "linkedin/processed" | date_sort | reverse %}    
     {% for page in  lipages %}
      {% assign rating = "" %}  
      {% assign others = "true" %}  
@@ -46,7 +57,24 @@ permalink: /linkedin
      
      
       {% if page.tags contains item or item == "others" and others=="true" %}
+        {% if page.image %}
+        <div class="card" style="width: 18rem;">
+          <img src="{{ site.baseurl }}/assets/{{ page.image }}" class="card-img-top">
+          <div class="card-body">
+            <p class="card-text"><a href="{{ page.url }}">{{ page.title | truncate:40 }} {{ rating }}</a></p>
+          </div>
+        </div>
+        {% elsif page.pdf %}
+        <div class="card" style="width: 18rem;">
+          <iframe src="{{ site.baseurl }}/assets/{{ page.pdf }}" class="card-img-top"></iframe>
+          <div class="card-body">
+            <p class="card-text"><a href="{{ page.url }}">{{ page.title | truncate:40 }} {{ rating }}</a></p>
+          </div>
+        </div>
+        {% else %}
         <a href="{{ page.url }}">{{ page.title | truncate:40 }} {{ rating }}</a><br> 
+        {% endif %}
+        
       {% endif %}
      
       

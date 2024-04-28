@@ -5,8 +5,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - rating/⭐️⭐️⭐️
+  - 12_fav_problems/relationships
 date_created: Saturday, February 10th 2024, 6:26:37 am
 date_modified: Sunday, April 21st 2024, 10:21:46 am
+image: Pasted image 20240421102128.png
 ---
 # [[Support in Sideways movements]]
 ## LinkedIn Post
@@ -46,3 +49,5 @@ Regarding leadership I learned several important lessons that I integrated with 
 
 Posted on **LINKEDIN** on 2024-02-10_Sat
 # Linking
+* [[My running list of 12 favorite problems#Health]]
+* [[My running list of 12 favorite problems#Relationsships]]

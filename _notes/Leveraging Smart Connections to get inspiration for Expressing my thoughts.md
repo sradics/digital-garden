@@ -5,6 +5,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - rating/⭐️⭐️⭐️
+  - 12_fav_problems/continuous_learning
 date_created: Monday, January 29th 2024, 6:12:49 am
 date_modified: Thursday, February 1st 2024, 7:38:08 pm
 ---
@@ -64,3 +66,4 @@ BTW. I today also became a support for Smart Connections and will be able to wor
 
 Posted on **LINKEDIN** on 2024-01-29_Mon
 # Linking
+* [[My running list of 12 favorite problems#Continuous Learning]]

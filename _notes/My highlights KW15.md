@@ -4,6 +4,10 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
+  - ln_weekly_highlight
+date_created: Friday, April 12th 2024, 5:34:08 am
+date_modified: Sunday, April 28th 2024, 5:07:39 pm
+image: Pasted image 20240421080300.png
 ---
 # [[My highlights KW15]]
 ## LinkedIn Post

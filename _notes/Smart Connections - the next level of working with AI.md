@@ -5,6 +5,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - rating/⭐️⭐️⭐️
+  - 12_fav_problems/continuous_learning
 date_created: Tuesday, January 30th 2024, 7:21:41 am
 date_modified: Thursday, February 1st 2024, 7:36:26 pm
 ---
@@ -47,3 +49,4 @@ What could you achieve with such a powerful tool in your arsenal? 💡
 
 Posted on **LINKEDIN** on 2024-01-30_Tue
 # Linking
+* [[My running list of 12 favorite problems#Continuous Learning]]

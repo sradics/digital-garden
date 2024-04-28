@@ -1,14 +1,38 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - 12_fav_problems/help_others_grow
+  - linkedin/processed
+  - rating/⭐️
+image: Pasted image 20240428110632.png
+date_created: Thursday, April 25th 2024, 4:50:51 am
+date_modified: Sunday, April 28th 2024, 5:21:34 pm
 ---
 # [[Second Brain and AI presentation at FU Berlin]]
 ## LinkedIn Post
-[Post at LinkedIn]()
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_amplify-your-mind-with-a-second-brain-activity-7189156177916698624-sSLU?utm_source=share&utm_medium=member_desktop)
+
+![[Pasted image 20240428110632.png|400]]
+🧠💡 Amplify Your Mind with a Second Brain + AI  
+(Insights from presenting at Freie Universität Berlin)  
   
+Fresh from presenting at Freie Universität Berlin on Second Brains and AI productivity, I'm inspired by the experience – thanks to [](https://www.linkedin.com/in/ACoAADnFuz4BA9oeQbDcfjlq1U-WY3gUSUWyKRM)[Dr. Tiziana Guerra](https://www.linkedin.com/in/dr-tiziana-guerra-31272a230/)!  
+  
+In a dynamic 90-minute session, I :  
+↳ Demoed my Second Brain workflow  
+↳ Revealed the power of compounding knowledge  
+↳ Showcased AI for knowledge discovery and summarization.  
+↳ Delved into organizational methods like PARA and Maps of Content.  
+↳ Introduced C.O.D.E theory (Capture-Organize-Distill-Express) with real-time examples.  
+  
+🌟 Excited to Share this Journey with YOU! 🌟  
+Ready for a Second Brain + AI deep dive for you or your team?  
+Let's talk - comment or DM me!  
+  
+The session sparked great questions, discussions and philosophical debates.  
+Loved the energy, leaving us buzzing with new ideas and connections to explore.
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
@@ -31,4 +55,5 @@ So - tell me if such a live insights session, combined with a high level overvie
 
 Posted on **LINKEDIN** on 2024-04-25_Thu
 # Linking
-+ [[My running list of 12 favorite problems]]
++ [[My running list of 12 favorite problems#Help others to grow]]
++ my presentation slides - [[Presentation Second Brain]]

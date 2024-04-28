@@ -4,8 +4,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
+  - linkedin/processed
+  - rating/⭐️⭐️⭐️
+  - 12_fav_problems/relationships
+  - 12_fav_problems/help_others_grow
 date_created: Thursday, November 30th 2023, 6:09:40 pm
 date_modified: Thursday, November 30th 2023, 6:49:50 pm
+image: Pasted image 20231130181054.png
 ---
 # The Moment That Redefined Feedback For Me
 ![[Pasted image 20231130181054.png]]
@@ -30,4 +35,6 @@ I'd love to hear your stories. Have you ever experienced feedback that missed th
 # Linking
 + [[MOC Feedback]]
 + ➡ [[The Swimming Competition That Taught Me Empathy]]
++ [[My running list of 12 favorite problems#Relationsships]]
++ [[My running list of 12 favorite problems#Help others to grow]]
 

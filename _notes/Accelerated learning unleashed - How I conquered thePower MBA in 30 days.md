@@ -5,8 +5,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - rating/⭐️⭐️⭐️
+  - 12_fav_problems/continuous_learning
 date_created: Sunday, February 4th 2024, 7:56:44 am
 date_modified: Sunday, April 21st 2024, 10:10:39 am
+image: Pasted image 20240421101010.png
 ---
 # [[Accelerated learning unleashed - How I conquered thePower MBA in 30 days]]
 ## LinkedIn Post
@@ -82,3 +85,6 @@ And I want to share a small result from my learning journey with you. Maybe that
 
 Posted on **LINKEDIN** on 2024-02-04_Sun
 # Linking
++ [[My running list of 12 favorite problems#Continuous Learning]]
++ [[PowerMBA Booklist]]
++ [[Crush the ThePower MBA in 30 Days - Discover my Strategy]]

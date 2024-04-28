@@ -5,8 +5,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
+  - rating/⭐️⭐️⭐️
+  - 12_fav_problems/continuous_learning
 date_created: Monday, March 25th 2024, 3:49:20 am
 date_modified: Sunday, April 21st 2024, 9:01:17 am
+pdf: 7 AI tools I use daily.pdf
 ---
 # [[7 AI tools that I leverage daily]]
 ## LinkedIn Post

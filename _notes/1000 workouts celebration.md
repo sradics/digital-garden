@@ -4,6 +4,8 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
+  - rating/⭐️⭐️⭐️
+  - 12_fav_problems/health
 date_created: Thursday, July 27th 2023, 9:45:38 am
 date_modified: Thursday, July 27th 2023, 9:46:01 am
 ---
@@ -36,3 +38,4 @@ I also want to thank Blinkist/GO1 for providing such an awesome workplace where 
 [Posted on **LINKEDIN** on 2023-07-27_Thu](https://www.linkedin.com/posts/sebastiankamilli_today-marks-my-1000th-workout-with-peloton-activity-7090245593016532993-nK0v?utm_source=share&utm_medium=member_desktop)
 
 # Linking
+* [[My running list of 12 favorite problems#Health]]

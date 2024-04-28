@@ -5,20 +5,32 @@ permalink: /linkedin
 ---
 
 
-{% assign 12favs_string = "12_fav_problems/continuous_learning,12_fav_problems/help_others_grow,12_fav_problems/relationships,12_fav_problems/health,ln_weekly_highlight,others" %}
+{% assign 12favs_string = "12_fav_problems/continuous_learning,12_fav_problems/help_others_grow,12_fav_problems/health,12_fav_problems/relationships,ln_weekly_highlight,others" %}
 {% assign 12favs = 12favs_string | split: "," %}
-
+{% assign columnCounter = 0 %}
 <style>
     iframe {
         width: 100%;
         height: 350px; /* Adjust the height as needed */
         border: none; /* Optional: removes the iframe border */
     }
+    
+    .cardspacer {
+        margin-bottom:10px;
+    }
+    
+    .fs-6 {
+        font-size: 0.7rem !important;
+    }
 </style>
 
 <div class="row">
 {% for item in 12favs %}
-    <div class="col-6 col-md-4" style="margin-bottom: 20px">
+    
+    {% if columnCounter==0 or columnCounter==1 or columnCounter==3 or columnCounter==5 %}
+    <div class="col-6 col-md-3" style="margin-bottom: 20px">
+    {% endif %} 
+        
     {% assign headline_title = "Others" %}    
     {% if item == "12_fav_problems/continuous_learning" %}
         {% assign headline_title = "💡 Livelong Learning 📚" %}    
@@ -32,8 +44,11 @@ permalink: /linkedin
         {% assign headline_title = "Weekly highlights" %}      
     {% endif %}    
     
-    <h1 class"fav_problem">{{ headline_title }}</h1>
-    
+    {% if columnCounter==2 or columnCounter==4 %}
+    <div class="p-3 mb-2 bg-dark border border-secondary rounded-3 text-light" style="margin-top:10px">{{ headline_title }}</div>    
+    {% else %}     
+    <div class="p-3 mb-2 bg-dark border border-secondary rounded-3 text-light">{{ headline_title }}</div>    
+    {% endif %}     
     
     {% assign lipages = site.notes | where: "tags", "linkedin/processed" | date_sort | reverse %}    
     {% for page in  lipages %}
@@ -57,30 +72,43 @@ permalink: /linkedin
      
      
       {% if page.tags contains item or item == "others" and others=="true" %}
+        <div class="card cardspacer">
         {% if page.image %}
-        <div class="card" style="width: 18rem;">
           <img src="{{ site.baseurl }}/assets/{{ page.image }}" class="card-img-top">
-          <div class="card-body">
-            <p class="card-text"><a href="{{ page.url }}">{{ page.title | truncate:40 }} {{ rating }}</a></p>
-          </div>
-        </div>
         {% elsif page.pdf %}
-        <div class="card" style="width: 18rem;">
-          <iframe src="{{ site.baseurl }}/assets/{{ page.pdf }}" class="card-img-top"></iframe>
-          <div class="card-body">
-            <p class="card-text"><a href="{{ page.url }}">{{ page.title | truncate:40 }} {{ rating }}</a></p>
-          </div>
-        </div>
+          <iframe src="{{ site.baseurl }}/assets/{{ page.pdf }}" class="card-img-top"></iframe>          
         {% else %}
-        <a href="{{ page.url }}">{{ page.title | truncate:40 }} {{ rating }}</a><br> 
+          
         {% endif %}
-        
+          <div class="card-body">
+            <h5 class="card-title"><a href="{{ page.url }}">{{ page.title | truncate:60 }} {{ rating }}</a></h5>
+            {% assign ct = page.content | split: "Post at LinkedIn" %}
+            {% if ct.size>1 %}  
+            <p class="card-text">{{ ct[1] | strip_html | truncatewords: 30 }}</p>
+            {% endif %}    
+          </div>
+          {% if page.date_created %}
+          <div class="card-footer">
+                <p class="fs-6">
+                <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+                  ✷ {{ page.date_created }} <br> ↺ {{ page.date_modified }}
+                </time>
+                </p>
+          </div>
+          {% endif %}
+        </div>
       {% endif %}
      
       
       
     {% endfor %}
+    
+    {% if columnCounter==0 or columnCounter==2 or columnCounter==4 or columnCounter==5 %}
     </div>
+    {% endif %} 
+    {% assign columnCounter = columnCounter | plus: 1 %}
+    
+    
 {% endfor %}   
     
     

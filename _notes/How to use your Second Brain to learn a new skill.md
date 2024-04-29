@@ -5,8 +5,10 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/help_others_grow
 date_created: Monday, April 22nd 2024, 5:51:07 am
 date_modified: Wednesday, April 24th 2024, 6:32:28 am
+image: Pasted image 20240424063155.png
 ---
 # [[How to use your Second Brain to learn a new skill]]
 ## LinkedIn Post

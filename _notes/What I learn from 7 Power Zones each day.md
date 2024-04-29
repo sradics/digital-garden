@@ -5,8 +5,10 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/health
 date_created: Sunday, April 7th 2024, 6:31:36 am
 date_modified: Sunday, April 21st 2024, 8:30:22 am
+image: Pasted image 20240421081543.png
 ---
 # [[What I learn from 7 Power Zones each day]]
 ## LinkedIn Post

@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/continuous_learning
 date_created: Sunday, April 21st 2024, 5:59:57 am
 date_modified: Sunday, April 21st 2024, 10:42:33 am
+image: InspirationIsPerishable.jpg
 ---
 # [[Catch your thoughts immediately]]
 ## LinkedIn Post
-[Post at LinkedIn]()
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-capture-my-ideas-instead-of-losing-activity-7187714173403824128-dWb_?utm_source=share&utm_medium=member_desktop)
 
 ![[InspirationIsPerishable.jpg|400]]
 

@@ -5,8 +5,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - rating/⭐️
+  - 12_fav_problems/health
 date_created: Sunday, March 31st 2024, 7:17:28 am
 date_modified: Sunday, April 21st 2024, 8:42:17 am
+image: 10xGrowthIn3Months.jpg
 ---
 # [[How I reached 10x growth in fitness in 3 months]]
 ## LinkedIn Post

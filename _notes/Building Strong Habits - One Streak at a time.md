@@ -5,8 +5,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/health
+  - rating/⭐️⭐️
 date_created: Thursday, April 11th 2024, 5:24:30 am
 date_modified: Sunday, April 21st 2024, 8:33:33 am
+image: Pasted image 20240421080426.png
 ---
 # [[Building Strong Habits - One Streak at a time]]
 ## LinkedIn Post

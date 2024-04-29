@@ -5,8 +5,10 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/health
 date_created: Thursday, April 4th 2024, 6:02:55 am
 date_modified: Sunday, April 21st 2024, 8:30:12 am
+pdf: 4 steps  To Break out of Your Comfort Zone.pdf
 ---
 # [[How I stretch out of comfort zone each day]]
 ## LinkedIn Post

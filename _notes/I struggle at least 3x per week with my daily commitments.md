@@ -7,6 +7,7 @@ tags:
   - publish_in_newsletter
 date_created: Wednesday, April 3rd 2024, 5:47:11 am
 date_modified: Sunday, April 21st 2024, 8:35:49 am
+image: Pasted image 20240421083648.png
 ---
 # [[I struggle at least 3x per week with my daily commitments]]
 ## LinkedIn Post

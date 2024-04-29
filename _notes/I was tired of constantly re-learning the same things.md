@@ -5,8 +5,10 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/help_others_grow
 date_created: Monday, April 8th 2024, 5:16:17 am
 date_modified: Sunday, April 21st 2024, 8:30:28 am
+image: Pasted image 20240421081122.png
 ---
 # [[I was tired of constantly re-learning the same things]]
 ## LinkedIn Post

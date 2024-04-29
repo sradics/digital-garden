@@ -5,8 +5,10 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/help_others_grow
 date_created: Tuesday, April 16th 2024, 5:10:42 am
 date_modified: Sunday, April 21st 2024, 8:33:16 am
+image: Pasted image 20240421075308.png
 ---
 # [[9 Tips how I learn in Sync with my Brain]]
 ## LinkedIn Post

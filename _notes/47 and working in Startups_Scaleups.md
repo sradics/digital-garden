@@ -5,8 +5,10 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - rating/⭐️⭐️
 date_created: Wednesday, March 27th 2024, 5:20:35 am
 date_modified: Sunday, April 21st 2024, 8:56:35 am
+image: Pasted image 20240421085541.png
 ---
 # [[47 and working in Startups_Scaleups]]
 ## LinkedIn Post

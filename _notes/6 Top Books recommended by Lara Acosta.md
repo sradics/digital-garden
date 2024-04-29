@@ -5,8 +5,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - rating/⭐️
+  - 12_fav_problems/help_others_grow
 date_created: Monday, April 1st 2024, 8:56:30 am
 date_modified: Sunday, April 21st 2024, 8:39:47 am
+pdf: 6 Top Books recommended by Lara Acosta.pdf
 ---
 # [[6 Top Books recommended by Lara Acosta]]
 ## LinkedIn Post

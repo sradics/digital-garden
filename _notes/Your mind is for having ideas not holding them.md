@@ -6,6 +6,8 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
   - 12_fav_problems/relationships
+  - rating/⭐️
+image: Pasted image 20240421075851.png
 ---
 # [[Your mind is for having ideas not holding them]]
 ## LinkedIn Post

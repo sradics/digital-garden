@@ -5,8 +5,10 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/continuous_learning
 date_created: Tuesday, April 9th 2024, 5:28:00 am
 date_modified: Sunday, April 21st 2024, 8:31:17 am
+image: Pasted image 20240421080906.png
 ---
 # [[How I utilize 23 years knowledge to design impactful leadership sessions]]
 ## LinkedIn Post

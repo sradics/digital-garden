@@ -5,8 +5,10 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/continuous_learning
 date_created: Sunday, April 14th 2024, 7:38:34 pm
 date_modified: Sunday, April 21st 2024, 8:31:11 am
+image: Pasted image 20240421075606.png
 ---
 # [[How I learn on 6 levels with my Second Brain]]
 ## LinkedIn Post

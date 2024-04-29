@@ -4,8 +4,10 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
+  - 12_fav_problems/continuous_learning
 date_created: Thursday, April 18th 2024, 6:05:29 am
 date_modified: Sunday, April 21st 2024, 8:30:38 am
+image: Pasted image 20240421074812.png
 ---
 # [[Is reading Dead]]
 ## LinkedIn Post

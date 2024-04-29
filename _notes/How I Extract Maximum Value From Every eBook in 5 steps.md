@@ -5,8 +5,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/help_others_grow
+  - rating/⭐️
 date_created: Saturday, March 30th 2024, 6:22:03 am
 date_modified: Sunday, April 21st 2024, 8:43:48 am
+pdf: Steps to a highly distilled and expressed knowledge.pdf
 ---
 # [[How I Extract Maximum Value From Every eBook in 5 steps]]
 ## LinkedIn Post

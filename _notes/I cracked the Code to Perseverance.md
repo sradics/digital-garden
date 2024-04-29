@@ -5,8 +5,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/health
+  - rating/⭐️⭐️
 date_created: Saturday, April 13th 2024, 6:13:23 am
 date_modified: Sunday, April 21st 2024, 8:34:06 am
+pdf: TurnRoutinesIntoPurposefulRituals.pdf
 ---
 # [[I cracked the Code to Perseverance]]
 ## LinkedIn Post

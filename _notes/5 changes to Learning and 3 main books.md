@@ -5,8 +5,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/continuous_learning
+  - rating/⭐️
 date_created: Saturday, April 20th 2024, 5:38:06 am
 date_modified: Sunday, April 21st 2024, 8:30:50 am
+pdf: 5ChangesAnd3GreatBooksAboutLearning.pdf
 ---
 # [[5 changes to Learning and 3 main books]]
 ## LinkedIn Post

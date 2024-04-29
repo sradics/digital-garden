@@ -5,8 +5,10 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+  - 12_fav_problems/continuous_learning
 date_created: Tuesday, April 23rd 2024, 6:06:05 am
 date_modified: Wednesday, April 24th 2024, 6:31:24 am
+image: Pasted image 20240424062924.png
 ---
 # [[Introducing the 4 Learning Types]]
 ## LinkedIn Post

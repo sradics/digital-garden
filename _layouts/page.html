@@ -2,6 +2,8 @@
 layout: default
 ---
 <script>
+    
+    
     const highlightStatus = new Map();
     highlightStatus.set(".none",false);
     highlightStatus.set(".nut",false);
@@ -46,6 +48,22 @@ layout: default
         
     }
 </script> 
+
+<style>
+    iframe {
+        width: 100%;
+        height: 350px; /* Adjust the height as needed */
+        border: none; /* Optional: removes the iframe border */
+    }
+    
+    .cardspacer {
+        margin-bottom:10px;
+    }
+    
+    .fs-6 {
+        font-size: 0.7rem !important;
+    }
+</style>
 
 
 <div class="container">
@@ -146,20 +164,81 @@ layout: default
         {% endfor %}  
     </div>
     <div class="col-sm-8">
-        {{ "#### Recent 10 new notes" | markdownify }}    
-        {% simple_tag %} 
-            <a href='_url_' title='_alt_'>_name_</a> |
-        {% endsimple_tag %}  
-         <hr>   
-     <content>
+        <content>
         {{ content }}
      </content>
         
-     <div id="chartArea" style='width:100%'></div>
-        {% include renderGraph.html %}    
-    </div>        
-  </div>
-</div> 
+        <div class="container-fluid">
+            {{ "#### 20 recent plants in my digital garden" | markdownify }}
+        <div class="row row-cols-3 g-4">
+        
+        {% assign columnCounter = 0 %}
+        {% assign lipages = site.notes | date_sort | reverse %}    
+            
+        {% for page in  lipages %}
+        {% if columnCounter < 20 %}
+        <div class="col-12 col-xl-4">    
+         {% assign rating = "" %}  
+         {% assign others = "true" %}  
+         {% for tag in  page.tags %}
+            {% if tag == "rating/⭐️⭐️" %}
+                {% assign rating = "⭐️⭐️" %}
+            {% elsif tag == "rating/⭐️" %}
+                {% assign rating = "⭐️" %}    
+            {% elsif tag == "rating/⭐️⭐️⭐️" %}
+                {% assign rating = "⭐️⭐️⭐️" %}                
+           {% endif %}  
+         {% endfor %}
+
+
+
+            <div class="card cardspacer h-100">
+            {% if page.image %}
+              <img src="{{ site.baseurl }}/assets/{{ page.image }}" class="card-img-top">
+            {% elsif page.pdf %}
+              <iframe src="{{ site.baseurl }}/assets/{{ page.pdf }}" class="card-img-top"></iframe>          
+            {% else %}
+
+            {% endif %}
+              <div class="card-body">
+                <h5 class="card-title"><a href="{{ page.url }}">{{ page.title | truncate:60 }} {{ rating }}</a></h5>
+                  
+                    {% assign ct = page.content | split: "Post at LinkedIn" %}
+                    {% if ct.size>1 %}  
+                    <p class="card-text">{{ ct[1] | strip_html | truncatewords: 30 }}</p>
+                    {% else %}
+                    <p class="card-text">{{ page.content | strip_html | truncatewords: 30 }}</p>    
+                    {% endif %}  
+
+              </div>
+              {% if page.date_created %}
+              <div class="card-footer">
+                    <p class="fs-6">
+                    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+                      ✷ {{ page.date_created }} <br> ↺ {{ page.date_modified }}
+                    </time>
+                    </p>
+              </div>
+              {% endif %}
+            </div>
+        </div>        
+      
+     {% assign columnCounter = columnCounter | plus: 1 %}
+    {% else %}
+            {% break %}
+    {% endif %}  
+    {% endfor %}
+        
+        </div>    
+        </div>
+  </div>      
+        
+     
+         
+
+  
+</div>
+</div>    
 
  {% include algolia.html %}
 

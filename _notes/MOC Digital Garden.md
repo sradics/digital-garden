@@ -11,7 +11,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ## Articles about digital gardening
 + [[A Brief History & Ethos of the Digital Garden]]
 + [https://github.com/MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners)
-+ [[Building a digital garden]]
++ [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Building a digital garden]]
 + [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos)
 	+ [and as GitHub](https://github.com/sw-yx/digital-garden-tos)
 + [[You and your mind garden]]

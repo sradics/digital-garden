@@ -65,14 +65,14 @@ layout: default
     }
 </style>
 
-
+<content>
 <div class="container">
   <div class="row">
     
     <div class="col-sm-8">
-        <content>
+        
         {{ content }}
-     </content>
+     
         
         <div class="container-fluid">
             {{ "#### 20 recent plants in my digital garden" | markdownify }}
@@ -137,6 +137,7 @@ layout: default
         
         </div>    
         </div>
+        
   </div>      
         
    <div class="col-sm-4">
@@ -238,7 +239,8 @@ layout: default
 
   
 </div>
-</div>    
+</div>   
+</content>
 
  {% include algolia.html %}
 

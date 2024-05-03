@@ -37,3 +37,6 @@ date_modified: Wednesday, March 20th 2024, 9:11:05 pm
 10) Keep it concise by focusing on one simple idea  
 11) Use parenthesis to highlight a desired outcome  
 12) Repeat using "you", "your", "How I" and "How you"
+
+## 21 Simple Hook Headlines
+![[21HookHeadlines.pdf]]

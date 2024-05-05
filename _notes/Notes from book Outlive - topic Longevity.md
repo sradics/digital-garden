@@ -133,13 +133,13 @@ with the goal to live a long AND healthy live.
 * Do **thirty consecutive jump-rope skips.**
 
 ### Exercise videos
-* video demonstration of this and other exercises at [www.peterattiamd.com/outlive/videos](www.peterattiamd.com/outlive/videos)
+* video demonstration of this and other exercises at [www.peterattiamd.com/outlive/videos](https://www.peterattiamd.com/outlive/videos)
 
 ### Importance of stability
 + stability is the subconscious **ability to harness, decelerate, or stop force**. A stable person can react to internal or external stimuli to adjust position and muscular tension appropriately without a tremendous amount of conscious thought.
 + !we cheat or work around our existing injuries
 + Twice a week, I spend an hour doing dedicated stability training, based on the principles of DNS, PRI, and other practices
-	+ DNS (www.rehabps.com) and the Postural Restoration Institute (PRI) (www.posturalrestoration.com)
+	+ DNS (https://www.rehabps.com) and the Postural Restoration Institute (PRI) (https://www.posturalrestoration.com)
 + too many of us have lost **basic strength and awareness of our feet** (this connects well to walking barefooted and with barefoot shoes)
 	+  toes are crucial to walking, running, lifting, and, most importantly, decelerating or lowering
 + regain mental control, conscious or not, over key muscles and body parts

@@ -1,34 +1,35 @@
 ---
 aliases: 
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/permanent-note
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/permanent-note
 date_created: Friday, February 24th 2023, 10:29:20 am
 date_modified: Thursday, May 18th 2023, 6:15:57 pm
+image: Pasted image 20240505054325.png
 ---
 # About my usage of Fleeting Notes, Permanent notes and Literature Notes
 ## Fleeting notes
-Based on (TODO: Insert recent source here) a ==fleeting note is using for highly temporary notes== that one will like trash later. They should be just pointers for following up information, maybe also ToDo lists, more noise level information. 
+Based on [[How to take Smart Notes - Key Insights#Fleeting notes]] a ==fleeting note is used for  temporary notes== that I will like trash later. They should be just pointers for following up information, maybe also ToDo lists, more noise level information. 
 Fire and forget would be just fine on this level.
 
 Create them e.g while reading, just 1..2 words when a thought appears.
 
-Use [[TPL Fleeting Note]] and best using the command to create a fleeting note from a template.
+I use [[TPL Fleeting Note]] and best using the command to create a fleeting note from a template.
 
 ### Storing fleeting notes
 Fleeting notes are tagged with #type/fleeting-note
 
-Fleeting notes reside in a folder *fleeting notes* that resides inside a Zettelkasten folder place area for each space [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Fleeting notes/Fleeting notes]].
+Fleeting notes reside in a folder *fleeting notes* that resides inside a Zettelkasten folder place area for each space [[S01 Personal/030-039 Areas/32 Zettelkasten/Fleeting notes/Fleeting notes|Fleeting notes]].
 
 Fleeting notes can also be captured inside projects. But I need to further observe if that makes sense. 
 
 ## Permanent notes
-Permanent notes will form the building blocks/lego bricks for my Second Brain.  They should be on ==higher quality level==. Originally I thought they might be originating from fleeting notes. But then I discovered the concept of literature notes (TODO: Link here).
+Permanent notes ([[How to take Smart Notes - Key Insights#Permanent notes]]) will form the building blocks/lego bricks for my Second Brain.  They should be on ==higher quality level==. Originally I thought they might be originating from fleeting notes. But then I discovered the concept of literature notes ([[What is a literature note]]).
 
-And it became obvious that there is a transition from literature notes and derived permanent notes. And there is also a transition from fleeting notes to permanent notes and also to literature notes.
+And it became obvious that **there is a transition from literature notes and derived permanent notes**. And there is also a **transition from fleeting notes to permanent notes and also to literature notes**.
 
-Use [[TPL Permanent Note]] and best using the command to create a permanent note from a template.
+I use [[TPL Permanent Note]] and my Obsidian command to create a permanent note from a template.
 
 ### Storing permanent notes
 Permanent notes are tagged with #type/permanent-note
@@ -43,18 +44,18 @@ I guess I should scan for permanent notes from that project that are worth keepi
 
 How should I handle permanent notes that belong to several projects?
 + Check if it makes sense to move them to an areas
-+ I should avoid duplicating that knowledge artefact
++ I should avoid duplicating that knowledge artifact
 + In beginning I can just link/embed notes in the relevant context and closely monitor the need for extraction. 
 
 ## Literature notes
-Use [[TPL Literature Note]] and best using the command to create a literature note from a template.
+I use [[TPL Literature Note]] and my Obsidian command to create a literature note from a template.
 
 ### Storing of Literature notes
 Literature notes are tagged with #type/literature-note 
 
-There are different entry points for literature notes but all will stored in [[Literature notes]]
+There are different entry points for literature notes but all are stored in [[Literature notes]]
 
-+ [[Literature Inbox]] contain the [[_Reading Order]] Kanban board and book notes created from the *Book search* plugin
++ My [[Literature Inbox]] contains the [[_Reading Order]] Kanban board and book notes created from the *Book search* plugin
 + [[Kindle]] contains all Kindle book highlights by Kindle title. The obsidian *Kindle* plugin connects to my Amazon account. In Kindle I already do first stage highlighting while reading a book.
 + [[Bibs]] contains further condensed versions for Blinkist books in Blinks (BiB). I already applied 1st stage and partially 2nd stage processing. I use the template [[TPL Blink Note]] for starting with this kind of note
 
@@ -63,10 +64,11 @@ The folder [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/Matter]] contains
 ## Index notes
 An index note marks note that act as entry point to find other notes. Or like Maps of Content provide a high level intro about a topic and provide possibilities to drill down.
 
+
 ### Storing of index notes
 Index notes are tagged with #type/index-note.
 
-Maps of Content are a sub type of Index notes.
+Maps of Content are a sub type of Index notes. I tag them with #MOC .
 
 
 ## Examples for using the different note types
@@ -88,6 +90,9 @@ This would still enable an iterative refinement for my permanent notes and evolv
 + Dimensions might have similar names but transition criteria will be different. And maybe it would be even better to have an own naming convention here. For now I'll use the same maturity system
 
 ## Note transitions visualized
+TODO: Move to Excalidraw as this allows live embedding and converting to a picture.
+Snapshot for the moment
+![[Pasted image 20240505054325.png]]
 
 ![[Note transitions.canvas]]
 

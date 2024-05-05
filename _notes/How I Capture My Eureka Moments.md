@@ -7,6 +7,7 @@ tags:
   - publish_in_newsletter
 date_created: Friday, March 22nd 2024, 5:32:36 am
 date_modified: Sunday, April 21st 2024, 9:21:10 am
+image: IdeaCapture.jpg
 ---
 # [[How I Capture My Eureka Moments]]
 ## LinkedIn Post

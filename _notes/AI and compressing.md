@@ -4,6 +4,7 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
+  - linkedin/processed
 image: Pasted image 20240510045126.png
 date_created: Tuesday, May 7th 2024, 4:40:32 am
 date_modified: Friday, May 10th 2024, 4:52:28 am

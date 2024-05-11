@@ -28,18 +28,18 @@ This week, I explored:
   
 Here are 5 posts that changed my perspective:  
 ‾‾‾‾‾‾‾‾  
-You will never outrun a bad diet by [](https://www.linkedin.com/in/ACoAAAL4o_0BfstjwODkRUtQcucdXypPblfHKaI)[Dan Go](https://www.linkedin.com/in/danfounder/) ─ [https://lnkd.in/eSZU7fZj](https://lnkd.in/eSZU7fZj)  
+You will never outrun a bad diet by [Dan Go](https://www.linkedin.com/in/danfounder/) ─ [https://lnkd.in/eSZU7fZj](https://lnkd.in/eSZU7fZj)  
 ↳ this led to an adjustment in my exercise and nutrition routine  
   
-The Guide To Minimum Viable Products by [](https://www.linkedin.com/in/ACoAADkm6vYBZHC1xMCJ6EqNZ6KNu3ol_pSMQfU)[Rubén D.](https://www.linkedin.com/in/rubendominguezibar/)  
+The Guide To Minimum Viable Products by [Rubén D.](https://www.linkedin.com/in/rubendominguezibar/)  
 ─ [https://lnkd.in/e2QWKp3c](https://lnkd.in/e2QWKp3c)  
 ↳ arrived on my ReMarkable - will process in detail next  
   
-We didn't mean to break his glass — it was an accident by [](https://www.linkedin.com/in/ACoAAADIwlUBRzxXl9jQaCOCKhUAm_B_BF8XDYg)[Billy Broas](https://www.linkedin.com/in/billybroas/) ─  
+We didn't mean to break his glass — it was an accident by [Billy Broas](https://www.linkedin.com/in/billybroas/) ─  
 [https://lnkd.in/eJ2FU-My](https://lnkd.in/eJ2FU-My)  
 ↳ brought me a day of reflection on my things with meaning  
   
-If you help others achieve their goals, others will do the same with you by [](https://www.linkedin.com/in/ACoAACgRy7QBVFRQ4DwPFFFedwsV2nG20sGuZIU)[Paolo Casula](https://www.linkedin.com/in/paolo-casula/)─ [https://lnkd.in/e99yfqNJ](https://lnkd.in/e99yfqNJ)  
+If you help others achieve their goals, others will do the same with you by [Paolo Casula](https://www.linkedin.com/in/paolo-casula/)─ [https://lnkd.in/e99yfqNJ](https://lnkd.in/e99yfqNJ)  
 ↳ it can be so simple - the effect of un-ego  
   
 My top: 🌱 Building Collective Intelligence - One Idea at a Time ─ [https://lnkd.in/gYV4hr_K](https://lnkd.in/gYV4hr_K)  

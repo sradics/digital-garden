@@ -7,6 +7,7 @@ tags:
   - linkedin/processed
 date_created: Friday, May 10th 2024, 4:32:24 am
 date_modified: Friday, May 10th 2024, 4:57:16 am
+image: Pasted image 20240511055644.png
 ---
 # [[My highlights KW19]]
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-top-5-linkedin-posts-this-week-insults-activity-7194599555210924032-ocms?utm_source=share&utm_medium=member_desktop)  

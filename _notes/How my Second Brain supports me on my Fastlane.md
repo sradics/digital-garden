@@ -76,3 +76,4 @@ Working with a Second Brain supports you on your Fastlane of creating a scalable
 Posted on **LINKEDIN** on 2024-05-13_Mon
 # Linking
 + [[My running list of 12 favorite problems]]
++ [[MOC Becoming a Fastlaner]]

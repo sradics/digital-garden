@@ -46,3 +46,4 @@ Slowlaners trade time for money in traditional employment, relying on steady but
 
 # Linking
 + Source - [[DeMarco-The Millionaire Fastlane]]
++ [[MOC Becoming a Fastlaner]]

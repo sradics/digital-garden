@@ -92,3 +92,4 @@ Posted on **LINKEDIN** on 2024-05-12_Sun
 # Linking
 + [[My running list of 12 favorite problems#Wealth]]
 + [[DeMarco-The Millionaire Fastlane]]
++ [[MOC Becoming a Fastlaner]]

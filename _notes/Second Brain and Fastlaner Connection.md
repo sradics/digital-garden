@@ -30,3 +30,4 @@ In essence, the process of building and maintaining a second brain complements a
 
 # Linking
 * [[DeMarco-The Millionaire Fastlane]]
+* [[MOC Becoming a Fastlaner]]

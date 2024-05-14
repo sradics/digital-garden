@@ -46,3 +46,4 @@ Posted on **LINKEDIN** on 2024-05-10_Fri
 # Linking
 + [[DeMarco-The Millionaire Fastlane]] - connect via I can buy anything I want, but I can't buy time
 + [[Goals checking after 4 months in this year]]
++ [[MOC Becoming a Fastlaner]]

@@ -42,3 +42,4 @@ By embracing these steps, you can transition from a Slowlaner, where you trade t
 + [[Fastlaner Key Insights]]
 + [[Slowlaner Key Insights]]
 + [[DeMarco-The Millionaire Fastlane]]
++ [[MOC Becoming a Fastlaner]]

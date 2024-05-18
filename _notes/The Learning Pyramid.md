@@ -4,14 +4,13 @@ tags:
 - epstatus/1-🌱
 - type/permanent-note
 date_created: Friday, March 3rd 2023, 5:20:08 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_modified: Wednesday, May 15th 2024, 2:38:53 pm
 ---
-# [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Permanent notes/The Learning Pyramid]]
+# The Learning Pyramid
 + [Source](https://www.educationcorner.com/the-learning-pyramid.html)
 + developed by *National Training Laboratory*
 
 ![[Pasted image 20230303052055.png]]
-
 
 *Demonstration, Discussion, Practice doing and Teach others* connect well to [[MOC Building a 2nd brain#Express]].
 
@@ -32,5 +31,4 @@ Aspects of the argumentation are contradictory to [[Lerntypen]]
 + [[Lerntypen]], [[Memletics - Learning Model]]
 +  [[Grow the top 10 skills 2025 by Building your Second Brain]] 
 + [[Incorporating top 5 marketing breaktroughs]] ... can be used in marketing *Building a Second Brain with Obsidian*
-
 

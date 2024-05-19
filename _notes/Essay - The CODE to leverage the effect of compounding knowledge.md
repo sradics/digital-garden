@@ -1,11 +1,12 @@
 ---
-tags: 
-- digital_garden
-- epstatus/3-🌳
-- type/permanent-note/essay
-- publish_in_newsletter
+tags:
+  - digital_garden
+  - epstatus/3-🌳
+  - type/permanent-note/essay
+  - publish_in_newsletter
 date_created: Friday, May 19th 2023, 1:09:56 pm
 date_modified: Saturday, May 20th 2023, 8:25:41 am
+image: SecondBrain_current_snapshot.png
 ---
 # Essay - The CODE to leverage the effect of compounding knowledge
 

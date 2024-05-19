@@ -79,6 +79,8 @@ A story about the future ...
 ![[Pasted image 20240517112153.png|400]]
 [[Backcasting.pdf]]
 
+# Linking
++ [[Curiosity Reflections]]
 
 
 

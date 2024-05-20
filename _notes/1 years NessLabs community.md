@@ -5,51 +5,53 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/health
   - linkedin/processed
-image: Pasted image 20240520055658.png
+image: Pasted image 20240520210325.png
 date_created: Sunday, May 19th 2024, 6:10:43 am
 date_modified: Monday, May 20th 2024, 5:58:22 am
 ---
 # [[1 years NessLabs community]]
 ## LinkedIn Post
-[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_3-steps-to-stay-motivated-amid-uncertainty-activity-7197498650304872448-v-1O?utm_source=share&utm_medium=member_desktop)
-![[Pasted image 20240520055658.png|400]]
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_metacognition-pact-pari-activity-7197861034563448833-F1SN?utm_source=share&utm_medium=member_desktop)
+![[Pasted image 20240520210325.png|400]]
 
-3 Steps to Stay Motivated Amid Uncertainty  
-(Scenarios — Vivid Vision — Backcast Goals)  
+Celebrating One Year with NessLabs Community  
+(My Journey with Mindful Productivity)  
   
-In a workshop with Graham Norris, I discovered the power of the Uncertainty Mindset. With an uncertainty mindset you:  
-↳ build on creating awareness  
-↳ activate imagination and  
-↳ creativity.  
+Today marks a year since I joined the NessLabs community, founded by the inspiring [](https://www.linkedin.com/in/ACoAAAZS4-0Bp9c9yPb6ni-1TIbieOs4XSapDHM)[Anne-Laure Le Cunff](https://www.linkedin.com/in/alecunff/).  
   
-Embracing the unknown and being open to various future possibilities is key.  
+The core of the community for me is about Mindful Productivity -  
+being consciously present in what you're doing, while you're doing it,  
+in conjunction with managing your mental and emotional states.  
   
-3 steps to cultivate an Uncertainty Mindset:  
+Highlights from My NessLabs Experience:  
+——  
+📝 Brainwriting & Emotional Brainwriting:  
+I discovered the power of group writing and how emotional Brainwriting transforms my thoughts and feelings  
   
-1️⃣ Think in Scenarios - Build Stories About Your Aspirational Future  
-Develop multiple scenarios to prepare for different futures:  
-→ What uncertainties exist?  
-→ Elaborate on implications  
-→ Name and describe each scenario  
-→ How old are you and others in your scenario?  
-→ Identify commonalities and differences across 4-5 scenarios  
+🧘 Mindful Productivity:  
+Learned principles and practices that have been truly eye-opening (keywords [hashtag#metacognition](https://www.linkedin.com/feed/hashtag/?keywords=metacognition&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7197861034563448833), [hashtag#pact](https://www.linkedin.com/feed/hashtag/?keywords=pact&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7197861034563448833) [hashtag#pari](https://www.linkedin.com/feed/hashtag/?keywords=pari&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7197861034563448833) )  
   
-2️⃣ Make Your Vision Vivid  
-→ Create an aspirational future by embedding great experiences from your past  
-→ Reflect on what is within your control or influence  
-→ Make the future concrete  
+📚 From Collector to Creator:  
+Currently exploring this course, helping me transition from consuming to creating knowledge  
   
-3️⃣ Backcast Your Goals  
-→ Work backwards from your long-term goal instead of starting from today  
-→ Start with the future and trace back to the present  
+🌱 Mind Gardening:  
+Engaging with peers on topics like productivity, lifelong learning, and creativity enriched my understanding of "Mind Gardening."  
   
-By following these steps, we:  
-💡Enhance problem-solving  
-💡Prepare for different potential futures  
-💡Increase resilience by being psychologically prepared for uncertainty  
-💡Improve goal clarity and reduce constraints from immediate obstacles  
   
-What’s your go-to strategy for staying motivated in uncertain times?
+Engaging in Waves: My Interaction with NessLabs  
+——  
+Fascinating how my engagement with NessLabs ebbs and flows.  
+There are times when I dive deeply into the community, sharing thoughts and contributing actively.  
+At other times, I step back, yet the regular email updates keep me connected and informed about new sessions and content.  
+  
+Shoutout to [](https://www.linkedin.com/in/ACoAAAZS4-0Bp9c9yPb6ni-1TIbieOs4XSapDHM)[Anne-Laure Le Cunff](https://www.linkedin.com/in/alecunff/) for her brilliant writing.  
+Her newsletters are a highlight and regularly influence my "Second Brain".  
+  
+NessLabs has shown me the importance of community in personal growth. It's not just about techniques, but also observing how I evolve as a community member.  
+  
+Thank you, [Ness Labs](https://www.linkedin.com/company/nesslabs/), for the ongoing inspiration and support. Here's to continued learning and growth together!  
+  
+What community has significantly impacted your personal or professional growth?
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 

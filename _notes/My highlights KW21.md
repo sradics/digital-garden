@@ -4,6 +4,7 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - ln_weekly_highlight
+  - linkedin/processed
 date_created: Friday, May 24th 2024, 5:21:48 am
 date_modified: Saturday, May 25th 2024, 6:41:45 am
 image: Pasted image 20240525063949.png

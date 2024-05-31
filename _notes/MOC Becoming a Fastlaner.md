@@ -18,7 +18,8 @@ Based on the impulse while reading [[DeMarco-The Millionaire Fastlane]]
 + [[Transition from Slowlaner to Fastlaner]]
 + [[Second Brain and Fastlaner Connection]]
 
-## LinkedIn
+# LinkedIn
 + [[F-A-S-T-L-A-N-E S-U-P-E-R-C-H-A-R-G-E-R]]
 + [[How my Second Brain supports me on my Fastlane]]
 + [[My highlights KW19]]
++ [[Advice for financial freedom by Ali Abdaal]]

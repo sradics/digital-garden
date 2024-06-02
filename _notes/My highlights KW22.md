@@ -26,15 +26,15 @@ This week, I explored:
 
 Here are 5 posts that sparked my thinking: 
 ‾‾‾‾‾‾‾‾ 
-PROGRESS IS POSSIBLE. TED talk. by Angus Hervey ─ https://lnkd.in/eb_PidGb
+PROGRESS IS POSSIBLE. TED talk. by Angus Hervey ─ [https://lnkd.in/eb_PidGb](https://lnkd.in/eb_PidGb)
 
-Why I'm Giving Up 90% of My Wealth Today and Not When I'm 80 by Sebastian Klein ─ https://lnkd.in/eydj4DGT
+Why I'm Giving Up 90% of My Wealth Today and Not When I'm 80 by Sebastian Klein ─ [https://lnkd.in/eydj4DGT](https://lnkd.in/eydj4DGT)
 
-5 most popular concepts, creations, and writing pieces by Billy Broas ─ https://lnkd.in/ertvS_4H
+5 most popular concepts, creations, and writing pieces by Billy Broas ─ [https://lnkd.in/ertvS_4H](https://lnkd.in/ertvS_4H)
 
-David Allen and Ed Lamont’s new book, Team, shines by Tiago Forte ─ https://lnkd.in/eu5tjsdF
+David Allen and Ed Lamont’s new book, Team, shines by Tiago Forte ─ [https://lnkd.in/eu5tjsdF](https://lnkd.in/eu5tjsdF)
 
-My top: I’m Now a Certified 4MAT Master! ─ https://lnkd.in/e4rRWTX9
+My top: I’m Now a Certified 4MAT Master! ─ [https://lnkd.in/e4rRWTX9](https://lnkd.in/e4rRWTX9)
 
 Your turn: What inspired you this week?
 

@@ -16,6 +16,8 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 + [Discovery Kanban](https://aktiasolutions.com/discovery-kanban-upstream-kanban/)
 
 ## Continuous Discovery Habits
+* [[MOC Continuous Discovery Habits]]
+* [My presentation at the Agile Get Together](https://www.youtube.com/watch?v=XviSbwj39Ds)
 * [Blinkist BiB](https://www.blinkist.com/en/nc/browse/books/continuous-discovery-habits-en?r=1&st=cont)
 * [[Continuous Discovery Habits - Book Summary]]
 * Opportunity Solution Tree 

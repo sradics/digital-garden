@@ -6,13 +6,14 @@ tags:
   - linkedin/processed
   - 12_fav_problems/continuous_learning
 date_created: Monday, June 10th 2024, 5:44:15 am
-date_modified: Monday, June 10th 2024, 5:44:26 am
+date_modified: Tuesday, June 11th 2024, 3:56:38 am
+image: Pasted image 20240611033331.png
 ---
 # [[7 sins of Memory]]
 ## LinkedIn Post
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-7-sins-of-memory-how-my-second-brain-activity-7205826084267831297-S6pT?utm_source=share&utm_medium=member_desktop)
 
-![[Pasted image 20240611033331.png]]
+![[Pasted image 20240611033331.png|400]]
 
 The 7 Sins of Memory  
 (How my Second Brain enhances my Memory)  
@@ -21,8 +22,7 @@ Memory is a tricky thing.
 Daniel L. Schacter's 📖 "The Seven Sins of Memory" highlights how our brains can lead us astray.  
   
 But what if we could counter these with a Second Brain?  
-  
-  
+
 Some ideas:  
 to Adress Failures to Recall  
 ———  

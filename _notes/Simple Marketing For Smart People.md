@@ -3,6 +3,8 @@ tags:
   - digital_garden
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - 12_fav_problems/continuous_learning
 image: Pasted image 20240610052358.png
 date_created: Sunday, June 9th 2024, 6:27:07 am
 date_modified: Monday, June 10th 2024, 5:25:17 am

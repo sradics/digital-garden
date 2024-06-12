@@ -14,6 +14,13 @@ tags:
 
 ## Content preparation
 <% tp.file.cursor() %>
+([[Notes from Simple Marketing for Smart People|details for Belief-Claim-Proof]])
+Belief: *A notebook is a secret weapon of top creatives.* 
+Claim: *Top thinkers and creatives relied on notebooks throughout history.* 
+Proof: *Leonardo da Vinci. (ethos)* 
+Format: *Text + Image.* 
+Marketing Channel: *Instagram*
+
 Hook:
 
 One person:

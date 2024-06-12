@@ -3,9 +3,9 @@ tags:
   - type/literature-note
   - digital_garden
   - 12_fav_problems/continuous_learning
-  - epstatus/1-🌱
+  - epstatus/2-🪴
 date_created: Saturday, June 8th 2024, 7:40:00 am
-date_modified: Saturday, June 8th 2024, 7:40:10 am
+date_modified: Tuesday, June 11th 2024, 7:47:56 am
 ---
 # Notes from Simple Marketing for Smart People
 * Author: Billy  Broas, Tiago Forte und Ali Abdaal
@@ -21,7 +21,6 @@ This core message should clearly articulate why someone should choose your produ
 ***
 *Snapshot from Simple Marketing for Smart People*
 ![[Pasted image 20240610200646.png]]
-
 
 It is about belief building: 
 **==What does my prospect need to believe in order to buy?==**
@@ -146,10 +145,35 @@ Proof is essential for building trust and credibility with your audience.
 - **Double Down on What Works:** Identify the most effective marketing channels and tactics and invest more resources into them.
 - **Experiment with New Channels and Tactics:** Don't be afraid to try new approaches and test their effectiveness.
 
+## Template for assets
+Belief: *A notebook is a secret weapon of top creatives.* 
+Claim: *Top thinkers and creatives relied on notebooks throughout history.* 
+Proof: *Leonardo da Vinci. (ethos)* 
+Format: *Text + Image.* 
+Marketing Channel: *Instagram*
+Call-to-Action: *Enter your email address for a free PDF*
+
 # Notes on book structure
 + Smart move to provide a bonus and have people immediately register on the mailing list.
 + Great idea to have Billy and Tiago in two roles throughout the book
 
+# Questions and Observations
+## Difference Belief and Claim
+What is the difference between a belief and a claim?
+
+A **belief** is an underlying conviction or principle held by a potential customer. These beliefs can be about their problems, the solutions available, or the specific product or service being offered. Beliefs are deeply ingrained and influence a customer's decision-making process.
+
+A **claim**, on the other hand, is a statement or assertion made by a marketer about their product or service.
+In essence, beliefs are the underlying convictions held by customers, while claims are the explicit statements made by marketers to shape and influence those beliefs.
+
+### Examples
+- **Belief:** A potential customer might believe that they are disorganized and need a better system for managing information.
+    
+- **Claim:** The course creator could claim that their course will teach the customer how to organize their digital life and improve productivity.
+***
+- **Belief:** A client might believe that having only a will is insufficient for estate planning.
+    
+- **Claim:** An attorney could claim that a comprehensive estate plan, including trusts and other legal documents, is necessary to protect assets and ensure wishes are carried out.
 # Linking
 + Source: [[Billy  Broas-Simple Marketing For Smart People]]
 + 📖 Breakthrough Advertising (1966), is considered the Bible of copywriting

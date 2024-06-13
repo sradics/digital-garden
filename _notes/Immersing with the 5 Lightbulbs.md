@@ -63,4 +63,4 @@ I recently wrote about brilliantly simple solutions, and I can already see, how 
 
 Posted on **LINKEDIN** on 2024-02-18_Sun
 # Linking
-+ [[299a16 The 5 Lightbulbs markting]]
++ [[140 The 5 Lightbulbs marketing self paced course]]

@@ -116,7 +116,7 @@ Flow from
 # Linking
 + [[The Pursuit of Excellence The Uncommon Behaviors of the World's Most Productive Achievers - Ryan Hawk]]
 + [[Notes from Guide Master your 4 pillars of energy]]
-+ [[S02 Blinkist/030-039 Areas/33 Goal Setting/SMART Goals|SMART Goals]]
++ [[S01 Personal/030-039 Areas/32 Zettelkasten/Permanent notes/SMART Goals|SMART Goals]]
 
 
 

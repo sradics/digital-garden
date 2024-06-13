@@ -71,4 +71,4 @@ Posted on **LINKEDIN** on 2024-06-06_Thu
 + [[My running list of 12 favorite problems#Help others to grow]]
 + [[My 4MAT Learning Style]]
 + [[39a07 4MAT Smart Learning]]
-+ [[139a01 4MAT Training]]
++ [[150 4MAT Training]]

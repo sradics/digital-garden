@@ -4,9 +4,10 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
+  - linkedin/processed
 image: Pasted image 20240614064339.png
 date_created: Thursday, June 13th 2024, 6:53:18 am
-date_modified: Friday, June 14th 2024, 6:44:23 am
+date_modified: Friday, June 14th 2024, 6:47:38 am
 ---
 # [[Obsidian Packaged]]
 ## LinkedIn Post
@@ -36,8 +37,7 @@ Your package could include:
 ⚙️Pre-installed Obsidian plugins with usage examples  
 ⚙️a Simple starter PARA structure to Organise by Actionability right away  
 ⚙️Supporting materials for the C.O.D.E flow - the core of your Second Brain  
-  
-  
+
 Are you interested in this?  
 What further starter components would be important for you?
 

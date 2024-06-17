@@ -1,14 +1,47 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - 12_fav_problems/continuous_learning
+  - linkedin/processed
+image: Pasted image 20240617054614.png
 ---
 # [[Join next 5LB AI cohort]]
 ## LinkedIn Post
-[Post at LinkedIn]()
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ive-opened-my-pocket-multiple-times-activity-7207645513586765824-SEVN?utm_source=share&utm_medium=member_desktop)
+
+![[Pasted image 20240617054614.png|400]]
+ I've opened my pocket multiple times 🧠💡  
+(each with the conviction that I needed what was inside right now)  
   
+But I didn't feel trapped; I felt convinced.  
+  
+Joining [Tiago Forte](https://www.linkedin.com/in/tiagoforte/)'s Building a Second Brain cohort #18 changed my life.  
+Similarly, [Billy Broas](https://www.linkedin.com/in/billybroas/)' Five Lightbulbs Marketing course.  
+This course transformed my view of marketing.  
+  
+And both courses hooked me with their powerful,  
+argumentation-based marketing that spoke directly to me.  
+  
+Now, I'm diving into the first cohort of the Five Lightbulbs with AI workshop series. It's mind-blowing how it supercharges marketing —  
+it is Simple Marketing for Smart People, amplified by AI.  
+  
+And I'm only halfway through! Here are some insights I've gained so far:  
+💡Smart Argumentation:  
+Using AI to challenge arguments and anticipate customer objections.  
+💡Customer Journey Mapping:  
+Leveraging AI to think through the customer journey and create claims with proofs at each step.  
+💡AI Coaching: Integrating the Five Lightbulbs framework into ChatGPT to develop marketing assets with AI as a coach.  
+  
+AI's extension of the Five Lightbulbs Argumentation approach is remarkable.  
+It's hard to explain; you need to experience it and level up your marketing game.  
+  
+With Billy starting the next cohort soon, I didn't want to miss the chance to highly recommend it.  
+  
+You can join the waiting list here: [https://lnkd.in/eJkPgFTT](https://lnkd.in/eJkPgFTT)  
+  
+Feel free to reach out for further insights from someone in the trenches. 🚀 
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 

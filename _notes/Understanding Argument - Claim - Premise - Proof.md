@@ -43,5 +43,10 @@ An argument is a structured series of statements designed to persuade someone th
 ## Summary
 ==An argument is a reasoned attempt to persuade by presenting supporting claims (premises) backed by evidence or reasoning (proofs) to justify a main claim (conclusion). Understanding the structure and components of arguments helps in analyzing and constructing persuasive communication.==
 
+## Great distilled summary by Fi
+- **Main Claim (Conclusion):** This is the primary assertion we want to prove. It’s what we start with as our goal.
+- **Supporting Claims (Premises):** These are reasons or evidence that support our main claim.
+- **Proofs (Evidence):** These include data, research, and logical reasoning that substantiate our supporting claims.
+- **Argument:** This is the entire structure combining the main claim, supporting claims, and proofs.
 # Linking
 + [Source ChatGPT conversation](https://chatgpt.com/share/3093167d-71c2-4509-af15-0982205e33ec)

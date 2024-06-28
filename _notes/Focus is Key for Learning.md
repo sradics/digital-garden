@@ -4,6 +4,7 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
+  - linkedin/processed
 date_created: Wednesday, June 26th 2024, 6:30:47 am
 date_modified: Thursday, June 27th 2024, 4:31:33 am
 image: Pasted image 20240627042930.png

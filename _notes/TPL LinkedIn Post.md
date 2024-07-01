@@ -21,17 +21,23 @@ Proof: *Leonardo da Vinci. (ethos)*
 Format: *Text + Image.* 
 Marketing Channel: *Instagram*
 
-Hook:
+Hook: 
++ Create an emotion: surprised, angry, happy,...
++ make the reader think
++ use big numbers, stats, certain important words e.g. Millionaire
 
 One person:
 
-One Problem: 
+One Problem/Story:
++ A specific situation you or the reader is in
 
 One Solution:
 
-One Story:
+One Result/Outcome/How:
 
 One CTA:
+
+P.S. - Please repost ♻ if you found this useful
 
 Posted on **LINKEDIN** on <% tp.date.now("YYYY-MM-DD_ddd") %>
 # Linking

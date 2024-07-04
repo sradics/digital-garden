@@ -5,7 +5,7 @@ tags:
   - epstatus/1-🌱
   - 12_fav_problems/continuous_learning
 date_created: Tuesday, July 2nd 2024, 1:21:29 pm
-date_modified: Tuesday, July 2nd 2024, 1:40:39 pm
+date_modified: Wednesday, July 3rd 2024, 6:59:08 am
 ---
 # LinkedIn writing tips from Jasmin Alic
 [Source](https://www.linkedin.com/posts/josephpatchell_ive-spent-37-hours-studying-jasmin-ali%C4%87-activity-7213511752636936192-lrsX?utm_source=share&utm_medium=member_desktop) by [Joe Patchell](https://www.linkedin.com/in/josephpatchell/)
@@ -35,9 +35,6 @@ date_modified: Tuesday, July 2nd 2024, 1:40:39 pm
 ↳ Each drives engagement and ‘dwell time’  
 ↳ Wait 10 minutes before adding these.  
 ↳ Questions, bonuses, photos, CTAs  
-
-# Linking
-+ [[MOC LinkedIn Writing]]
   
 ## Give everything away to your audience.  
 ↳ Share 100% of what you know.  
@@ -50,3 +47,6 @@ date_modified: Tuesday, July 2nd 2024, 1:40:39 pm
 ↳ Breaks the ‘flow’ of the post.
 
 ![[StudyOfJasminAlic.pdf]]
+
+# Linking
++ [[MOC LinkedIn Writing]]

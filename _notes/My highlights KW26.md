@@ -25,13 +25,13 @@ This week, I explored:
   
 Here are 5 posts that sparked my thinking:  
 ‾‾‾‾‾‾‾‾  
-Let's talk about "competition." by [](https://www.linkedin.com/in/ACoAAAoyGx4BWzXh9KPf2MuCAshkCNjMViI6Hq4)[Ben Mosior](https://www.linkedin.com/in/benjaminmosior/) ─ [https://lnkd.in/e49sZutB](https://lnkd.in/e49sZutB)  
+Let's talk about "competition." by [Ben Mosior](https://www.linkedin.com/in/benjaminmosior/) ─ [https://lnkd.in/e49sZutB](https://lnkd.in/e49sZutB)  
   
-It's rarely the job that makes people quit by [](https://www.linkedin.com/in/ACoAABJ7dmEBdViUQ9Oa-Dog8tFRDqE7lwRz_Wk)[Victoria Repa](https://www.linkedin.com/in/victoria-repa-115a1987/) ─ [https://lnkd.in/eDnUAKpe](https://lnkd.in/eDnUAKpe)  
+It's rarely the job that makes people quit by [Victoria Repa](https://www.linkedin.com/in/victoria-repa-115a1987/) ─ [https://lnkd.in/eDnUAKpe](https://lnkd.in/eDnUAKpe)  
   
-Advanced Negotiation Tips by [](https://www.linkedin.com/in/ACoAAAqn7p0BS8eOOFNN4QhqMmfRLmYVRbIv4-4)[Jay Mount](https://www.linkedin.com/in/jaymount/) ─ [https://lnkd.in/etW38twy](https://lnkd.in/etW38twy)  
+Advanced Negotiation Tips by [Jay Mount](https://www.linkedin.com/in/jaymount/) ─ [https://lnkd.in/etW38twy](https://lnkd.in/etW38twy)  
   
-The magic of being in the ventral vagal state by [](https://www.linkedin.com/in/ACoAABbTRJoBDc-9uXTytaBWa1esy94dtdVNpS0)[Monique Pattison](https://www.linkedin.com/in/moniquepattison/) ─ [https://lnkd.in/eg3_p9b6](https://lnkd.in/eg3_p9b6)  
+The magic of being in the ventral vagal state by [Monique Pattison](https://www.linkedin.com/in/moniquepattison/) ─ [https://lnkd.in/eg3_p9b6](https://lnkd.in/eg3_p9b6)  
   
 My top: My Struggle with Distractions and How I Overcame It ─ [https://lnkd.in/eGyrBNKX](https://lnkd.in/eGyrBNKX)
 

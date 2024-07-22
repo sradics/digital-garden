@@ -37,7 +37,9 @@ One Result/Outcome/How:
 
 One CTA:
 
-P.S. - Please repost ♻ if you found this useful
+P.S. 
+♻ Repost to help others in your network
+➕ Follow me for more posts like this
 
 Posted on **LINKEDIN** on <% tp.date.now("YYYY-MM-DD_ddd") %>
 # Linking

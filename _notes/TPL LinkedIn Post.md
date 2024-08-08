@@ -37,7 +37,9 @@ One Result/Outcome/How:
 
 One CTA:
 
-P.S. 
+———  
+P.S.  
+🔔 I share insights daily at 8:00AM (CEST)
 ♻ Repost to help others in your network
 ➕ Follow me for more posts like this
 

@@ -7,9 +7,7 @@ tags:
 date_created: Tuesday, July 2nd 2024, 1:21:29 pm
 date_modified: Wednesday, July 3rd 2024, 6:59:08 am
 ---
-# LinkedIn writing tips from Jasmin Alic
-[Source](https://www.linkedin.com/posts/josephpatchell_ive-spent-37-hours-studying-jasmin-ali%C4%87-activity-7213511752636936192-lrsX?utm_source=share&utm_medium=member_desktop) by [Joe Patchell](https://www.linkedin.com/in/josephpatchell/)
-[connected with](https://www.linkedin.com/posts/josephpatchell_8-linkedin-lessons-i-learnt-from-jasmin-alic-activity-7208457461165371392-eMmm?utm_source=share&utm_medium=member_desktop)
+# LinkedIn writing tips
 
 ## The hook is 90% of a good post.  
 ↳ It's a promise to your reader.  
@@ -46,7 +44,6 @@ date_modified: Wednesday, July 3rd 2024, 6:59:08 am
 ↳ It should promote engagement.  
 ↳ Breaks the ‘flow’ of the post.
 
-![[StudyOfJasminAlic.pdf]]
 
 # Linking
 + [[MOC LinkedIn Writing]]

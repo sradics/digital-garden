@@ -21,4 +21,4 @@ date_modified: Wednesday, July 31st 2024, 2:31:41 pm
 
 ## Visualize your new habit
 [Source](https://www.linkedin.com/posts/georgekaraan_how-to-stick-to-new-habits-activity-7224388935693590528-zi8q?utm_source=share&utm_medium=member_desktop)
-![[VisualizeNewHabits.pdf]]
+[[Visualize New Habits]]

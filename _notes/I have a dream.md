@@ -6,6 +6,8 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240823052239.png
+date_created: Thursday, August 22nd 2024, 5:41:30 am
+date_modified: Friday, August 23rd 2024, 5:25:15 am
 ---
 # [[I have a dream]]
 ## LinkedIn Post
@@ -44,7 +46,6 @@ For in learning, we find
 
 Maybe it doesn't need a revolution but an evolution.  
 
-Invest in Learning how to Learn
 ➠ make everyone a speed learner.  
 
 Same budget, much HIGHER OUTCOME 

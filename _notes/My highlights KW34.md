@@ -9,7 +9,7 @@ pdf: 2024_KW34_Weekly Highlights.pdf
 date_created: Friday, August 23rd 2024, 5:35:29 am
 date_modified: Saturday, August 24th 2024, 6:18:29 am
 ---
-# [[My highlights KW34]]
+# [[S01 Personal/040-049 Journal/46 LinkedIn posting/My highlights KW34]]
 ## LinkedIn Post
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5-top-highlights-kw342024-activity-7232627757019529216-30xB?utm_source=share&utm_medium=member_desktop)
 

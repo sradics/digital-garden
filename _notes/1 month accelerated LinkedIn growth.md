@@ -12,7 +12,7 @@ date_modified: Thursday, August 1st 2024, 6:18:48 am
 # [[1 month accelerated LinkedIn growth]]
 ## LinkedIn Post
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_one-month-linkedin-growth-stats-activity-7224293405172862976-uXD1?utm_source=share&utm_medium=member_desktop)
-y pivotal month on LinkedIn  
+My pivotal month on LinkedIn  
   
 → 500% higher daily follower growth  
 → 25% more total followers (11 years on LN)  

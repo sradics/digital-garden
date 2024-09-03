@@ -39,6 +39,8 @@ One CTA:
 
 ———  
 P.S.  
+I help people learn how to learn, retain and recall with ease
+
 🔔 I share insights daily at 8:00AM (CEST)
 ♻ Repost to help others in your network
 ➕ Follow me for more posts like this

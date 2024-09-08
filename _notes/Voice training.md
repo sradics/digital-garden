@@ -29,16 +29,17 @@ tags:
 •	volume
 
 ## Warum up
-+ Stand up, arm up, hhhahhhhhh breath out arms down
-+ libs - bahhh bhahhh bahhhhh
-+ libs - brrrrrr bbrrrrrr brrrrrr
++ Stand up, arms up, hhhahhhhhh breath out arms down
++ lips - bahhh bhahhh bahhhhh
++ lips - brrrrrr bbrrrrrr brrrrrr
 + tounge - lalalalalalalalalalallalalal
-+ tough - rrrrrrrrrrrrrrrr
++ tounge - rrrrrrrrrrrrrrrr
 + siren - wiiiiii-ohhhhhhhhh-wiiiiiiii-ohhhhhh-wwwwwiiiii
 + 
 
 # Linking
 + [[Effective Communication For Leaders]]
 + [[MOC Course Effective Communication and Negotiation]]
++ [[Communication TED talks]]
 
 

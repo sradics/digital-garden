@@ -1,9 +1,12 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - 12_fav_problems/help_others_grow
+date_created: Monday, September 30th 2024, 6:38:52 am
+date_modified: Tuesday, October 1st 2024, 6:07:37 am
 ---
 # [[My Son starts with his Second Brain]]
 ## LinkedIn Post
@@ -16,7 +19,6 @@ I bridged a generational gap.
 
 He starts studying this week.
 He wants to organize his stuff. 
-
 
 He asked, "Can you show me how to use this thing you do?"
 
@@ -39,14 +41,11 @@ It is a preconfigured Second Brain.
 
 Took us about 10 minutes.
 
-
 → We shortly ran through the CODE
 CODE explains how information flows.
 
 Capture - Organize - Distill - Express,
 a core of the Second Brain approach.
-
-
 
 → I showed him the basics of PARA
 
@@ -70,8 +69,6 @@ I'm looking forward to his growing experience.
 
 What is ONE hint you would give a fresh student?
 
-
-
 ———  
 P.S.  
 I help people learn how to learn, retain and recall with ease
@@ -80,12 +77,9 @@ I help people learn how to learn, retain and recall with ease
 ♻ Repost to help others in your network
 ➕ Follow me for more posts like this
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
-
-
 
 Posted on **LINKEDIN** on 2024-09-30_Mon
 # Linking

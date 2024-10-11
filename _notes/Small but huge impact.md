@@ -81,3 +81,4 @@ I help people learn how to learn, retain and recall with ease
 Posted on **LINKEDIN** on 2024-10-08_Tue
 # Linking
 + [[My running list of 12 favorite problems]]
++ [[Small but huge impact quote by Benjamin Labatut]]

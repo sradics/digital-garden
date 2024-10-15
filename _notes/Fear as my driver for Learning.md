@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/continuous_learning
+  - lig
 image: Pasted image 20240918055743.png
 ---
 # [[Fear as my driver for Learning]]

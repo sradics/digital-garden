@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
   - linkedin/processed
+  - lightbulb/5-🔵-their_new-life
 date_created: Thursday, September 19th 2024, 6:04:49 am
 date_modified: Friday, September 20th 2024, 6:23:04 am
 image: Pasted image 20240920062215.png

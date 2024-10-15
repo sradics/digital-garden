@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
+  - lightbulb/3-🟠-my_approach
 date_created: Monday, September 2nd 2024, 5:59:00 am
 date_modified: Tuesday, September 3rd 2024, 5:59:37 am
 ---

@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/help_others_grow
+  - li
 image: Pasted image 20241009222246.png
 date_created: Tuesday, October 8th 2024, 10:05:48 pm
 date_modified: Wednesday, October 9th 2024, 10:23:17 pm

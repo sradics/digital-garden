@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
   - linkedin/processed
+  - lightbulb/4-🟢-my_offer
 date_created: Sunday, October 13th 2024, 7:47:15 am
 date_modified: Monday, October 14th 2024, 6:46:56 am
 ---

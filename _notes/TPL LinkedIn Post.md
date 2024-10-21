@@ -41,9 +41,9 @@ One CTA:
 P.S.  
 I help people learn how to learn, retain and recall with ease
 
-🔔 I share insights daily at 8:00AM (CEST)
-♻ Repost to help others in your network
-➕ Follow me for more posts like this
+Want to gain deeper insights into Learning with Impact?
+➠ Subscribe to my newsletter for exclusive tips and updates
+(from my profile or post header link)
 
 Posted on **LINKEDIN** on <% tp.date.now("YYYY-MM-DD_ddd") %>
 # Linking

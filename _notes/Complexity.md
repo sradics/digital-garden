@@ -39,3 +39,4 @@ The same way the effect of our response is not fully measurable when it affects 
 + [[Company-wide Agility with Beyond Budgeting, Open Space & Sociocracy]]
 + [[Accelerate]]
 + Complex Adaptive System
++ [Great article about Cynefin and Simple, Complicated,Complex, Chaotic](https://www.andycleff.com/2017/09/navigating-complexity-aka-cynefin-dummies/)

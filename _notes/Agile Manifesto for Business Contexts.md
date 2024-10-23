@@ -68,3 +68,47 @@ _its behavior accordingly._
 
 
 [[Business agility: An agile approach beyond IT.pdf]]
+
+
+## Raw format
+
+1) Our highest priority is to satisfy our customer  
+through early and continuous delivery  
+of valuable services.
+
+2) Welcome changing requirements, even late.  
+Agile processes harness change for  
+the customer's advantage.
+
+3) Deliver working solutions frequently, from a  
+couple of weeks to a couple of months, with a  
+preference to the shorter timescale.
+
+4) Experts and contact persons must cooperate  
+closely in their tasks.
+
+5) Build organizations around motivated individuals.  
+Give them the environment and support they need,  
+and trust them to get the job done.
+
+6) The most efficient and effective method of  
+conveying information is face-to-face conversation.
+
+7) Working solutions are the primary measure of progress.
+
+8) Agile processes promote sustainable development.  
+All involved should be able  
+to maintain a constant pace indefinitely.
+
+9) Continuous attention to excellence
+and quality of results enhances agility.
+
+10) Simplicity--the art of maximizing the amount  
+of work not done--is essential.
+
+11) The best solutions and results
+emerge from self-organizing teams.
+
+12) At regular intervals, the organization reflects on how  
+to become more effective, then tunes and adjusts  
+its behavior accordingly.

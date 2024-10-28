@@ -16,3 +16,5 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 + [[Causal Loop Diagram]] and [[Causal Loop examples pictures]]
 + [[Extract from The Art of Action]] and [[Trinity of Directing, Leadership and Management]]
 + [[Notes from Good Strategy, bad Strategy and the Crux - Podcast with Lenny adn Rummelt]]
++ ![[BoaP - Playing to Win.excalidraw]]
++ Based on [[Playing to Win - Alan G Lafley Roger L Martin]]

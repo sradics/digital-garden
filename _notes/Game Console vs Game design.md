@@ -9,7 +9,7 @@ image: Pasted image 20241115064648.png
 date_created: Thursday, November 14th 2024, 5:40:59 am
 date_modified: Friday, November 15th 2024, 6:47:14 am
 ---
-# [[Game Console vs Game design]]
+ƒ# [[Game Console vs Game design]]
 ## LinkedIn Post
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_are-you-using-your-brains-ps5-or-still-activity-7262721035882442754-dBHD?utm_source=share&utm_medium=member_desktop)
 

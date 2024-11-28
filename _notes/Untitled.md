@@ -5,7 +5,7 @@ tags:
 - type/social-media/linkedIn-post-note
 
 ---
-# [[<% tp.file.title %> ]]
+# [[Untitled ]]
 ## LinkedIn Post
 [Post at LinkedIn]()
   
@@ -13,7 +13,7 @@ tags:
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
-<% tp.file.cursor() %>
+
 ([[Notes from Simple Marketing for Smart People|details for Belief-Claim-Proof]])
 Belief: *A notebook is a secret weapon of top creatives.* 
 Claim: *Top thinkers and creatives relied on notebooks throughout history.* 
@@ -45,6 +45,6 @@ Want to gain deeper insights into Learning with Impact?
 ➠ Subscribe to my newsletter for exclusive tips and updates
 (from my profile or post header link or via https://www.linkedin.com/posts/sebastiankamilli_warning-this-newsletter-may-cause-extreme-activity-7266707563189047297-g-us)
 
-Posted on **LINKEDIN** on <% tp.date.now("YYYY-MM-DD_ddd") %>
+Posted on **LINKEDIN** on 2024-11-27_Wed
 # Linking
 + [[My running list of 12 favorite problems]]

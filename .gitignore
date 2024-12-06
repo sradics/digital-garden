@@ -15,3 +15,4 @@ _includes/notes_graph.json
 .obsidian/
 jekyll-algolia-record-too-big.log
 *.swp
+.DS_Store

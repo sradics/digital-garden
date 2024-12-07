@@ -7,6 +7,7 @@ tags:
   - 12_fav_problems/help_others_grow
 date_created: Thursday, December 5th 2024, 6:36:12 am
 date_modified: Friday, December 6th 2024, 6:46:18 am
+image: Pasted image 20241206064542.png
 ---
 # [[When it needs precision and when one can go a little more easy]]
 ## LinkedIn Post

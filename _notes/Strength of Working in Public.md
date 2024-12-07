@@ -7,6 +7,7 @@ tags:
   - linkedin/processed
 date_created: Wednesday, December 4th 2024, 6:55:05 am
 date_modified: Thursday, December 5th 2024, 6:35:19 am
+image: Pasted image 20241205063438.png
 ---
 # [[Strength of Working in Public]]
 ## LinkedIn Post

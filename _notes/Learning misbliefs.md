@@ -11,7 +11,7 @@ date_modified: Tuesday, August 13th 2024, 5:54:03 am
 ---
 # [[Learning Misbeliefs]]
 ## LinkedIn Post
-[Post at LinkedIn](https://www.linkedin.com
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_7-affirmations-for-fast-laners-to-rewire-activity-7228641817578086400-Yy5K?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240813055217.png|400]]
 
 

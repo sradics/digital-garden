@@ -33,6 +33,7 @@ date_modified: Monday, April 22nd 2024, 6:22:05 am
 + [[The 5 pillars of my writing process]]
 + [[LinkedIn writing tips from Jasmin Alic]]
 + [[LinkedIn Size insights]]
++ [[Hint for editing]]
 
 ## About newsletters 
 + [[3 techniques to improve your emails 🪩]]

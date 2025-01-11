@@ -10,7 +10,7 @@ date_modified: Tuesday, June 11th 2024, 7:47:56 am
 # Notes from Simple Marketing for Smart People
 * Author: Billy  Broas, Tiago Forte und Ali Abdaal
 * ASIN: B0CW1MQZXP
-* 📖 Simple Marketing for Smart People - https://www.amazon.com/dp/B0CW1MQZXP
+* 📖 Simple Marketing for Smart People - [https://www.amazon.com/dp/B0CW1MQZXP](https://www.amazon.com/dp/B0CW1MQZXP)
 
 This core message should clearly articulate why someone should choose your product or service. It acts as the source of a river, from which all marketing activities flow.
 
@@ -54,6 +54,7 @@ Understand what your potential customers already believe about their problems, s
 	- What makes it important for you to succeed with X?
 - Method 3: Peek into the Cycles of Your Prospect’s Life - rituals, routines, or patterns
 	- Can you walk me through what happened when ...
+
 ### Identify the beliefs required for them to make a purchase
 Determine the specific beliefs that would make your product or service the obvious choice for your target audience.
 
@@ -174,6 +175,7 @@ In essence, beliefs are the underlying convictions held by customers, while clai
 - **Belief:** A client might believe that having only a will is insufficient for estate planning.
     
 - **Claim:** An attorney could claim that a comprehensive estate plan, including trusts and other legal documents, is necessary to protect assets and ensure wishes are carried out.
+
 # Linking
 + Source: [[Billy  Broas-Simple Marketing For Smart People]]
 + 📖 Breakthrough Advertising (1966), is considered the Bible of copywriting

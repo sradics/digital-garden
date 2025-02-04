@@ -4,7 +4,7 @@ tags:
   - digital_garden
   - epstatus/1-🌱
 date_created: Tuesday, February 4th 2025, 6:37:17 am
-date_modified: Tuesday, February 4th 2025, 6:37:39 am
+date_modified: Tuesday, February 4th 2025, 8:37:39 am
 pdf: 251-sebastian-kamilli-second-brain-workshop_679f8d16.pdf
 ---
 # Discovery your Second Brain Masterclass
@@ -16,6 +16,6 @@ And this eBook is one form to express.
 
 Thanks so much Beau, rooting for you. 
 
-(And in case you also want to join such a workshop, subscribe to my newsletter and get insigt)
+(And in case you also want to join such a workshop, [subscribe to my newsletter](https://pages.quintsmart.com/) and get many more insights)
 
 ![[251-sebastian-kamilli-second-brain-workshop_679f8d16.pdf]]

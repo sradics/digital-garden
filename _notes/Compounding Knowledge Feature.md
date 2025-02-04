@@ -7,6 +7,7 @@ tags:
   - linkedin/processed
 date_created: Monday, February 3rd 2025, 7:04:48 am
 date_modified: Tuesday, February 4th 2025, 6:12:59 am
+image: Pasted image 20250204061217.png
 ---
 # [[Compounding Knowledge Feature]]
 ## LinkedIn Post

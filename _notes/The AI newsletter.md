@@ -7,6 +7,7 @@ tags:
   - linkedin/processed
 date_created: Saturday, February 1st 2025, 7:43:54 am
 date_modified: Sunday, February 2nd 2025, 6:28:55 am
+image: Pasted image 20250202062359.png
 ---
 # [[The AI newsletter]]
 ## LinkedIn Post

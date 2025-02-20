@@ -19,6 +19,7 @@ Building a 2nd brain in a nutshell - [[Visual Notes]]
 ## Capture
 + [[BASB - Learning about Capture]]
 + [[BASB  - My ways to capture to my Second Brain]]
++ [[The Collector’s Fallacy]]
 
 ## Organize - PARA
 + [[A perfect organizational system]]

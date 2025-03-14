@@ -3,17 +3,17 @@ tags:
   - digital_garden
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
-  - 12_fav_problems/help_others_grow
   - linkedin/processed
-image: Pasted image 20250312065831.png
-date_created: Tuesday, March 11th 2025, 6:02:46 am
-date_modified: Wednesday, March 12th 2025, 6:59:18 am
+  - 12_fav_problems/help_others_grow
+image: Pasted image 20250312070524.png
+date_created: Wednesday, March 12th 2025, 7:03:49 am
+date_modified: Wednesday, March 12th 2025, 7:06:17 am
 ---
 # [[Blind spots in Facilitation]]
 ## LinkedIn Post
-[Post at LinkedIn]()
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_while-youre-proud-of-your-slides-theyre-activity-7305120381378412544-1I2D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
-![[Pasted image 20250312065831.png|400]]
+![[Pasted image 20250312070524.png|400]]
 
 While you're proud of your slides  
   
@@ -34,8 +34,7 @@ Blindspot 1: Learning Style Tunnel Vision
 ———  
 Sarah designed for her analytical mind,  
 unconsciously alienating 75% of participants who learn differently.  
-  
-  
+
 Blindspot 2: The Broken Learning Cycle  
 ———  
 Sarah jumped to WHAT (technical details) before establishing WHY (purpose).  
@@ -44,8 +43,7 @@ Sarah jumped to WHAT (technical details) before establishing WHY (purpose).
 → Context adaptation was never addressed  
   
 She interrupted the brain's natural information processing sequence.  
-  
-  
+
 Blindspot 3: The Content Overload Trap  
 ———  
 Sarah believed more content meant better training.  
@@ -62,13 +60,11 @@ Want to uncover your own training blindspots?
   
 Join the German 4MAT Workshop:  
 → May 14-16, 2025 in Hamburg  
-→ Led by Europe's 4MAT expert [](https://www.linkedin.com/in/ACoAAABu4oIBhM9AaaXVclPPngaKlvVKKy-FogU)[Hanne Houbak](https://www.linkedin.com/in/hanne-houbak-4aa5252/) and myself
+→ Led by Europe's 4MAT expert [Hanne Houbak](https://www.linkedin.com/in/hanne-houbak-4aa5252/) and myself
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
-
-
 
 Posted on **LINKEDIN** on 2025-03-11_Tue
 # Linking

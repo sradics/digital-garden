@@ -40,6 +40,7 @@ My list of Presentation, Talks, PodCasts, Newsletter, LinkedIn Posts, Articles
 ![[TLS_Workshop_SebastianKamilli.pdf]]
 
 + Talk: [Scrumban (r)Evolution](https://www.slideshare.net/slideshow/scrumban-revolution/105227896)
+![[ScrumBan_Evolution.pptx.pdf]]
 
 - Talk: [[How to measure anything presentation]]
 

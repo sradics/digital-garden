@@ -10,7 +10,7 @@ date_modified: Wednesday, January 8th 2025, 5:42:48 pm
 # 4MAT Styles Profile
 
 
-![[4matStylesTest.pdf]]
+![[S01 Personal/030-039 Areas/31 Me/Personal/attachments/4matStylesTest.pdf]]
 
 ![[LTM_english.pdf]]
 

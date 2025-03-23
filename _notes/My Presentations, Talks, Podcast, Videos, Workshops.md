@@ -5,12 +5,14 @@ tags:
   - type/permanent-note
   - 12_fav_problems/help_others_grow
 date_created: Sunday, March 23rd 2025, 7:02:19 pm
-date_modified: Sunday, March 23rd 2025, 7:03:18 pm
+date_modified: Sunday, March 23rd 2025, 9:39:43 pm
 ---
 # My Presentations, Talks, Podcast, Videos, Workshops
 
-My list of presentation, talks, PodCasts
+My list of Presentation, Talks, PodCasts, Newsletter, LinkedIn Posts, Articles
 
+- [All my Newsletter-Editions](https://pages.quintsmart.com/profile)
+![[Pasted image 20250323212429.png|400]]
 + [Workshop-Recording: Learning That Pays Dividends](https://share.descript.com/view/JZeb2svdBn7)
 
 ![[CompoundingLearning_V2.excalidraw.pdf]]
@@ -38,8 +40,6 @@ My list of presentation, talks, PodCasts
 ![[TLS_Workshop_SebastianKamilli.pdf]]
 
 + Talk: [Scrumban (r)Evolution](https://www.slideshare.net/slideshow/scrumban-revolution/105227896)
-
-![[ScrumBan_Evolution.pdf]]
 
 - Talk: [[How to measure anything presentation]]
 
@@ -70,7 +70,6 @@ My list of presentation, talks, PodCasts
 - Presentation: Agile 2 (compared to Agile 1)
 
 ![[Presentation Agile 2.pdf]]
-
 
 - Presentation: Second Brain and AI
 

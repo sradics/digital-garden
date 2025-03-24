@@ -1,18 +1,19 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - 12_fav_problems/help_others_grow
+  - linkedin/processed
+image: Pasted image 20250324063908.png
+date_created: Friday, March 21st 2025, 6:59:17 am
+date_modified: Monday, March 24th 2025, 6:40:33 am
 ---
 # [[Building Blocks]]
 ## LinkedIn Post
-[Post at LinkedIn]()
-  
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-want-to-access-my-best-ideas-in-seconds-activity-7308744640172548096-2Fpi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
-👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
-
-## Content preparation
+![[Pasted image 20250324063908.png]]
 
 I want to access my best ideas in seconds, not hours
 
@@ -58,9 +59,9 @@ What would be your first step to easier retention and faster building block usag
 P.S.  
 If you want to get the recording of the Workshop, comment or DM me "compound"
 
+👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
-
-
+## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-21_Fri
 # Linking

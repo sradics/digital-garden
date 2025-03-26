@@ -16,9 +16,7 @@ My list of Presentation, Talks, PodCasts, Newsletter, LinkedIn Posts, Articles
 ![[Pasted image 20250323212429.png|400]]
 
 ## Workshop Learning That Pays Dividends
-+ [Workshop-Recording: Learning That Pays Dividends](https://share.descript.com/view/JZeb2svdBn7)
-- [[CompoundingLearning_V2.excalidraw.pdf|Workshop-Slides]]
-- [Newsletter about Compounding Learning](https://pages.quintsmart.com/posts/learning-that-pays-dividends-transform-information-overload-into-compound-growth-the-friday-brain-upgrade)
+- [[Learning That Pays Dividends]]
 - [Compounding Learning: From Small Steps to Rich Depths - Magazine Article](https://leonardo.institute/SPARK/February2025/)
 
 ![[Feb35 (1).jpg]]

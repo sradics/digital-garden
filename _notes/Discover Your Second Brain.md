@@ -16,6 +16,7 @@ Workshop Slides:
 
 ![[DiscoverYourSecondBrain.pdf]]
 
+
 ## Agenda
 ![[Pasted image 20250326035729.png|200]]
 

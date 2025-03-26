@@ -115,5 +115,5 @@ Future? Not at all. It's up and running in my Second Brain. What about you?
 # Linking
 [^1]: [[Para Blog by Tiago Forte]]
 [^2]: Progressive summarization is well described by Tiago Forte, please build on that existing knowledge. I promise, it is worth it. [[Progressive Summarization]]
-[^3]: [[Forming Continuous Discovery Habits - Presentation]]
+[^3]: [[Forming Continuous Discovery Habits Presentation]]
 [^4]: [[MOC Agile 2]]

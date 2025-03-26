@@ -2,10 +2,11 @@
 tags:
   - digital_garden
   - epstatus/1-🌱
-  - type/permanent-note
   - 12_fav_problems/help_others_grow
+  - MOC
+  - type/index-note
 date_created: Sunday, March 23rd 2025, 7:02:19 pm
-date_modified: Sunday, March 23rd 2025, 9:39:43 pm
+date_modified: Wednesday, March 26th 2025, 6:17:40 am
 ---
 # My Presentations, Talks, Podcast, Videos, Workshops
 
@@ -28,10 +29,8 @@ My list of Presentation, Talks, PodCasts, Newsletter, LinkedIn Posts, Articles
 - [[LearningStylesWorkshop.pdf|Workshop Slides - Learning Styles]]
 
 ## Talk: Continuous Discovery Habits
-- Talk: [Continuous Discovery Habits](https://www.youtube.com/watch?v=XviSbwj39Ds) # How to form continuous discovery habits at Blinkist - Agile GT Expert Talk
-	- [[Forming Continuous Discovery Habits - Presentation]]
+- [[Continuous Discovery Habits]]
 
-- [Continuous Discovery Habits](https://www.youtube.com/watch?v=XviSbwj39Ds)
 ## PodCast - Effizientes & smartes Lernen
 - PodCast - SecondBloomers - [#002 Effizientes & smartes Lernen im Berufsleben](https://secondbloomers.letscast.fm/episode/002-effizientes-smartes-lernen-im-berufsleben-mit-sebastian-kamilli-von-quintsmart) - Mit Sebastian Kamilli von QuintSmart
 
@@ -79,7 +78,6 @@ My list of Presentation, Talks, PodCasts, Newsletter, LinkedIn Posts, Articles
 - Presentation: Agile 2 (compared to Agile 1)
 
 - [[Presentation Agile 2.pdf|Slides]]
-
 
 ## Presentation - Second Brain and AI
 

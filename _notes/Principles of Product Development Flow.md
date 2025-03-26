@@ -39,4 +39,4 @@ Advanced
 ## Linking
 + [[The Principles of Product Development Flow]] and [my presentation](https://www.slideshare.net/SebastianRadics/the-principles-of-product-development-flow-a-summary) about it 
 
-![[principlesofproductflow-170223063121.pdf]]
+![[principlesofproductflow.pdf]]

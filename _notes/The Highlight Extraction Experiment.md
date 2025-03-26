@@ -4,9 +4,11 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
+  - linkedin/processed
 image: Pasted image 20250326034435.png
 date_created: Tuesday, March 25th 2025, 7:36:02 am
 date_modified: Wednesday, March 26th 2025, 3:45:43 am
+"":
 ---
 # [[The Highlight Extraction Experiment]]
 ## LinkedIn Post

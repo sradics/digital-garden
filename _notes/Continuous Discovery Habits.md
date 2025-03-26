@@ -10,7 +10,9 @@ Talk: [Continuous Discovery Habits](https://www.youtube.com/watch?v=XviSbwj39Ds)
 
 [[Forming Continuous Discovery Habits Presentation]]
 
-[https://www.youtube.com/watch?v=XviSbwj39Ds](https://www.youtube.com/watch?v=XviSbwj39Ds)
+![https://www.youtube.com/watch?v=XviSbwj39Ds](https://www.youtube.com/watch?v=XviSbwj39Ds)
+
+
 # Linking
 
 

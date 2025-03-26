@@ -12,7 +12,9 @@ image: Pasted image 20250326034630.png
 
 + [Workshop-Recording: Learning That Pays Dividends](https://share.descript.com/view/JZeb2svdBn7)
 
-![[CompoundingLearning_V2.excalidraw.pdf|Workshop-Slides]]
+Workshop Slides:
+
+![[CompoundingLearning.pdf]]
 
 ## Agenda
 ![[Pasted image 20250326034630.png|400]]
@@ -45,4 +47,5 @@ image: Pasted image 20250326034630.png
 # Linking
 - [Newsletter about Compounding Learning](https://pages.quintsmart.com/posts/learning-that-pays-dividends-transform-information-overload-into-compound-growth-the-friday-brain-upgrade)
 - Project: [[329 Compounding Learning Workshop]]
+- [Compounding Learning: From Small Steps to Rich Depths - Magazine Article](https://leonardo.institute/SPARK/February2025/)
 

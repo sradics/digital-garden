@@ -22,7 +22,7 @@ My list of Presentation, Talks, PodCasts, Newsletter, LinkedIn Posts, Articles
 ![[Feb35 (1).jpg]]
 
 ## Workshop Discover You Second Brain
-[[DiscoverYourSecondBrain.pdf|Workshop Slides - Discover your Second Brain]]
+- [[Discover Your Second Brain]]
 
 ## Workshop - 4MAT Learning Styles
 - [[LearningStylesWorkshop.pdf|Workshop Slides - Learning Styles]]

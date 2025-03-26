@@ -59,7 +59,13 @@ My list of Presentation, Talks, PodCasts, Newsletter, LinkedIn Posts, Articles
 ## Talk: Dynamic Team Setups
 - [Presentation: Dynamic Team Setups](https://www.slideshare.net/slideshow/dynamic-team-setups-manage-agile/69233157)
 
-[Recording of the presentation](https://www.youtube.com/watch?v=roS2rCZJLfQ)
+![https://www.youtube.com/watch?v=roS2rCZJLfQ](https://www.youtube.com/watch?v=roS2rCZJLfQ)
+
+
+https://www.youtube.com/watch?v=roS2rCZJLfQ
+
+[https://www.youtube.com/watch?v=roS2rCZJLfQ](https://www.youtube.com/watch?v=roS2rCZJLfQ)
+
 
 ![Recording of the presentation](https://www.youtube.com/watch?v=roS2rCZJLfQ)
 

@@ -65,7 +65,8 @@ Produktivity increases 40+% in 6 months
 ![[Pasted image 20250402111315.png]]
 
 #### Fundament
-	- first AI experiments
+
+- first AI experiments
 	- basic knowledge
 	- understand what AI can do well/what not
 	- understanding tools

@@ -1,10 +1,13 @@
 ---
 tags: 
 - digital_garden
-date_created: Sunday, July 10th 2022, 3:24:47 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+- type/literature-note
+- epstatus/1-🌱
+date_created: Monday, July 11th 2022, 3:59:01 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # Creating OKRs to -fit- your backlog
+
 ## Metadata
 * URL: [https://jeffgothelf.com/blog/okr-anti-pattern-creating-okrs-to-fit-your-backlog/](https://jeffgothelf.com/blog/okr-anti-pattern-creating-okrs-to-fit-your-backlog/)
 * Published Date: 2022-05-23

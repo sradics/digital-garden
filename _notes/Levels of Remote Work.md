@@ -71,6 +71,6 @@ I summary I think we reached level 5 of remote work in our team. This way of wor
 Posted on **LINKEDIN** on 2024-02-21_Wed
 # Linking
 + [[Leadership Development]]
-+ [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The surprising traits of good remote leaders|The surprising traits of good remote leaders]]
++ [[The surprising traits of good remote leaders|The surprising traits of good remote leaders]]
 + [[Notes from Mindful Productivity for Remote Workers]]
-+ [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Matt Mullenweg's & Automattic's Five Levels Of Remote Work|Matt Mullenweg's & Automattic's Five Levels Of Remote Work]]
++ [[Matt Mullenweg's & Automattic's Five Levels Of Remote Work|Matt Mullenweg's & Automattic's Five Levels Of Remote Work]]

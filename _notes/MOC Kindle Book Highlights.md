@@ -28,7 +28,7 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
  - [[Choreographien der Seele|Choreographien der Seele]]
  - [[Company-wide Agility with Beyond Budgeting, Open Space & Sociocracy|Company-wide Agility with Beyond Budgeting, Open Space & Sociocracy]]
  - [[Conscious Capitalism, With a New Preface by the Authors|Conscious Capitalism, With a New Preface by the Authors]]
- - [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Book notes/Kindle/Continuous Discovery Habits|Continuous Discovery Habits]]
+ - [[S01 Personal/050-059 Resources/Literature notes/Book notes/Kindle/Continuous Discovery Habits|Continuous Discovery Habits]]
  - [[Creating Great Teams|Creating Great Teams]]
  - [[Darm mit Charme|Darm mit Charme]]
  - [[Das Bauherren Praxishandbuch|Das Bauherren Praxishandbuch]]

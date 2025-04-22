@@ -94,4 +94,4 @@ Posted on **LINKEDIN** on 2024-05-23_Thu
 + [[My running list of 12 favorite problems#Help others to grow]]
 + 📖[Show your work](https://www.blinkist.com/en/app/books/show-your-work-en)
 + [[MOC Digital Garden]]
-+ HOWTO: [[Building a Digital Garden]]
++ HOWTO: [[S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Building a Digital Garden]]

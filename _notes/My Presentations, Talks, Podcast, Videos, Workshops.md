@@ -29,7 +29,7 @@ My list of Presentation, Talks, PodCasts, Newsletter, LinkedIn Posts, Articles
 - [[LearningStylesWorkshop.pdf|Workshop Slides - Learning Styles]]
 
 ## Talk: Continuous Discovery Habits
-- [[Continuous Discovery Habits]]
+- [[S01 Personal/030-039 Areas/39a10 My Portfolio/Continuous Discovery Habits]]
 
 ## PodCast - Effizientes & smartes Lernen
 - PodCast - SecondBloomers - [#002 Effizientes & smartes Lernen im Berufsleben](https://secondbloomers.letscast.fm/episode/002-effizientes-smartes-lernen-im-berufsleben-mit-sebastian-kamilli-von-quintsmart) - Mit Sebastian Kamilli von QuintSmart
@@ -45,7 +45,7 @@ My list of Presentation, Talks, PodCasts, Newsletter, LinkedIn Posts, Articles
 - [[Scrumban Revolution Talk]]
 
 ## Presentation: How to Measure Anything
-- [[How to Measure Anything Presentation]]
+- [[S01 Personal/030-039 Areas/39a10 My Portfolio/How to Measure Anything Presentation]]
 
 ## Talk: Cost of Delay
 - [[Cost of Delay Presentation]]

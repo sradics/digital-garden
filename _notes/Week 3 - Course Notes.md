@@ -37,7 +37,7 @@ Chunking is building a learning habit. Chunking is an energy saver (actually [[M
 
 Because of the **easy to gain (short term) reward from procrastination**, we fall into that habit fast. Also **cues are many too** - a text message, another article, a door bell ring,...)
 
-Further resources on habits [[Atomic Habits - James Clear]] and [[S01 Personal/030-039 Areas/32 Zettelkasten/Permanent notes/Hooked/Hooked|Hooked]] 
+Further resources on habits [[Atomic Habits - James Clear]] and [[S01 Personal/030-039 Areas/Permanent notes/Hooked/Hooked|Hooked]] 
 
 ## Beating procrastination
 + find ways to **reward good study habits** (to fix the reward aspect of forming a habit)

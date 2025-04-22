@@ -5,7 +5,7 @@ tags:
 - type/permanent-note
 
 ---
-<%* const newFolder = '/S01 Personal/030-039 Areas/32 Zettelkasten/Permanent notes/' -%>
+<%* const newFolder = 'S01 Personal/030-039 Areas/Permanent notes/' -%>
 <%* function log(msg) { console.log(msg); } -%>
 <%* const userFileName = await tp.system.prompt("Filename:") -%>
 <%* 

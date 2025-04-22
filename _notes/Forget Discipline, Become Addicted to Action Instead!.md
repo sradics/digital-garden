@@ -1,12 +1,14 @@
 ---
 tags: 
 - digital_garden
+- matter/processed
 - type/literature-note
-- epstatus/1-🌱
-date_created: Sunday, July 10th 2022, 3:24:47 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+- epstatus/0-🌰
+date_created: Monday, July 11th 2022, 3:59:02 am
+date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---
 # Forget Discipline, Become Addicted to Action Instead!
+
 ## Metadata
 * URL: [https://medium.com/@deepakkapri/forget-discipline-become-addicted-to-action-instead-c4e151e7e394](https://medium.com/@deepakkapri/forget-discipline-become-addicted-to-action-instead-c4e151e7e394)
 * Published Date: 2022-07-03

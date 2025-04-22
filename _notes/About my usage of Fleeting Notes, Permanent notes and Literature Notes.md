@@ -20,7 +20,7 @@ I use [[TPL Fleeting Note]] and best using the command to create a fleeting note
 ### Storing fleeting notes
 Fleeting notes are tagged with #type/fleeting-note
 
-Fleeting notes reside in a folder *fleeting notes* that resides inside a Zettelkasten folder place area for each space [[S01 Personal/030-039 Areas/32 Zettelkasten/Fleeting notes/Fleeting notes|Fleeting notes]].
+Fleeting notes reside in a folder *fleeting notes* that resides inside a Zettelkasten folder place area for each space [[S01 Personal/+📥 inbox/Fleeting notes|Fleeting notes]].
 
 Fleeting notes can also be captured inside projects. But I need to further observe if that makes sense. 
 

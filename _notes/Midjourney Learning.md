@@ -16,4 +16,4 @@ date_modified: Thursday, July 6th 2023, 5:22:50 am
 
 
 # Linking
-+ [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature Notes/Matter/The Complete Guide to Writing Midjourney Prompts]]
++ [[The Complete Guide to Writing Midjourney Prompts]]

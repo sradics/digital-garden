@@ -138,7 +138,7 @@ Ask: Is it a story or a fact?
 [[AgileWorkbook_V2.pdf]]
 
 ## Agile Leader Mindset
-+ Growth Mindset (Linking: [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/From fixed mindset to growth mindset- the complete guide|From fixed mindset to growth mindset- the complete guide]] )
++ Growth Mindset (Linking: [[From fixed mindset to growth mindset- the complete guide|From fixed mindset to growth mindset- the complete guide]] )
 + Empower teams - also via delegation
 + Observation, experimentatoin and innovation
 + servant leadership role

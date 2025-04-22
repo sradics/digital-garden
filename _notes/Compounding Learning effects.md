@@ -53,9 +53,9 @@ https://jefquin.com/blog/compound-learning-acquiring-skills-builds-up-as-interes
 
 compound learning is the result of knowledge on knowledge.
 
-[[S01 Personal/030-039 Areas/32 Zettelkasten/Literature Notes/Matter/Compound Learning 101 (acquiring skills is like interest)]]
+[[Compound Learning 101 (acquiring skills is like interest)]]
 
-[[S01 Personal/030-039 Areas/32 Zettelkasten/Literature Notes/Matter/Mastery's Compounding Effect]]
+[[Mastery's Compounding Effect]]
 
 when you’re constantly learning new information, you’re stacking skills and making new connections you otherwise wouldn’t have.
 

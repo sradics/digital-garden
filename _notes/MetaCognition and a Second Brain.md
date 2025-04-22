@@ -102,6 +102,6 @@ Posted on **LINKEDIN** on 2024-06-24_Mon
 # Linking
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[From Collector to Creator - module One - cognition]]
-+ [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/What is metacognition- (Exploring the Metacognition Cycle)]]
-+ [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Using Metacognitive Strategies in Education- The Complete Guide]]
++ [[What is metacognition- (Exploring the Metacognition Cycle)]]
++ [[Using Metacognitive Strategies in Education- The Complete Guide]]
 + [[Introducing the 4 Learning Types]]

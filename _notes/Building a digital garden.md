@@ -9,7 +9,7 @@ image: Pasted image 20240501094031.png
 date_created: Tuesday, April 30th 2024, 5:49:38 am
 date_modified: Wednesday, May 1st 2024, 9:41:34 am
 ---
-# [[S01 Personal/040-049 Journal/46 LinkedIn posting/Building a Digital Garden]]
+# [[S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Building a Digital Garden]]
 ## LinkedIn Post
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_10year-how-i-built-my-thriving-mind-garden-activity-7190968148601286656-EeUH?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240501094031.png|400]]  

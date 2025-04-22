@@ -58,4 +58,4 @@ date_modified: Monday, August 14th 2023, 7:09:56 am
 + ➡ [[Week 2 - Assertive Communication]]
 + [[eBook-Job-Skills-of-2023.pdf]]
 + [[21 Important Skills]]
-+ [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Matter/How to explain anything to anyone- 4 steps to clearer communication]]
++ [[How to explain anything to anyone- 4 steps to clearer communication]]

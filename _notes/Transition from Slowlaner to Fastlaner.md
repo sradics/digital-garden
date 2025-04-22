@@ -39,7 +39,7 @@ Transitioning from a Slowlaner to a Fastlaner involves adopting a different mind
 By embracing these steps, you can transition from a Slowlaner, where you trade time for money, to a Fastlaner, who builds scalable systems and leverages investments to create substantial wealth. This path requires commitment, a willingness to take risks, and a proactive approach to financial growth and independence.
 
 # Linking
-+ [[Fastlaner Key Insights]]
++ [[S01 Personal/050-059 Resources/Literature notes/Fastlaner Key Insights]]
 + [[Slowlaner Key Insights]]
 + [[DeMarco-The Millionaire Fastlane]]
 + [[MOC Becoming a Fastlaner]]

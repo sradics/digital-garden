@@ -11,6 +11,6 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 
 # Linking
 + [[MOC OKRs]]
-+ [[S01 Personal/030-039 Areas/32 Zettelkasten/Permanent notes/SMART Goals]]
++ [[SMART Goals]]
 
 

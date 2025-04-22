@@ -40,7 +40,7 @@ Topic maps are a method for organizing and representing knowledge. They are used
 - **Digital Libraries:** Helps in organizing and accessing digital library resources.
 - **Knowledge Management:** Supports knowledge management practices in organizations.
 
-For more detailed insights, refer to the literature notes in [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Book notes/Kindle/Mayer-e-Learning and the Science of Instruction.md|e-Learning and the Science of Instruction]].
+For more detailed insights, refer to the literature notes in [[Mayer-e-Learning and the Science of Instruction|e-Learning and the Science of Instruction]].
 
 ## How Topic Maps Work
 

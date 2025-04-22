@@ -17,7 +17,7 @@ date_modified: Wednesday, July 31st 2024, 2:31:41 pm
 + [[Habit Building and Peloton]]
 + [[4 Tips for forming Habits]]
 + [[Atomic Habits - James Clear]]
-+ [[S01 Personal/030-039 Areas/32 Zettelkasten/Permanent notes/Hooked/Hooked|Hooked]]
++ [[S01 Personal/030-039 Areas/Permanent notes/Hooked/Hooked|Hooked]]
 
 ## Visualize your new habit
 [Source](https://www.linkedin.com/posts/georgekaraan_how-to-stick-to-new-habits-activity-7224388935693590528-zi8q?utm_source=share&utm_medium=member_desktop)

@@ -9,7 +9,7 @@ date_created: Saturday, August 19th 2023, 4:12:15 pm
 date_modified: Saturday, August 19th 2023, 4:12:35 pm
 ---
 # MOC Course Effective Communication and Negotiation
-[Coursera Course: *Specialization Leadership and Negotiation*](https://www.coursera.org/specializations/leadership-negotiation-skills#courses) . And I got to that course via [[S01 Personal/030-039 Areas/32 Zettelkasten/Literature Notes/Matter/The importance of soft Skills in the job market PDF]]
+[Coursera Course: *Specialization Leadership and Negotiation*](https://www.coursera.org/specializations/leadership-negotiation-skills#courses) . And I got to that course via [[The importance of soft Skills in the job market PDF]]
 
 [[My usage of ChatGPT to work through the course]] and  [Full reference to ChatGPT used during the course](https://chat.openai.com/share/926562c0-8113-4dc8-b3f0-0460695f2e52)
 

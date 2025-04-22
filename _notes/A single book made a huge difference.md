@@ -9,7 +9,7 @@ image: Pasted image 20240728063744.png
 date_created: Saturday, July 27th 2024, 6:24:28 am
 date_modified: Sunday, July 28th 2024, 6:38:35 am
 ---
-# [[A Single Book Made a huge difference]]
+# [[A single book made a huge difference]]
 ## LinkedIn Post
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_can-a-book-change-your-life-it-changed-activity-7222840563220258816-b5a6?utm_source=share&utm_medium=member_desktop)
 

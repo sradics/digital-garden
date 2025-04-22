@@ -12,7 +12,7 @@ date_modified: Tuesday, May 14th 2024, 5:15:10 am
 Based on the impulse while reading [[DeMarco-The Millionaire Fastlane]]
 
 ## Distilled aspects
-+ [[Fastlaner Key Insights]]
++ [[S01 Personal/050-059 Resources/Literature notes/Fastlaner Key Insights]]
 + [[Slowlaner Key Insights]]
 + [[Sidewalker Key Insights]]
 + [[Transition from Slowlaner to Fastlaner]]

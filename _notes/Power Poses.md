@@ -7,7 +7,7 @@ tags:
 date_created: Monday, February 5th 2024, 5:49:29 am
 date_modified: Sunday, April 21st 2024, 10:08:19 am
 ---
-# [[S01 Personal/040-049 Journal/46 LinkedIn posting/Power Poses]]
+# [[S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Power Poses]]
 ## LinkedIn Post
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_transform-your-week-with-2-minute-power-poses-activity-7160180278718582785-bMjw?utm_source=share&utm_medium=member_desktop)
   

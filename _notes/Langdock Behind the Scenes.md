@@ -9,7 +9,7 @@ image: Pasted image 20250417073951.png
 date_created: Tuesday, April 15th 2025, 7:00:53 am
 date_modified: Thursday, April 17th 2025, 7:40:36 am
 ---
-# [[Langdock Behind the Scenes]]
+# [[S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Langdock Behind the Scenes]]
 ## LinkedIn Post
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-ai-command-center-3-ways-i-use-langdock-activity-7317788817728442373-IcT2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 

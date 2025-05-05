@@ -14,6 +14,9 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 
 ![[Pasted image 20230430111631.png]]
 
+> “You have to keep _a dozen of your favorite problems_ constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, _test it against each of your twelve problems_ to see whether it helps. Every once in a while there will be a hit, and people will say, “How did he do it? _He must be a genius!_”
+> 
+> **Richard Feynman, Nobel Prize-winning physicist**
 
 + keep a dozen of your favorite problems/open questions present in your mind
 + test it against each of your twelve problems
@@ -61,7 +64,7 @@ In this way, the writer's strategy **mirrors Feynman's advice of constantly test
 + [How to generate your favorite problems](https://fortelabs.com/blog/how-to-generate-your-own-favorite-problems-a-4-step-guide/)
 
 1.  Get started with these prompts (What were you obsessed with as a child or teenager? What are the longest-running hobbies you’ve had in your life? +8 more)
-2.  Formulate your own “How/What” questions
+2. Formulate your own “How/What” questions
 3. Make your questions specific, counter-intuitive, or cross-disciplinary
 4. Start capturing information relevant to your favorite problems
 

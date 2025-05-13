@@ -7,6 +7,7 @@ tags:
   - linkedin/processed
 date_created: Thursday, May 8th 2025, 6:41:55 am
 date_modified: Friday, May 9th 2025, 6:04:39 am
+image: Pasted image 20250509060357.png
 ---
 # [[Group Learning Styles ]]
 ## LinkedIn Post

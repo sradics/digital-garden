@@ -16,7 +16,7 @@ date_modified: Wednesday, May 14th 2025, 5:28:34 am
 ## LinkedIn Post
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_their-knowledge-is-scattered-yours-can-activity-7327936018282692608-LA2n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
-![[Pasted image 20250514052359.png]]
+![[Pasted image 20250514052359.png|300]]
 
 Their knowledge is scattered  
   

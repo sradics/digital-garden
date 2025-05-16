@@ -34,6 +34,7 @@ date_modified: Monday, April 22nd 2024, 6:22:05 am
 + [[LinkedIn writing tips from Jasmin Alic]]
 + [[LinkedIn Size insights]]
 + [[Hint for editing]]
++ [[6 writing hints by Daniel Pink]]
 
 ## About newsletters 
 + [[3 techniques to improve your emails 🪩]]

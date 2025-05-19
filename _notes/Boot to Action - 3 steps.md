@@ -71,3 +71,5 @@ P.S. When you know you can transform book highlights into an action plan in unde
 Posted on **LINKEDIN** on 2025-05-15_Thu
 # Linking
 + [[My running list of 12 favorite problems]]
+
+  

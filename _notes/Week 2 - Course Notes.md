@@ -43,7 +43,7 @@ Course claim: **Learn more effectively and with less frustration**
 + pay attention to what is going on around you
 
 ### Some aspects applied to learning a language
-+ structured repetition and
++ structured repetition and ^kuyvw6
 + rote focus mode learning 
 + combined with diffuse mode of speaking freely with friends
 

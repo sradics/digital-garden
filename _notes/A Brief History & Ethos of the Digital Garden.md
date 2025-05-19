@@ -1,9 +1,9 @@
 ---
-tags: 
-- digital_garden
-- matter/processed
-- type/literature-note
-- epstatus/2-🪴
+tags:
+  - digital_garden
+  - matter/processed
+  - type/literature-note
+  - epstatus/2-🪴
 date_created: Wednesday, June 29th 2022, 5:21:23 pm
 date_modified: Thursday, May 18th 2023, 6:15:58 pm
 ---

@@ -1,9 +1,9 @@
 ---
-tags: 
-- digital_garden
-- MOC
-- type/index-note
-- epstatus/2-🪴
+tags:
+  - digital_garden
+  - MOC
+  - type/index-note
+  - epstatus/2-🪴
 date_created: Saturday, July 30th 2022, 11:47:49 pm
 date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ---

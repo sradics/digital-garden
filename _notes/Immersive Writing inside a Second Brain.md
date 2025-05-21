@@ -87,5 +87,5 @@ Posted on **LINKEDIN** on 2024-04-28_Sun
 # Linking
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[How to take Smart Notes - Key Insights]]
-+ [[[Mental Tune-Up -2] Do you ever get angry at having your attention hijacked-]]
++ [[Mental Tune-Up -2 Do you ever get angry at having your attention hijacked-]]
 + [[The Paradox of Choice - Barry Schwartz]]

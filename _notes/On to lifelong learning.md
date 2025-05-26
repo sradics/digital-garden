@@ -5,6 +5,9 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
   - linkedin/processed
+  - lightbulb/1-🔴-status_quo
+  - lightbulb/3-🟠-my_approach
+  - lightbulb/5-🔵-their_new-life
 date_created: Sunday, December 15th 2024, 6:57:48 am
 date_modified: Monday, December 16th 2024, 6:00:27 am
 ---

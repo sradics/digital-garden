@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/relationships
   - linkedin/processed
+  - lightbulb/4-🟢-my_offer
 date_created: Tuesday, December 31st 2024, 7:24:15 am
 date_modified: Wednesday, January 1st 2025, 6:37:27 am
 ---

@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/help_others_grow
+  - lightbulb/3-🟠-my_approach
 image: Pasted image 20250308062126.png
 date_created: Friday, March 7th 2025, 6:43:29 am
 date_modified: Saturday, March 8th 2025, 6:22:00 am

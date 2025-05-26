@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/relationships
   - linkedin/processed
+  - lightbulb/3-🟠-my_approach
 pdf: LinkedIn4MonthGrowth.pdf
 ---
 # [[LinkedIn Growth Analytics]]

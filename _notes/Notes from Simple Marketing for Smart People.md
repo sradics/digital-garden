@@ -179,3 +179,4 @@ In essence, beliefs are the underlying convictions held by customers, while clai
 # Linking
 + Source: [[Billy  Broas-Simple Marketing For Smart People]]
 + 📖 Breakthrough Advertising (1966), is considered the Bible of copywriting
+

@@ -5,6 +5,9 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
+  - lightbulb/1-🔴-status_quo
+  - lightbulb/3-🟠-my_approach
+  - lightbulb/5-🔵-their_new-life
 date_created: Sunday, January 12th 2025, 6:33:02 am
 date_modified: Monday, January 13th 2025, 6:51:46 am
 image: Pasted image 20250113065041.png

@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
   - linkedin/processed
+  - lightbulb/4-🟢-my_offer
 image: Pasted image 20250428060559.png
 date_created: Monday, April 28th 2025, 6:04:42 am
 date_modified: Monday, April 28th 2025, 6:06:35 am

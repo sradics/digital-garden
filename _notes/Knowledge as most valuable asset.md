@@ -5,6 +5,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/continuous_learning
+  - lightbulb/1-🔴-status_quo
+  - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250414064718.png
 date_created: Sunday, April 13th 2025, 7:04:07 am
 date_modified: Monday, April 14th 2025, 6:48:15 am

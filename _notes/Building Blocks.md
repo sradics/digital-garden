@@ -5,6 +5,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
   - linkedin/processed
+  - lightbulb/1-🔴-status_quo
+  - lightbulb/3-🟠-my_approach
 image: Pasted image 20250324063908.png
 date_created: Friday, March 21st 2025, 6:59:17 am
 date_modified: Monday, March 24th 2025, 6:40:33 am

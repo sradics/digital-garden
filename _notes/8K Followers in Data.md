@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
+  - lightbulb/3-🟠-my_approach
 pdf: LinkedIn5MonthGrowth.pdf
 date_created: Tuesday, January 14th 2025, 7:14:05 am
 date_modified: Wednesday, January 15th 2025, 7:09:44 am

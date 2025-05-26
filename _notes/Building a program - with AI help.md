@@ -5,6 +5,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/relationships
+  - lightbulb/2-🟡-things_they_tried
+  - lightbulb/3-🟠-my_approach
 image: Pasted image 20250207071315.png
 date_created: Thursday, February 6th 2025, 6:44:24 am
 date_modified: Friday, February 7th 2025, 7:13:55 am

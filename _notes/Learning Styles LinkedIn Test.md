@@ -5,6 +5,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/continuous_learning
+  - lightbulb/3-🟠-my_approach
+  - lightbulb/4-🟢-my_offer
 image: Pasted image 20250116065500.png
 date_created: Wednesday, January 15th 2025, 7:11:15 am
 date_modified: Thursday, January 16th 2025, 6:55:44 am

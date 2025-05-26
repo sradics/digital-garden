@@ -5,6 +5,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/help_others_grow
+  - lightbulb/1-🔴-status_quo
+  - lightbulb/3-🟠-my_approach
 date_created: Thursday, April 3rd 2025, 6:27:26 am
 date_modified: Friday, April 4th 2025, 7:19:22 am
 ---

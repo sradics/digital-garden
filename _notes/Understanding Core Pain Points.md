@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/relationships
+  - lightbulb/1-🔴-status_quo
 image: Pasted image 20250402072817.png
 date_created: Tuesday, April 1st 2025, 6:58:25 am
 date_modified: Wednesday, April 2nd 2025, 7:28:32 am

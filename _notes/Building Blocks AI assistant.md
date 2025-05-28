@@ -1,18 +1,18 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - 12_fav_problems/continuous_learning
+date_created: Monday, May 26th 2025, 6:10:55 am
+date_modified: Wednesday, May 28th 2025, 7:51:57 am
 ---
 # [[Building Blocks AI assistant ]]
 ## LinkedIn Post
-[Post at LinkedIn]()
-  
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-asked-for-feedback-got-destroyed-did-activity-7332646977639264256-laig?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
-👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
-
-## Content preparation
+![[Pasted image 20250528075130.png|400]]
 
 I asked for feedback. Got destroyed.
 
@@ -54,9 +54,9 @@ They'll experience firsthand how AI can become your most honest thinking partner
 P.S.Next windows for Cohort#02 open soon. 
 DM me or comment "C02" if you want to know more about it. 
 
+👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
-
-
+## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-26_Mon
 # Linking

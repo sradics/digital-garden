@@ -7,6 +7,7 @@ tags:
   - 12_fav_problems/continuous_learning
 date_created: Monday, May 26th 2025, 6:10:55 am
 date_modified: Wednesday, May 28th 2025, 7:51:57 am
+image: Pasted image 20250528075130.png
 ---
 # [[Building Blocks AI assistant ]]
 ## LinkedIn Post

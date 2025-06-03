@@ -27,3 +27,8 @@ As answers to these questions come to mind, write down each new idea, comment, o
 Write these permanent notes as if you are writing for someone else. That is, use full sentences, disclose your sources, make explicit references, and try to be as precise and brief as possible. 
 
 Once this step is done, throw away (or delete) the fleeting notes from step one and file the literature notes from step two into your bibliographic slip-box.
+
+## Linking
+
+2025-06-01_Sun 07:45 - further detailed insights from Söhne Ahrens course [[Notes while running through the course#About permanent notes]]. 
+- [ ] Integrate these insights in my permanent note about understanding what permanent notes are

@@ -92,6 +92,7 @@ From your video reaction, the most valuable insights include:
 ## Personal Relevance Mapping
 
 ### Current Challenges
+
 | Challenge I'm Facing                                                                 | Related Insight from Video                                             | How It Might Help                                                                  |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Participants focus on individual tools rather than integrated systems                | Systems are wholes, not collections of parts                           | **Help them see learning as an ecosystem where all components must work together** |
@@ -99,6 +100,7 @@ From your video reaction, the most valuable insights include:
 | Clients optimize note-taking or AI use without considering the whole learning system | Improving parts separately guarantees system performance won't improve | Design programs that address the entire learning ecosystem simultaneously          |
 
 ### Goal Alignment
+
 | Current Goal | Related Insight from Video | How It Supports This Goal |
 |--------------|---------------------------|---------------------------|
 | Transform how professionals approach learning | Focus on what you want, not what you don't want | Help clients envision their ideal learning system rather than just fixing current problems |
@@ -106,6 +108,7 @@ From your video reaction, the most valuable insights include:
 | Design integrated learning ecosystems | Systems thinking approach | Provide framework for holistic program design |
 
 ### Knowledge Gaps
+
 | Gap in My Understanding | Insight That Fills This Gap | Why This Matters |
 |-------------------------|------------------------------|------------------|
 | How to prevent tool-focused thinking in learning programs | Systems perspective on improvement | Helps me design programs that maintain system-wide focus |
@@ -113,6 +116,7 @@ From your video reaction, the most valuable insights include:
 | How to encourage breakthrough learning vs. incremental improvement | Discontinuous improvement principles | Helps me guide clients toward transformational rather than incremental change |
 
 ### Skill Development
+
 | Skill I Want to Develop | Related Insight from Video | How It Helps Development |
 |-------------------------|---------------------------|---------------------------|
 | Systems-based program design | Architect analogy for holistic design | Provides clear methodology for designing integrated learning experiences |
@@ -122,6 +126,7 @@ From your video reaction, the most valuable insights include:
 ## 20/80 Analysis
 
 ### Impact Assessment
+
 | Insight | Potential Impact (1-10) | Ease of Implementation (1-10) | Relevance to Current Goals (1-10) | Total Score |
 |---------|-------------------------|-------------------------------|-----------------------------------|-------------|
 | Systems are wholes, not parts | 9 | 7 | 10 | 26 |

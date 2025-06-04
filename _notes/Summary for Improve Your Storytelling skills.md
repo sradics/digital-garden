@@ -60,25 +60,28 @@ date_modified: Wednesday, June 4th 2025, 6:51:11 am
 ### Personal Relevance Mapping
 
 #### Current Challenges
-| Challenge I'm Facing | Related Insight from Video | How It Might Help |
-|----------------------|---------------------------|-------------------|
-| Making learning concepts memorable in my program | Use storytelling to illustrate abstract frameworks | Stories make concepts stick better than pure theory |
-| Engaging participants during 2-hour sessions | Incorporate personal stories using the 5-element framework | Stories create emotional engagement and break up content |
-| Helping participants share their learning journeys | Teach them the storytelling framework | They can better communicate their transformations |
+
+| Challenge I'm Facing                               | Related Insight from Video                                 | How It Might Help                                        |
+| -------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
+| Making learning concepts memorable in my program   | Use storytelling to illustrate abstract frameworks         | Stories make concepts stick better than pure theory      |
+| Engaging participants during 2-hour sessions       | Incorporate personal stories using the 5-element framework | Stories create emotional engagement and break up content |
+| Helping participants share their learning journeys | Teach them the storytelling framework                      | They can better communicate their transformations        |
 
 #### Goal Alignment
-| Current Goal | Related Insight from Video | How It Supports This Goal |
-|--------------|---------------------------|---------------------------|
-| Create compound learning experiences | Use stories to connect concepts across sessions | Stories create memorable threads that link ideas |
-| Build AI-enhanced learning systems | Stories can be templates for AI to help generate examples | Framework provides structure for AI-assisted content creation |
-| Develop engaging workshop content | Apply 5-element framework to case studies | Makes workshops more engaging and memorable |
+
+| Current Goal                         | Related Insight from Video                                | How It Supports This Goal                                     |
+| ------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------- |
+| Create compound learning experiences | Use stories to connect concepts across sessions           | Stories create memorable threads that link ideas              |
+| Build AI-enhanced learning systems   | Stories can be templates for AI to help generate examples | Framework provides structure for AI-assisted content creation |
+| Develop engaging workshop content    | Apply 5-element framework to case studies                 | Makes workshops more engaging and memorable                   |
 
 #### Knowledge Gaps
-| Gap in My Understanding | Insight That Fills This Gap | Why This Matters |
-|-------------------------|------------------------------|------------------|
+
+| Gap in My Understanding                | Insight That Fills This Gap                             | Why This Matters                                   |
+| -------------------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
 | How to make abstract concepts concrete | "Show don't tell" and "zoom into the moment" techniques | Essential for teaching complex learning frameworks |
-| Engaging different learning styles | Stories appeal to multiple 4MAT preferences | Helps reach all learners in my diverse audience |
-| Creating memorable content | Five-element framework provides structure | Ensures my content has lasting impact |
+| Engaging different learning styles     | Stories appeal to multiple 4MAT preferences             | Helps reach all learners in my diverse audience    |
+| Creating memorable content             | Five-element framework provides structure               | Ensures my content has lasting impact              |
 
 ### 20/80 Analysis
 

@@ -4,7 +4,7 @@ tags:
   - digital_garden
   - epstatus/1-🌱
 date_created: Wednesday, June 4th 2025, 6:36:38 am
-date_modified: Wednesday, June 4th 2025, 6:45:52 am
+date_modified: Wednesday, June 4th 2025, 10:24:04 am
 ---
 # Book-to-Action Transformation: Tiago Forte's "From Curation to Creation"
 
@@ -91,6 +91,7 @@ date_modified: Wednesday, June 4th 2025, 6:45:52 am
 ### Personal Relevance Mapping
 
 #### Current Challenges
+
 | Challenge I'm Facing | Related Insight from Video | How It Might Help |
 |----------------------|---------------------------|-------------------|
 | Helping participants overcome "imposter syndrome" | "Your journey your insights they are gold for someone who's just starting out" | Shows that you don't need to be the ultimate expert to provide value |
@@ -98,6 +99,7 @@ date_modified: Wednesday, June 4th 2025, 6:45:52 am
 | Scaling my impact beyond 1:1 coaching | Curation as a bridge to content creation | Provides a systematic approach for creating valuable content at scale |
 
 #### Goal Alignment
+
 | Current Goal | Related Insight from Video | How It Supports This Goal |
 |--------------|---------------------------|---------------------------|
 | Build multiple income streams (Favorite Problem #1) | Content creation opens doors to collaborations and opportunities | Shows practical path from knowledge sharing to revenue generation |
@@ -105,6 +107,7 @@ date_modified: Wednesday, June 4th 2025, 6:45:52 am
 | Transform learning into measurable progress (Favorite Problem #9) | Public sharing creates accountability and feedback loops | Makes learning progress visible and measurable through audience engagement |
 
 #### Knowledge Gaps
+
 | Gap in My Understanding | Insight That Fills This Gap | Why This Matters |
 |-------------------------|------------------------------|------------------|
 | How to help people transition from private to public knowledge sharing | The curation method as a bridge | Provides a less intimidating entry point than original content creation |
@@ -112,6 +115,7 @@ date_modified: Wednesday, June 4th 2025, 6:45:52 am
 | How sharing accelerates learning | "When one person teaches to people learn" | Reinforces the compound learning benefits of teaching/sharing |
 
 #### Skill Development
+
 | Skill I Want to Develop | Related Insight from Video | How It Helps Development |
 |-------------------------|---------------------------|--------------------------|
 | Content creation at scale | Systematic curation approach | Provides repeatable process for generating valuable content |
@@ -121,6 +125,7 @@ date_modified: Wednesday, June 4th 2025, 6:45:52 am
 ### 20/80 Analysis
 
 #### Impact Assessment
+
 | Insight | Potential Impact (1-10) | Ease of Implementation (1-10) | Relevance to Current Goals (1-10) | Total Score |
 |---------|-------------------------|-------------------------------|-----------------------------------|-------------|
 | Curation as bridge to creation | 9 | 8 | 10 | 27 |

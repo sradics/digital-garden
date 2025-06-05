@@ -6,6 +6,9 @@ tags:
 
 ---
 # Multi Level Summary
+
+[[@miller_multi-level_nodate]]
+
 ![[multi_level_summaries.pdf]]
 
 # Linking

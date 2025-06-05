@@ -127,13 +127,13 @@ From your video reaction, the most valuable insights include:
 
 ### Impact Assessment
 
-| Insight | Potential Impact (1-10) | Ease of Implementation (1-10) | Relevance to Current Goals (1-10) | Total Score |
-|---------|-------------------------|-------------------------------|-----------------------------------|-------------|
-| Systems are wholes, not parts | 9 | 7 | 10 | 26 |
-| Focus on what you want, not what you don't want | 8 | 8 | 9 | 25 |
-| Effectiveness trumps efficiency | 8 | 6 | 9 | 23 |
-| Improving parts separately prevents system improvement | 9 | 6 | 8 | 23 |
-| Discontinuous improvement creates leadership | 7 | 5 | 8 | 20 |
+| Insight                                                | Potential Impact (1-10) | Ease of Implementation (1-10) | Relevance to Current Goals (1-10) | Total Score |
+| ------------------------------------------------------ | ----------------------- | ----------------------------- | --------------------------------- | ----------- |
+| Systems are wholes, not parts                          | 9                       | 7                             | 10                                | 26          |
+| Focus on what you want, not what you don't want        | 8                       | 8                             | 9                                 | 25          |
+| Effectiveness trumps efficiency                        | 8                       | 6                             | 9                                 | 23          |
+| Improving parts separately prevents system improvement | 9                       | 6                             | 8                                 | 23          |
+| Discontinuous improvement creates leadership           | 7                       | 5                             | 8                                 | 20          |
 
 ### Top Insights Identification
 

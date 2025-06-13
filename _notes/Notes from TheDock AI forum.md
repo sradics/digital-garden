@@ -120,3 +120,19 @@ This component includes hands-on activities designed to actively engage employee
 - **Hackathons:** Organizing events to spur creative, intensive problem-solving and demonstrate AI's capabilities in a collaborative setting.
 - **Train the Trainer:** Establishing a program to empower internal experts to teach and support their colleagues, making knowledge scalable.
 - **Weekly Exploration:** Creating regular, informal meetings or forums where employees can share discoveries, new techniques, and best practices for using AI assistants, fostering a community of practice.
+
+## Side notes
+- FF: on Claude XML assistant instruction
+- FF: Pylon for multi-source inbox and workflow integrations
+- FF: Work with an AI hub that visualizes AI usage in Langdock and beyond (build that fast with Loveable and some vibe coding connecting to the Langdock API)
+- term: **Prompathons**
+- AI as dyslexia equalizer
+- FF: Vercel as AI SDK
+- FF: Langfuse
+- important Skills 
+	- develop a vision of the direction
+	- prompting
+	- focus on what matters (to navigate through content explosion)
+	- search for meaning
+	- people centric change management 
+	- adaptability and moving super fast

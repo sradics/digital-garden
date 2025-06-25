@@ -4,11 +4,12 @@ tags:
   - type/literature-note
   - 12_fav_problems/continuous_learning
   - epstatus/1-🌱
-date_created: Friday, May 17th 2024, 9:35:42 am
-date_modified: Friday, May 17th 2024, 9:36:14 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 image: Pasted image 20240517112153.png
 ---
 # Workshop Staying Motivated Amid Uncertainty
+
 + **Escape the short term thinking** and escape into the future
 + we mainly think in the ultrashort future
 + we spent a lot thinking about the next some hours - but we don't spent much time thinking about the future
@@ -18,6 +19,7 @@ image: Pasted image 20240517112153.png
 + psychological **allergy to uncertainty**
 
 ## Certainty mindset
+
 * predictability
 * ultra-short term
 * efficient
@@ -26,6 +28,7 @@ image: Pasted image 20240517112153.png
 * results in psychological allergy to uncertainty
 
 ## Uncertainty mindset
+
 * awareness
 * imagination
 * creativity
@@ -35,7 +38,9 @@ image: Pasted image 20240517112153.png
 Data helps early stage, imagination helps future stage with higher uncertainty.
 
 to think about the future we need the uncertainty mindset
+
 ## Think in Scenarios
+
 A story about the future ...
 + describe environment **outside** your control
 + break inclination to predict - as objectively as possible
@@ -44,10 +49,12 @@ A story about the future ...
 + find commonalities among scenarios
 
 ***
+
 *3 scenarios A,B,C and elements of each scenario (x). You can see what is likely to happen, what are commonly share elements*
 ![[Pasted image 20240517110703.png|400]]
 
 ## How to create scenarios
+
 + Time - **how old** are you gonna be... /and others
 + Uncertainty - **what is the uncertainty** in your scenario
 + **another uncertainty**
@@ -58,10 +65,12 @@ A story about the future ...
 [[Scenario Building.pdf]]
 
 ***
+
 *Deriving scenarios from 2 different dimensions*
 ![[Pasted image 20240517111456.png|400]]
 
 ## Make the vision vivid
+
 + what is within our control
 + make the future concrete and bridge the disconnect
 + needs to be compelling and motivating
@@ -70,7 +79,9 @@ A story about the future ...
 + pick up great things from the past ... that you might embed in your future
 
 [[Visioning.pdf]]
+
 ## Backcasting
+
 + **==work back from your longer term goals==** - e.g. 3 years
 + where do I need to be in 2 years time then? What needs to happen.
 + what in 1 years time ...
@@ -80,9 +91,6 @@ A story about the future ...
 [[Backcasting.pdf]]
 
 # Linking
+
 + [[Curiosity Reflections]]
-
-
-
-
 

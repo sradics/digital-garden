@@ -3,12 +3,11 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Friday, July 1st 2022, 6:24:49 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Lean Six Sigma Overview
 
 [https://kanbanize.com/lean-management/lean-six-sigma](https://kanbanize.com/lean-management/lean-six-sigma)
-
 
 ![[What Is Lean Six Sigma?.pdf]]

@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Monday, September 12th 2022, 3:04:09 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes from Inspired  book by Marty Cagan
 
@@ -33,20 +33,26 @@ In each of the examples for great Products built by great product managers, the 
 Fall in love with the problem, not the solution (Often our initial solutions don’t solve the problem)
 
 ## Risks
+
 ### Value Risk
+
 Will customers buy it (or choose to use it)?
 
 ### Usability Risk
+
 Can customers figure out how to use it?
 
 ### Feasibility Risk
+
 Can engineers build it regarding their skills, technologies, time and budget?
 
 ### Business Viability Risk
+
 Does the solution work for all other aspects of the business (marketing, legal, sales, …). 
 Can our stakeholders support this?
 
 ### Financial risk: Can we afford this solution?
+
 + Business development risk: Does this solution work for our partners?
 + Marketing risk: Is this solution consistent with our brand?
 + Sales risk: Can sales sell it?
@@ -54,6 +60,7 @@ Can our stakeholders support this?
 + Ethical risk: Is this solution something we should do?
 
 ## Overarching principles
+
 + Risks are tackled up front, rather than at the end. (prior to building anything)
 + Products are defined and designed collaboratively, rather than sequentially - Product, Design and Engineering works side-by-side
 + It’s all about solving problems, not implementing features - Ensure that the solution solves the underlying problem. It’s about business results.
@@ -67,6 +74,7 @@ It takes several iterations to get the implementation of an idea to the point wh
 It’s about how we deal with these truths!
 
 ## Product Discovery
+
 In discovery we are tackling the various risks before we write even one line of production software. The purpose of product discovery is to quickly separate the good ideas from the bad. The output of product discovery is a validated product backlog.
 
 It’s about providing answers to the Risks.
@@ -78,6 +86,7 @@ The purpose of product discovery is to make sure we have some evidence that when
 The key to effective product discovery is getting access to our customers without trying to push our quick experiments into production.
 
 ## Core principles
+
 + We know we can’t count on our customers (or our executives or stakeholders) to tell us what to build. (It’s our job to ensure that what we build solves the underlying user problem).
 + The most important thing is to establish compelling value. So that customers ultimately choose to buy or use our product. This is where we need to spend most of our discovery time.
 + As hard and important as the engineering is, coming up with a good user experience is usually even harder, and more critical to success.
@@ -91,13 +100,15 @@ The key to effective product discovery is getting access to our customers withou
 It’s about shared learning
 
 ## Approach
+
 Use discovery iterations. One iteration is about trying out at least one idea or approach. It’s about testing 10-20 iterations per week. An iteration in discovery should be at least an order of magnitude less time and effort than an iteration in delivery.
 
-
 ## Discovery techniques
+
 With: Build things that don’t scale philosophy during discovery.
 
 ## Framing Techniques
+
 To identify the underlying issues that must be tackled.
 + Clarify underlying problem to be solved
 + Tease out risks and determine where to focus times one
@@ -117,6 +128,7 @@ If pm, tech and designer do not feel there’s a significant risk in any of thes
 Use discovery time for those situations where we know there’s a significant risk, or where team members disagree.
 
 ### Tools
+
 + Opportunity assessment
 	+ What business objectives is this work intended to address (Objective)?
 	+ How will you know if you’ve succeeded (Key Results)
@@ -136,6 +148,7 @@ Use discovery time for those situations where we know there’s a significant ri
 Identify the bigger challenges and planning how you’ll attack this work.
 
 ### Tools
+
 + Story Maps
 	+ Useful for ideation
 	+ Great for communicating with team and key stakeholders
@@ -148,15 +161,16 @@ Identify the bigger challenges and planning how you’ll attack this work.
 
 Many teams consider a high-fidelity prototype and a story map as their go-to techniques.
 
-
 ### Product Market Fit
+
 Asking: How would they feel if they could no longer use this product? (very disappointed, somewhat disappointed, don’t care, no longer relevant). If 40%+ would be very disappointed that should a good product market fit.
 
 ## Discovery ideation techniques
+
 To provide the product team with a wealth of promising solutions aimed at the problems we’re focused on now.
 
-
 ### Tools
+
 + Customer Interviews
 	+ Are your customers who you think they are?
 	+ Do they really have the problems you think they have?
@@ -174,7 +188,9 @@ To provide the product team with a wealth of promising solutions aimed at the pr
 	+ Engineers diving deeper into the business context
 
 ## Discovery prototyping techniques
+
 ### Tools
+
 + Feasibility prototypes
 	+ Algorithm, performance, scalability, fault tolerance, new technologies, third party component, legacy system, dependency on changes from other teams
 	+ Write just enough code to mitigate the risk
@@ -192,6 +208,7 @@ To provide the product team with a wealth of promising solutions aimed at the pr
 	+ Wizard of Oz prototype (real working UI but with fake/manual backend)
 
 ### Principles
+
 + Learn something at much lower cost in terms of time and effort than building out a product (with at least an order of magnitude less time and effort as the eventual product)
 + Force you to think through a problem at a substantially deeper level .. alone creating it exposes major issues
 + Powerful tool for team collaboration
@@ -199,11 +216,13 @@ To provide the product team with a wealth of promising solutions aimed at the pr
 + Purpose -- tackle one or more product risks during the discovery phase and to communicate what needs to be built.
 
 ## Discovery testing techniques
+
 About quickly trying out an idea. A good idea defined as one that solves the underlying problem in a way that customers will buy, they can figure out how to use, we have the time and skills and technology on the team to build and that works for the various aspects of our business.
 
 Order .. Value and Usability - Feasibility - Business Viability
 
 ## Testing feasibility
+
 Techniques to address areas where engineering identifies concerns.
 - Do we know how to build this?
 - Do we have the skills on the team to build this?
@@ -216,15 +235,16 @@ Techniques to address areas where engineering identifies concerns.
 - Do we have the infrastructure?
 - Can we afford the cost to provision this?
 
-
 ## Testing usability
 
 ## Testing value
+
 Testing demand
 + Fake door demand test (painted wall test?) 
 + Landing page demand test
 
 #### Testing Value Qualitatively
+
 Focussed on response or reaction. Do customers love this? Will they pay for it? Will they use it? If not, why not?
 
 It is not about proving. It tells what is happening (or not), but not why.
@@ -236,15 +256,18 @@ It is not about proving. It tells what is happening (or not), but not why.
 3) Have conversations with the user about the value 
 
 #### Testing Value Quantitatively 
+
 How well does this solution solve the underlying problem? It’s about proving, about collecting evidence.
 
 + A/B test based on prototype. (It’s a difference to optimization A/B testing where you e.g. change color, button,...  and can use a much higher traffic share). Only 1% of users … with close monitoring.
 + Invite only testing
 
 ### Testing business viability
+
 Assessment of costs to produce, market and sell the product.
 
 ## Transformation techniques
+
 Discovery sprint (design sprint)
 - Frame problem by mapping problem space
 - Pick the problem to be solved and the target customer
@@ -253,9 +276,8 @@ Discovery sprint (design sprint)
 - Observe interaction from target users
 - When the team has something big and critically important and/or difficult to tackle
 
-
-
 ### Analytics
+
 … (269)
 - User behavior analytics (click paths, engagement)
 - Business analytics (active users, conversion rate, lifetime value, retention)
@@ -266,6 +288,7 @@ Discovery sprint (design sprint)
 - Sentiments (NPS, customer satisfaction, surveys)
 
 ## Product Vision
+
 The longer term objective of the product. 2-10 years perspective. It’s how the product organization intends to deliver on the company's mission.
 Might be in the form of a storyboard, a white paper or a visiontype.
 
@@ -273,6 +296,7 @@ It’s on an organization level but not on product team level.
 The product vision should be inspiring and the strategy should be focused.
 
 ### Principles
+
 - Start with why (Simon Sinek) . Use the vision to articulate your purpose.
 - Fall in love with the problem, not with the solution
 - Don’t be afraid to think big with vision
@@ -285,9 +309,11 @@ The product vision should be inspiring and the strategy should be focused.
 - Evangelize continuously and relentlessly
 
 ## Product Strategy
+
 The sequence of products or releases we plan to deliver on the path to realizing the product vision. Should be constructed around a series of product/market fits e.g. around a different  customer or persona.
 
 ### Principles
+
 - Focus on one target market or persona at a time
 - Product strategy needs to be aligned with the business strategy
 - Product strategy needs to be aligned with the sales and go-to-market strategy
@@ -295,10 +321,12 @@ The sequence of products or releases we plan to deliver on the path to realizing
 - Communicate the strategy across the organization
 
 ### Product principles
+
 The product principles speak to the nature of the products you want to create.
 E.g. “In case where the needs of buyers and the sellers conflict, we will prioritize the needs of the byer, because that’s actually the most important thing we can do for sellers”
 
 ### Prioritization
+
 Use OKRs.
 The first principle is fundamentally about how to empower and motivate people to get them to do their best work, and the second is about how to meaningfully measure progress.
 
@@ -314,19 +342,21 @@ Senior management is responsible for the organization’s objectives and key res
 
 Focus the OKRs at the product team level.
 
-
 ### Regarding markets
+
 Inputs to consider:
 - Market sizing - Total addressable market (TAM)
 - Distribution - Go to market (regarding required sales channels and go-to-market strategies) (GTM)
 - Estimation for how long it will take - Time To Market (TTM
 
 ## Product Delivery
+
 Deliver to the customer and consider scale, performance, reliability, fault tolerance, security, privacy, internationalization and localization. Something you can sell and run a business on.
 
 Role of delivery managers to help the team to get stuff live faster by removing obstacles that get in the way (can be taken by the engineering manager). 
 
 ## Product Roadmaps
+
 If they contain features it leads to wrong assumptions and expectations. It needs Business Goals to reach and that should be on the roadmap.
 
 Often product roadmaps are all about output, but what matters is outcome. People interpret items on a roadmap as a commitment.
@@ -347,6 +377,7 @@ It needs time to validate a solution with customers to ensure it has the necessa
 A similar approach is using an OKR system.
 
 ## Product Leadership
+
 VP product/Head of product/Directors of product/CPO
 - Responsible for building the skills of the product managers
 - (Sometimes also manages the product designers and data analysts)
@@ -360,12 +391,14 @@ VP product/Head of product/Directors of product/CPO
 		- Understand need for continuous innovation
 
 ### Principal product manager
+
 - Review work of various PMs and teams to identify and help to resolve conflicts
 - Main focus on the product itself
 
 ### (Group product manager)
 
 ### Leaders of product design
+
 Ensure a consistent and effective user experience systemwide
 
 CTO, managers and architects are responsible for the holistic view of the system implementation.
@@ -374,6 +407,7 @@ They have a clear strategy for managing technical debt
 The Head of product, head of design and head of Technology should sit very close to one another.
 
 ## Team structuring
+
 Use an empowered, dedicated/durable, cross-functional, collaborative product team model. Increased level of motivation and true sense of ownership.
 
 Principles:
@@ -400,10 +434,12 @@ Provide the full business context:
 - Provide clarity on what the team can decide and what not
 
 ## Business Cases
+
 For ideas that need a larger investment. How much money will you make? How much will it cost? 
 Often done too early in the Discovery funnel, where we don’t know much about that.
 
 ## Product Manager
+
 Needs to be among the strongest talents in the company.
 - Technology sophistication - understand technology trends
 - Business savvy - deep knowledge of the business (and the role that the product plays in your business)
@@ -419,23 +455,27 @@ Needs to be among the strongest talents in the company.
 Add product marketing in the team. They need to represent the market to the team. The positioning, the messaging and the winning go-to-market plan. And they close the loop with the sales channel.
 
 ### Work closely with User Research 
+
 Support with Qualitative learning:
 - Generative:They help to understand the problem we need to solve.
 - Evaluative: How well our solutions solve the problem.
 They can help to find the right type of users, craft the right types of tests and learn the most from each user or customer interaction.
 
 ### Work closely with Data Analysts
+
 - Manage data privacy constraints
 - Analyze the data
 - Plan live-data tests
 - Understand and interpret the results
 
 ### Key Responsibilities
+
 - Evaluate opportunities and determine what gets built and delivered to customers.
 - Ensure that what goes to the product backlog is worth building.
 - Responsible and accountable for the success of the product.
 
 ### Keys for successful relationship with your designer
+
 - Have the designer sit next to you
 - Include designer from the very inception of every idea
 - Include designer in as many customer and user interactions as possible. Learn about them together
@@ -443,6 +483,7 @@ They can help to find the right type of users, craft the right types of tests an
 - Encourage to iterate early and often and to explore alternative solutions to the problem. Avoid getting nitpicky on early iterations.
 
 ### Keys for successful relationship with the engineers
+
 - Share openly what you know about your customers, especially their pain, data and business constraints
 - Encourage to voice opinions on developing the product further
 - Daily: Solicit ideas/input for items in discovery and answer clarifying questions on the items they’re working on delivering to production.
@@ -451,6 +492,7 @@ They can help to find the right type of users, craft the right types of tests an
 Work closely with the Tech Lead … they have the responsibility to help to discover a strong solution.
 
 ### Product Designer
+
 Modern product designers continuously collaborate with product managers and engineers from discovery to delivery. The product designer is measured on the success of the product.
 
 Deeply oriented around actual customers and the value their product brings to those customers.
@@ -478,20 +520,25 @@ We need design to discover the right product (and not just as a service to make 
 Design informs functionality at least as much as functionality drives the design.
 
 ## Company Stages
+
 ### Startups
+
 In a race to achieve product market fit before running out of money.
 Optimized to learn and move quickly.
 
 ### Growth-Stage
+
 Scaling to Success. 
 Product teams complain that they don’t understand the big picture … they don’t see how their work contributes to the larger goals.
 
 ### Enterprise
+
 Tweaking and optimizing existing products (value capture). And develop each product to reach its full potential.
 
 Often with lack of innovation, and how much slower it is for new product work to get into the hands of customers.
 
 ## Product
+
 A holistic definition of a product includes:
 - Functionality/Features
 - Technology that enables the functionality.
@@ -501,10 +548,12 @@ A holistic definition of a product includes:
 - Offline experiences.
 
 ### Dual Track
+
 Discovery in parallel to Delivery
 We work in parallel to discover the necessary product to be built - which is primarily what the product manager and designer work on every day - while the engineers work to deliver production-quality products.
 
 ### Principles of strong product teams
+
 - Durable and dedicated to a product
 - Combine different specialized skills and feel real ownership for a product
 - Team of Missionaries (not teams of mercenaries) … they believe in the vision and are committed to solving problems for their customers.
@@ -519,6 +568,7 @@ We work in parallel to discover the necessary product to be built - which is pri
 Head of Product and Head of Engineering get together to define the size and scope of the teams.
 
 ## The right process
+
 A combination of techniques, mindset and culture.
 
 2 significant challenges to tackle:
@@ -530,8 +580,8 @@ We need to deliver a robust and scalable implementation. The team needs to relea
 So we need to learn fast, yet also release with confidence.
 
 ## The term product
-A state at which we can run a business on it. It is scalable and performant to the degree necessary. It has a string suite of automated regression tests. It is instrumented to collect the necessary analytics. It is maintainable. And consistent with brand promise. And it is something the team can release with confidence.
 
+A state at which we can run a business on it. It is scalable and performant to the degree necessary. It has a string suite of automated regression tests. It is instrumented to collect the necessary analytics. It is maintainable. And consistent with brand promise. And it is something the team can release with confidence.
 
 ## Good teams/bad teams
 
@@ -554,11 +604,3 @@ A state at which we can run a business on it. It is scalable and performant to t
 | Integrate and release continuous, knowing that a constant stream of smaller releases provides a much more stable solution for their customers                                                                                                        | Test manually at the end of a painful integration phase and then release everything at once                                |
 | Are obsessed over their reference customer                                                                                                                                                                                                           | Obsess over their competitors                                                                                              |
 | Celebrate when they achieve significant impact to the business results                                                                                                                                                                               | Celebrate when they finally release something                                                                              |
-
-
-
-
-
-
-
-

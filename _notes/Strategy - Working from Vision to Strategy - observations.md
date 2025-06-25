@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Wednesday, May 10th 2023, 4:34:05 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Strategy - Working from Vision to Strategy - observations
+
 In 2023-05 I was involved in a team to create the product strategy for 3 years. This note outlines some observations & learnings on structure
 
 The approach to work backwards from the company vision (markers) to more concrete sub-vision per bigger endavours/themes seems to work, well. Each theme can then be filled with initiatives/projects on the horizons. 
@@ -14,7 +15,8 @@ The approach to work backwards from the company vision (markers) to more concret
 We used time horizon 1..3 for year 1..3. 
 
 ![[Bildschirmfoto 2023-05-10 um 16.55.28.png]]
-# Linking
-* [[MOC Strategy]]
 
+# Linking
+
+* [[MOC Strategy]]
 

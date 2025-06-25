@@ -4,17 +4,19 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Monday, July 18th 2022, 5:46:30 am
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # How to stop saying yes when you want to say no
 
 ## Metadata
+
 * URL: [https://radreads.co/how-to-say-no/](https://radreads.co/how-to-say-no/)
 * Published Date: 2020-02-29
 * Author: [[Khe Hy]]
 
 ## Highlights
+
 * If you can't say no, you won't ==find the bandwith to work on what's truly important to you.==
 * is ==neither fair to you... nor to the other person==.
 * When deciding whether to do something, ==if you feel anything less than “Wow! That would be amazing! Absolutely! Hell yeah!” — then say “no.”==
@@ -26,6 +28,6 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 * ==Saying no doesn’t make you a bad person==.
 * learning to say no will ==help you say HELL YES to the things you truly want== to do.
 
-
 # Linking
+
 + [[MOC 10K$ framework]]

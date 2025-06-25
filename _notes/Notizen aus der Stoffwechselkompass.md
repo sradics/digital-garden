@@ -1,12 +1,12 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Sunday, February 12th 2023, 7:20:35 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notizen aus der Stoffwechselkompass
+
 [Source at Blinkist](https://www.blinkist.com/de/nc/reader/der-stoffwechsel-kompass-de)
 
 + HIIT improves abilities for cells to divide (what is important to renew cells in our body)
@@ -29,5 +29,6 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 + the [PRISCUS](https://www.priscus2-0.de/) list is important to understand effects from an intake of different medicaments
 
 # Linking
+
 + [[MOC Vegan Living]]
 

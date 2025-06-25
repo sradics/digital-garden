@@ -4,18 +4,20 @@ tags:
   - type/literature-note
   - digital_garden
   - matter/processed
-date_created: Friday, June 23rd 2023, 2:07:19 pm
-date_modified: Saturday, June 24th 2023, 5:24:37 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # The 5 pillars of my writing process
 
 ## Metadata
+
 * URL: [https://getmatter.com/email/26501066/?token=26501066%3ARFyB2KaeNCwhfrEcUCIabvh9Dkw](https://getmatter.com/email/26501066/?token=26501066%3ARFyB2KaeNCwhfrEcUCIabvh9Dkw)
 * Publisher: Forte Labs
 * Published Date: 2023-06-20
 * Tags: 
 
 ## Highlights
+
 * **==Have a concrete use case in mind==**
 * **Get precise on the final outcome you're looking for.**
 * Set aside 20 minutes and go through the material quickly to rediscover what's truly in there.
@@ -27,6 +29,7 @@ date_modified: Saturday, June 24th 2023, 5:24:37 am
 * chapter had its own project folder,
 
 ## five pillars of my writing process
+
 * Pre-existing blog posts
 * Outlines
 * Morning writing sessions

@@ -4,11 +4,13 @@ tags:
   - MOC
   - type/index-note
   - epstatus/1-🌱
-date_created: Thursday, November 30th 2023, 6:07:31 pm
-date_modified: Thursday, November 30th 2023, 6:07:40 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # MOC Feedback
+
 ## LinkedIn Post series
+
 + [[The Moment That Redefined Feedback For Me]]
 + [[The Swimming Competition That Taught Me Empathy]]
 + [[Are We Masking the Real Issue with Feedback Tools]]
@@ -19,6 +21,7 @@ date_modified: Thursday, November 30th 2023, 6:07:40 pm
 + [[Harnessing AI for Feedback - A Powerful Ally]]
 
 ## Books & further resources
+
 + [[Radical Candor]], [[Radical Candor work material]]
 + [[Feedback]]
 + [[Feedback formula from SAM]]

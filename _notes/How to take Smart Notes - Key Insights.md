@@ -3,16 +3,19 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Thursday, September 8th 2022, 6:16:15 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # How to take Smart Notes - Key Insights
+
 ## High level instructions for the Slip Box
+
 1) Pay attention to what you want to remember
 2) Properly encode the information you want to keep
 3) Practice recall
 
 ## Purpose of taking Smart Notes
+
 + ==Willpower is a limited== resources that depletes quickly. And willpower improvement is limited. 
 	+ this is connected to memorising and re-reading to retrieve the previous learning 
 	+ success is **not** the result of strong willpower and overcoming resistance but of ==**smart working environments that avoid resistance in the first place**==
@@ -35,8 +38,8 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 + ==Offload information and de-stress== by freeing up mental capacity. (Connecting to [[Braindump exercise]])
 + Slip-box as a tool for enforcing distinctions, decisions and making differences visible.
 
-
 ## Feedback Loops
+
 + Crucial for motivation and also ==key element of any learning process.==
 + [[Mindset]] - ==seeking feedback, not avoiding it as first virtue for learning/growing==
 	+ get pleasure out of changing for the better (so converting to taking smart notes instead of just capturing)
@@ -49,8 +52,8 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 - Linking immediately shows contradictions, inconsistencies and repetitions.
 - What is missing when we write down an idea?
 
-
 ## Structure
+
 + ==enables flow== as you can focus on what is important
 + it is more about how we structure our work instead of planning our work
 	+ planning work makes us less flexible while working as you have to push yourself and employ willpower
@@ -68,12 +71,14 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 	+ Book Notes
 	+ Matter import
 + ==2nd Slip-Box for collecting and generating ideas== (mainly in response to reading)
-	+ These are my Fleeting Notes, Permanent notes. Permanent notes spread through [[Para Blog by Tiago Forte | PARA]]
+	+ These are my Fleeting Notes, Permanent notes. Permanent notes spread through [[Para Blog by Tiago Forte |PARA]]
 + ==restrict to one idea per note== and be as precise as possible
 + a lack of structure and restrictions is a big threat to creativity
 
 ### 3 Types of Notes
+
 #### Fleeting notes
+
 + reminders of information
 + can be written in any kind of way
 + will end up in trash within a day or two 
@@ -82,16 +87,19 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 + only useful if reviewed (within a day) and turned to permanent notes
 
 #### Permanent notes
+
 + will never be thrown away
 + contain necessary information and a well written and permanently understandable way
 	+ PARA - areas, permanent notes folder, Meta folder
 + Contain the actual thought or idea in written form (and not just reminders of thoughts or ideas)
 
 #### Project notes
+
 + Only relevant to a particular project
 	+ PARA - Projects folder and sub-structure
 
 ## Processing thoughts
+
 + ==writing for learning==
 + work with Bibliographic notes and think about relevance for own thinking and writing
 + turn to main slip-box and write ideas, comments, thoughts. But use only one note for each idea and max one side of paper. This makes it easier to process later.
@@ -114,6 +122,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 
 > [!quote]
 > “If learning is your goal, cramming is an irrational act” (Doyle and Zakrajsek 2013)
+
 + ==thinking and creativity can flourish under restricting conditions.== ([[The Paradox of Choice - Barry Schwartz]])
 + ==What is interesting about this?== 
 + ==What is so relevant that it is worth noting down?==
@@ -121,8 +130,8 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 > [!quote]
 > When I am stuck for one moment, I leave it and do something else (Luhmann) ... Well, writing other books. I always work on different things simultaneously, I never encounter any mental blockages
 
-
 ### Linking while taking notes
+
 + ==Read with an eye towards possible connections==
 + ==Immediately link== to other notes
 	+ will show us contradictions, inconsistencies and repetitions
@@ -144,6 +153,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 + What does X mean for Y?
 
 ### Types of task for smart notes
+
 + Proof reading
 	+ focussed attention
 	+ analytical
@@ -157,24 +167,27 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 	+ associative, playful, creating
 
 ### Full focus
+
 + multitasking feels more productive but decreases productivity (Wang and Tchernev 2012; Rosen 2008; Ophir, Nass, and Wagner 2009). Quality and Quantity lagged significantly.
 	+ [[Multitasking - Negative Effect visualized]]
 	+ [[Parallel writing Name game]]
 + ==Multitasking fatigues us and decreases ability to deal with more==
 + Mere-exposure effect: doing something many times makes us believe we have become good at it – completely independent of our actual performance (Bornstein 1989)
 
-
 > [!important]
 > The key to creativity is being able to switch between a wide-open, playful mind and a narrow analytical frame 
+
 + We can hold a maximum of seven things in our head at the same time, plus/minus two (Miller 1956). 
 + Zeigarnik effect: Open tasks tend to occupy our short-term memory until they are done. (Connect to [[Braindump exercise]])
 	+ so ==write down thought in e.g. Fleeting notes to flush memory and ensure focus==.
 
 #### Focussed attention
+
 Focus on ONE thing only, something we can sustain only for a few seconds.
 + proof reading required focussed attention
 
 #### Sustained attention (floating attention)
+
 Needed to stay focussed on one task for a longer period. To learn, understand and get something done.
 
 + avoid multitasking
@@ -189,10 +202,12 @@ Hint to have the outline always available to know what we'll write about where a
 Outlining requires focus on whole argument and not just one thought. We need to return to outlining throughout the writing process and consider it as a continuously task to be done.
 
 ## Build a behavior for taking Smart Notes
+
 + Apply the structure to reduce friction by decision making about the way we work
 + write a defined amount of notes every day (Luhmann wrote about 6 notes per day)
 
 ## Mistakes for taking notes
+
 + Building on chronological order. This often is based on recency bias. It does not help to find, combine and rearrange ideas.
 + Collect notes only related to specific projects.
 + Treating all notes as fleeting notes.
@@ -201,12 +216,13 @@ Outlining requires focus on whole argument and not just one thought. We need to 
 > [!hint]
 > Move questionable passages into another document and tell yourself you might use them later 
 
-
 ## On expressing
+
 + follow interest and what promises most insights
 + look through connection, create an outline and bring previously well crafted notes in order
 
 ### Core of GTD
+
 Collect everything that needs to be taken care of in one place and process it in a standardised way.
 + So Obsidian enables to collect everything on one place (at least when combined with linking)
 
@@ -215,6 +231,7 @@ Forces us to make clear choices to which bucket a task belongs and to check if a
 Leads to a **Mind like water** as one does not have to keep everything in memory.
 
 ## Quotes to use later
+
 > [!quote]
 > I never force myself to do anything I don't feel like. Whenever I am stuck, I do something else 
 > I only write when I immediately know how to do it
@@ -238,11 +255,13 @@ For coaching
 (so making learning easier for other can have the opposite effect as they don't have to do the work and therefore miss important aspects of learning like arranging information, phrasing in own words and making a meaning of something, building connections)
 
 ## Further processing
+
 + Reference management systems - Zotero, Citavi
 + [Interview with Niklas Luhmann about his Zettelkasten approach](https://www.youtube.com/watch?v=qRSCKSPMuDc&t=2250s)
 + [Luhmanns Zettelkasten](http://ds.ub.uni-bielefeld.de/viewer/collections/zettelkasten/)
 
 ## Linking
+
 + [[How to Take Smart Notes]] and [Blinkist version as Book in Blinks](https://www.blinkist.com/de/nc/browse/books/how-to-take-smart-notes-en?r=1&st=how+to+tak)
 + [Summary by Tiago Forte](https://fortelabs.com/blog/how-to-take-smart-notes/)
 + [[MOC Building a 2nd brain]]

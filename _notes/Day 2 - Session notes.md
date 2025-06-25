@@ -4,13 +4,15 @@ tags:
   - digital_garden
   - publish_in_newsletter
   - type/literature-note
-date_created: Wednesday, September 20th 2023, 6:02:02 pm
-date_modified: FriWednesday, Septe2ndmber 208t15h 2023, 6:02:14 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Day 2 - Session notes
+
 On 19th/20th September I joined the [Circle Community Summit](https://circle.so/bundle/). The following are key highlights from day two.
 
 ## Session with Ali Abdaal
+
 + **feel good productivity**
 + get started ... you don't need to know everything upfront
 + you can ==**just be a guide, a fellow traveller==** sharing the journey 
@@ -26,6 +28,7 @@ On 19th/20th September I joined the [Circle Community Summit](https://circle.so/
 	+ 📖 [[Dotcom Secrets - Russell Brunson]]
 
 ### His funnel
+
 ![[Pasted image 20230920182406.png]]
 
 + **lead with value**, tangible suggestion
@@ -38,7 +41,9 @@ On 19th/20th September I joined the [Circle Community Summit](https://circle.so/
 	+ facts, feelings, functionality
 + Problem analysis control
 + ask your audience ... 5 is already good
+
 ### Why do people join a community
+
 + to **address emotional problems** ... like imposter
 + **struggle with discipline, accountability, motivation**
 + community helps people to **get over their fears**
@@ -46,6 +51,7 @@ On 19th/20th September I joined the [Circle Community Summit](https://circle.so/
  **==people get a lot of value out of accountability==** - group or individual ... setting themself goals
 
 ## Session Scale like a Pro with Nicole Walters
+
 + WHERE TO START - with your best business idea and why everything the 'experts' are teaching isn't working for YOU.
 + AVOID WASTING TIME AND MONEY - on marketing tricks that don't work or convert.
 + STAY STEADY - in a shaky economy.
@@ -56,6 +62,7 @@ On 19th/20th September I joined the [Circle Community Summit](https://circle.so/
 + you need to **mention: What are people missing**
 
 ### The most important things you need 
+
 + **Legal**
 	+ contract, obligations, protecting the product
 + **Financials**
@@ -76,6 +83,7 @@ Provide and collect eMails. Grow your eMail list. Consistency and value delivery
 **Facebook build Facebook without Facebook**
 
 ## Guide your first 25 members John Moore, Sean Cannell
+
 + level up as you go
 + **big things take time to build**
 + **==build a framework!==**
@@ -106,6 +114,7 @@ Provide and collect eMails. Grow your eMail list. Consistency and value delivery
 [[eaff5-edbf-a14c-30f0-d46f204d86_Perfect_Video_Recipe_Download_1_.pdf]]
 
 ## Session - Adding a community to an existing business
+
 [https://contrarianthinking.co/](https://contrarianthinking.co/)
 * go 4 levels down
 * **specific, small, select - the Waldo Method**
@@ -136,4 +145,5 @@ Provide and collect eMails. Grow your eMail list. Consistency and value delivery
 * turn your paid stuff into your marketing stuff
 
 # Linking
+
 + ⬅ [[Day 1 - Session notes]]

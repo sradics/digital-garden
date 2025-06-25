@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note
-date_created: Tuesday, May 31st 2022, 8:08:02 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Experience Emotional Writing
+
 I faced a question about the topic digital gardening and why I would like to publish my thoughts. This time I took the time to ==externalize my thoughts via just writing== about it. Flushing it without thinking about formatting, proper phrasing and if what I'm writing is right or wrong or phrased in a not offending way.
 
 I realized that ==I started with simple argumentation and rationalized the reasoning==. And I observed myself and noticed that I was feeling detached from my reasoning. **It felt like I was writing something to please the reader**. It was **on the surface and not really drilling down** to my real needs behind.
@@ -23,8 +24,8 @@ I ==observed my answers and included my body reactions==. In the beginning my an
 
 And I immediately understood how **digital-gardening connects to my need of being seen, gaining social rewards and providing something valuable that gives me the feeling of being connected and *maybe* contributing something above my mere existence**.
 
-
 ## Linking
+
 + [[The Coach in your head]]
 + [[Personal Systemic Coaching]]
 + [[Decision Making]]

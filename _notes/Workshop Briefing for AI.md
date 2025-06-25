@@ -3,8 +3,10 @@ tags:
   - digital_garden
   - epstatus/1-🌱
   - type/permanent-note
-date_created: Tuesday, February 11th 2025, 4:05:46 pm
-date_modified: Tuesday, February 11th 2025, 4:05:55 pm
+date_created: 2025-02-11 16:05
+date_modified: 2025-06-25 06:06
+aliases: [Learning That Pays Dividends - Workshop Brief]
+linter-yaml-title-alias: Learning That Pays Dividends - Workshop Brief
 ---
 # Learning That Pays Dividends - Workshop Brief
 
@@ -91,5 +93,3 @@ As a small thank you for your previous trust in my work, I'd like to invite you 
 
 Would be wonderful to see you again!
 ```
-
-

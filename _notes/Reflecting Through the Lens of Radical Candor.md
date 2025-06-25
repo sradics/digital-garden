@@ -4,9 +4,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
-date_created: Thursday, November 30th 2023, 6:24:19 pm
-date_modified: Thursday, November 30th 2023, 6:50:08 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
+# Reflecting Through the Lens of Radical Candor
+
  Reflecting Through the Lens of Radical Candor
 ![[Pasted image 20231130182515.png]]
 

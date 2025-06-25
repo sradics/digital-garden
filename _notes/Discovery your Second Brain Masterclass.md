@@ -3,8 +3,8 @@ tags:
   - type/permanent-note
   - digital_garden
   - epstatus/1-🌱
-date_created: Tuesday, February 4th 2025, 6:37:17 am
-date_modified: Tuesday, February 4th 2025, 8:37:39 am
+date_created: 2025-02-04 06:37
+date_modified: 2025-06-25 06:06
 pdf: 251-sebastian-kamilli-second-brain-workshop_679f8d16.pdf
 ---
 # Discovery your Second Brain Masterclass

@@ -1,13 +1,13 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Monday, June 6th 2022, 9:44:29 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Prerequisite Tree
+
 [https://fortelabs.co/blog/theory-of-constraints-101-table-of-contents/#.qtqvp9fnv](https://fortelabs.co/blog/theory-of-constraints-101-table-of-contents/#.qtqvp9fnv)
 
 This network is a **map from where you are, to where you want to be**. But the waypoints along that path are not “things you have to do.” That leaves you individually responsible for walking every step, expecting no help from anyone or anything.

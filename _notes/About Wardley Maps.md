@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note 
-date_created: Friday, June 24th 2022, 6:59:43 am
-date_modified: Monday, January 22nd 2024, 1:18:24 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # About Wardley Maps
 
@@ -18,6 +18,7 @@ An easy way to start mapping is [**https://www.onlinewardleymaps.com**](https:/
 + [Video on System of Theft - Pioneers, Settlers, Townplanners](https://www.youtube.com/watch?v=n3Q8825onA4&list=PLP0vnsXbJsRUlWgayGuYWxJ00gs1nK91_&index=1)
 
 ## About maps
+
 -   Space has a meaning
 -   You have an anchor (e.g. like where is north)
 -   (e.g. a systems overview is not a map but a diagram)
@@ -27,6 +28,7 @@ An easy way to start mapping is [**https://www.onlinewardleymaps.com**](https:/
 - [https://list.wardleymaps.com/](https://list.wardleymaps.com/)
 
 ## Main Steps
+
 + The purpose - the moral comparative
 + Understand the landscape you’re competing in 
 + Climate patterns - so how the landscape is changing
@@ -43,6 +45,7 @@ An easy way to start mapping is [**https://www.onlinewardleymaps.com**](https:/
 	+ gameplay - more context specific patters
 
 ### Climatic patterns
+
 + for anticipation where the market is going
 + everything evolves if there is supply and demand competition
 	+ resulting in inertia based on past success
@@ -53,11 +56,13 @@ An easy way to start mapping is [**https://www.onlinewardleymaps.com**](https:/
 + 3 forces - efficiency, speed and new value
 
 ### Doctrine and Gameplay
+
 + you have a choice over
 + doctrine - universally useful
 + gameplay - very context specific
 
 #### Doctrine
+
 About 40 doctrines
 
 [Source](https://www.youtube.com/watch?v=gPDVA6uVAlU)
@@ -76,6 +81,7 @@ With different maps, you can then find maps common to all maps. Based on that:
 A **bias towards using data** is also a universally useful pattern. And maps provide us with data too.
 
 #### Gameplay
+
 About 100 different forms.
 Example: Innovate - Leverage - Commoditize
 + take a product and turn into utility and expose as API
@@ -90,6 +96,7 @@ Leverage ecosystem to learn about usage. Efficiency increases with the size of t
 📖 Reaching Cloud Velocity with a whole chapter of mapping
 
 ## Deep Dive
+
 The Innovators Dilemma: When New Technologies Cause Great Firms to Fail 
 + [**https://amzn.to/30vHMgh**](https://amzn.to/30vHMgh)
 + https://www.blinkist.com/de/nc/browse/books/the-innovators-dilemma-en?r=1&st=the+innovators
@@ -104,13 +111,15 @@ The Innovator's Solution: Creating and Sustaining Successful Growth [**https://a
 An export from a Miro board and a backup/restore format is attached below too.
 ![[Wardley Maps - Template.pdf]]
 
-+ [[Wardley Maps - Template.rtb | Miro Board Backup]]
++ [[Wardley Maps - Template.rtb |Miro Board Backup]]
 
 # Linking
+
 + [[Book Club - Future Organization Playbook - 3rd Session - Innovation Architecture]]
 + [[Systems Thinking]]
 + [[Tools for Wardley Mapping]]
 + [AWS course on Warley mapping](https://www.youtube.com/watch?v=58iLrw6-4x4)
 
 ## Great video explaining Wardley Maps
+
 [Simon Wardley - X marks the spot](https://www.youtube.com/watch?v=LSD_Ng-E9Og)

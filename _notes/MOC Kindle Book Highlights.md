@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/index-note
-date_created: Sunday, August 7th 2022, 9:18:08 pm
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # MOC Kindle Book Highlights
 

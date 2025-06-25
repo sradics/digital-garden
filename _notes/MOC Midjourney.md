@@ -4,10 +4,11 @@ tags:
   - type/index-note
   - epstatus/1-🌱
   - digital_garden
-date_created: Wednesday, March 13th 2024, 9:33:33 pm
-date_modified: Wednesday, March 13th 2024, 9:33:45 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # MOC Midjourney
+
 + [[Midjourney 6 Prompts with many examples|Midjourney v6 prompts]]
 + [[Midjourney Learning]]
 + [[Midjourney Avatar]]

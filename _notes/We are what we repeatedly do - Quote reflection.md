@@ -3,10 +3,11 @@ tags:
   - type/permanent-note
   - digital_garden
   - epstatus/0-🌰
-date_created: Sunday, December 1st 2024, 6:13:08 am
-date_modified: Sunday, December 1st 2024, 6:13:36 am
+date_created: 2024-12-01 06:13
+date_modified: 2025-06-25 06:10
 ---
 # We are what we repeatedly do - Quote reflection
+
 More on the quote: 
 
 > We are what we repeatedly do

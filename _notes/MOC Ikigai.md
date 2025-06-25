@@ -4,16 +4,19 @@ tags:
 - type/index-note
 - MOC
 - digital_garden
-date_created: Saturday, July 8th 2023, 2:49:15 pm
-date_modified: Saturday, July 8th 2023, 2:51:16 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # MOC Ikigai
+
 ## My Ikigai
+
 + [[Working on my Ikigai]]
 + ![[my_ikigai.excalidraw]]
 + ![[my_ikigai.excalidraw.svg]]
 
 # Linking
+
 + [[Find your Ikigai]]
 + [Ikigai Test](https://finde-zukunft.de/blog/ikigai-qualitten-test-ikigai-9)
 + Book note [[Ikigai Das Geheimnis der kleinen Dinge - Klaus Motoki Tonn]]

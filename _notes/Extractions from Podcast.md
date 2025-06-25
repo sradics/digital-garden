@@ -4,10 +4,11 @@ tags:
 - type/literature-note
 - digital_garden
  
-date_created: Friday, May 26th 2023, 10:13:19 am
-date_modified: Saturday, May 27th 2023, 6:17:40 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Extractions from Podcast
+
 https://open.spotify.com/episode/03LfsFPnDQPhQQ6igkXIsB?si=wmaQUZ5qRm62-7r3X_GPKg&context=spotify%3Ashow%3A6AVgt0Cx1Rnzrg2CBbEygM&nd=1
 *Guy Podjarny*
 
@@ -93,6 +94,7 @@ https://open.spotify.com/episode/03LfsFPnDQPhQQ6igkXIsB?si=wmaQUZ5qRm62-7r3X_GPK
 * Do not hire too big, too early
 
 ## The 7 Powers framework
+
 The "7 Powers" framework is a strategic framework developed by Hamilton Helmer. 
 Book: 7 Powers - The Foundations of Business Strategy.
 
@@ -113,13 +115,14 @@ The 7 Powers framework identifies seven fundamental sources of power that can co
 7.  Switching Costs: The costs or barriers that make it difficult or costly for customers to switch to a competitor, thus creating customer loyalty and reducing churn.
 
 ## Being an entrepreneur provides a lot of special learnings
+
 * fundraising - fundraising is part of building the business
 * driving towards an MVP
 * hiring smart people and attract them
 * selling with empathy and getting the message through
 	* empathy & analytical
 
-
 # Linking
+
 + [[MOC Strategy]]
 

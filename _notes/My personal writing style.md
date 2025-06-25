@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Saturday, July 15th 2023, 7:54:27 am
-date_modified: Saturday, July 15th 2023, 7:55:14 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # My personal writing style
+
 Certainly! Here's a prompt that you can use to convert any text into the personal, narrative, and engaging style of the given sample:
 
 "Narrative Transformation: A Personal Journey
@@ -26,4 +27,5 @@ Dive into the depths of *your subject* and narrate your personal journey of disc
 Remember to maintain a conversational and personal tone throughout. Use metaphors and analogies to simplify complex concepts and engage the reader. Don't forget to include moments of humor to lighten the narrative and make it more engaging."
 
 # Linking
+
 + [[MOC Artificial Intelligence]]

@@ -1,10 +1,9 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Saturday, February 4th 2023, 5:57:05 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Deliberate Practice and the Comfort Zone
 
@@ -13,6 +12,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ![[Pasted image 20230204175751.png]]
 
 ## Informed Purposeful practice, Deliberate practice
+
 Developing skills that others have figured out, i.e. **relying on an established knowledge base** about what training techniques and methods work
 
 **Practicing with well-defined, specific goals** in mind
@@ -31,6 +31,7 @@ Building upon your preexisting skillset, i.e. **building newly acquired skills o
 > “It takes time to become an expert. Even the most gifted performers need a minimum of ten years of intense training before they win international competitions.”
 
 ## Connection with Building a Second Brain
+
 + It enables to connect with existing knowledge
 	+ via cross linking and building the knowledge web
 + Building newly acquired skills on top previously acquired skills that can be easily access from your CODE trace in the Second Brain
@@ -39,9 +40,11 @@ Building upon your preexisting skillset, i.e. **building newly acquired skills o
 	+ regularly reflect on OKRs and make it very easy to visualise and have access to the goals
 
 ## Conclusion
+
 BASB helps with informed purposeful practice. Especially connecting information, build ing on top of existing knowledge and embedding goals into everyday's learning practice are powerful elements.
 
 # Linking
+
 * [[MOC Building a 2nd brain]]
 * [[Mindset]] (connecting with growth mindset)
 * [[Atomic Habits - James Clear]] (connecting with forming habits)

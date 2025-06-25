@@ -4,17 +4,17 @@ tags:
   - epstatus/0-🌰
   - type/literature-note
   - publish_in_newsletter
-date_created: Monday, January 8th 2024, 6:26:18 pm
-date_modified: Monday, January 8th 2024, 6:26:41 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
-
 # Notes from Cracking the codes video
 
 ***
+
 *[Image Source](http://world-trust.org/system)*
 ![[a43643_d1a1806c23d84cb1b1001d28c7a23e6e.pdf]]
-***
 
+***
 
 Understanding racial inequity as a precursor to building strategies that address racial and socio-economic barriers.
 
@@ -28,6 +28,7 @@ Racialization: Racial identities are not ixed categories. They are shaped by his
 > We need to have authentic, clear conversations 
 
 ### Core message of the Model
+
 + inequity is embedded in history, culture and identity
 	+ and has internal and external components
 	+ components are influenced by power and economics
@@ -36,6 +37,7 @@ Racialization: Racial identities are not ixed categories. They are shaped by his
 	+ all layers are happening simultanuously and are turning our inequity
 
 ### History
+
 + need in include historical legacy into our considerations
 + Slavery
 + land accumulation
@@ -52,6 +54,7 @@ Racialization: Racial identities are not ixed categories. They are shaped by his
 + do the stories get told in other ways
 
 ### Identity and Culture
+
 + racially the same
 + 99.1% the same
 + psyche does anything to remove dissence
@@ -65,6 +68,7 @@ Racialization: Racial identities are not ixed categories. They are shaped by his
 + Identity is complex - we need to become more flexible in navigating that
 
 ### Bias
+
 + what is whiteness
 	+ unconscious bias heavily among white
 	+ stereotypes and views
@@ -73,6 +77,7 @@ Racialization: Racial identities are not ixed categories. They are shaped by his
 + fear of angry black man behavior - hides oppressions and being abused in school
 
 ### Privilige
+
 + assumption I can give advice because I'm white
 + behavior of always being right - and explaining others how the world works
 + internalized white superiority
@@ -90,6 +95,7 @@ Racialization: Racial identities are not ixed categories. They are shaped by his
 + bad education plays a big role. People are often not at fault and it needs education to get out of that misinformation
 
 ### Internalized Racism
+
 + skin color treating ... consideration what is beautiful 
 + internalized colorism
 + dissatisfaction of who we are as being a person of color
@@ -104,7 +110,9 @@ Racialization: Racial identities are not ixed categories. They are shaped by his
 	+ black folks downplaying successes from their children connected to previous adaptations to slavery
 	+ adaptation to live in a hostile environment
 + we can't fix it if we don't look
+
 ### Interpersonal
+
 + Oppressed and oppressing
 + call out the wrong behavior
 	+  think about what you're doing
@@ -117,6 +125,7 @@ Racialization: Racial identities are not ixed categories. They are shaped by his
 + when we make decision how we treat other people and what we make possible
 
 ### Institutional
+
 + written and unwritten rules of an institution
 + white boy - smart, boys will be boys ... vs. same behavior of a black boy ... we need to monitor that
 + what is going on that we treat people so differently
@@ -129,6 +138,7 @@ Racialization: Racial identities are not ixed categories. They are shaped by his
 + need to have a sense of racism through riles and regulations or missing them
 
 ### Structural
+
 + who is making the decisions about communities? 
 + often decision makers are not part of it
 + different access to resources
@@ -145,6 +155,7 @@ Racialization: Racial identities are not ixed categories. They are shaped by his
 ### Choosing to Heal
 
 ### Reflective questions
+
 + What is happening around us?_
 + _What stories are walking by us?_
 + _Who do I need to become to create space for those stories to be shared/show-up in ways_

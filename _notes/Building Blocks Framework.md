@@ -3,10 +3,11 @@ tags:
   - digital_garden
   - type/permanent-note
   - epstatus/1-🌱
-date_created: Sunday, May 25th 2025, 9:01:01 pm
-date_modified: Sunday, May 25th 2025, 9:12:37 pm
+date_created: 2025-05-25 21:01
+date_modified: 2025-06-25 06:05
+aliases: [Building Blocks Framework - Systematized Knowledge for Program]
+linter-yaml-title-alias: Building Blocks Framework - Systematized Knowledge for Program
 ---
-
 # Building Blocks Framework - Systematized Knowledge for Program
 
 ## The Building Block Decision Framework
@@ -28,12 +29,14 @@ date_modified: Sunday, May 25th 2025, 9:12:37 pm
 ## The Six Types of Building Blocks (Complementary, Not Hierarchical)
 
 ### 1. **Raw Captures** 
+
 *Quick, minimal processing for immediate capture*
 - **Examples:** Kindle highlights, quick notes, bookmarks
 - **When to use:** Time-pressed, initial capture, uncertain value
 - **Characteristics:** Minimal processing, context preserved, searchable
 
 ### 2. **Literature Notes** 
+
 *Distilled insights from high-value sources*
 - **Examples:** "Notes from Simple Marketing for Smart People"
 - **When to create:** High-value sources, visual elements needed, anticipated reuse
@@ -41,6 +44,7 @@ date_modified: Sunday, May 25th 2025, 9:12:37 pm
 - **Characteristics:** Tailored to personal needs, includes images/visuals, structured insights
 
 ### 3. **Maps of Content (MOCs)** 
+
 *Navigation hubs for topic clusters*
 - **Examples:** "MOC Building a 2nd Brain", "MOC Learning How to Learn"
 - **Purpose:** Fast access, high-level understanding, connection hub
@@ -51,12 +55,14 @@ date_modified: Sunday, May 25th 2025, 9:12:37 pm
   - Shareable reference (Digital Garden)
 
 ### 4. **Applied Expressions** 
+
 *Knowledge proven through real-world use*
 - **Examples:** Presentations, workshops, newsletters, LinkedIn posts
 - **Value:** Already worked with knowledge, reusable components
 - **Characteristics:** Proven in practice, audience-tested, refined through use
 
 ### 5. **AI Assistants** 
+
 *Intelligent knowledge aggregators and processors*
 - **Purpose:** Aggregate knowledge, fast insight extraction, personalized processing
 - **Training Process:**
@@ -67,6 +73,7 @@ date_modified: Sunday, May 25th 2025, 9:12:37 pm
 - **Current Limitations:** Can't yet stack assistants or use them with each other
 
 ### 6. **Personal Thoughts & Permanent Notes** 
+
 *Core identity and foundational thinking patterns*
 - **Examples:** Bio, values, permanent notes, deep reflections
 - **Characteristics:** Core identity and thinking patterns, foundational for AI training
@@ -122,6 +129,7 @@ date_modified: Sunday, May 25th 2025, 9:12:37 pm
 ## Quality Metrics for Building Blocks
 
 ### High-Value Indicators:
+
 *Signs your building blocks are working*
 - **Usage Frequency:** Referenced multiple times across different contexts
 - **Connection Density:** High number of backlinks (like MOC with 91 backlinks)
@@ -130,6 +138,7 @@ date_modified: Sunday, May 25th 2025, 9:12:37 pm
 - **External Recognition:** Others find value (sharing, feedback, requests)
 
 ### Maintenance Signals:
+
 *When building blocks need attention*
 - **Outdated Context:** Information no longer reflects current understanding
 - **Usage Patterns:** Frequently accessed blocks that could be enhanced
@@ -139,12 +148,14 @@ date_modified: Sunday, May 25th 2025, 9:12:37 pm
 ## Building Block Success Predictors
 
 ### Early Indicators of High-Value Building Blocks:
+
 1. **Relevance to Core Topics:** Directly connects to your main areas of focus/expertise
 2. **Novelty Factor:** New concepts that require active learning and integration
 3. **Learning Intensity:** Topics you need to work with repeatedly and deeply
 4. **Application Frequency:** Concepts you find yourself using across multiple contexts
 
 ### Timeline Expectations:
+
 - **Immediate Value:** Fast access and reference (weeks)
 - **Connection Formation:** Links to other knowledge emerge (months)
 - **Compound Growth:** Recognition and expertise development (6-12 months)
@@ -153,6 +164,7 @@ date_modified: Sunday, May 25th 2025, 9:12:37 pm
 ## Connection Creation Strategies
 
 ### Active Linking Practices:
+
 *How to make building blocks work together*
 1. **Structured Linking Section:** Use "# Linking" headline in notes to explicitly connect to other notes
 2. **MOC Hub Strategy:** Create Maps of Content that link topics by overarching concepts
@@ -160,6 +172,7 @@ date_modified: Sunday, May 25th 2025, 9:12:37 pm
 4. **AI-Assisted Discovery:** Use AI for connection suggestions via vector databases and semantic search
 
 ### Connection Quality Over Quantity:
+
 - Focus on meaningful relationships, not just any link
 - Look for cross-domain applications
 - Identify patterns that span multiple building blocks
@@ -180,12 +193,14 @@ date_modified: Sunday, May 25th 2025, 9:12:37 pm
 3. **AI-Ready Format:** Structured for AI processing and enhancement
 
 ### Recommended Starting Mix:
+
 1. **One MOC** for your most important current topic
 2. **Two Literature Notes** from high-impact recent learning
 3. **One Applied Expression** (presentation, post, or document you've created)
 4. **One AI Assistant** trained on your core domain
 
 ### Success Metrics for Beginners:
+
 - Can find and use each building block within 30 seconds
 - Each building block gets used at least once per week
 - At least one connection emerges between building blocks within the month
@@ -194,21 +209,25 @@ date_modified: Sunday, May 25th 2025, 9:12:37 pm
 ## Implementation Guidelines
 
 ### Week 1-2: Foundation
+
 - Identify your 3 most important current topics
 - Create basic capture workflow
 - Start with simple note structure
 
 ### Week 3-4: Building
+
 - Create first MOC for primary topic
 - Develop 1-2 literature notes from recent high-impact learning
 - Begin connecting related concepts
 
 ### Week 5: Refinement
+
 - Test reusability of building blocks
 - Create first applied expression using existing building blocks
 - Set up basic AI assistant for primary domain
 
 ### Quality Gates:
+
 *Questions to ask before investing time:*
 - **Relevance Check:** Does this connect to my core work/interests?
 - **Novelty Assessment:** Is this new enough to require active learning?

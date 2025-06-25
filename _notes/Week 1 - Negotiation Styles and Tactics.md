@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Thursday, August 17th 2023, 7:15:13 am
-date_modified: Thursday, August 17th 2023, 8:16:08 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Week 1 - Negotiation Styles and Tactics
+
 This workshop on negotiation strategies and styles aims to help participants identify negotiation styles based on two key variables: the results of the negotiation and the relationships among the parties involved. These negotiation styles or profiles are behaviors that arise during negotiation and are influenced by one's family and work culture. Recognizing one’s preferred negotiation style is essential as it significantly impacts the negotiation strategy and, consequently, the effectiveness of the agreement reached. The workshop outlines five negotiation styles:
 
 1. **Competitive Style**: This style emphasizes results without much regard for the relationships involved. 
@@ -26,6 +27,7 @@ model of conflict resolution by Thomas Kilmann, which later evolved into the neg
 ![[Pasted image 20230817072206.png|300]]
 
 ### Competitive
+
 This is the oldest style that is known and corresponds to the dichotomy of **"win-lose,"** in other words, a person that uses this negotiation style seeks to impose his power at all cost on his "adversary" and take the greatest amount of the resource available. This style can work **when the relationships are not considered relevant**, and all that is wanted is a quick result. For example, the purchase/sale transaction of a used car.
 
 + Win no matter what the cost
@@ -35,6 +37,7 @@ This is the oldest style that is known and corresponds to the dichotomy of **"wi
 + Business is business and time is of the essence
 
 ### Collaborative
+
 This is the most modern style of negotiation and it follows the behavior of **collaboration and empathy, seeking mutual trust among** the parties.
 There is a real concern for keeping productive, long-term relationships, and the focus is on solving complex problems. This style **requires special skills, and investing time**, and the results can often be amazing. This style is also known as **"win-win."**
 
@@ -51,8 +54,11 @@ There is a real concern for keeping productive, long-term relationships, and the
 + When what is wanted is to transform intangible values into spectacular results.
 
 It requires a change in the mentality of the negotiators as well as special abilities such as assertiveness, consensus building, non-verbal language interpretation, creating open questions, and knowing how to manage the differences
+
 ***
+
 ### Accommodating
+
 This style is the opposite of competing, and **seeks above all to keep the relationship among the parties**, without concern for the short term results. This style is also known as **"lose-win" or losing to win**, which in reality means making concessions to save relationships when a conflict is threatening to turn into confrontation. The counterpart is encouraged to do the same, in order to resume the negotiation and seek alternatives to achieve mutually satisfactory agreements.
 + Keep harmony and maintain the peace
 + Good relationships get good agreements
@@ -61,6 +67,7 @@ This style is the opposite of competing, and **seeks above all to keep the relat
 + Concessions encourage good relationships
 
 #### Hints for the accommodating style - Working with Concessions
+
 concessions are a tactic of correspondence, when retribution is expected
 
 + **Make your concessions stand out**, even if they are little things. Make sure to **obtain something in exchange** for every concession you make.
@@ -70,6 +77,7 @@ concessions are a tactic of correspondence, when retribution is expected
 + **Don't make frequent, quick, or substantial concessions**. Be careful if you need to take back a concession.
 
 ### Compromising
+
 This style was known as gender-specific because it was originally adopted as an attempt to accommodate the typical characteristics of women for whom relationships were usually priority. Today, however, the style is not limited to women's use, thanks to feminine and masculine leadership in business. **It is a very useful style when a negotiation cannot move forward for some reason**, usually technically, and the negotiators decide to take as much as they have achieved up to that point, with the priority of keeping the relationship no matter what. This style is also known as **splitting the difference.**
 
 + Split the difference
@@ -84,6 +92,7 @@ It is good to use this negotiation tactic when:
 + It can lead to suboptimal results and requires a compromise by both parties.
 
 ### Avoiding
+
 This style is novel and useful even when it is known as **"lose-lose."** In reality, it's an important, beneficial style **when you wish to end the process of negotiation, not caring about results or relationships**
 This can occur when, for example, **there is a technological disruption that nullifies the previous initiatives in a negotiation**, or when the BATNA improves the objectives of the negotiation. This style should only be used with caution.
 
@@ -102,6 +111,7 @@ Sometimes, the same person can have several styles of negotiation, and that nego
 ![[Pasted image 20230817074148.png|600]]
 
 ## Negotiation tactics
+
 In this section, the importance of negotiation styles is explored further, focusing on the consequences and implications of each style on the outcome of a negotiation. The concept of **"negotiation tactic" is introduced to represent “styles in action”** that **leverage the strengths of each style**. Examples are provided to illustrate the application of different styles in various contexts:
 
 1. **Workplace Scenario**: 
@@ -131,6 +141,7 @@ similar to the distributive paradigm in the sense that all that matters are the 
 when there has been too much antagonism because of a purchase/sale, the Reciprocity Principle can be used to make a small exploratory concession and wait until the other party corresponds
 
 ### Steps in a negotiation
+
 + **Traditionally, negotiations begin in the competitive phase**, perhaps because of habit or because it is the oldest negotiation tactic. 
 + We should try to **move into the accommodating** quadrant and use it to explore other alternatives. 
 + We should **seek creative negotiation based on interests as the first option (integrative paradigm)** by using a collaborative tactic. 
@@ -139,10 +150,13 @@ when there has been too much antagonism because of a purchase/sale, the Reciproc
 + When it’s not possible to progress, then the last alternative is to abandon the negotiation, using the avoidance tactic (with care).
 
 ### Negotiation quadrant
+
 ***
+
 *Negotiation quadrant - also showing the order for applying Negotiation Tactics*
 ![[Pasted image 20230817080730.png]]
 
 # Linking
+
 + ➡ [[Week 2 - The Implementation Strategy]]
 + ⬅ Module 2 - [[Week 4 - Conflict resolution]]

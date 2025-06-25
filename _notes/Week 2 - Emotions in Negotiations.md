@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Tuesday, August 15th 2023, 8:12:52 am
-date_modified: Tuesday, August 15th 2023, 8:13:11 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Week 2 - Emotions in Negotiations
+
 The second topic of the course focuses on **effective communication** in negotiations, highlighting the importance of **three key pillars: Perception, Cognition, and Emotion.** **These three components are fundamental in negotiation**, as social interactions are guided by how we perceive and analyze others, the situation, and our own interests and positions. Below is a summary of these components and the role of Emotional Intelligence (EI) in negotiation:
 
 1. **Perception:**
@@ -30,6 +31,7 @@ The second topic of the course focuses on **effective communication** in negotia
 In summary, effective communication, deeply intertwined with Perception, Cognition, and Emotion, is central to the negotiation process. Developing Emotional Intelligence as a negotiation strategy is key to understanding and managing these components, fostering empathy and trust, and ultimately achieving more successful negotiation outcomes.
 
 ## Perception
+
 **Perception** when faced with a stimulus; for example, a buyer explaining the reason for his offer, and the reaction of the seller who tries to exert tension in the opposite direction.
 
 📖 Authors Lewicki, Barry, and Saunders in their book Negotiation, (2006)
@@ -40,9 +42,11 @@ In summary, effective communication, deeply intertwined with Perception, Cogniti
 + **Selective perception** happens when we see things our way, “**the only correct way,”** and ignore any points of view that differ from ours.
 
 ## Cognitive bias
+
 **The barrier of bias** - During the negotiation process, the negotiators use information that they process to make decisions. There is a tendency to process information incorrectly when there are cognitive biases, which hinder the effectiveness of the negotiation.
 
 ## Steps to minimize effects of perception and bias
+
 **Listening is more important than speaking**
 
 - **Listen carefully** to the other party’s arguments and analyze the logic of their reason.
@@ -82,7 +86,6 @@ The course continues with the subject of managing emotions in negotiations using
 
 In summary, the course emphasizes the importance of Emotional Intelligence in negotiations, guiding participants to understand and manage their own emotions and those of their counterparts. It highlights the necessity of developing these skills, given the complexity of emotions and their significant impact on the negotiation process.
 
-
 [[d07GCmc6SPGOxgpnOtjxHw_33fe64d7b3024e38ab8c65bf1df9bd20_The-strategic-use-of-emotions-in-negotiation.pdf|The strategic use of emotions]]
 
 + Negative influence
@@ -107,6 +110,7 @@ An emotionally intelligent negotiator is capable of perceiving the emotional sta
 📖 Negotiating with Emotion by Kimberlyn Leary, Julianna Pillemer, and Michael, Wheeler
 
 ### 6 Phases to prepare for a negotiation
+
 - What feelings do I want to display in the negotiation?
 - Why?
 - What can I do ahead of time to asume the emotionally ideal state?
@@ -114,19 +118,19 @@ An emotionally intelligent negotiator is capable of perceiving the emotional sta
 - What can I do in the middle of the negotiation to regain control?
 - How do I want to feel after the negotiation process has concluded?
 
-
 ## How to avoid misunderstandings in communication
+
 ![[Pasted image 20230815090839.png|500]]
 
 ### Bigger exercise instructions
+
 ![[Pasted image 20230815091005.png]]
 
 ![[Pasted image 20230815091046.png]]
 
-
 ![[Pasted image 20230815091059.png]]
 
-
 # Linking
+
 + ➡ [[Week 3 - Underlying interests in a negotiation]]
 + ⬅ [[Week 1 - Negotiation Analysis]]

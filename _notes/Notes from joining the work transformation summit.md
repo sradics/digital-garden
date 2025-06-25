@@ -1,10 +1,9 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Wednesday, January 25th 2023, 10:02:21 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes from joining the work transformation summit
 

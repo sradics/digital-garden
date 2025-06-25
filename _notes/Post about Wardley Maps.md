@@ -4,8 +4,8 @@ tags:
   - type/permanent-note
   - digital_garden
   - epstatus/0-🌰
-date_created: Saturday, January 20th 2024, 1:39:57 pm
-date_modified: Saturday, January 20th 2024, 1:40:08 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Post about Wardley Maps
 

@@ -3,16 +3,16 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Morning-Evening-Questionaire
+
 https://qxmd.com/calculate/calculator_829/morningness-eveningness-questionnaire-meq
 
 Results for Morningness-Eveningness Questionnaire (MEQ) by QxMD
 
-
 Result: Moderate morning
-
 
 Answers calculated to formulate result:
 
@@ -36,11 +36,8 @@ Answers calculated to formulate result:
 18. At what time of the day do you think that you reach your “feeling best” peak? — 5:00 – 8:00 AM
 19. One hears about “morning” and “evening” types of people. Which ONE of these types do you consider yourself to be? — Definitely a “morning” type
 
-
 June 1, 2024 at 5:41
 Calculated at: https://qxmd.com/calculator_829/morningness-eveningness-questionnaire-meq
 Get Calculate by QxMD for iOS, Android and web at http://qx.md/calculate
 
 # Linking
-
-

@@ -3,10 +3,11 @@ tags:
   - epstatus/0-🌰
   - type/literature-note
   - digital_garden
-date_created: Monday, December 4th 2023, 10:43:55 am
-date_modified: Monday, December 4th 2023, 12:30:4411 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:09
 ---
 # 10 components of a Thinking Environment
+
 [Source - Nancy Klein](https://www.timetothink.com/thinking-environment/the-ten-components/](https://www.timetothink.com/thinking-environment/the-ten-components/) shared by Abby for a workshop
 
 ## ATTENTION
@@ -71,5 +72,6 @@ When the physical environment affirms our importance, we think more clearly and 
 When our bodies are cared for and respected, our thinking improves.
 
 # Linking
+
 + [[MOC - Learning How to Learn]]
 

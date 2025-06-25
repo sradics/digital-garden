@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-date_created: Wednesday, April 2nd 2025, 10:17:22 am
-date_modified: Wednesday, April 2nd 2025, 10:22:11 am
+date_created: 2025-04-02 10:17
+date_modified: 2025-06-25 06:10
 ---
 # Notes from THE AI Decade
 
@@ -33,6 +33,7 @@ A knowledge base for AI adoption....
 [Decaid.ai](https://www.decaid.ai/intelligence)
 
 ## Generation ChatGPT
+
 ![[Pasted image 20250402104244.png|400]]
 
 - soon 1 Billion ChatGPT users
@@ -40,7 +41,6 @@ A knowledge base for AI adoption....
 Creative writing benchmark - message: creativity is heavily increasing
 
 ![[Pasted image 20250402104353.png|400]]
-
 
 Claud/ChatGPT turning point
 
@@ -51,6 +51,7 @@ Non-KI topics
 - ethical understanding
 
 ## Insights from Decaid Academy
+
 When do transformation succeed/when do they fail?
 
 - Companies start seeing AI-First as an important step
@@ -62,6 +63,7 @@ When do transformation succeed/when do they fail?
 Produktivity increases 40+% in 6 months
 
 ### 3 phases of usage
+
 ![[Pasted image 20250402111315.png]]
 
 #### Fundament
@@ -82,6 +84,7 @@ Produktivity increases 40+% in 6 months
 Strategy defined, first use cases, positive first impressions
 
 #### Exploration
+
 - starting point: missing common usage approach
 
 Goal: 
@@ -117,6 +120,7 @@ Action:
 This phase is important for long term success
 
 #### Scaling
+
 Goal:
 - integrate AI in relevant processes
 - systematic employee trainings about AI-skills
@@ -143,12 +147,14 @@ Outcome: AI-first mentality, tool standardization, governance structures impleme
 Important message - the GAP is increasing super fast
 
 ### Main hurdles
+
 - expectation management ... it needs time to implement
 - "no time"
 - stuck in experimental phase with unstructured usage (often when a task-force is missing)
 - missing top/middle management commitment -- needs anchoring in top goals
 
 ### Hints
+
 + develop an AI strategy
 + maintain the governance structure
 + team eduction
@@ -159,6 +165,7 @@ Important message - the GAP is increasing super fast
 + use-cases are crucial
 
 ### Roles
+
 - AI manager
 - AI designer
 - AI marketing manager
@@ -169,13 +176,13 @@ Important message - the GAP is increasing super fast
 - AI generalist
 
 ## AI and Content - AI supported content workflows
+
 - more efficient content creation
 - connection between - human - systems
 
 Problem - scattered tool landscape
 
 ![[Pasted image 20250402120554.png|400]]
-
 
 Challenges:
 - Inconsistent brand language
@@ -194,7 +201,6 @@ Challenges:
 Problem with use-case specific tools
 - tough to integrate with other tools
 
-
 Option - work with adjustable AI blocks
 - workflows
 - agents
@@ -210,26 +216,28 @@ workflows:
 - defined starting point and output
 - important for process automation
 
-
-
 Agent:
 ![[Pasted image 20250402121703.png]]
 - own planing & validation
 - can often learn from an execution (to further optimize their approach)
 
 ### Usage examples for workflows, agents and assistants
+
 #### KI Workflows
+
 - Data Extraction
 - Transcription
 - Data Analytics
 - Content Ideation
 
 #### KI Agents
+
 - Deep Research
 - Software Development
 - Helpdesk
 
 #### KI Assistants
+
 - Content Strategy
 - Content Plan
 - Copywriting
@@ -238,10 +246,10 @@ Agent:
 Zapier/Make
 
 ### Tool example with Make.com
+
 ![[Pasted image 20250402122739.png]]
 
 (like Zapier, n8n.io)
-
 
 [Agentur-Kit](https://bit.ly/agentur-kit)
 
@@ -251,32 +259,31 @@ Cool use case for a No-Code content tool ...
 
 ![[Pasted image 20250402131202.png]]
 
-
 ## Compliance-Shortcut Analysis
 
 ### 1. Bestandsaufnahme (Stock-taking)
+
 **What:**  
 - Regardless of whether you currently use AI or not, you need **internal transparency**.
 
 **Why:**  
 - **Duty of care:** You must know whether and where AI is being utilized.
 
-
 ### 2. Interne Richtlinie (Internal Guidelines)
+
 **What:**  
 - If you use AI, you must monitor the risk levels of your AI systems—thus, you need an **internal AI policy/regulation**.
 
 **Why:**  
 - **Helps manage AI usage within the company** and enables timely recognition of regulatory requirements (e.g., EU AI Act, copyright).
 
-
 ### 3. Kommunikation (Communication)
+
 **What:**  
 - Targeted measures for **transparency**, external communication, and internal team awareness.
 
 **Why:**  
 - **Transparency requirement:** AI usage must be identifiable, and raising employee awareness is essential.
-
 
 ![[Pasted image 20250402131733.png]]
 
@@ -286,7 +293,5 @@ Cool use case for a No-Code content tool ...
 	- complex legal 
 	- unclear resonsbilities/accountabilities
 	- missing know how
-- 
 
 # Linking
-

@@ -1,23 +1,24 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Monday, January 30th 2023, 2:57:31 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Agile Coach Career model from Spotify
 
 [Source]( https://engineering.atspotify.com/2023/01/agile-coaching-ac-at-spotify-shining-a-light-on-the-ac-career-framework/ -Agile Coach career model)
 
 # 4 Levels and three pillars
+
 ![[Pasted image 20230130145907.png]]
 
-
 ## Pillar Behavior
+
 ![[Pasted image 20230130145954.png]]
 
 ### Self assessment
+
 #### Think independently
 
 #### Promote collaboration
@@ -34,23 +35,26 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 
 #### Build relationsships
 
-
 ## Pillar Craft
-![[Pasted image 20230130150017.png]]
 
+![[Pasted image 20230130150017.png]]
 
 ![[Pasted image 20230130150031.png]]
 
 ### Self Accessment
+
 #### Coaching
+
 With having a formal systemic business coach education I understand and practice coaching. So I can support on level 4-5 and regularly use coaching skills when e.g. working with Engineering Managers, Leads and Agile Champions
 
 #### Facilitation
+
 I'm on level 5 when it comes to facilitation. I facilitated hundreds of workshops and I'm experienced on Remote and physical session facilitation. For sizes up to to 20 people.
 
 I'm not that experienced in large group formats beyond 20 people. I facilitated some Meetups, all hands and level ups.
 
 ### Teaching
+
 I gave several learning workshops and grew my experience in teaching. I access myself to be in level 2-3. 
 
 Examples
@@ -62,6 +66,7 @@ Examples
 + Kanban - one day workshop
 
 ### Agile Lean specialist
+
 I'm on level 3-4 here
 + high skill level when it comes to working with Actionable Agile Metrics
 + advanced knowledge of Kanban and building a flow based system
@@ -69,13 +74,16 @@ I'm on level 3-4 here
 + good understanding of [[Lean - an overview]]
 
 ## Pillar Impact
+
 ![[Pasted image 20230130150056.png]]
 
 ![[Pasted image 20230130150120.png]]
 
 ### Self assessment
+
 I'm on level Staff Agile Coach and support on all levels in the company. 
 
 # Linking
+
 + [[213 My Agile Coach offers]]
 + [[Transformation of the Agile Coach role]]

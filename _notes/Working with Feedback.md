@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:10:16 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Working with Feedback
+
 ## Topic
 
 Working with Feedback
@@ -24,7 +25,6 @@ What is feed forward about?
 -   Prepare for a feedback you want to provide
     
 -   Upskill on providing/receiving feedback individually or in your team
-    
 
 ### My offer
 
@@ -35,7 +35,6 @@ Sparring partner for feedback situations.
 -   education in systemic aggression management and applying this framework in my day-2-day
     
 -   I ran a feedback workshop (how to provide feedback) with BI team
-    
 
 ## My level of expertise
 

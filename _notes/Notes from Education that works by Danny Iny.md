@@ -3,8 +3,11 @@ tags:
   - epstatus/0-🌰
   - type/literature-note
   - digital_garden
+date_created: 2024-09-06 11:33
+date_modified: 2025-06-25 06:06
 ---
 # Notes from Education that works by Danny Iny
+
 [Source](https://www.youtube.com/watch?v=Wg343GaD-hU)
 The emporor is naked ... analogy for the current failing learning system.
 
@@ -68,9 +71,4 @@ be more griddy
 
 self directed education
 
-
-
-
 # Linking
-
-

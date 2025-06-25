@@ -4,10 +4,11 @@ tags:
 - epstatus/1-🌱
 - type/permanent-note
 - publish_in_newsletter
-date_created: Wednesday, July 26th 2023, 8:31:18 pm
-date_modified: Wednesday, July 26th 2023, 8:31:28 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes on efficient eMail processing
+
 [https://youtu.be/uXdEVeoGRRc](https://youtu.be/uXdEVeoGRRc "Share link")
 
 + Organize that information can flow from your eMail downstream to
@@ -19,6 +20,7 @@ date_modified: Wednesday, July 26th 2023, 8:31:28 pm
 	+ subscribe to really important ones via Read-Later-App - I do this with Matter
 
 ## Make triage decisions in seconds
+
 * Archive
 + Reply
 + Add to calendar
@@ -27,6 +29,6 @@ date_modified: Wednesday, July 26th 2023, 8:31:28 pm
 + add to read-it-later app  ... just like my waiting room
 
 # Linking
-+ [[MOC Building a 2nd brain]]
 
++ [[MOC Building a 2nd brain]]
 

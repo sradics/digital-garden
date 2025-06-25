@@ -1,13 +1,15 @@
 ---
-aliases: 
+aliases: [_What is a literature note]
 tags: 
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Tuesday, June 7th 2022, 9:56:59 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
+linter-yaml-title-alias: _What is a literature note
 ---
 # _What is a literature note
+
 [Source](https://fortelabs.co/blog/how-to-take-smart-notes/)
 The second type of note is known as a “literature note.” As he read, Luhmann would write down on index cards the main points he didn’t want to forget or that he thought he could use in his own writing, with the bibliographic details on the back. 
 

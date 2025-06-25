@@ -4,10 +4,13 @@ tags:
 - type/literature-note
 - digital_garden
 - epstatus/1-🌱
-date_created: Tuesday, February 21st 2023, 6:57:13 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
+aliases: [Linking]
+linter-yaml-title-alias: Linking
 ---
 ## Metadata
+
 * URL: [https://boffosocko.com/2022/06/10/reframing-and-simplifying-the-idea-of-how-to-keep-a-zettelkasten/](https://boffosocko.com/2022/06/10/reframing-and-simplifying-the-idea-of-how-to-keep-a-zettelkasten/)
 * Author: Chris Aldrich
 * Publisher: boffosocko.com
@@ -15,6 +18,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * Tags: 
 
 ## Highlights
+
 * simplifying the idea of how to keep a Zettelkasten
 * https://publicdomainreview.org/collection/john-lockes-method-for-common-place-books-1685
 * Instead ==read about what a commonplace book is== and how that (simpler) form of note taking works.
@@ -37,6 +41,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * Do it until you have between 500 and 1000 cards (based on some surveys and anecdotal evidence), and you should begin seeing some serendipitous and intriguing results as you use your system for your writing.
 
 # Linking
+
 + originated from literature note [[The Two Definitions of Zettelkasten 1]]
 + [[Zettelkasten method]]
 + [[How to take Smart Notes - Key Insights]]

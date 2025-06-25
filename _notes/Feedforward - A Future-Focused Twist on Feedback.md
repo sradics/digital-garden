@@ -4,9 +4,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
-date_created: Thursday, November 30th 2023, 6:26:33 pm
-date_modified: Thursday, November 30th 2023, 6:49:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
+# Feedforward - A Future-Focused Twist on Feedback
+
  Feedforward - A Future-Focused Twist on Feedback
 ![[Pasted image 20231130182925.png|400]]
 We often look back to improve, basing our changes on past actions. But what if we flipped the script, focusing on the future instead of the past? Welcome to the concept of Feedforward.  

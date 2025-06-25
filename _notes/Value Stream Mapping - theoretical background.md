@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Friday, July 1st 2022, 5:27:22 am
-date_modified: Thursday, May 18th 2023, 6:15:55 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Value Stream Mapping - theoretical background
+
 This page provides a theoretical foundation for value stream mapping. The content is an extract from the book _Value Stream Mapping_ ([https://www.amazon.com/Value-Stream-Mapping-Organizational-Transformation/dp/0071828915](https://www.amazon.com/Value-Stream-Mapping-Organizational-Transformation/dp/0071828915 "https://www.amazon.com/Value-Stream-Mapping-Organizational-Transformation/dp/0071828915")) that is one of the view books that combine value stream maps with knowledge work.
 
 ## Not yet structured notes from the book
@@ -98,7 +99,6 @@ This page provides a theoretical foundation for value stream mapping. The conten
 -   A value stream map:
     
     -   includes information flow, work flow and a summary timeline
-        
 
 ![[Pasted image 20220701052848.png]]
 ![[Pasted image 20220701052905.png]]
@@ -206,12 +206,10 @@ This page provides a theoretical foundation for value stream mapping. The conten
     -   map systems and applications that each value stream interfaces with … to store/transmit data, produce work output, generate reports
         
     -   to demonstrate technology related disconnects, voids and redundancies
-        
 
 -   some examples of value stream maps
     
     -   see starting from page 34 in
-        
 
 ## Sources
 

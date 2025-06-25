@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
-date_created: Sunday, July 10th 2022, 3:44:47 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Automated Recruiting
 
@@ -21,9 +21,11 @@ We’ve pretty quickly been able to identify opportunities and test our assumpti
 **Sharing interviews has had a ripple effect**. Not only is Dan’s team helping others understand what they’re learning from customers, but they’re also getting other stakeholders bought into the process of continuous interviewing
 
 ## Some general hints for interview scheduling
+
 + Book twice as many interviews as you need.
 + Dan says about 50% of interviews are no shows
 + If you can, include a dial-in phone number into your meeting link as an alternate method.
 
 # Linking
+
 + [[MOC Continuous Discovery Habits]]

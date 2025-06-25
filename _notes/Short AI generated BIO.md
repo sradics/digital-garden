@@ -3,8 +3,10 @@ tags:
   - digital_garden
   - epstatus/1-🌱
   - type/permanent-note
-date_created: Tuesday, April 22nd 2025, 1:36:14 pm
-date_modified: Tuesday, April 22nd 2025, 1:36:29 pm
+date_created: 2025-04-22 13:36
+date_modified: 2025-06-25 06:10
+aliases: [Sebastian Kamilli - Professional Bio]
+linter-yaml-title-alias: Sebastian Kamilli - Professional Bio
 ---
 # Sebastian Kamilli - Professional Bio
 
@@ -14,6 +16,6 @@ Sebastian's expertise stems from years refining the Second Brain methodology and
 
 Previously a Leadership Learning Course Builder at Blinkist and Senior Agile Coach at companies including solarisBank and idealo, Sebastian now focuses on helping knowledge workers build systems where learning compounds daily. Through his 9-week transformation program and workshops, he enables professionals to experience accelerated growth, make learning effortless, and create exponential value through connected insights.
 
-
 # Linking
+
 - Bio generated with [[S03 QuintSmart/300-399 Projects/339 Running Through AI discovery/Notes from week 2#Prompt for generating a short BIO]]

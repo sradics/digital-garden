@@ -4,17 +4,20 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Wednesday, September 7th 2022, 6:01:52 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # The Future of Education is Community- The Rise of Cohort-Based Courses
+
 ## Metadata
+
 * URL: [https://fortelabs.co/blog/the-rise-of-cohort-based-courses/](https://fortelabs.co/blog/the-rise-of-cohort-based-courses/)
 * Author: [[Tiago Forte]]
 * Publisher: [[Forte Labs]]
 * Published Date: 2021-03-08
 
 ## Highlights
+
 * between 2013 and 2018, completion rates for MOOCs steadily declined, to an average of 3% in 2018.
 * The Toolkits – led by companies like Thinkific, Kajabi, and Teachable –
 * The toolkits allowed course creators to “rent the infrastructure” needed to accept payments, manage student enrollments, host videos and other materials, and communicate with students.

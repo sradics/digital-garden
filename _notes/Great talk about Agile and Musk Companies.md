@@ -3,10 +3,11 @@ tags:
 - epstatus/1-🌱
 - type/literature-note
 - digital_garden
-date_created: Monday, June 5th 2023, 7:36:27 pm
-date_modified: Monday, June 5th 2023, 8:52:07 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Great talk about Agile and Musk Companies
+
 Great talk on Agile … How would Elon Musk run your business: [Source](https://www.youtube.com/watch?v=w9koMbfO6_s)  - full credits to [AgeOfProduct](https://age-of-product.com/) and [Joe Justice](https://www.youtube.com/c/JoeJustice0/videos)
 
 + drive to align the board
@@ -21,10 +22,12 @@ Great talk on Agile … How would Elon Musk run your business: [Source](https://
 * teams - self empowered and self organizing measured their own performance by the money they spent to improve the KPI
 
 ## Main learnings
+
 + Digital Self Management and a super high level of automation ... super fast feedback loops
 + people that work with high purpose in construction, being innovative ... and an incredible work ethics
 
 ## Productivity rules
+
 + Avoid large meetings. They waste valuable time and energy.
 + Leave a meeting if you're not contributing
 + Forget the chain of command. Communicate with colleagues directly
@@ -33,6 +36,7 @@ Great talk on Agile … How would Elon Musk run your business: [Source](https://
 + Use common sense
 
 ## Engineering rules
+
 + make your requirements less dumb
 + try very hard to delete a part or process
 + simplify or optimize
@@ -40,6 +44,7 @@ Great talk on Agile … How would Elon Musk run your business: [Source](https://
 + automate
 
 # Linking
+
 + [[MOC Agile 2]]
 + 11 extreme manufactoring practices
 

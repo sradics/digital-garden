@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Monday, May 1st 2023, 5:49:50 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # My running list of 12 favorite problems
 
@@ -32,11 +32,9 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 
 12. How can I **design a sustainable lifestyle that naturally promotes longevity through the integration of optimal nutrition, movement, stress management, and meaningful relationships**?
 
-
-
 ![[Feynmans 12 favorite problems#Nice open ended questions to define or find my 12 questions]]
 
-
 # Linking
+
 + Source: [[Feynmans 12 favorite problems]]
 

@@ -3,15 +3,19 @@ tags:
 - epstatus/2-🪴
 - type/literature-note
 - digital_garden
-date_created: Tuesday, March 28th 2023, 6:17:44 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
+aliases: [Notes from Das erschoepfte Gehirn - The exhausted brain]
+linter-yaml-title-alias: Notes from Das erschoepfte Gehirn - The exhausted brain
 ---
 # Notes from Das erschoepfte Gehirn - The exhausted brain
+
 [Source](https://www.blinkist.com/en/nc/reader/das-erschopfte-gehirn-de) Author: Michael Nehls
 
 Ego Depletion - the exhausted brain. Caused by overloading our brain, not having enough time to recharge and several factors that do not support brain cell growth and renewal.
 
 ## How to support Neurogenese and brain relaxation
+
 > [!note] Definition [Neurogenese](https://de.wikipedia.org/wiki/Neurogenese)
 > Renewal of brain cells (especially in Hippocampus) 
 
@@ -31,6 +35,7 @@ Ego Depletion - the exhausted brain. Caused by overloading our brain, not having
 Neurogenese also works with higher age. 
 
 ## System 1 and System 2
+
 The Hippocampus has limited daily capacity. When full our brain switches to working more with System 1. Consequences are:
 + tendency to prejudice
 + not being able to find rational solutions for complex problems as deep thinking is blocked
@@ -39,19 +44,18 @@ The Hippocampus has limited daily capacity. When full our brain switches to work
 Interesting side note: to solve complex problems, system 2 also uses sensations, emotions and memories.
 
 ## Connection with Building a Second Brain
-[[MOC Building a 2nd brain| Building a Second Brain]] supports by freeing up storage and leaving capacity in Hippocampus for doing creative work and solving complex problems. Therewith building a Second Brain avoids exhausting our brain with activities we don't really need our brains for.
+
+[[MOC Building a 2nd brain|Building a Second Brain]] supports by freeing up storage and leaving capacity in Hippocampus for doing creative work and solving complex problems. Therewith building a Second Brain avoids exhausting our brain with activities we don't really need our brains for.
 
 Claim: Our brains are for having ideas, not for storing them
 
-
 [[Thinking, Fast and Slow]]
 
- 
 # Linking
+
 + [[MOC Building a 2nd brain]] (BASB supports with wise usage of our limited Hippocampus memory)
 + [[MOC Vegan Living]] (connects with healthy living and nutrition aspects)
 + [[Notes from The 5AM Club]] (supports brain work in the morning)
 + [[Thinking, Fast and Slow]] (explains System 1 & 2 in more detail)
 + [[2nd pass for Das erschöpfte Gehirn]] (source)
-
 

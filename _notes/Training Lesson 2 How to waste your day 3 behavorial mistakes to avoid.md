@@ -3,16 +3,21 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/0-🌰
-date_created: Tuesday, May 9th 2023, 10:48:31 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
+aliases: [$10K Training Lesson 2 How to waste your day- 3 behavorial mistakes to avoid]
+linter-yaml-title-alias: $10K Training Lesson 2 How to waste your day- 3 behavorial mistakes to avoid
 ---
 # $10K Training Lesson 2 How to waste your day- 3 behavorial mistakes to avoid
+
 ## Metadata
+
 * URL: [https://radreads.co/time-traps/](https://radreads.co/time-traps/)
 * Published Date: 2021-10-23
 * Author: [[Blog / Khe Hy]]
 
 ## Highlights
+
 * three common behavioral biases. These include: * The Mere Urgency Effect * The Planning Fallacy * The Present Bias
 * Mere Urgency Effect. It dictates that humans choose objectively worse options (email) over objectively better options (client presentations) when “the unimportant tasks are characterized by spurious urgency (e.g. an illusion of expiration).
 * In other words: if it looks urgent, we want to get it "off the table" and don't question whether it's actually worth doing.

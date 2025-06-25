@@ -4,8 +4,8 @@ tags:
 - epstatus/0-🌰
 - MOC
 - type/index-note
-date_created: Tuesday, May 9th 2023, 12:16:01 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # MOC Cohort Base Courses
 

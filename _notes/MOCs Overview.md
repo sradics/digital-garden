@@ -3,17 +3,18 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
-date_created: Tuesday, May 10th 2022, 7:14:15 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
-
 # MOCs Overview
+
 This is a brief overview of MOCs. 
 
 - MOC (EM-OH-CEE) stands for "Maps of Content" because these notes map the contents of some of your notes. (Hey, if you call 'em "Mocks" that's fine too.)
 - In a nutshell, MOCs help you gather, develop, and navigate ideas.
 
 ## When to use MOCs
+
 The ability to know when and how to make an MOC is a key skill in overcoming overwhelm and project slowdown.
 
 Whenever you start to feel that tickle of overwhelm ([[Mental Squeeze Point]]), that's when you need to *become a cartographer of your own content* and create a new MOC. 
@@ -27,6 +28,7 @@ What is a mental squeeze point?
 (That's from a bottom-up starting point. You will also want to use MOCs to make sense out of existing knowledge from a top-down starting point.)
 
 ## Why use MOCs
+
 1. MOCs help you **manage anxiety** in a positive way by allowing you a dedicated space to place related notes together.
 2. In that space, MOCs create a concentrated environment that **encourages rapid ideation** through the interaction, exchange, and development of thoughts, notions, and ideas.
 3. After you've developed an MOC you're happy with, it **becomes a reference** for whatever project you need to complete: an essay, a product, a summation of thought on a topic. Thanks to developing your MOC, you might find that your new project is already 80% complete.

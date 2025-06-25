@@ -3,11 +3,11 @@ tags:
   - type/literature-note
   - epstatus/0-🌰
   - digital_garden
-date_created: Thursday, May 30th 2024, 6:05:54 pm
-date_modified: Thursday, May 30th 2024, 6:07:10 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
-
 # Notes from Webinar with Mo Gawdate and Scoot Galloway
+
 + might create a lot of lonelyness
 + take the hard work of working with other people
 + emotions exploited by tech giants
@@ -26,4 +26,3 @@ date_modified: Thursday, May 30th 2024, 6:07:10 pm
 + we are missing ETHICS
 
 # Linking
-

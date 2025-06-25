@@ -4,14 +4,16 @@ tags:
 - type/literature-note
 - epstatus/1-🌱
 - publish_in_newsletter
-date_created: Saturday, July 15th 2023, 1:58:48 pm
-date_modified: Sunday, July 16th 2023, 12:00:27 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from Day 2 of the Mindvalley AI Summit 2023
+
 > [!important] THANK YOU
 > Thank you [Mindvalley](https://www.mindvalley.com/ctl?utm_source=mvcom&utm_campaign=vwo) for making this great summit possible 💚
 
 ## AI Summary for day 2
+
 - The summit showcased AI's application in image generation, content creation, and music production.
 - AI tools like Midjourney and ChatGPT were demonstrated for image creation and copywriting.
 - The concept of "Image Hooks" for creating attention-grabbing images was introduced.
@@ -22,6 +24,7 @@ date_modified: Sunday, July 16th 2023, 12:00:27 pm
 - Predictions were made about AI's increasing integration into everyday life and its role in driving innovation.
 
 ## Set the stage - Image generation with Midjourney and ChatGPT
+
 + Create images that match company brand
 + shows ChatGPT to Midjourney connection to generate images
 
@@ -31,15 +34,18 @@ Trying an own Midjourney prompt - beginner style:
 > a woman and man in a formal outfits dancing in a gorgeous bar. Great gatbsy style. Big windows overlooking a gorgeous european town square.
 
 Ask ChatGPT to generate a MidJourney prompt. See this level of details it creates.
+
 > [!quote] Prompt for Midjourney
 > A photorealistic image of a sophisticated dinner party occurring in a high-end, slack bar. The bar's design could be contemporary, with clean lines, reflective surfaces, and amblent lighting, providing a sense of exclusivity and luxury. The crowd is elegant and engaged in lively conversations, adding to the vibrant atmosphere. A soft focus could be used on the bar's unique architectural features and the colorful cocktails being served. Tags: DinnerParty Luxury HighEnd ContemporaryDesign Cocktails VibrantAtmosphere Camera Type and Settings: Canon EOS R5, Canon RF 24-105mm F4 L IS USM, ISO 400, Shutter Speed 1/80, F/4 Techniques: High Resolution, Detailed, Shallow Depth of Field, Color Grading, Volumetric Lighting, Soft Shadows Composition: The camera angle is slightly elevated, capturing the bustling scene from a bird's eye view while focusing on the architectural details of the bar and the stylish crowd. The composition includes a central focus on a group of individuals clinking their cocktail glasses in celebration. Image Hook: "The Height of Sophistication" Framing: Wide angle framing to capture the entirety of the bar and its patrons. The camera angle is a high- angle shot, looking down on the scene, providing a complete view of the event.
 
 ***
+
 *I just created a version with my Midjourney using that prompt*
 
 ![[Pasted image 20230716094033.png|500]]
 
 + trained ChatGPT to act as a creative director
+
 > [!quote] Prompt to be an Art Director
 > I want you to act as a stable diffusion photography prompt generator that accepts a visual description and outputs a detailed paragraph that I can copy into my diffusion model. Include a variety of photography related terminology including the description of the exact Zeiss lens you use and most importantly a detailed description of the volumetric lighting. Pretend you are a world class art director with powerful knowledge of camera work, lighting and visual photography and design. You will direct and create each image to be original, powerful and gripping. I will shortly send you some examples of the types of prompt outputs I want you to produce. Please confirm If you understand.
 
@@ -86,6 +92,7 @@ High Resolution Detalled
 > experience is more important than objects
 
 ### Customize to unique needs - Working with Image Hooks
+
 > [!quote] Prompt
 > ok these are not bad. But the images are to common. I want you to think of how these images can be almost poster like and unusual. The images can contain elements of pop-art or optical illusions. They should be vivid and colorful to grab attention. The scenes in them can be unusual or funny. What are elements that make a photo or piece of art capture attention? 
 
@@ -115,12 +122,14 @@ Juxtaposition: Combine contrasting elements, such as old and new, big and small,
 Text and typography: Integrate text or typography as a design element, incorporating motivational quotes, slogans, or phrases that resonate with the viewer. 
 
 + Train ChatGPT with labels
+
 > [!quote] Prompt
 > Great. Now let's call this list the "Image Hook List". I will remind you to bring in Image Hooks if you forget. Whenever I say "add Image Hooks" you are to write the prompt taking into account the list above. Do. you understand?
 
 *Yes, I understand. When you mention "add Image Hooks," I will create prompts taking into account the Image Hook List provided above, focusing on attention-grabbing and unusual elements. If you have any other specific requirements or preferences, feel free to mention them, and I will incorporate them into the prompts accordingly. *
 
 + Customize to brand
+
 > [!quote] Prompt
 > Now I want you to add our company brand elements to every photo. Our company ls in the business of XXXXXXX. Here are elements of our brand to add to every photo.
 > 1. Symbol of umbrellas
@@ -132,9 +141,11 @@ Text and typography: Integrate text or typography as a design element, incorpora
 + Lets call this list brand playbook
 
 ### Blend images
+
 Blend images you want to combine. Use blend command in Midjourney.
 
 ### Some catches from questions and from the chat
+
 + [Sustainable AI: Environmental Implications, Challenges and Opportunities](https://proceedings.mlsys.org/paper_files/paper/2022/hash/462211f67c7d858f663355eff93b745e-Abstract.html)
 + Sound issues - Adobe can remove sound distractions (free tool available)
 	+ Adobe Podcast
@@ -148,10 +159,12 @@ Data Analytics from Youtube
 **On can get all of the slides later by asking for it.**
 
 # Andri Peetso session - Coding with ChatGPT
+
 + Andri built the [ChatGPT chunker](https://conturata.com/ai/chunker).
 + [https://conturata.com/](https://conturata.com/)
 
 ## Benefits of Learning to Code
+
 - Automation of repetitive tasks
 - Improved productivity-
 - Better understanding of technology
@@ -162,14 +175,17 @@ Data Analytics from Youtube
 - Expanded career opportunities
 
 ## How to code using Chat GPT
+
 Recommendation [Antrohopic](https://www.anthropic.com/) - build with Claude - better than ChatGPT and is completely free.
 
 In his Demo Andri uses ChatGPT. It needs ChatGPT Plus.
 
 ### Demo on building a WebSite
+
 Use [dribbble](https://dribbble.com/shots) for inspiration. To derive, what you need to provide as prompt instructions for ChatGPT.
 
 Prompt: 
+
 > [!quote] Prompt
 > Hello Mr. ChatGPT. Create a one page landing page for my new AI consulting agency website.
 > 
@@ -181,6 +197,7 @@ Prompt:
 ... Give it more detailed instructions
 
 *** 
+
 *Just to show some more detailed information*
 ![[Pasted image 20230716082254.png]]
 
@@ -190,18 +207,17 @@ You need a code editor (any text editor). Recommended [Visual Studio code](https
 
 > [!quote] Prompt
 > Give me a terminal command to download this youtube video *URL* in an MP4 format.
-> 
 
 + MAC: needs homebrew as package manager. With that you install necessary programs
 + copy to terminal and run
 
 *** 
+
 *Iceberg model for many programming language and their difficulty levels*
 ![[Pasted image 20230716083126.png|300]]
 
 > [!quote] Prompt
 > What is a great programming language for a fast modern performing website that my potential clients can visit, look at my things, book calls with me and send me emails and the website ranks well in google?
-> 
 
 [NextJS](https://nextjs.org/) - static site generator
 
@@ -219,24 +235,25 @@ After the initial draft, you can iterate on it with ChatGPT.
 > [!quote] Prompt
 > Great lets edit the code;
 > Make the Website fit inside a boundary of a book page...
-> 
 
 [Vercel](https://vercel.com/) to host the WebSite.
 [https://iwantmyname.com/](https://iwantmyname.com/)
 
 ### Example 2 - Code the Pong Game using Anthropic
+
 > [!quote] Anthrophic Prompt
 > Create in python a clone of the game pong for me.
 > 2 players.
 > Player A use w and s to move paddle.
 > Player B use up and down.
 > For mac.
-> 
 
 ### Run your own AI models
+
 Run you own AI models. E.g. use [GPT4all](https://gpt4all.io/index.html) for that. With that you can run you own AI instance locally on your machine. This way you can e.g. analyze data locally.
 
 # How to create world class art music with AI - Manon Dave
+
 ![[Pasted image 20230716100605.png]]
 
 His material is available via the [QR code - https://linktr.ee/manondave](https://linktr.ee/manondave).
@@ -250,6 +267,7 @@ StudyBuddy smart speaker?
 + Produce your own Soundtrack
 
 ## OSBEC to get photorealistic prompts with Midjourney
+
 + Output
 	+ What is the image supposed to be (e.g. cinematic scene)
 + Subject
@@ -264,33 +282,39 @@ StudyBuddy smart speaker?
 > [!quote] Midjourney prompt
 > Output: Landscape photography, inspiring, captivating, Subject: The back of a group of teenages overlooking the sunset from a cliff Background: Thai islands, beautifully clear blue cocean water, a plane in the sky. Influences: Holiday photography.
 > Emphasisers: CinemaCare. Camers: Shot on a Hasselblad medium format camera. Carl Zeiss Distagon 115 mm f/2.8 zn, Ricah r1 --v5.2 --s 250 --ar 16:9 --q 2
-> 
 
 ***
+
 *Used prompt with my Midjourney*
 ![[Pasted image 20230716103348.png|300]]
 
 ## How do design spaces
+
 Photoshop (enroll with the Beta) with Generative Fill. To fill you room.
 + eg add large flat scree
 + add large chandelier with crystals ...
 
 ## Editing marketing materials
+
 + Photoshop fill + Canva to add more objects to it
 
 ## Working with Spaces
-+ [Skybox AI ](https://skybox.blockadelabs.com/)- to generate own spaces (e.g. a hotel room)
+
++ [Skybox AI](https://skybox.blockadelabs.com/)- to generate own spaces (e.g. a hotel room)
 
 ## Working with Music and Sounds
+
 Use [Music LM](https://google-research.github.io/seanet/musiclm/examples/) to generate music
 
 ## Generate videos from text
+
 + [RunwayML](https://runwayml.com/) - combined with several Zoom levels of a picture. The Zooms where created using Midjourney-Zoom.
 + Canva to easily combine the video and Audio created and share it with others.
 
 ![[Pasted image 20230716112203.png]]
 
 # Domenic Ashburn - Mr Grateful - Creating AI Clones
+
 3000 to 300k followers within one month.
 
 Started with a nice AI generated meditation - with his voice, scripted by ChatGPT.
@@ -312,6 +336,7 @@ Use ChatGPT 4 to generate your text
 And take that text to Eleven labs to create your sound.
 
 ### What to use that for?
+
 + Creating content (brand, money, followers, brand opportunities)
 + Video creation with Runway - to create visuals for your presentations
 + You can provide your language and wisdom to the next generation, your children and following generations. You have the choice now.
@@ -321,6 +346,7 @@ And take that text to Eleven labs to create your sound.
 + Humane AI pin
 
 ### Multi-Modal-AI
+
 With multiple modals combined. Transferring back & forth between all these models. 
 
 Created by Meta AI.
@@ -334,20 +360,25 @@ Created by Meta AI.
 This is a path to more humanistic AI.
 
 ### Protect with verifying your information
+
 + Define a 5 words code that you agree on with your friends and family. This code will be used when you need to verify the origin of a message
 + Verification tool combined with ElevenLabs - they can then verify your idendity
 
 ### Take education to the next level
+
 + it needs guidance to learn
 + AI counterpart that is trained on me ... create accessibilty ourselfs
 + Solve education unequity
 
 # How does that transform your business
+
 ## Generating content at scale
+
 + 70% of a copywriters time disappears
 + Cut time to generate an article from 8 hrs to 5hrs
 
 ### Step 1 - Feed transcript to ChatGPT
+
 Feed with content that you own:
 + from an interview
 + from a podcast
@@ -360,6 +391,7 @@ You will be receiving a transcription of a *podcast interview/lesson/etc.* in ch
 Wait for me to start. 
 
 ### Step 2 - Create the Article
+
 > [!quote] Prompt
 > The article should follow this structure:
 > - Introduction
@@ -370,6 +402,7 @@ Wait for me to start.
 > Based on the six chunks and structure I gave you can you create a content brief based on the structure I've given you? 
 
 ### Step 3 - Titles and Descriptions
+
 > [!quote] Prompt
 > Great. Now, let's start with meta-titles
 Can you list meta-title suggestions that are engaging and pique interest? It must have the exact keyword "stones of overcoming addiction." Maximum of 50 characters. 
@@ -386,6 +419,7 @@ It is important to use your own data and content!
 "*insert meta description you're going with.*" 
 
 ### Step 4  - Create a description
+
 > [!quote] Prompt
 > Now, on to the introduction. Here's the structure you suggested:
 -Start with an attention-grabbing hook that highlights the significance of the topic.
@@ -394,6 +428,7 @@ It is important to use your own data and content!
 Make it engaging, humorous, and lighthearted. I do like how Caitlin Moran writes-but in a toned down version and in an American tone of voice. 
 
 ### Step 5  - Humanize
+
 Use a simple checker, that checks for AI written text. Make sure it has a human tone.
 LLM as word prediction engine.
 + AI Checker [https://aiwritingcheck.org/](https://aiwritingcheck.org/)
@@ -402,14 +437,17 @@ LLM as word prediction engine.
 Check for the score.
 
 ### Consider for writing a book
+
 + Cost of writing goes down (in his case by half)
 + Time needed (translated to cost) for having an editor goes down (in his case by 80%)
 + Speak out ideas in voice - get transcript - and let it write an article
 
 ## Make your blog vocal
+
 + with ElevenLabs voice cloning (see above)
 
 ## AI as your copywriter
+
 Reduced 70% of copywriting work.
 
 > [!quote] Prompt
@@ -423,6 +461,7 @@ Reduced 70% of copywriting work.
 > Now reduce the character count by 30%
 
 ### Great list of bullet points generated
+
 + **More with Less**: Achieve equal or better results with A.I doing your heavy lifting, free 1-2 days weekly.
 + **Creativity Boost**: Extra time sparks innovative thinking, bringing fresh ideas to your business and life.
 + **Learn More**: Use free time for upskilling, diving deeper Into A.I, and staying on the cutting edge.
@@ -435,13 +474,16 @@ Reduced 70% of copywriting work.
 + **Maximize Productivity**: A.I handles tasks 24/7, ensuring your business remains productive even when you're not working.
 
 ## Improving existing copy
+
 20% increased conversion with 50% less time to create content...
 
 ### Improve eMail
+
 > [!quote] Prompt
 > Now please improve that copy to make it suitable for email. Do you know what makes an email work and boosts click through rate? State the factors that make an email highly responsive 
 
 ## Business Mastery program
+
 Chief AI evangelist
 Become a master of applied AI.
 
@@ -452,7 +494,6 @@ Become a master of applied AI.
 + Mindvalley - worlds leading transforming company
 + Starts August 16th
 
-
 ![[Pasted image 20230716133650.png|400]]
 
 ![[Pasted image 20230716134012.png]]
@@ -461,12 +502,8 @@ Become a master of applied AI.
 
 ![[Pasted image 20230716134413.png]]
 
-
-
-
-
-
 # Linking
+
 + ⬅ [[Notes from Day1 of the Mindvalley AI Summit 2023]]
 + ➡ [[Notes from Day 3 of the Mindvalley AI Summit 2023]]
 + [[MOC Artificial Intelligence]]

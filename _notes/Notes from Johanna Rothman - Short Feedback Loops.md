@@ -3,13 +3,15 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/literature-note
-date_created: Monday, November 14th 2022, 9:35:38 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes from Johanna Rothman - Short Feedback Loops
+
 Source: From [Johanna Rothman](https://www.jrothman.com/pragmaticmanager/) and [her blog post](https://www.jrothman.com/mpd/2020/12/multiple-short-feedback-loops-support-innovation/)
 
 ## Core message
+
 + Start ONE thing
 + Finish it
 + Do that again until you satisfy the customer
@@ -23,9 +25,9 @@ Also recommends against using Story Points and velocity.
 Velocity does not account for delays. Cycle time does.
 
 ## Team Work and Cycle time impacts
+
 > [!important]
 > Higher cycle time also implies slower possibility to get feedback.
-
 
 Collaborate in mobbing, swarming - and optimise for flow efficiency rather than resource efficiency. 
 
@@ -37,7 +39,6 @@ And now see the difference in cycle time when the code review, testing and PO re
 
 ![[Pasted image 20221114094942.png]]
 
-
 And now let's also include a delayed release time:
 
 ![[Pasted image 20221114095215.png]]
@@ -47,8 +48,10 @@ And now it gets worse - based in members of a team just working in silos on a to
 ![[Pasted image 20221114095419.png]]
 
 ## Some good questions
+
 + What will help us get this story to done today?
 + How little can we do and still get a valuable result that will tell us what to do next?
 
 ## Linking
+
 + [[Product Roadmaps]]

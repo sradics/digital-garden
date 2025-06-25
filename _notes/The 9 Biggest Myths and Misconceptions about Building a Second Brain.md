@@ -4,17 +4,20 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Wednesday, September 21st 2022, 8:40:28 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # The 9 Biggest Myths and Misconceptions about Building a Second Brain
+
 ## Metadata
+
 * URL: [https://fortelabs.co/blog/9-biggest-myths-and-misconceptions-about-basb/](https://fortelabs.co/blog/9-biggest-myths-and-misconceptions-about-basb/)
 * Author: [[Tiago Forte]]
 * Publisher: [[Forte Labs]]
 * Published Date: 2021-04-27
 
 ## Highlights
+
 * ==when you build a Second Brain deliberately, each technique and tool builds on and extends the others.==
 * it’s much easier to:
 	* ==Distill and summarize notes with Progressive Summarization if they’ve already been designated as part of a “Project”==
@@ -35,4 +38,5 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * Your standards for what information you allow to fill your mind skyrockets, because you need the best to produce the best.
 
 ## Linking
+
 + [[MOC Building a 2nd brain]]

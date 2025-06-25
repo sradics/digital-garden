@@ -3,8 +3,10 @@ tags:
   - type/permanent-note
   - digital_garden
   - epstatus/1-🌱
-date_created: Thursday, June 19th 2025, 6:25:38 am
-date_modified: Thursday, June 19th 2025, 6:32:12 am
+date_created: 2025-06-19 06:25
+date_modified: 2025-06-25 06:05
+aliases: [Comprehensive Writing Knowledge Base]
+linter-yaml-title-alias: Comprehensive Writing Knowledge Base
 ---
 # Comprehensive Writing Knowledge Base
 

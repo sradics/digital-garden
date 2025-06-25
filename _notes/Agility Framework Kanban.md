@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:00:52 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Agility Framework Kanban
+
 ## Topic
 
 Agility Framework Kanban
@@ -20,7 +21,6 @@ How can I implement and further tune my Kanban implementation?
 ### Potential usages
 
 -   Guidance and support when implementing a Kanban in your team or Personal Kanban for yourself
-    
 
 ### My offer
 
@@ -33,13 +33,13 @@ How can I increase my personal productivity and task management by applying Pers
 -   Implementation Guide in Blinkist
     
 -   Workshop in Blinkist about Kanban
-    
 
 ## My level of expertise
 
 Master
 
 ## Linking
+
 + [[Kanban - An overview]]
 + [[Learning Agile]] (Kanban chapter)
 + [[Kanban in der Praxis]]

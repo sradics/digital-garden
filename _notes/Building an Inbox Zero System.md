@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
-date_created: Thursday, June 30th 2022, 5:02:12 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Building an Inbox Zero System
+
 ## Topic
 
 Building an Inbox Zero System
@@ -28,7 +29,6 @@ I can provide my example of using Inbox Zero.
 ## Where did I apply that?
 
 -   using it successful for 2.5 years
-    
 
 ## My level of expertise
 

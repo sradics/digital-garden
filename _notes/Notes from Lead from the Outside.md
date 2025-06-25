@@ -4,11 +4,13 @@ tags:
   - type/literature-note
   - epstatus/0-🌰
   - publish_in_newsletter
-date_created: Tuesday, October 31st 2023, 5:31:50 am
-date_modified: Tuesday, October 31st 2023, 5:32:15 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from Lead from the Outside
+
 ## Notes from Lead from the Outside
+
 + embrace my unique perspective
 + develop confidence in own style of leadership
 + ensure a diverse set of support from outside

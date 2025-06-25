@@ -3,9 +3,13 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-
+aliases: [The template for a mission]
+linter-yaml-title-alias: The template for a mission
+date_created: 2025-05-16 05:56
+date_modified: 2025-06-25 06:10
 ---
 # The template for a mission
+
 ### 1) You need an enemy to attack
 
 Answer these questions:
@@ -15,7 +19,6 @@ Answer these questions:
 - What are you doing to avoid that life?
     
 - Why is it so destructive?
-    
 
 For some reason, I always despised getting a 9-5 job. I know that puts me in the cliche "9-5 hater" camp even though that's not what I am, but I just couldn't do it. It seemed like everyone who had a life I didn't want to live was in that situation, mostly because they had long hours of work they despised, which also drained them of energy to do anything worthwhile throughout their days. Most people are walking zombies. I don't care about the outliers. MOST people are.
 
@@ -58,6 +61,7 @@ You need to be consistent enough that people can binge everything you have to of
 I posted 30-40 YouTube videos before one did well. Before, they had 2-3k views. After one video did well, they all rose to over 100k views. _What you post now, even if it doesn’t do well, **can** be seen once you hit your growth spurt._
 
 # My work with this template
+
 Approach: Give it to my AI assistant that knows my program well. Also provide [[Socratic Leadership#Socratic questioning]] and ask for interviewing me
 
 ```
@@ -80,10 +84,10 @@ Based on your responses, the enemy isn't just forgetting information - it's an e
 
 This is powerful because it's not just about a tool or technique - it's about an entire way of being that's unsustainable and unfulfilling.
 
-
 ## Identity Concepts for Your Program
 
 Based on your responses and the program materials, here are some identity concepts that could resonate with your audience:
+
 ### 1. The Ecosystem Master
 
 Someone who has created a **harmonious, integrated system where knowledge flows effortlessly, compounds over time, and creates exponential returns.** They've moved beyond fragmented learning to a holistic approach.
@@ -117,7 +121,6 @@ While you noted this might be a bit more "boring," it directly connects to one o
 ### 3. The Future-Proof Thinker
 
 This has strong emotional appeal, especially in the current AI-driven environment where many people feel their skills and knowledge might become obsolete. It addresses a deep fear and offers a solution.
-
 
 ## Your Learning Ecosystem Mastery Program: A Comprehensive Approach
 
@@ -182,7 +185,6 @@ Your program creates a comprehensive world with three major territories:
 - Community spaces where explorers can share discoveries
 - Advanced expeditions for those who want to go further
 
-
 ## The compelling narrative
 
 "In a world where most knowledge workers are drowning in information while starving for wisdom, a new approach is emerging. The old way - scattered notes, forgotten insights, and constant overwhelm - is giving way to something more powerful: the path of the Future-Proof Thinker.
@@ -194,5 +196,3 @@ The Learning Ecosystem Mastery Program is your gateway to becoming a Future-Proo
 This isn't just another course - it's a complete world to explore, with ongoing discoveries, community connections, and evolving insights that will keep you at the forefront of knowledge work for years to come."
 
 # Linking
-
-

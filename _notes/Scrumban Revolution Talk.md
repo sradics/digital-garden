@@ -4,8 +4,8 @@ tags:
   - type/permanent-note
   - digital_garden
 event_date:
-date_created: Wednesday, March 26th 2025, 7:38:15 am
-date_modified: Wednesday, March 26th 2025, 7:39:45 am
+date_created: 2025-03-26 07:38
+date_modified: 2025-06-25 06:10
 ---
 # Scrumban Revolution Talk
 
@@ -14,4 +14,3 @@ date_modified: Wednesday, March 26th 2025, 7:39:45 am
 ![[ScrumbanEvolution.pdf]]
 
 # Linking
-

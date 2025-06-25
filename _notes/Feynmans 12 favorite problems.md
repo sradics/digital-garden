@@ -3,8 +3,8 @@ tags:
 - type/permanent-note
 - epstatus/1-🌱
 - digital_garden
-date_created: Sunday, April 30th 2023, 11:12:51 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:05
 ---
 # Feynmans 12 favorite problems
 
@@ -51,6 +51,7 @@ What would happen if…?
 What would have to be true to…?
 
 ## Summarized version
+
 **Keep a list of around a dozen favorite problems or open questions** that interest them over the years. These questions are like recurring long-term interests that they continuously explore.
 
 The writer further explains that whenever **they come across new information**, whether it's from reading books, articles, listening to podcasts, or other sources, they **ask themselves if the information has any relevance to their list of favorite problems**. They use this as **a tool to filter and evaluate the relevance** of the incoming information to their unique interests and curiosities.
@@ -59,8 +60,8 @@ While most of the time the answer is "no," the writer emphasizes that when they 
 
 In this way, the writer's strategy **mirrors Feynman's advice of constantly testing new information against their list of favorite problems**, allowing them to explore various fields and interests while remaining focused on their personal areas of curiosity and inquiry.
 
-
 # Linking
+
 + [How to generate your favorite problems](https://fortelabs.com/blog/how-to-generate-your-own-favorite-problems-a-4-step-guide/)
 
 1.  Get started with these prompts (What were you obsessed with as a child or teenager? What are the longest-running hobbies you’ve had in your life? +8 more)

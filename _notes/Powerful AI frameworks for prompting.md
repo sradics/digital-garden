@@ -3,11 +3,13 @@ tags:
   - digital_garden
   - type/fleeting-note
   - epstatus/0-🌰
-date_created: Saturday, December 14th 2024, 8:53:23 am
-date_modified: Saturday, December 14th 2024, 8:53:30 am
+date_created: 2024-12-14 08:53
+date_modified: 2025-06-25 06:06
 ---
 # Powerful AI frameworks for prompting
+
 ### Powerful AI frameworks for prompting
+
 [Source](https://www.linkedin.com/posts/the-thomas-meyer_dont-write-bad-prompts-these-frameworks-activity-7272879496964288512-SGzD?utm_source=share&utm_medium=member_desktop)
 
 1. R-T-F:  

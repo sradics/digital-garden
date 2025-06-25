@@ -3,11 +3,13 @@ tags:
 - epstatus/1-🌱
 - type/literature-note
 - digital_garden
-date_created: Sunday, June 4th 2023, 8:43:42 pm
-date_modified: Sunday, June 4th 2023, 9:57:11 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from watching Tiago Fortes videos
+
 ## Milanote
+
 [Source](https://www.youtube.com/watch?v=RUKGZdJUiRU)
 
 [Milanote](https://milanote.com/)
@@ -16,6 +18,7 @@ date_modified: Sunday, June 4th 2023, 9:57:11 pm
 + linking a board in multiples other boards
 
 ## Notion AI
+
 [Source](https://www.youtube.com/watch?v=NDatjjTnm4A)
 + [[100M Offers - Alex Hormozi]]
 + use Notion to structure note, refine notes
@@ -23,6 +26,7 @@ date_modified: Sunday, June 4th 2023, 9:57:11 pm
 	+ find action items
 
 ## Folders are dead
+
 [Source](https://www.youtube.com/watch?v=gXYj8UNmy48)
 + use friction as a good indicator what to capture - friction as a friend
 + don't create, instead combine
@@ -31,6 +35,6 @@ date_modified: Sunday, June 4th 2023, 9:57:11 pm
 + bring in your unfinished ideas and enable collaboration and developing it further [[MOC Digital Garden]]
 
 # Linking
-+ [[MOC Building a 2nd brain]]
 
++ [[MOC Building a 2nd brain]]
 

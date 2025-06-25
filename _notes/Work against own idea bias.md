@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Tuesday, July 11th 2023, 9:20:06 am
-date_modified: Tuesday, July 11th 2023, 9:20:28 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Work against own idea bias
+
 [Source from Wes Kao](https://www.linkedin.com/posts/weskao_most-people-dont-have-an-accurate-sense-activity-7083099112811737088-x0eq?utm_source=share&utm_medium=member_desktop)
 1. "What are the **obvious counterpoints**?"
 2. "Am I **addressing the hard part** of the problem?"
@@ -17,5 +18,6 @@ date_modified: Tuesday, July 11th 2023, 9:20:28 am
 7. “**How can we experiment** with this in a way that requires less overhead?"
 
 # Linking
+
 + [[Identifying hidden assumptions]]
 + [[Testing Business Ideas - David Bland Alexander Osterwalder]]

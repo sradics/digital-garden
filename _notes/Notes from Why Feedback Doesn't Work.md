@@ -4,10 +4,11 @@ tags:
   - digital_garden
   - epstatus/1-🌱
   - publish_in_newsletter
-date_created: Thursday, January 4th 2024, 1:33:44 pm
-date_modified: Thursday, January 4th 2024, 1:57:05 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from Why Feedback Doesn't Work
+
 [Source Webinar](https://hbr.org/webinar/2022/11/why-feedback-doesnt-work-and-what-to-do-instead)
 	📖 Love + Work: How to Find What You Love, Love What You Do, and Do It for the Rest of Your Life ([Blinkist Source](https://www.blinkist.com/en/app/books/love-plus-work-en))
 
@@ -16,7 +17,9 @@ date_modified: Thursday, January 4th 2024, 1:57:05 pm
 + **people grave frequent attention**, they don't grave feedback
 
 ## 3 Fallacies with Feedback
+
 ### Fallacy Nr.1 - You own the truth about others
+
 * assumption - she is blind, I'm not blind
 * the feedback receiver rejects feedback
 * especially true, when providing even ratings e.g. on behaviors
@@ -29,15 +32,19 @@ date_modified: Thursday, January 4th 2024, 1:57:05 pm
 > human beings are unreliable raters of other human beings. All the data show that when I rate you, over 60% of your rating is about me, and not you. Which is a big problem, because we are paying, promoting, training, and deploying you based on that rating — which doesn’t reflect you. So ratings are a terrible performance measurement tool, because they claim to measure one thing but actually measure another. [Source](https://www.marcusbuckingham.com/good-data-bad-data-idiosyncratic-rater-effect/) 
 
 ### Fallacy Nr. 2 - Learning is information transfer
+
 + I just tell someone what is missing and they will pick it up. Like an empty vessel
 + Scholl is often about that approach on learning
 
 ### Fallacy Nr. 3 - Excellence can be defined in advance
+
 + skills and competency matrix are a problem
 + you can define average in advance and a minimum
 
 ## What should we do instead.
+
 ### You own your reaction - share it
+
 + I am a reliable reporter on what I feel and on what I intent to do
 + we are really good at reporting on our feelings
 + "I was lost when you said that"
@@ -45,11 +52,13 @@ date_modified: Thursday, January 4th 2024, 1:57:05 pm
 + Stay on your side of the river
 
 ### Learning is insight - help others discover it
+
 + Feeling on knowingness that happens inside our brain
 + Help discover those insights ... create occasions where a learner can discover insights
 + link to Montessouri
 
 ### Excellence is connected to the person - replay their moments of excellence
+
 + get a person back into a moment that worked (coaching)
 + source of greatness is their goodness
 + essay - underline couple of sentences that really work and expression your emotions with it
@@ -57,6 +66,7 @@ date_modified: Thursday, January 4th 2024, 1:57:05 pm
 + leads to replication and repetition of what works super well
 
 ## Way forward - Q&A notes
+
 + What are the performance outcomes? 
 + What is my way of contributing to that?
 + How to best collect data on feedback?
@@ -91,6 +101,7 @@ date_modified: Thursday, January 4th 2024, 1:57:05 pm
 + Mindset of broadening and building
 
 # Linking
+
 + [[MOC Feedback]]
 + [[Radical Candor]]
 + [Idiosyncratic rater effect](https://www.marcusbuckingham.com/good-data-bad-data-idiosyncratic-rater-effect/)

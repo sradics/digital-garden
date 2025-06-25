@@ -3,11 +3,10 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note
-date_created: Sunday, July 3rd 2022, 6:13:50 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Discovery of Core Values
-
 
 > [!info] Core Values
 > Who am I as a person. The principles that are not negotiable in your life.
@@ -37,6 +36,7 @@ Principles to consider:
 + ==ability to manage time==
 
 ### Priorities
+
 Consider the ==4 domains Family, Business, Community, Self==
 + set 3 highest priorities in each
 + define key activities for each priority and use calendar blocking
@@ -44,13 +44,16 @@ Consider the ==4 domains Family, Business, Community, Self==
 What part of my life would I write with RED PEN (so can't be overwritten)
 
 ### Time management
+
 + proactive scheduling combined with calendar blocking
 + ensure meetings with purpose, outcome and clear timebox
 
 ## Strengthfinder
+
 User the Strengthfinder to derive key strengths.
 
 ## Qualities of core values
+
 + ==connect to who you are in your core==
 + ==reflect YOUR differentiated point of view== - describe you well
 + best ==phrased as short & action oriented==
@@ -60,6 +63,7 @@ User the Strengthfinder to derive key strengths.
 One can use the opposite of bad phrasing to check if it is a core value.
 
 ## 4 Questions to discover your core values
+
 + ==In what work environments are you highly engaged?==
 + ==In what professional role or jobs did you do your best work?==
 + ==What help, advice or qualities do others come to you for?==
@@ -67,8 +71,8 @@ One can use the opposite of bad phrasing to check if it is a core value.
 
 Write down the answers and look for common themes/phrases.
 
-
 ## Authentic leadership
+
 > [!important] True North
 > Understand who you really are. What issues are the most important ones to focus on.
 
@@ -79,6 +83,7 @@ Take inspiration from your own stories ([[Storyworthy - Matthew Dicks]]).
 > What are my personal (important) stories that shaped my to become the person I am now?
 
 ### Great Leadership
+
 > [!success] Motivate others
 > Motivate, inspire others to reach their full potential. 
 
@@ -102,39 +107,41 @@ Invest in relationships and build great supporting teams (networks).
 ==Integrate all aspects of your life.==
 + Personal, Professional, Friends, Community
 
-
 ### Flawed types of leadership
+
 #### Imposters
+
 + lack of self-esteem
 + political
 
 #### Rationalizers
+
 + don't take reponsibility
 + follow own agenda
 + are not connected with their own values
 
 #### Glory seekers
+
 + focussed on outward faced success - money, fame, glory
 
 #### Looners
+
 + miss supporting structures
 + lonely wolves
 
 #### Shooting stars
+
 + were raising too fast (Peterchen Principle)
 
 Linked with [[Multipliers]] (and [[Multipliers#The Diminisher]])
 
-
-
 ## Linking
+
 + [[Leadership Coaching]]
 + [[Leadership Mentoring]]
 + [[Leadership Development]]
 + [[Management 3.0 - Management for Complex Domain]]
 + [[Agile Values]]
 + [[Importance of Agile Values and Principles]]
-
-
 
 ![[Blinkist Guide Discovering your core values.pdf]]

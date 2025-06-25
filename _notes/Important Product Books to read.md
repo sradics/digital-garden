@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
-date_created: Wednesday, September 28th 2022, 6:57:51 am
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Important Product Books to read
+
 Inspired by [Gerard Chiva in his book Product Roadmapping](https://leanpub.com/product-roadmapping-in-practice) (p126)
 
 + [[Competing For The Future - Hamel Prahlad]]

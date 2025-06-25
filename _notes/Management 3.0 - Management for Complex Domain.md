@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
-date_created: Sunday, July 3rd 2022, 7:08:55 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Management 3.0 - Management for Complex Domain
+
 ## Topic
 
 Management 3.0 by Jurgen Appelo. Management in Complexity.
@@ -18,7 +19,6 @@ Management 3.0 by Jurgen Appelo. Management in Complexity.
 -   What management aspects to consider in complex domains (that most of us are in)?
     
 -   What should I focus on as a leader to provide leadership & management that matches requirements from working in complex domains?
-    
 
 ### Potential usages
 
@@ -29,7 +29,6 @@ Management 3.0 by Jurgen Appelo. Management in Complexity.
     -   Improve everything
     -   Energize people
     -   Empower Teams
-        
 
 ![[Pasted image 20220703071021.png]]
 
@@ -42,7 +41,6 @@ Consult with leaders with aspects of Management 3.0.
 -   I was Co-Creator and Facilitator of the famous Management 3.0 meetup in Munich
     
 -   I attended one of the first Management 3.0 courses (hosted by Jürgen Dittmar, directly related with Jurgen Appelo and Jeff Sutherland)
-    
 
 ## My level of expertise
 

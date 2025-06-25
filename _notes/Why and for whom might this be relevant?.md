@@ -1,23 +1,26 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Saturday, February 4th 2023, 5:51:44 pm
-date_modified: Thursday, May 18th 2023, 6:15:54 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Why and for whom might this be relevant?
+
 [[15 Powerful Life Illustrations]]
 
 ![[Pasted image 20230204175438.png]]
 
 ## For whom?
+
 ## Starters with Obsidian and Building a Second Brain
+
 They struggle with the initial complexity of using Obsidian. And also grasping the idea of Building a Second Brain.
 
 It took me weeks to get a good understanding what this topic is about. And how tools like Obsidian connect with the topic of Building a Second Brain.
 
 ### What might be their motivation?
+
 What was my motivation? Why did I invest in Building my Second Brain?
 + I was not satisfied with the way of working with my previous learnings. I read a lot but lost much of this information.
 + I felt lost when it came to work with previous acquired knowledge. As soon as I wanted to drill down and share my knowledge with others e.g. in presentations or directly, I often roughly remembered where I got this insights from. And it took me additional effort that mostly felt wasteful to exactly find the information - the page in a book, the picture I remembered, the workshop I ran, the presentation I gave.
@@ -32,6 +35,7 @@ What was my motivation? Why did I invest in Building my Second Brain?
 - [ ] Publish my Motivation at LinkedIn - [[My motivation for Building a Second Brain]]
 
 ### What helped me
+
 A colleague (David) gave me a first introduction. I was overwhelmed and it took me a while to take my first steps in playing with that system. The anchos was Obsidian and managing my information. It was not yet connected with Building my Second Brain.
 
 I started with a predefined vault - the Obsidian Starter Kit. It helped me to understand the basics of Obsidian and how a structure might look like. And it formed a first bridge to understand the importance of cross linking and connecting information. It felt already like a knowledge web. Not yet connected with the term brain.
@@ -62,6 +66,7 @@ So at the moment my Second brain is a blend of several great approached for mana
 + Using elements from taking Smart Notes [[How to take Smart Notes - Key Insights]] based on Luhmann's Zettelkasten
 
 ### How can I help others
+
 Immediately show the connection between different aspects of building a Second Brain and remove many if the learning steps. Make that system accessible and lightweight to apply.
 
 Connect with the attention span ... and time to attention.

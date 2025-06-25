@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:01:24 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Agility Framework Scrumban
+
 ## Topic
 
 Agility Framework Scrumban
@@ -20,7 +21,6 @@ How can I implement and further tune my Scrumban implementation?
 ### Potential usages
 
 -   Guidance and support when implementing Scrumban in your team
-    
 
 ### My offer
 
@@ -35,6 +35,7 @@ Years of working with that approach in >10 teams.
 Master
 
 ## Linking
+
 + [Scrum, Kanban, Scrumban - a fast overview](https://www.ontheagilepath.net/articles/Scrum%20Kanban%20Scrumban%20%20a%20fast%20overview%20and%20rough%20categorization%20when%20to%20use%20what%20method.pdf)
 + [ScrumBan as Scrum's next evolutionary step](https://www.ontheagilepath.net/articles/Scrum%20and%20ScrumBan%20as%20its%20next%20evolutionary%20step%20%20and%20is%20it%20worth%20starting%20with%20Scrum%20at%20all.pdf)
 + ![Scrumban presentation](https://vimeo.com/133524838)

@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/index-note
-date_created: Thursday, June 30th 2022, 5:01:52 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Building a 2nd brainPersonal Knowledge Management
+
 ## Topic
 
 Building a 2nd brain/Personal Knowledge Management
@@ -23,16 +24,15 @@ How should I structure myself?
 -   Build your own Personal Knowledge Management System
     
 -   Create your personalized book/article summary and tailor the insights to your needs
-    
 
 ## Where did I apply that?
 
 -   My own PKMS
-    
 
 ## My level of expertise
 
 Advanced
 
 ## Linking
+
 + [[MOC Building a 2nd brain]]

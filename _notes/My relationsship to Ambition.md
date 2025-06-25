@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Monday, June 5th 2023, 1:58:29 pm
-date_modified: Monday, June 5th 2023, 3:04:53 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # My relationsship to Ambition
+
 Writing session with Ness Labs
 
 ## Topic
@@ -22,6 +23,7 @@ Writing session with Ness Labs
 ![[Pasted image 20230605140807.png|400]]
 
 ## Prompt: Has your definition of ambition evolved over time?
+
 My ambition developed heavily over time. I had a wake up call on learning and trying to reach something through various interesting steps. When I was really young I noticed that I'm strong and can compete and easy fight with others. The I discovered **team sports, various variants** and got connected to the topic of winning and getting reputation, recognition and that it matters to win. 
 And in order to do that **one also has to invest**. So I trained a lot and became better over time. At the same time I also noticed differences on jobs. I remember one sentence that I got injected by my grand mother: **Learn, Learn  repeat learn** - or similar - based on a famous saying by Lenin. 
 This guided me through all my life. There **was a difference with the investments people took in themselves.** I learned on many lanes and I'm still learning every day. 
@@ -32,8 +34,8 @@ My ambition is to help others grow with knowledge fast and build on learnings of
 
 **My definition of ambition is: Use all my powers to drive to something greater and use my time on earth wisely. At the same time with dignity and not harming other life.**
 
-
 ## Prompt: What does it mean to be ambitious in today's world? 
+
 It means to leverage capacity and resources to contribute something meaningful to this world and actually help driving forward and solving something of importance. At the same time I'm more a believer of **framed ambition**. Our dignity and understand of what makes us human and what are ethical and moral boundaries that make us human is super important. Especially with a super uneven access to power and resources. Unguided ambition combined with strong power will lead to even increasing problems. 
 On the other side I think ambition is a great driver of curiosity and happiness. Having ambition helps us to push forward, to get up every day and to look at challenges with a growth mindset. Ambition makes me happy. 
 
@@ -55,6 +57,7 @@ Who where people that believe in my and encouraged my?
 It is actually also quite interesting that I very lately dedicated more time to figure out more about my dreams and ideas. And I'm still not there and need to invest more in that. Looking back, I would like to encourage other to search for that early on. As having a marker of ones destination is of high value to guide the direction. My markers of being healthy, dignity and providing access to my knowledge are already really strong.
 
 ## Prompt: How do you balance work ambitions and person ambitions? 
+
 I combine work and personal ambitions. Actually I'm in a happy situation that I have a huge overlap of my interests and my work and can use a lot of my main ambition in direction of learning and providing knowledge also in my professional life. When my passion and ambition are conflicting with more day-to-day topics then I try to either interpret such topics as another growth opportunity or challenge. If that is not possible and it is super annoying than I try to automate or delegate. 
 
 Where do I actually have maybe conflicting ambitions? 
@@ -62,13 +65,11 @@ Where do I actually have maybe conflicting ambitions?
 + Developing basic skills that might be important vs. further developing my skills used in my profession
 
 ## Prompt: How do you keep on reinventing your ambitions?
+
 I keep reinventing my ambitions by having a bigger adjustments through my big 5 for life and then I'm using my Second Brain to capture-organize-distill-express my thoughts. I adjust my learnings to current project needs. And I also welcome changes along the way. 
 My main underlying ambition to stay long term healthy is overarching and I dedicate several movements, aspects to that. And I also learned that I need to take decision, invest in forming habits and partially have to apply willpower for topics that are not easy (at least not in the beginning). By e.g. working now in week 94, with 11000 minutes already this year doing workouts on my Peloton i took an active approach to include sports in my daily life.
 Other reinventions are driven by looking at topics that influence teams and agility. And wider developments in companies and the market. Based on signals I follow strong hunched. Recently e.g. the 7 powers and Second Brain and Digital Gardening. 
 I'm not yet fully there with the Feynman and 12 bigger topics always open, but I have several topics in my mind.
 When it comes to establishing behavior, I'm building on behavior shaping frameworks like Hooked and Atomic Habits. This helps me to fight through early stage resistance when following a new ambition.
 
-
 # Linking
-
-

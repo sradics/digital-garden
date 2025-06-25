@@ -3,9 +3,13 @@ tags:
 - epstatus/0-🌰
 - type/literature-note
 - digital_garden
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
+# The PARI system by Anne-Laure Le Cunff (Ness Labs)
 
 ## Metadata
+
 * URL: [https://melanie-almeida.com/en/the-pari-system-by-anne-laure-le-cunff-ness-labs/](https://melanie-almeida.com/en/the-pari-system-by-anne-laure-le-cunff-ness-labs/)
 * Author: Mélanie Almeida
 * Publisher: melanie-almeida.com
@@ -13,6 +17,7 @@ tags:
 * Tags: 
 
 ## Highlights
+
 * But, for our own personal goals, they are not at all appropriate.
 * we never ask ourselves if this goal still makes us happy.
 * PARI is based on achievable actions

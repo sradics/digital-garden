@@ -4,12 +4,13 @@ tags:
 - matter/processed
 - type/literature-note
 - digital_garden
-date_created: Friday, May 12th 2023, 6:22:50 pm
-date_modified: Saturday, June 24th 2023, 5:19:43 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # The anatomy of a perfect educational article
 
 ## Metadata
+
 * URL: [https://nesslabs.com/educational-article](https://nesslabs.com/educational-article)
 * Author: Anne-Laure Le Cunff
 * Publisher: Ness Labs
@@ -17,6 +18,7 @@ date_modified: Saturday, June 24th 2023, 5:19:43 am
 * Tags: 
 
 ## Highlights
+
 * Writing an educational article
 * best ways to study a topic.
 * The Feynman Technique—which - [[Feynmans 12 favorite problems]]

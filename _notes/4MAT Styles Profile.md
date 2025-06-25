@@ -4,11 +4,10 @@ tags:
   - type/permanent-note
   - epstatus/1-🌱
   - 12_fav_problems/continuous_learning
-date_created: Wednesday, January 8th 2025, 5:42:11 pm
-date_modified: Wednesday, January 8th 2025, 5:42:48 pm
+date_created: 2025-01-08 17:42
+date_modified: 2025-06-25 06:10
 ---
 # 4MAT Styles Profile
-
 
 ![[S01 Personal/030-039 Areas/31 Me/Personal/attachments/4matStylesTest.pdf]]
 

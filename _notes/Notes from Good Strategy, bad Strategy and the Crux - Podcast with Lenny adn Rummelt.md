@@ -4,8 +4,8 @@ tags:
   - digital_garden
   - epstatus/1-🌱
   - publish_in_newsletter
-date_created: Thursday, March 14th 2024, 3:19:07 pm
-date_modified: Thursday, March 14th 2024, 3:38:05 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from Good Strategy, bad Strategy and the Crux - Podcast with Lenny adn Rummelt
 
@@ -15,22 +15,28 @@ date_modified: Thursday, March 14th 2024, 3:38:05 pm
 One needs to differentiate between Strategy and analytical tools for solving or analyzing problems. E.g 7 Powers framework or Wardley Maps are such tools for deriving a strategy, but they are not the strategy!
 
 Instead on strategy one might call it Action Agenda
+
 ## The Kernel
+
 ### Diagnose the situation
+
    - What is going on?
    - Hypotheses of what is going on & how things are connected ... we have that problem, because ...
    - Use any of the strategy tools for that!
    - **==What is holding you back?==**
-   
+
 ### Guiding Policy
+
    - What are we going to do about this problem?
    - How will we deal with the situation
 
 ### Coherent Action
+
    - Deal with the problem
    - Don’t fight with other achievers
 
 ## BAD STRATEGY
+
    - Set of wished goals
    - List of the thing you wish to happen
    - Fluff, word salad
@@ -38,6 +44,7 @@ Instead on strategy one might call it Action Agenda
    - goals are not the strategy as they leave out important aspects
 
 ## Strategy hints
+
    - Every time you say yes to something, you risk to turn a nascent strategy into a bad strategy 
    - Need a source of power / advantage / efficiency → focus that power on a target that you can affect
    - Focus vs. different interests 
@@ -72,6 +79,7 @@ Instead on strategy one might call it Action Agenda
 	   - Fear of Action
 
 ## Strategy in a Start Up
+
    - You are making a bet
    - You need to be clear about that bet
    - **==You got to be willing to shift==**
@@ -81,6 +89,7 @@ Instead on strategy one might call it Action Agenda
 	   - describe that state in full detail to spot areas to address
 
 # Linking
+
 + [[MOC Strategy]]
 + [[Good strategy, bad strategy visualized]]
 + mentioned 📖 [[Playing to Win - Alan G Lafley Roger L Martin]]

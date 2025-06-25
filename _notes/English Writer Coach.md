@@ -3,8 +3,8 @@ tags:
   - type/permanent-note
   - epstatus/1-🌱
   - digital_garden
-date_created: Tuesday, June 17th 2025, 7:19:33 am
-date_modified: Tuesday, June 17th 2025, 7:23:15 am
+date_created: 2025-06-17 07:19
+date_modified: 2025-06-25 06:06
 ---
 # English Writer Coach
 

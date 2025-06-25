@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:05:48 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Jira Agile
+
 ## Topic
 
 Jira Agile
@@ -24,7 +25,6 @@ How can I leverage Jira in my system?
 -   Implement Jira (for your Kanban, Scrum or Service Management)
     
 -   Tune your Jira usage (with automation, UI tweaks, 1st class reporiting, Simplification)
-    
 
 ### My offer
 

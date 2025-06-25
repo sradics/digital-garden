@@ -3,9 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-
+date_created: 2024-07-14 08:55
+date_modified: 2025-06-25 06:10
 ---
 # Entrepreneur - Learning is crucial
+
 [Source](https://www.linkedin.com/posts/executive-search-business-consulting_corporate2coaching-corporate2consulting-corporate2interimmanagement-activity-7218144278131187712-Nu7n?utm_source=share&utm_medium=member_desktop)
 
 To excel as a solopreneur, you need to:
@@ -32,6 +34,5 @@ Being informed is crucial for:
 ⚡ Learning from others by doing the re-engineering.
 ⚡ Building and running your business most efficiently.
 ⚡ Adapting yourself to effective, necessary strategies.
+
 # Linking
-
-

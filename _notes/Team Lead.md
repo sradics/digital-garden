@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:09:31 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Team Lead
+
 ## Topic
 
 Team Lead
@@ -20,7 +21,6 @@ I need an interim team lead … who can close this gap?
 ### Potential usages
 
 -   (in urgent case) I can lead a team
-    
 
 ### My offer
 
@@ -29,7 +29,6 @@ I need an interim team lead … who can close this gap?
 -   led 6..10 teams so far (partially up to 30 people)
     
 -   have been temporary and lightweight lead for our Product Managers
-    
 
 ## My level of expertise
 

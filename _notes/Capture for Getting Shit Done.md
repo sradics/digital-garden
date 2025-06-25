@@ -3,10 +3,11 @@ tags:
   - digital_garden
   - type/fleeting-note
   - epstatus/1-🌱
-date_created: Thursday, October 26th 2023, 5:15:33 pm
-date_modified: Friday, October 27th 2023, 6:15:41 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Capture for Getting Shit Done
+
 [Source](https://www.linkedin.com/posts/donnellychris_do-more-and-stress-less-steal-this-productivity-activity-7123275007677337601-v5yY?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20231026171550.png]]
@@ -22,6 +23,7 @@ Reflection:
 + Eisenhower Matrix - just a great tool, that I apply unconsciously often. At the same time I did not yet fully integrate it in my routines. I find [[MOC 10K$ framework]] more appealing and integrated that with my Todoist.
 
 # Linking
+
 + [[Midjourney V6 prompts examples/050-059 Resources/themes/58 Agile/Eisenhower Matrix|Eisenhower Matrix]]
 + [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The Eisenhower matrix of prioritisation]]
 + [[Week 3 - Course Notes#Beating procrastination]]

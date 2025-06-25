@@ -4,8 +4,8 @@ tags:
   - digital_garden
   - publish_in_newsletter
   - epstatus/1-🌱
-date_created: Sunday, January 7th 2024, 7:11:39 am
-date_modified: Sunday, January 7th 2024, 7:52:41 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from book Outlive - topic Longevity
 
@@ -27,6 +27,7 @@ with the goal to live a long AND healthy live.
 > Absorb what is useful, discard what is useless, and add what is specifically your own. *Bruce Lee*
 
 ## Metadata
+
 * [[MD-Outlive]]
 * Author: Peter  Attia MD
 * ASIN: B0BLBYCBQ9
@@ -34,6 +35,7 @@ with the goal to live a long AND healthy live.
 * Reference: https://www.amazon.com/dp/B0BLBYCBQ9
 
 ## Longevity
+
 + how long you live, your chronological lifespan
 + **==healthspan==** - **how well you live**—the quality of your years
 + three-part approach to longevity: objective → strategy → tactics
@@ -44,9 +46,11 @@ with the goal to live a long AND healthy live.
 + growing body of research linking oral health, particularly the state of one’s gum tissue, with overall health
 
 ## Heart disease
+
 + two biggest risk factors for heart disease, **==smoking and high blood pressure==**, cause **damage to the endothelium**
 
 ## Cancer 
+
 + **==catching cancer early==** is almost always net beneficial
 + obesity and metabolic dysfunction are both powerful risk factors for cancer
 + Metastatic cancers can be slowed by chemotherapy, but they virtually always come back
@@ -63,6 +67,7 @@ with the goal to live a long AND healthy live.
 + risks that really stand out in the data are **smoking**, **insulin resistance**, and **obesity** (all to be avoided)—and maybe **pollution** (air, water, etc.)
 
 ## Neurodegenerative disease (Alzheimer, Parkinson)
+
 + **a case for constant learning** [^1] - The more of these networks and subnetworks that we have built up over our lifetime, via education or experience, or by developing complex skills such as speaking a foreign language or playing a musical instrument, the more resistant to cognitive decline we will tend to be
 + movement and exercise, more complex activities like boxing workouts, are a primary treatment/prevention strategy for Parkinson’s
 + **robust blood flow** seemed to be **critical to maintaining brain health**
@@ -73,10 +78,14 @@ with the goal to live a long AND healthy live.
 + dry sauna - at least four sessions per week, of at least twenty minutes per session, at 179 degrees Fahrenheit (82 degrees Celsius) or hotter seems to be the sweet spot to reduce the risk of Alzheimer’s by about 65 percent
 + WHAT’S GOOD FOR THE HEART IS GOOD FOR THE BRAIN
 + WHAT’S GOOD FOR THE LIVER (AND PANCREAS) IS GOOD FOR THE BRAIN
+
 ## Type 2 diabetes and related metabolic dysfunction
+
 + As you grow older, the risk grows exponentially that one or more of these diseases has begun to take hold in your body.
 + interventions around nutrition, physical activity, and cognitive training helped maintain cognitive function and prevent cognitive decline
+
 ## metabolic syndrome
+
 + high blood pressure (>130/85) 
 + high triglycerides (>150 mg/dL) 
 + low HDL cholesterol (<40 mg/dL in men or <50 mg/dL in women)
@@ -84,6 +93,7 @@ with the goal to live a long AND healthy live.
 + elevated fasting glucose (>110 mg/dL) 
 
 ## Exercise
+
 > [!warning]
 > First, do thyself no harm, Stability in key incredient
 
@@ -122,6 +132,7 @@ with the goal to live a long AND healthy live.
 		+ standards we ask of our male patients is that they can carry half their body weight in each hand (so full body weight in total) for at least one minute
 
 ### Exercise goals for aging
+
 * **Get up off the floor** under your own power, using a maximum of one arm for support. 
 * **Pick up a young child from the floor.** 
 * **Carry two five-pound bags** of groceries for five blocks. 
@@ -133,9 +144,11 @@ with the goal to live a long AND healthy live.
 * Do **thirty consecutive jump-rope skips.**
 
 ### Exercise videos
+
 * video demonstration of this and other exercises at [www.peterattiamd.com/outlive/videos](https://www.peterattiamd.com/outlive/videos)
 
 ### Importance of stability
+
 + stability is the subconscious **ability to harness, decelerate, or stop force**. A stable person can react to internal or external stimuli to adjust position and muscular tension appropriately without a tremendous amount of conscious thought.
 + !we cheat or work around our existing injuries
 + Twice a week, I spend an hour doing dedicated stability training, based on the principles of DNS, PRI, and other practices
@@ -146,12 +159,14 @@ with the goal to live a long AND healthy live.
 + Radiologists see so much degeneration in the cervical spine, brought on by years of hunching forward to look at phones, that they have a name for it: “tech neck.”
 
 ### Importance of Breathing
+
 + [[Notes from Neuro Resilience#Importance breathing]]
 + If our breathing is off, it can disrupt our mental equilibrium, creating anxiety and apprehension
 + deep, steady breathing activates the calming parasympathetic nervous system
 +  pause after each exhale for at least two counts to hold the isometric contraction—this is key, in DNS
 
 ## Nutrition
+
 + Nutrition 3.0: scientifically rigorous, highly personalized, and (as we’ll see) driven by feedback and data 
 + **food molecules**—which are basically nothing more than different arrangements of carbon, nitrogen, oxygen, phosphorus, and hydrogen atoms—**also interact with our genes, our metabolism, our microbiome, and our physiologic state**
 + **==protein==** becomes critically important as we age
@@ -197,21 +212,24 @@ with the goal to live a long AND healthy live.
 + extra virgin olive oil and high-MUFA? vegetable oils
 
 ### Diets rely on three strategies 
+
 #### CALORIC RESTRICTION, or CR: eating less in total
 
 #### DIETARY RESTRICTION, or DR: eating less of some particular element(s) within the diet (e.g., meat, sugar, fats) 
 
 #### TIME RESTRICTION, or TR: restricting eating to certain times
+
 * Usually a narrower window, such as 18/6 or 20/4, is needed to eke out enough of a caloric deficit.
 * sixteen hours without food simply isn’t long enough to activate autophagy
 * Time-restricted feeding is a way of putting the brakes on snacking and late-night meals
 
 ### On Alcohol
+
 + “empty” calorie source that offers zero nutrition value
 + drinking alcohol very often **leads to mindless eating**
 
-
 ## Sleep
+
 + **==giving ourselves permission to sleep==**
 + sleep is **critical to our innate physiological repair processes**, especially in the brain
 + poor sleep triggers insulin resistance, cognitive decline, mental health issues
@@ -230,6 +248,7 @@ with the goal to live a long AND healthy live.
 + Epworth Sleepiness Scale and Insomnia Severity Index
 
 ### Set up your environment for good sleep
+
 * **darkness**. Light is the enemy of sleep
 	* more interactive devices subjects used during the hour before bedtime, the more difficulties they had falling asleep and staying asleep—whereas passive devices such as TV, electronic music players, and, best of all, books were less likely to be associated with poor sleep
 * **keep your bedroom cool**—around sixty-five degrees Fahrenheit seems to be optimal
@@ -245,6 +264,7 @@ with the goal to live a long AND healthy live.
 * going to bed at least eight hours before you need to wake up, preferably nine
 
 ## Emotional Health
+
 + Emotional suffering can decimate our health on all fronts, and it must be addressed
 + Emotional health and physical health are closely intertwined
 + addiction can take many forms, not merely to drugs or alcohol. Often it is an outgrowth of some trauma that has happened in a person’s past
@@ -274,6 +294,7 @@ with the goal to live a long AND healthy live.
 + strong link to [[Notes from Neuro Resilience]] and [[Working With Emotional Intelligence - Daniel Goleman]]
 
 ### Mindfulness
+
 mindfulness, which gives you the ability to work through the other four: 
 * **emotional regulation** (getting control over our emotions), 
 * **distress tolerance** (our ability to handle emotional stressors), 
@@ -281,6 +302,7 @@ mindfulness, which gives you the ability to work through the other four:
 * **self-management** (taking care of ourselves, beginning with basic tasks like getting up in time to go to work or school)
 
 ## Notes on biomarkers
+
 + biomarkers related to metabolism
 	+ canary in the coal mine of metabolic disorder, is **==elevated insulin==**
 	+ uric acid, elevated homocysteine, chronic inflammation, and even mildly elevated ALT liver enzymes
@@ -289,15 +311,13 @@ mindfulness, which gives you the ability to work through the other four:
 + “premature” heart disease, elevated Lp(a) is the first thing I look for
 
 # Linking
+
 + 📖 [[Masterplan Gesundheit - Jörg Blech]]
 + [[MOC Vegan Living]]
 + [[My running list of 12 favorite problems]] (Nr 1 - healthy living)
 + [[Habit building]]
 
-
-
 ----
-
 
 [^1]: [[MOC Building a 2nd brain]]
 [^2]: Connect well with diffused more of learning [[MOC - Learning How to Learn#Week 1 - Focused and Diffuse Thinking]]

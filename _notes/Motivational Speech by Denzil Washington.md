@@ -1,13 +1,11 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Thursday, January 26th 2023, 4:53:57 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Motivational Speech by Denzil Washington
-
 
 [https://www.youtube.com/watch?v=EBGb40yh4SY](https://www.youtube.com/watch?v=EBGb40yh4SY)
 
@@ -73,4 +71,4 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 
 [Overcome Laziness, Be Self Discipline...](https://www.youtube.com/watch?v=RPIFNcn2p6A&t=0s)  
 
-[Listen to this Every Morning [ Best M...](https://www.youtube.com/watch?v=DTX88GJCqqI&t=0s)
+[Listen to this Every Morning [Best M...](https://www.youtube.com/watch?v=DTX88GJCqqI&t=0s)

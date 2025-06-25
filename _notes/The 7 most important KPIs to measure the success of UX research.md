@@ -4,16 +4,19 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
-date_created: Friday, August 19th 2022, 5:20:24 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # The 7 most important KPIs to measure the success of UX research
+
 ## Metadata
+
 * URL: [https://bootcamp.uxdesign.cc/the-7-most-important-kpis-to-measure-the-success-of-ux-research-dfc778a60e09](https://bootcamp.uxdesign.cc/the-7-most-important-kpis-to-measure-the-success-of-ux-research-dfc778a60e09)
 * Published Date: 2022-03-29
 * Author: [[Mohsin Khan]]
 
 ## Highlights
+
 * ==Key Performance Indicators are critical measures of progress toward an end goal.==
 * ==Time on task measures== how long it takes for a user to complete a task.
 	* The average time on task is usually communicated as the final KPI. The shorter the processing time, the better the user experience.

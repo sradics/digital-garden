@@ -3,10 +3,11 @@ tags:
 - epstatus/0-🌰
 - type/literature-note
 - digital_garden
-date_created: Friday, June 23rd 2023, 6:28:56 pm
-date_modified: Friday, June 23rd 2023, 7:53:45 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from AI and BASB by Tiago Forte
+
 [Source](https://building-a-second-brain.circle.so/c/replays-1ba411/)
 + Show up with your camera on and show as a human
 + Also helps to pay more attention
@@ -22,6 +23,7 @@ date_modified: Friday, June 23rd 2023, 7:53:45 pm
 	+ take 1-2 minutes to add your questions and additional 30'' to upvote the most important question
 
 ***
+
 *Nicely shows the explosion of capabilities*
 ![[Pasted image 20230623184408.png|400]]
 
@@ -38,6 +40,7 @@ date_modified: Friday, June 23rd 2023, 7:53:45 pm
 + What is one thing you took away?
 
 ## Great Chat GPT use cases
+
 + Comparing two items .. What are the major differences
 + Create Outlines
 ![[Pasted image 20230623195335.png]]
@@ -61,19 +64,18 @@ date_modified: Friday, June 23rd 2023, 7:53:45 pm
 + better ask AI to do something in steps: First do this, then do that,...
 + start with an initial response, ask for changes/improvements/clarificants and iterate
 	+ with other personas, difficulties, context extensions
-+ 
-
 
 ![[Pasted image 20230623213326.png]]
 
 ## Tools
+
 + Chat GPT
 + Lex - AI writing tool, like having an editor on my side
 + Midjourney
 + Adobe Firefly
 
-
 ## Space for knowledge management
+
 + Draw the context to feed AI
 + Save best responses AI provides
 + Store best prompts and tools
@@ -81,8 +83,7 @@ date_modified: Friday, June 23rd 2023, 7:53:45 pm
 + Knowledge databases are extremely useful input to AI
 + make PKM resources available to enhance intelligence and relevance of responses
 
-
-
 # Linking
+
 + [[MOC Building a 2nd brain]]
 

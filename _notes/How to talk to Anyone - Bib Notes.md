@@ -1,11 +1,10 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/2-🪴
 - type/literature-note
-date_created: Wednesday, January 4th 2023, 11:41:00 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:09
 ---
 # How to talk to Anyone - Bib Notes
 
@@ -29,6 +28,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 + Gestures: adopt and open and inviting posture with your palms facing outward
 
 ## Introduction
+
 + a smooth introduction gets a good conversation going
 + request if from a friend or host
 + have an icebreaker that makes it easy for people to get in contact with you. E.g. A special wearable
@@ -38,6 +38,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 + **know who in the group has a great story** and give that person a proper introduction
 
 ## Small talk
+
 * **prepare for inevitable questions**:
 	* Where are you from?
 	* What do you do?
@@ -47,6 +48,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 * avoid: revealing a secret unless the person is already impressed by you
 
 ## In relationships
+
 * be patient and allow them to complain and get out of their system
 * **don't leave a conversation hanging**
 * sometimes things are best left unsaid
@@ -56,6 +58,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 	* be thankful and appreciative
 
 ## Sounding professional
+
 + cut to the chase and **be direct** (connect to time to attention)
 + **==tell the client what you do for them==** (instead of just mentioning your job title)
 + **==reveal commonalities naturally==** embedded in a conversation
@@ -68,18 +71,21 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 + be the first one to applaud or speak up
 
 ## Prepare for meetings
+
 + **bush up your business jargon**
 + picture yourself smiling, making eye contact and practicing positive body language
 
 ## Phone skills
+
 + instead of nodding do "I'm so happy to hear that", "Please continue"
 + use their name more frequently
 + ask if it is a good time to talk
 
-
 ## Avoid
+
 + touching your face when you talk - it makes you seem less credible
 
 ## Linking
+
 * related book [[Your Network Is Your Net Worth]]
 * [[How To Talk To Anyone 92 Little Tricks - By - Leil Lowndes]]

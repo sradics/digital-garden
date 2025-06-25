@@ -1,14 +1,12 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
-date_created: Monday, June 6th 2022, 9:30:28 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # What is a desired outcome?
-
 
 The key shift we need to make to formulate desired outcomes is from **prescribing means** to **describing ends**.
 
@@ -30,6 +28,7 @@ Instead of “Deliver training manual” (a means), we want to ask “==What wil
 What tightly scoped projects with clear success criteria really do is **surface assumptions**. If you have a massive project taking up 80% of your time for the next 6 months, assumptions will only be revealed after the deadline has passed, and management or the client starts taking a hard look at what’s going on. By then, it’s way too late to take corrective action.
 
 ## Desired outcomes as Hypotheses
+
 The fundamental nature of goals has changed, from forecasting an outcome to _formulating a hypothesis that will yield maximum learning_.
 
 > [!example] 
@@ -46,5 +45,6 @@ Underlying questions for falsification:
 This kind of goal is _designed to be falsified_, just like a scientific hypothesis. Answering any one of the questions above will require shifting the goal, which is exactly the point. I want the goal to track changes over time, getting closer and closer to reality as completion gets nearer.
 
 # Linking
+
 + [[Good StrategyBad Strategy]]
 + [[MOC Continuous Discovery Habits]]

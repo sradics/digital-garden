@@ -3,8 +3,10 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Sunday, February 26th 2023, 4:54:25 am
-date_modified: Thursday, May 18th 2023, 6:15:54 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
+aliases: ["Women in Leadership - My key insights from joining a coaching pathway led by Katharina Loth "]
+linter-yaml-title-alias: "Women in Leadership - My key insights from joining a coaching pathway led by Katharina Loth "
 ---
 # [[Women in Leadership - My key insights from joining a coaching pathway led by Katharina Loth ]]
 
@@ -31,6 +33,7 @@ Transformation
 %%
 
 ## Brief overview on the pathway
+
 The coaching pathway consists of 3 main learning modules, surrounded by a Kick-Off and a session to Wrap up the course. It was organized as a cohort based format combined with preparations for each module.
 
 + Module 1 focussed on *Confidence* and *Gender Bias*
@@ -38,6 +41,7 @@ The coaching pathway consists of 3 main learning modules, surrounded by a Kick-O
 + Module 3 ❔
 
 ## Topic of Confidence
+
 > [!important] Key Insight
 > Confidence is the bridge between thoughts and actions. In addition to competence it needs confidence to get the job done.
 
@@ -52,7 +56,6 @@ Reflecting with that question in mind helps to surface blockers and fears that u
 > What do I want to put into action? 
 
 This question helps to gain clarity. Explicitly stating it and combining it with an understanding what is holding me back, provides concrete building blocks for my confidence bridge.
-
 
 > [!important] Key Insight
 > Be wise in picking people who can cheer me up. Provide special attention to how much I can rely on their mutual support.
@@ -84,10 +87,8 @@ I want to link that topic also to [[Mindset]] by Carol Dweck and [Osho - Being B
 
 ## Do want to learn more?
 
-
-
 # Linking
+
 + [[Leadership Coaching]]
 + [[9 Leadership styles]] 
-
 

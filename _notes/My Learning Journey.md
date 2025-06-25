@@ -3,11 +3,13 @@ tags:
   - digital_garden
   - 12_fav_problems/continuous_learning
   - epstatus/1-🌱
-date_created: Saturday, May 25th 2024, 5:01:18 am
-date_modified: Saturday, May 25th 2024, 5:01:33 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # My Learning Journey
+
 ## Courses
+
 + From Collector to Creator - [Nesslabs](https://nesslabs.com/) - [[MOC Collector to Creator Course by Anne-Laure Le Cunff]] (2024)
 + [The Five Lightbulbs Marketing](https://fivelightbulbs.com/) - Billy Broas - [[Intro to the course]] (2024)
 + [LinkedIn Accelerator](https://timqueen.com/linkedin-accelerator-program/) - Tim Queen - [[LinkedIn Profile Optimization]] (2024)
@@ -26,41 +28,47 @@ date_modified: Saturday, May 25th 2024, 5:01:33 am
 + [Project Management](https://www.coursera.org/professional-certificates/google-project-management#courses) - Coursera course by Google-  (2021) (6 months finished in 1 month)
 
 ## Summits
+
 + Mindvalley AI Summit - [[Notes from Day1 of the Mindvalley AI Summit 2023]]
 + Circle community Summit
 
 ## Communities
+
 + [Nesslabs](https://nesslabs.com/)
 + [AI Exchange](https://theaiexchange.com/)
 + [Circle](https://circle.so/)
 + [Agiler Senf COP](https://www.skool.com/agiler-senf)
 
 ## Books
+
 ### 2024
-+ [[Turchi-Maps of the Imagination| Maps of Imagination]] 💡
-+ [[Renk-Das Feierabend-Startup| Das Feierabend Startup]]
-+ [[DeMarco-The Millionaire Fastlane| The Millionaire Fastlane]] - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/the-millionaire-fastlane-en-mj-demarco)
-+ [[A.G. Lafley-Playing to Win| Playing to Win]] 💡 - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/playing-to-win-en-ag-lafley-and-roger-l-martin)
-+ [[David-erson-The Value Flywheel Effect| The Flywheel Effect]] 💡  
-+ [[Goggins-Cant Hurt Me| Can't hurt me]] - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/cant-hurt-me-en)
-+ [[MD-Outlive| Outlive]]  - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/outlive-en)
+
++ [[Turchi-Maps of the Imagination|Maps of Imagination]] 💡
++ [[Renk-Das Feierabend-Startup|Das Feierabend Startup]]
++ [[DeMarco-The Millionaire Fastlane|The Millionaire Fastlane]] - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/the-millionaire-fastlane-en-mj-demarco)
++ [[A.G. Lafley-Playing to Win|Playing to Win]] 💡 - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/playing-to-win-en-ag-lafley-and-roger-l-martin)
++ [[David-erson-The Value Flywheel Effect|The Flywheel Effect]] 💡  
++ [[Goggins-Cant Hurt Me|Can't hurt me]] - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/cant-hurt-me-en)
++ [[MD-Outlive|Outlive]]  - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/outlive-en)
 
 ### 2023
-+ [[Voje-Go-To-Market Strategist| Go to Market Strategist]] 💡
-+ [[Eric Schmidt-Trillion Dollar Coach| Trillion Dollar Coach]]  - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/trillion-dollar-coach-en) and great [Blinkist Guide](https://www.blinkist.com/en/app/guides/the-trillion-dollar-coach-s-leadership-formula-with-alan-eagle)
-+ [[Leonelle-Write Better, Faster| Write Better Faster]] 💡 
-+ [[Tonn-Ikigai Das Geheimnis der kleinen Dinge| Das Geheimnis der kleinen Dinge]]
-+ [[Helmer-7 Powers| 7 Powers]] -  [Blinkist Key Insights](https://www.blinkist.com/en/app/books/7-powers-en)
-+ [[Devlin-Introduction to Mathematical Thinking| Introduction to Mathematical Thinking]] 💡
-+ [[Raz-Never Split the Difference - DistillCopy| Never Split the Difference]] -  [Blinkist Key Insights](https://www.blinkist.com/en/app/books/never-split-the-difference-en)
-+ [[Mertens-Feldbausch-Das Original-Blutgruppenkonzept| Das Original Blutgruppenkonzept]] 
-+ [[Kurt Cagle-Agile 2| Agile 2]]
-+ [[Stockman-How to Shoot Video That Doesnt Suck| How to Shoot Video That Doesn't Suck]] 💡
-+ [[Kim-Blue Ocean Shift| Blue Ocean Shift]]  💡 -  [Blinkist Key Insights](https://www.blinkist.com/en/app/books/blue-ocean-shift-en)
-+ [[W. Chan Kim-Blue Ocean Strategy, Expanded Edition| Blue Ocean Strategy]]  - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/blue-ocean-strategy-en)
+
++ [[Voje-Go-To-Market Strategist|Go to Market Strategist]] 💡
++ [[Eric Schmidt-Trillion Dollar Coach|Trillion Dollar Coach]]  - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/trillion-dollar-coach-en) and great [Blinkist Guide](https://www.blinkist.com/en/app/guides/the-trillion-dollar-coach-s-leadership-formula-with-alan-eagle)
++ [[Leonelle-Write Better, Faster|Write Better Faster]] 💡 
++ [[Tonn-Ikigai Das Geheimnis der kleinen Dinge|Das Geheimnis der kleinen Dinge]]
++ [[Helmer-7 Powers|7 Powers]] -  [Blinkist Key Insights](https://www.blinkist.com/en/app/books/7-powers-en)
++ [[Devlin-Introduction to Mathematical Thinking|Introduction to Mathematical Thinking]] 💡
++ [[Raz-Never Split the Difference - DistillCopy|Never Split the Difference]] -  [Blinkist Key Insights](https://www.blinkist.com/en/app/books/never-split-the-difference-en)
++ [[Mertens-Feldbausch-Das Original-Blutgruppenkonzept|Das Original Blutgruppenkonzept]] 
++ [[Kurt Cagle-Agile 2|Agile 2]]
++ [[Stockman-How to Shoot Video That Doesnt Suck|How to Shoot Video That Doesn't Suck]] 💡
++ [[Kim-Blue Ocean Shift|Blue Ocean Shift]]  💡 -  [Blinkist Key Insights](https://www.blinkist.com/en/app/books/blue-ocean-shift-en)
++ [[W. Chan Kim-Blue Ocean Strategy, Expanded Edition|Blue Ocean Strategy]]  - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/blue-ocean-strategy-en)
 
 ### 2022
-+ [[Mayer-e-Learning and the Science of Instruction| e-Learning and the Science of Instruction]] 💡
+
++ [[Mayer-e-Learning and the Science of Instruction|e-Learning and the Science of Instruction]] 💡
 + [[Learning Agile]]  - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/learning-agile-en)
 + [[How to Take Smart Notes]]  - [Blinkist Key Insights](https://www.blinkist.com/en/app/books/how-to-take-smart-notes-en)
 
@@ -69,19 +77,23 @@ Full book list - [[Kindle]]
 ### Books in Blinks at Blinkist
 
 ## Express
+
 ### Presentation
+
 + Presentation about Agile 2 (2023)
 + Form continuous Discovery Habits - [[MOC Continuous Discovery Habits#A presentation about Opportunity Solution Trees]] (2023)
 + Presentation Agile and AI - [[Presentation Agile and AI]] (2023)
 + Presentation about Second Brain and AI at FU Berlin - [[Presentation Second Brain]] (2024)
 
 ### Group Coaching Pathways designed
+
 + Hybrid Teams
 + Woman in Leadership
 + Inclusive Allyship
 + Agile Foundations
 
 #### Sessions
+
 + Fostering a Confidence Mindset
 + Presentation Skills
 + Staying True to You
@@ -107,6 +119,7 @@ Full book list - [[Kindle]]
 + Efficiency & Productivity
 
 ### Workshops 
+
 + Winning with Hybrid Teams at Ella Forums (2024)
 + Smarter Learning, Sharper Skills (2024)
 + Master the Art of Feedback (2023)

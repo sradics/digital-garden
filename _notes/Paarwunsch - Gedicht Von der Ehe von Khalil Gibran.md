@@ -3,26 +3,22 @@ tags:
 - digital_garden
 - epstatus/3-🌳
 - type/permanent-note
-date_created: Wednesday, September 7th 2022, 8:48:29 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Paarwunsch - Gedicht Von der Ehe von Khalil Gibran
+
 Diese besonderen Zeilen wurden und von Anne und Christian als Teil unseres Hochzeitsgeschenks gewidmet.
 
 > [!tip] Love
 > Ihr wurdet zusammen geboren und ihr werdet auf immer zusammen sein.
 
-
 > [!tip] Love
 > Lasst die Winde des Himmels zwischen euch tanzen
 
-
 [Khalil Gibran - von der Ehe](https://www.zgedichte.de/gedichte/khalil-gibran/von-der-ehe.html)
 
-
-
 ## Von der Ehe
-
 
 ==Ihr wurdet zusammen geboren,==
 
@@ -59,5 +55,4 @@ Und steht zusammen, doch nicht zu nah:
 Denn die Säulen des Tempels stehen für sich,
 
 Und die Eiche und die Zypresse wachsen nicht im Schatten der anderen.
-
 

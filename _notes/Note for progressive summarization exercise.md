@@ -2,10 +2,11 @@
 tags:
   - digital_garden
   - epstatus/0-🌰
-date_created: Monday, May 26th 2025, 2:23:55 pm
-date_modified: Monday, May 26th 2025, 2:38:52 pm
+date_created: 2025-05-26 14:23
+date_modified: 2025-06-25 06:05
 ---
 # Note for progressive summarization exercise
+
 ## The Power of Progressive Summarization: Why This Technique Will Transform Your Knowledge Work
 
 In our information-saturated world, most knowledge workers face a common frustration: they consume vast amounts of content through books, articles, courses, and podcasts, yet struggle to access and apply this knowledge when they need it most. The traditional approach of highlighting everything or taking extensive linear notes often creates what productivity expert Tiago Forte calls "knowledge graveyards" - collections of information that become increasingly difficult to navigate as they grow.

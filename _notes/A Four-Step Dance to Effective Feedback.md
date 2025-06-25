@@ -4,9 +4,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
-date_created: Thursday, November 30th 2023, 6:20:32 pm
-date_modified: Thursday, November 30th 2023, 6:49:27 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
+# A Four-Step Dance to Effective Feedback
+
  A Four-Step Dance to Effective Feedback
 Feedback is a dance of communication where both the giver and receiver need to be in sync. It's not just about what you say, but also when and how you say it.  
   

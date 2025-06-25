@@ -3,9 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes from the Zoom Work Transformation Summit
+
 + transformative AI
 + took 3 months for 100m users to start using ChatGPT
 + speed of change increased heavily
@@ -26,6 +28,7 @@ tags:
 + many people use AI companion for summaries already
 
 ## CxO Panel notes
+
 + AI bots great, but it needs also the direct access to a real person
 + AI can help to make choices
 + personalize CX at Zoom
@@ -43,6 +46,7 @@ tags:
 + Sync with level of control you need over your data types
 
 ## Session 3
+
 + build a private GPT to have their private data in it
 + connected that with Slack
 + incubator program - for people to understand prompt engineering
@@ -57,6 +61,5 @@ tags:
 ![[02-Meeting Summary WTS Customer Experience Panel.pdf]]
 
 ![[01-Meeting Summary WTS Keynote.pdf]]
+
 # Linking
-
-

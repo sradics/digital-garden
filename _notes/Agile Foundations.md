@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:00:39 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Agile Foundations
 
@@ -39,6 +39,7 @@ Agile Learning Path in Blinkist and an iteration of a Agile Learning Path course
 Master
 
 ## Linking
+
 * [Agile - the fundamentals](https://www.ontheagilepath.net/articles/Refreshed%20Agile%20%20Scrums%20foundation%20%20between%20becoming%20an%20endangered%20mainstream%20buzzword%20and%20its%20evolut.pdf)
 * [NoEstimates](https://www.ontheagilepath.net/articles/Read%20the%20brilliant%20NoEstimates%20book%20by%20Vasco%20Duarte%20%20a%20must%20for%20being%20up%20to%20date%20regarding%20agility.pdf)
 + [Agility](https://www.ontheagilepath.net/articles/Agility%20to%20replace%20the%20diluted%20term%20Agile.pdf) (and the death of Agile)

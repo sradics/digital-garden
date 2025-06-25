@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/3-🌳
-date_created: Tuesday, October 11th 2022, 6:47:38 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Interview Questions Erdal
+
 [the interview was published by AgyleOS on October 12,2022](https://agyleos.com/post/an-agile-mindset-enables-impactful-leadership)
 
 *How would you explain agility in 1-2 sentences to someone who has no idea and no contact with agility?*
@@ -41,13 +42,9 @@ Are OKRs supporting strategy and alignment and would I recommend using them? Yes
 
 When the 12 agile principles are deeply embedded in the culture of an organization. 
 
-  
-
 *Is agility a leadership competency?*
 
 Agility, being able to respond effectively and efficiently to the unexpected and unplanned and quickly turn challenges into opportunities, is an important leadership competency. Being equipped with an agile mindset and skills to foster and drive agility enables impactful leadership that drives creating value for the customer and organization and people.
-
-  
 
 *What causes agile to fail?*
 
@@ -61,14 +58,13 @@ Agility crossed boundaries from its grassroots in being applied to Software Deve
 
 At the same time it became more complicated to navigate the agile landscape and figure out what contributes to agility and in what context to use what approach. 
 
-
 *What are the biggest challenges in agile these days?*
 
 Dilution. Many quite similar approaches are available and less consolidation and unlearning is taking place. 
 
 Stronger commercialization aspects make it more difficult to understand driving forces and motives and it became even more important to tie back to the core of agile.
 
-
 ## Linking
+
 + [[Agile Principles]]
 + [[What is Agile]]

@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Monday, May 15th 2023, 10:39:10 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Decision making with 6 thinking hats (De Bono)
+
 Work with the 6 hats *Data* (white), *Emotion* (red), *Risks* (black), *Optimism* (yellow), *Creativity* (green), *Process* (blue).
 
 1.  White hat - focuses on facts, figures, and information
@@ -17,6 +18,7 @@ Work with the 6 hats *Data* (white), *Emotion* (red), *Risks* (black), *Optimism
 6.  Blue hat - focuses on the big picture, managing the thinking process and facilitating group discussions.
 
 # Linking
+
 + [[Decision Making]]
 + [[Personal Systemic Coaching]]
 

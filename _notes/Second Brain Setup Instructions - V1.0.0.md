@@ -2,10 +2,13 @@
 tags:
   - digital_garden
   - type/permanent-note
-date_created: Friday, November 29th 2024, 9:32:34 am
-date_modified: Friday, November 29th 2024, 9:54:39 am
+date_created: 2025-04-28 08:05
+date_modified: 2025-06-25 06:05
+aliases: [Obsidian Second Brain Setup Instructions - V1.0.0]
+linter-yaml-title-alias: Obsidian Second Brain Setup Instructions - V1.0.0
 ---
 # Obsidian Second Brain Setup Instructions - V1.0.0
+
 It takes you 7 simple steps, doable in 5 minutes to open your Obsidian-Second Brain. I'll outline the 7 steps here for you. 
 
 1) Install [Obsidian](https://obsidian.md/) and please follow the installation instructions described by the Obsidian team.
@@ -33,7 +36,6 @@ Important! Pick the folder **MySecondBrain-1.0.0**, then open it.
 ![[Pasted image 20250428082105.png]]
 
 7) Have fun exploring the Second Brain. 
-
 
 Please let me know here if you might need help getting that setup. 
 

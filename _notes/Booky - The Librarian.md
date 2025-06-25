@@ -3,8 +3,8 @@ tags:
   - digital_garden
   - type/permanent-note
   - epstatus/1-🌱
-date_created: Wednesday, June 18th 2025, 5:24:54 am
-date_modified: Wednesday, June 18th 2025, 7:29:03 am
+date_created: 2025-06-18 05:24
+date_modified: 2025-06-25 06:06
 image: Pasted image 20250618073243.png
 ---
 # Booky - The Librarian

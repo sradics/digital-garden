@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-date_created: Tuesday, March 28th 2023, 9:43:39 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Thought around deep work - 2023-03-28
+
 Based on [[Notes from Das erschoepfte Gehirn]] I had some interesting thoughts during my sports session on Peloton. This is just to externalise thoughts...
 
 + Link between Second Brain and brain exhaustion is a great argumentation path for Building a Second Brain
@@ -18,7 +19,4 @@ Based on [[Notes from Das erschoepfte Gehirn]] I had some interesting thoughts d
 		+ Meditation
 	+ [[MOC Agile 2]] mentions the importance of deep work to solve complex problems. And also that in our current VUCA world it is quite difficult to do deep work
 
-
 # Linking
-
-

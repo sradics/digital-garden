@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
-date_created: Thursday, September 29th 2022, 7:02:48 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Product Strategy
+
 Source [Gerard Chiva in his book Product Roadmapping](https://leanpub.com/product-roadmapping-in-practice)
 
 A product strategy has the main focus on:
@@ -16,6 +17,7 @@ A product strategy has the main focus on:
 It gives a coherent response to an important challenge.
 
 ### Basic elements of the product strategy
+
 ==Challenge== - What are the challenges, problems, or obstacles your product faces?
 
 ==Market== - Where will you play? 
@@ -32,22 +34,27 @@ It gives a coherent response to an important challenge.
 ==Activities== - What management systems are necessary? What processes and structures?
 
 ## The Core of a strategy
+
 Taken from [[Good StrategyBad Strategy]]
 
 The core consist of the Challenge, Diagnosis, guiding policy and coherent actions.
 
 ### Diagnosis
+
 Defines the challenge. Identifies the critical aspects (obstacles) to focus on.
 
 ### Guiding policy
+
 Describes the general approach to address the obstacles identified in the diagnosis.
 
 ### Coherent Actions
+
 Coordinated steps to be taken to address the challenge aligned through the guiding policy.
 
-
 ## An example
+
 To a doctor, the challenge appears as a set of symptoms along with a history. The doctor makes a clinical diagnosis, identifying a pathology. The chosen therapeutic approach is the guiding policy of the physician. The doctor's specific prescriptions for diet, therapy, and medication are the set of consistent actions that need to be taken.
 
 ## Linking
+
 + [[MOC Strategy]]

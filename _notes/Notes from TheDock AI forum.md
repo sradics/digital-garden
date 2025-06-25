@@ -3,8 +3,8 @@ tags:
   - epstatus/0-🌰
   - type/literature-note
   - digital_garden
-date_created: Thursday, June 12th 2025, 4:15:32 pm
-date_modified: Thursday, June 12th 2025, 4:15:37 pm
+date_created: 2025-06-12 16:15
+date_modified: 2025-06-25 06:06
 ---
 # Notes from TheDock AI forum
 
@@ -52,8 +52,8 @@ Perhaps the most crucial theme is the focus on the people involved. The notes st
 - **New Skills:** The need for **employees to develop new skills**—not in coding, but in vision, delegation to AI, and **focusing on high-value, uniquely human tasks.**
 - **The Goal:** To "be more human" by **offloading repetitive work to AI, and to "build the organizational muscle to move super fast."**
 
-
 ## Topic Increase adoption
+
 ### 1. Leadership and Strategic Alignment
 
 **==Securing genuine buy-in from leadership==** is the critical first step. This isn't just passive approval; it requires leaders to actively participate. Key actions include:
@@ -95,8 +95,8 @@ To build momentum, the plan relies on tangible results and influential employees
 - **Establish a Mindset:** Cultivate an innovative culture where iteration and experimentation with AI assistants are the norm.
 - ==**Be Aware of Shadow IT==:** Acknowledge that employees may use unapproved tools and have a strategy to manage it.
 
-
 ## Topic Rollout plan
+
 ### Mindset
 
 This component focuses on preparing the organization's culture for a new way of working with AI. It's about proactively managing the human element of this technological shift. The key points are:
@@ -122,6 +122,7 @@ This component includes hands-on activities designed to actively engage employee
 - **Weekly Exploration:** Creating regular, informal meetings or forums where employees can share discoveries, new techniques, and best practices for using AI assistants, fostering a community of practice.
 
 ## Side notes
+
 - FF: on Claude XML assistant instruction
 - FF: Pylon for multi-source inbox and workflow integrations
 - FF: Work with an AI hub that visualizes AI usage in Langdock and beyond (build that fast with Loveable and some vibe coding connecting to the Langdock API)

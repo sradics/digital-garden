@@ -1,14 +1,15 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
-date_created: Saturday, June 4th 2022, 11:58:00 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:05
 ---
 # Para Blog by Tiago Forte
+
 ## Based on
+
 + Intro - [https://fortelabs.co/blog/para](https://fortelabs.co/blog/para)
 + Operations Manual - [https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/](https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/)
 + Building a random idea generator - [https://fortelabs.co/blog/p-a-r-a-iii-building-an-idea-generator/](https://fortelabs.co/blog/p-a-r-a-iii-building-an-idea-generator/)
@@ -19,10 +20,10 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 + Core principles - [https://fortelabs.co/blog/p-a-r-a-viii-core-principles/](https://fortelabs.co/blog/p-a-r-a-viii-core-principles/)
 
 ## Attribution
+
 Thanks to [Tiago Forte](https://fortelabs.co/) for the inspiration with your **Building a 2nd brain** movement and your rich set of description, your amazing book and all your love and efforts you put into this topic.
 
 ## PARA in a nutshell
-
 
 [[A perfect organizational system]]
 
@@ -33,7 +34,6 @@ Thanks to [Tiago Forte](https://fortelabs.co/) for the inspiration with your **B
 **Any outcome you’re committed to that requires more than one work session to complete.**
 
 ![[Small Batch Projects]]
-
 
 A project has a **goal** to be achieved — a discrete event that will happen, allowing this item to be completely checked off and struck from the list. And this goal is supposed to take place by a **specific moment in time**. It has a deadline or timeframe, whether externally or self-imposed.
 
@@ -46,6 +46,7 @@ Creating an accurate Project List gives you the confidence to say yes OR no to n
 Use the [[PARA Part 5_ The Project List Mindsweep - Forte Labs.pdf]] exercise to create the project list.
 
 ### Meta Data for the Project
+
 What is my [[What is a desired outcome?]] for this project? 
 What would need to happen for this project to be considered an outstanding success?
 
@@ -56,6 +57,7 @@ Phrase desired outcomes in the present tense, to help project yourself forward i
 - Project: Develop sales campaign with Linda => **Outcome**: Sales campaign is approved by exec team, budget is allocated, and team is briefed on it
 
 ## Project curation
+
 * Look over the whole list from a bird’s eye view: does it accurately represent your current priorities, interests, values, and long-term goals? 
 * In which area do you have too many projects? 
 * Not enough? 
@@ -64,6 +66,7 @@ Phrase desired outcomes in the present tense, to help project yourself forward i
 * For any that are simply unclear, take a step back and ask “What am I really trying to accomplish here?” or “What bigger goal is this connected to?”
 
 ## Area of responsibility
+
 Examples include: Health; Finances, Professional Development; Travel; Hobbies; Friends; Apartment; Car; Productivity; Direct reports; Product Development; Writing
 
 Can be spheres of activity you are responsible for in your job.
@@ -75,6 +78,7 @@ Areas, on the other hand, require mindfulness, balance, flow, and human connecti
 Areas of Responsibility are the **roles you take on in life** and the **hats you wear** (Spouse, Mother/Father, Team Leader, Soccer Coach), the **ongoing standards where the buck stops with you** (Product Development, Company Newsletter, Legal), and **things that take a certain amount of constant attention** (Exercise, Finances, Apartment, Pets).
 
 ## Areas vs projects
+
 -   Running a marathon is a project, whereas Health is an area
 -   Publishing a book is a project, whereas Writing is an area
 -   Saving 3 months’ worth of expenses is a project, whereas Finances is an area
@@ -94,9 +98,8 @@ Are you currently meeting the standard you’ve set for yourself in each of the 
 
 It’s much more important, in my opinion, to associate projects with their respective goals, rather than areas.
 
-
-
 ### Areas vs Resources
+
 There is a very clear line between things that you are _responsible_ for, and those that you’re merely _interested_ in.
 
 (Mental notes: So this means that having my Agile Area makes sense as I'm also responsible for it)
@@ -106,6 +109,7 @@ put **_personally relevant_** information in Areas, and **_generally useful_*
 **Example for Resources To Areas:** This flow would occur if you realized a piece of information in a resource notebook could apply to an area of responsibility in your life. Maybe you have a Recipes (resource) notebook, and realize that one of the recipes in it could come in handy for a new standard you’ve committed to, such as cooking healthier meals for your family (an area).
 
 ## Resource 
+
 a topic or theme of ongoing interest.
 
 Resources are **interests** (web design, crowdfunding, woodworking, frisbee golf, bio-hacking), **themes** (psychology, politics, leadership, integrity), and **assets** (stock photos, typography links, marketing swipe file, product testimonials, code snippets). I even use lower-case titles with resource notebooks, to remind myself that they are just interests, and capital letters for areas of responsibility.
@@ -131,6 +135,7 @@ Here are some good questions to ask yourself when considering whether to save so
 - Is this something that I’m **unlikely to find** in the future when I need it?
 
 ### Examples
+
 -   Book notes
 -   Excerpts from online articles
 -   Quotes
@@ -173,8 +178,8 @@ The first principle is that it **uses [[the magic number 4]] as a guidepost**. 
 
 ![[Just-In-Time Organization]]
 
-
 ### Core Principles
+
 1. Organize by actionability
 2. Organize opportunistically
 3. Move quickly, touch lightly
@@ -185,18 +190,23 @@ The first principle is that it **uses [[the magic number 4]] as a guidepost**. 
 8. Shallow hierarchies
 
 #### Organize by actionability
+
 see [[#Horizons of Actionability]]
 
 #### Organize opportunistically
+
 P.A.R.A. is designed to be bottom-up, avoiding expensive heavy lifts at all costs. This is to avoid doing upfront work of questionable value, to avoid sunk costs, and to remain as open as possible to changes in direction.
 
 #### Move quickly, touch lightly
+
 This keeps the investment in any given action low, nudging our organizational systems in a certain direction while avoiding total commitment.
 
 #### Controlled randomness
+
 P.A.R.A. demands precision in only one very specific place: the definition of projects. Everywhere else, fuzziness is not only allowed but encouraged. It recognizes that imposing order on information doesn’t always make it more valuable. The greatest breakthroughs are usually found in bizarre, unexpected, or counterintuitive connections. This requires a system that allows diverse ideas to mix together.
 
 #### Complex systems have to be grown, not made
+
 Gall’s Law, which states that “all complex systems that work evolved from simpler systems that worked.”
 
 Complex systems have to be grown slowly over time, because their interdependencies and variables are too complex to guess correctly the first time.
@@ -204,21 +214,23 @@ Complex systems have to be grown slowly over time, because their interdependenci
 This is why I avoid showing too much of my own system – it has grown to a certain level of sophistication over years. Going straight to this level of maturity would be counterproductive for any novice.  (this is also highly relevant for the introduction of agile)
 
 #### Focus on outcomes
+
 Everything in P.A.R.A. is subordinated to the outcome of getting things done.
 -   tying up tasks in a state that is easy to pick up again
 -   scheduling complex tasks and fitting others around them
 -   communicating progress to everyone who is depending on it
 -   always unblocking what is keeping you or others from moving forward
 
-
 #### Fail gracefully
+
 But in fact it can be seen as a strength: because P.A.R.A. is neither centralized nor decentralized, but _federated_, it doesn’t need to be perfectly maintained like a well-oiled machine. I’ve found that the folders can drift apart for _months_ with no real impact on my productivity.
 
 #### Shallow hierarchies
+
 Instead of getting shuffled to ever greater depths, where we lose sight of them, files are shuffled from actionable notebooks into the Archives.
 
-
 ## How things are connected
+
 We spend our days completing tasks, which are grouped naturally into projects, which fall under areas of responsibility.
 
 ![[Pasted image 20220605063946.png]]
@@ -226,6 +238,7 @@ We spend our days completing tasks, which are grouped naturally into projects, w
 ![[Pasted image 20220605064203.png]]
 
 ## Horizons of Actionability
+
 ![[Pasted image 20220606091315.png]]
 
 ### Working with Small-Batch projects
@@ -237,6 +250,7 @@ But information overload is not a feature of the external world. It’s not even
 The ability to accelerate project turnover simply by reducing the size of projects gives you the ability to produce novelty on demand, for even the most boring administrative tasks. If I encounter a project I’m resistant to, I simply keep making it smaller until the reward feels more tangible than the pain. This gives me control of the drumbeat of fulfilled deadlines, which I tune to maximize my sense of self-efficacy.
 
 ## Networks of projects
+
 Projected form a network with interfaces defined by [[What is a desired outcome?]]
 Theory of Constraints calls this a **[[Prerequisite Tree]]** or a **Necessary Condition Network**
 
@@ -247,6 +261,7 @@ Your projects _are_ the nodes in your personal productivity network. They are 
 If it’s unclear where a project begins and ends, it’s like an irregularly shaped, fuzzy node. Like Legos, not having a clean edge means it can never become a piece in a beautiful new creation.
 
 ## Recommended Sources
+
 [[Antifragile]]
 [[Seeing Like a State ]]
 [[Incomplete Nature]] 
@@ -254,5 +269,6 @@ If it’s unclear where a project begins and ends, it’s like an irregularly sh
 [[The Power of Habit]]
 
 ## Linking
+
 + [[PARA Method Notes]] (later integrate both notes)
 + [[MOC Building a 2nd brain]]

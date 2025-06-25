@@ -4,16 +4,19 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Wednesday, July 13th 2022, 7:55:16 am
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # How to detect the silent relationship killer before its too late
+
 ## Metadata
+
 * URL: [https://radreads.co/relationship-resentment/](https://radreads.co/relationship-resentment/)
 * Published Date: 2019-01-19
 * Author: [[Khe Hy]]
 
 ## Highlights
+
 * The [[The Seven Principles For Making Marriage Work - John Gottman]],
 	* intensity of relationship conflicts increases significantly
 	* fatigue makes it impossible to have an emotional connection
@@ -46,6 +49,6 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 * ==“I appreciate you.”==
 * ==Say it as often as possible. Just make sure you mean it. Just make sure you feel it.==
 
-
 # Linking
+
 + [[MOC 10K$ framework]]

@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
-date_created: Thursday, June 30th 2022, 5:03:05 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Change Management
+
 ## Topic
 
 Change Management
@@ -20,7 +21,6 @@ How can I implement a specific change in my system?
 ### Potential usages
 
 -   Get guidance on how to implement a change
-    
 
 ### My offer
 
@@ -35,12 +35,12 @@ Implementing changes.
 -   Certified Scrum Changer Manager
     
 -   Educated in Lean Change
-    
 
 ## My level of expertise
 
 Expert
 
 # Linking
+
 + [[Neuroscience of Change]]
 + [[Introduction to Change]]

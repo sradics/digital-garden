@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
-date_created: Thursday, June 30th 2022, 5:05:27 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Habit building
+
 ## Topic
 
 Building Habits
@@ -30,7 +31,6 @@ Sparring partner for thinking through your Habit Building Loops and challenge it
 -   Hook model book + summary
     
 -   Implemented several behavior changes for myself successful
-    
 
 ## My level of expertise
 

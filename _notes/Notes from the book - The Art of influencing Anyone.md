@@ -4,10 +4,11 @@ tags:
   - type/literature-note
   - digital_garden
   - publish_in_newsletter
-date_created: Thursday, November 2nd 2023, 4:09:29 pm
-date_modified: Thursday, November 2nd 2023, 4:10:11 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from the book - The Art of influencing Anyone
+
 Chapter 1: **Persuasion is** not about logical arguments but **about communication and appearance**. [Source](https://blinkist.com/nc/reader/the-art-of-influencing-anyone-en?chapter=1)
 - we put more faith in the things we want to hear.
 - **the person who was more engaging and was enthusiastic about what the boss wanted to hear**
@@ -69,5 +70,7 @@ Chapter 9: Final summary [Source](https://blinkist.com/nc/reader/the-art-of-infl
 - Be **surprising and controversial**.
 - When you approach customers, start your conversation with a surprising, humorous or even controversial one-liner to pique their curiosity.
 - 📖 Influence by Robert Cialdini
+
 # Linking
+
 + [[MOC Presentation and Public speaking]]

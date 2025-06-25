@@ -3,9 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-
+date_created: 2024-07-04 05:53
+date_modified: 2025-06-25 06:10
 ---
 # Advisor Role by Dr Alan Blanchard
+
 [Source](https://www.linkedin.com/posts/dralanbarnard_psychology-decisionmaking-solutions-activity-7214388273425629184-XCYQ?utm_source=share&utm_medium=member_desktop)
 ADVISOR.
 
@@ -15,7 +17,8 @@ Here's what you do:
 ➡️ Break down the problem into smaller parts and analyze each part objectively.
 ➡️ Formulate advice for yourself as if you were giving it to a friend. Write down the steps you would recommend.
 ➡️ Create an action plan based on this advice and commit to following through, treating each step as an objective task rather than an emotional hurdle.
-# Linking
-+ [[Theory of Constraints (TOC)]]
 
+# Linking
+
++ [[Theory of Constraints (TOC)]]
 

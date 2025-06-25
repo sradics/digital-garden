@@ -4,11 +4,13 @@ tags:
   - digital_garden
   - epstatus/0-🌰
   - 12_fav_problems/continuous_learning
-date_created: Monday, December 16th 2024, 5:00:17 am
-date_modified: Monday, December 16th 2024, 5:00:51 am
+date_created: 2024-12-16 05:00
+date_modified: 2025-06-25 06:06
 ---
 # I.M.P.A.C.T. for goals
+
 ### I.M.P.A.C.T. for goals
+
 [Source Graham Nicolls](https://www.linkedin.com/posts/grahamnicholls1_how-to-have-a-greater-impact-with-your-goals-activity-7274034211538223105-MQeU?utm_source=share&utm_medium=member_desktop)
 
 I = Immersive  

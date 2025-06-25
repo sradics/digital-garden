@@ -1,10 +1,9 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Monday, January 30th 2023, 1:10:29 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Transformation of the Agile Coach role
 
@@ -14,7 +13,6 @@ Organizations need **_good_** leaders: people who are effective at creating an
 
 requires making decisions, and it also requires coaching, mentoring, and supporting. It requires collaboration, inquisitiveness, and continuous learning
 
-
 **Rethink the kinds of leadership that are needed for your existing Agile roles** like Agile Coach, Scrum Master, and Product Owner. Make sure to include the kinds of **accountability** that the roles should have.
 
 Agile coaches today should learn more about leadership, and become leaders who understand agility, instead of Agile-role-this and Agile-role-that
@@ -22,6 +20,7 @@ Agile coaches today should learn more about leadership, and become leaders who u
 Servant leadership is only one mode of behavior that an effective leader uses  (connect to situational leadership)
 
 ## Correct narrative of Agile
+
 -   Phased software development does not usually work well.
 -   Business users often do not know what they want or need.
 -   It is almost impossible to fully design software up front.
@@ -35,6 +34,7 @@ Servant leadership is only one mode of behavior that an effective leader uses  (
 -   Continuously reflect and improve.
 
 ## Incorrect narratives of Agile
+
 -   A team must be completely autonomous.
 -   Multiple teams will self-organize.
 -   Most challenges pertain to team behavior.
@@ -48,14 +48,15 @@ Servant leadership is only one mode of behavior that an effective leader uses  (
 -   Structure prevents you from having effective collaboration across the organization.
 
 ## Problems with the Agile manifesto
+
 The Agile Manifesto is not a process, but its main flaw is that it is [so ambiguous](https://www.linkedin.com/pulse/agile-core-ideas-something-quite-right-cliff-berg/). It contains some short maxims, without explanation.
 
 ## Recommendations to people who run organizations
+
 And also great recommendations for evolving the Agile Coaches role.
 
-
-
 ## Thoughts
+
 -  Don’t look to the established Agile community for answers: their answers did not work.
 -  Forget about the Agile Manifesto: it’s fundamentally broken.
 -  Have people **read the Agile 2 book**. Yes, really: it is a much richer view of organizational agility. And read it yourself.
@@ -68,6 +69,7 @@ And also great recommendations for evolving the Agile Coaches role.
 -  Make sure you internalize these changes yourself: lead the way. Walk the talk. Visibly demonstrate the behaviors that you want people to have. Advocate for these changes, and go the distance.
 
 # Linking
+
 + https://agile2.net/
 + [[MOC Agile Learning Path]]
 + [Leadership Taxonomy](https://agile2.net/more-resources/a-leadership-taxonomy/)

@@ -1,12 +1,12 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Saturday, November 26th 2022, 5:50:54 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # My Wingfinder profile
+
 taken on 25.11.2022
 
 ![[talent-passport.pdf]]

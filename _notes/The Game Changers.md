@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Saturday, September 10th 2022, 12:01:02 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # The Game Changers
+
 [GameChangersMovie.com](https://gamechangersmovie.com/)
 
 [The Game Changers](https://www.imdb.com/title/tt7455754/) inspired me as a great source about sports and being vegan. I have been to one of the live cinema sessions in Berlin. For me the first time with standing ovations in a cinema. 
@@ -50,6 +51,7 @@ No differences in estrogen levels. (but chicken, diary increase estrogen, cortis
 Meat, diary,... need 83% of the farmland. Animals consume 6x more proteins than what they "produce". Needing huge amounts of waters. 2400l of embedded water for one hamburger. Water pollution. 15% of pollution. 
 
 ## Mentioned people
+
 + James Wilks (Marshal Arts figther)
 + Nate Diaz (Fighter)
 + Scott Jurek (Ultra Marathon runner)

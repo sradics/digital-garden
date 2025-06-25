@@ -3,9 +3,13 @@ tags:
   - epstatus/0-🌰
   - type/literature-note
   - digital_garden
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
+# You and your mind garden
 
 ## Metadata
+
 * URL: [https://nesslabs.com/mind-garden](https://nesslabs.com/mind-garden)
 * Author: Anne-Laure Le Cunff
 * Publisher: Ness Labs
@@ -13,6 +17,7 @@ tags:
 * Tags: 
 
 ## Highlights
+
 * **cultivating your curiosity** (the seeds), growing your knowledge (the trees), and producing new thoughts (the fruits).
 * “So plant your own gardens and decorate your own soul, instead of waiting for someone to bring you flowers.” — Jorge Luis Borges
 * Short notes, long notes—it doesn’t matter as much as writing your thoughts in your own words.

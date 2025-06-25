@@ -4,8 +4,8 @@ tags:
   - MOC
   - digital_garden
   - epstatus/1-🌱
-date_created: Wednesday, July 31st 2024, 2:31:21 pm
-date_modified: Wednesday, July 31st 2024, 2:31:41 pm
+date_created: 2024-07-31 14:31
+date_modified: 2025-06-25 06:10
 ---
 # MOC Forming Habits
 
@@ -20,5 +20,6 @@ date_modified: Wednesday, July 31st 2024, 2:31:41 pm
 + [[S01 Personal/030-039 Areas/Permanent notes/Hooked/Hooked|Hooked]]
 
 ## Visualize your new habit
+
 [Source](https://www.linkedin.com/posts/georgekaraan_how-to-stick-to-new-habits-activity-7224388935693590528-zi8q?utm_source=share&utm_medium=member_desktop)
 [[Visualize New Habits]]

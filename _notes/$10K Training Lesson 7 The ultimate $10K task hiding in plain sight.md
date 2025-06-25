@@ -4,16 +4,18 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Monday, July 11th 2022, 3:59:03 am
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # $10K Training Lesson 7 The ultimate $10K task hiding in plain sight
 
 ## Metadata
+
 * URL: [https://mail.google.com/mail/u/0/](https://mail.google.com/mail/u/0/)
 * Published Date: 2021-10-26
 
 ## Highlights
+
 * If we just ==get a little bit better each day, we'll reap tremendous long-term benefits==.
 * James Clear's category-defining book [[Atomic Habits - James Clear]]. 
 * Remember: your ==goals & ambitions ≠ habits==
@@ -59,5 +61,6 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 * Being even more public about your habits (via, Social Media) can make the costs of violating your promises public and painful.
 
 # Linking
+
 + [[MOC 10K$ framework]]
 + [[Habit building]]

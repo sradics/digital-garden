@@ -3,10 +3,11 @@ tags:
   - type/permanent-note
   - epstatus/0-🌰
   - digital_garden
-date_created: Friday, March 22nd 2024, 5:22:20 am
-date_modified: Friday, March 22nd 2024, 5:29:55 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # About Testosteron
+
 Source - ARD - about Testosteron
 
 + Steigert sich durch Gewinnen

@@ -3,10 +3,13 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Friday, March 3rd 2023, 5:41:58 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
+aliases: ["Memletics - Learning Model "]
+linter-yaml-title-alias: "Memletics - Learning Model "
 ---
 # [[Memletics - Learning Model ]]
+
 [Source](https://www.educationcorner.com/learning-styles.html)
 
 -   **Verbal** learners who learn best by speaking
@@ -17,6 +20,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 "According to the Memletics model, everyone has a mix of learning styles, and learning styles are not fixed (Advanogy.com, 2003)"
 
 # Linking
+
 + [[Lerntypen]]
 + [Learning Styles](https://www.educationcorner.com/learning-styles.html) (overview on VARK and Memletics)
 

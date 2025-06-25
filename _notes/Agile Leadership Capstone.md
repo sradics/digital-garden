@@ -4,15 +4,17 @@ tags:
   - type/literature-note
   - epstatus/1-🌱
   - publish_in_newsletter
-date_created: Friday, December 22nd 2023, 6:06:22 am
-date_modified: Friday, December 22nd 2023, 6:06:35 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Agile Leadership Capstone
+
 First 30 days to develop yourself, team and enterprise.
 
 [[f5fyZ3vrSBWX8md764gVKA_c5d5e1c12c3944bcbfde141e042071f1_Agile-Capstone-Job-Description.pdf]]
 
 ## Agile Transformation Map
+
 + Envision statement should not yet contain the How.
 + Envision statement is part of the workbook page 5.
 
@@ -22,18 +24,18 @@ For my personal transformation I will use my agility score as a way to measure m
 
 risks are not following through on my plan consistent commitment in other competing priorities of life. To mitigate these, I will commit to pre-planning my week, checking progress once a month. I will take the assessment once a month to get an updated agility score, and we will display my envision statement above my desk. Even if I get off track because of the things that come up in life, I can quickly get back to taking action and making progress towards my goal
 
-
 ![[HH7ysU6ySZu-8rFOskmbIA_9f8c323c1c2b4ef58858f131d3ac9e2d_Agile-Transformation-Map.pdf]]
-
 
 [Gantt Chart Tutorial](https://youtu.be/_u_jm1211D4)
 
 ## Creating a Product/Spring Backlog
+
 + Excel Sheet
 
 ![[Pasted image 20231222062438.png|500]]
 
 ## Course 2 - Envisioning
+
 What - Why - When
 
 + How would you want to feel when you don't have a choice and control over the change? 
@@ -52,18 +54,20 @@ employee survey scores, or agile knowledge ratings, or a number of Sprint's comp
 ![[Pasted image 20231222071724.png]]
 
 ## How to use a Rubric
+
 grading rubric is a grading guide that explains the expectations of your work and informs you of how your performance in the project will be judged. It consists of three major accounts, criteria, ratings, and your points.
 
 ![[Pasted image 20231222071938.png]]
 
 ![[ktSgeix8SsSUoHosfHrEcg_ba684405b9c947eaba39c769d9f19b5c_Agile-Capstone-Course-Project-Rubric.pdf]]
 
-
 # Certificate
+
 ![[Coursera TPLMEADARUZT.pdf]]
 
 ![[Coursera VHZNF3TAAH2J.pdf]]
 
 # Linking
+
 + ⬅ [[Agile Organisation]]
 + 🔼 [[MOC Agile Leadership Course]]

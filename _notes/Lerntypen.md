@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
-date_created: Wednesday, October 12th 2022, 5:09:44 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Lerntypen
+
 [source](https://www.linkedin.com/posts/trainergeheimnisse_onlinekursen-didaktik-lernarchitektur-activity-6985863836633305089-Vxda?utm_source=share&utm_medium=member_desktop) by [Michael Smetana](https://www.linkedin.com/in/trainergeheimnisse/)
 
 🦋 𝗪𝗔𝗥𝗨𝗠-Lerner: Die lernen am besten aus emotionalen Stories und praktischen Beispielen. Und zwar völlig egal, ob sie die hören, sehen oder selber erleben. Die brauchen zum Lernen erst mal einen guten Grund, WARUM sie sich überhaupt mit dem Thema beschäftigen sollen.  
@@ -17,8 +18,8 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
   
 🪞 𝗪𝗔𝗦𝗪𝗘𝗡𝗡-Lerner: Die brauchen zum Lernen den Austausch mit Gleichgesinnten, wo sie mögliche Anwendungen der neu gelernten Impulse entwickeln und deren Auswirkungen reflektieren können. Das kann über auditive Kanäle (z.B. plaudern) gehen - kann aber auch genauso gut über visuelle Kanäle (z.B. chatten) laufen.
 
-
 # Linking
+
 + [[MOC Building a 2nd brain]] - supports claim *Our brain is not for storing ideas but for having them*
 + [[Grow the top 10 skills 2025 by Building your Second Brain]] 
 - [ ] Check how that connects to the main skills

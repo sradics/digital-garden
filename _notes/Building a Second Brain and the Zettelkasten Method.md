@@ -4,12 +4,13 @@ tags:
 - type/literature-note
 - digital_garden
 - publish_in_newsletter
-date_created: Tuesday, July 18th 2023, 7:07:39 pm
-date_modified: Thursday, July 27th 2023, 7:13:22 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Building a Second Brain and the Zettelkasten Method
 
 ## Metadata
+
 * URL: [https://zettelkasten.de/posts/building-a-second-brain-and-zettelkasten/](https://zettelkasten.de/posts/building-a-second-brain-and-zettelkasten/)
 * Author: sascha
 * Publisher: zettelkasten.de
@@ -17,6 +18,7 @@ date_modified: Thursday, July 27th 2023, 7:13:22 am
 * Tags: 
 
 ## Highlights
+
 * Every form of self-management is an attempt to take a step towards this inner harmony.
 * Knowledge work is characterized by the fact that tasks are not given, but must first be recognized as such.4
 * but a preparation method of resources like articles, podcasts, and books for later use.

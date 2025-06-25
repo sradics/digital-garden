@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/3-🌳
-date_created: Friday, July 1st 2022, 4:42:19 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # BiBs Learning about Agile
 
@@ -190,6 +190,6 @@ Getting Up to Speed Quickly in Today’s Ever-Changing Sales World
 
 [Better than a summary “Agile Selling” book by Jill Konrath](https://blinki.st/135e30d2c55f?blinkspack=agile-selling-en)
 
-
 ## Linking
+
 + [[S01 Personal/030-039 Areas/32 Zettelkasten/Matter/Best Agile Books]]

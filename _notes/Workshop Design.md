@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:10:28 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Workshop Design
+
 ## Topic
 
 Designing a workshop
@@ -20,7 +21,6 @@ How can I build a workshop that leverages individuals and groups contribution in
 ### Potential usages
 
 -   When you design workshops for e.g. Team Development, Feedback, Retrospectives, Learning Sessions
-    
 
 ### My offer
 
@@ -35,7 +35,6 @@ Consultant in creating workshops for all kind of situations
 -   Audio Workshop with Audio Team
     
 -   Content Day preparation with Isabella, Ruth, Jonas
-    
 
 ## My level of expertise
 

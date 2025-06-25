@@ -3,9 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes from Webinar Convertkit and important changes in 2024
+
 + for BULK mail senders (everything more than 1:1)
 + changes starting from Feb 2024
 + Passing 
@@ -39,7 +41,6 @@ Under 5000 messages, you'll be taking a risk. (Google mentioned the 5000)
 
 postmaster.google.com
 
-
 ![[Pasted image 20240109203439.png]]
 
 * CNAME 
@@ -49,9 +50,4 @@ postmaster.google.com
 	* name: cka._domainkey.blinkist.com 
 	* value: dkim.dm-omxl17jm.sg1.convertkit.com.
 
-
-
-
 # Linking
-
-

@@ -4,25 +4,32 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Monday, July 11th 2022, 3:59:00 am
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
+aliases: [Linking]
+linter-yaml-title-alias: Linking
 ---
 ## Metadata
+
 * URL: [https://radreads.co/goals/](https://radreads.co/goals/)
 * Published Date: 2020-10-28
 * Author: [[Khe Hy]]
 
 ## Highlights
+
 * The bar gets set either too high or too low and the entire process becomes self-defeating.
 * ==BHAGs (aka Big Hairy Audacious Goals)==
 * BHAGs have the following attributes: ==* 50-70% of success * 10-30 year horizon * Requires vision== (over tactics and strateg
+
 ### how goals help you
+
 + ==Direct attention==: They focus your effort toward goal-relevant activities and away from goal-irrelevant activities. 
 + ==Get energized==: Having goals lets you direct more effort towards their completion. 
 + ==Plan deliberately==: Individuals develop strategies that enable them to attain goals.
 * Planning: You download a training schedule (planning) * Execution: You start running * Accountability: There’s a social penalty for not completing them
 
 ### The case AGAINST goals
+
 * They are ==at odds with long-term progress== 
 * They ==restrict your happiness== 
 * They ==rob you of the present moment== 
@@ -46,6 +53,7 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 * And did you notice how our goals sneakily became habits?
 
 # Linking
+
 + [[MOC 10K$ framework]]
 + [[Set project goals]]
 + [[Midjourney V6 prompts examples/030-039 Areas/37 Product/37.06 Goal setting/How to set goals (that actually work)]]

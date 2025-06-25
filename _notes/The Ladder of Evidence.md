@@ -2,13 +2,15 @@
 tags: 
 - digital_garden
 - epstatus/1-🌱
-date_created: Tuesday, October 25th 2022, 3:09:33 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # The Ladder of Evidence
+
 Generate high value learning in your customer interviews.
 
 ## Key takeaways
+
 + Avoid asking speculative questions (like Why... or What they would do)
 + ==Ask for specific stories from the past==. This creates the richest insights.
 + **Look for evidence of ACTION to evaluate the solution**. Simulate and **let them take action**.
@@ -23,7 +25,7 @@ People are telling you much more when you **ask them about a specific moment and
 
 ==*Ask them to show you what they did*==: Is great when you can compare to an already existing solution (from a e.g. a competitor). Observe them in their real life experience.
 
-
 ## Linking
+
 + [[Continuous Interviewing extract from CDH insights]]
 + [[MOC Continuous Discovery Habits]]

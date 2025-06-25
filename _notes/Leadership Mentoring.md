@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
-date_created: Thursday, June 30th 2022, 5:06:21 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Leadership Mentoring
+
 ## Topic
 
 Leadership Mentoring
@@ -16,7 +17,6 @@ Leadership Mentoring
 ### Potential usages
 
 -   connected with Coaching + adding tools and discussing solutions to problems
-    
 
 ### My offer
 

@@ -4,10 +4,11 @@ tags:
   - digital_garden
   - 12_fav_problems/wealth
   - epstatus/0-🌰
-date_created: Sunday, May 12th 2024, 9:26:06 pm
-date_modified: Monday, May 13th 2024, 11:45:13 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Fastlaner Key Insights
+
 ## Fastlaner Key Insights from 'The Millionaire Fastlane' by MJ DeMarco
 
 **Wealth Formula: Wealth = Net Profit + Asset Value**
@@ -45,5 +46,6 @@ Fastlaners focus on creating scalable businesses and systems that generate signi
 30. Preparing for business succession or exit strategies.
 
 # Linking
+
 + [[DeMarco-The Millionaire Fastlane]]
 + [[MOC Becoming a Fastlaner]]

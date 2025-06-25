@@ -1,10 +1,9 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/1-🌱
-date_created: Thursday, February 16th 2023, 6:40:47 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Top 10 Skills of 2025
 
@@ -24,6 +23,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 + Reasoning, problem solving and ideation
 
 ## Details
+
 ![[Pasted image 20230216071133.png]]
 
 ![[Pasted image 20230216071210.png]]
@@ -31,7 +31,6 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 ![[Pasted image 20230216071259.png]]
 
 ![[Pasted image 20230216071320.png]]
-
 
 ![[Pasted image 20230216065100.png]]
 
@@ -48,8 +47,8 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 [Source](https://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf)
 ![[WEF_Future_of_Jobs_2020.pdf]]
 
-
 # Linking
+
 + [[21 Important Skills]]
 + [[Leadership Coaching]] and [[Personal Systemic Coaching]]
 + [[MOC Building a 2nd brain]]

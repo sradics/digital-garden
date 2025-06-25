@@ -4,11 +4,13 @@ tags:
   - type/literature-note
   - epstatus/1-🌱
   - publish_in_newsletter
-date_created: Monday, December 18th 2023, 7:40:54 am
-date_modified: Monday, December 18th 2023, 7:41:03 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Neuroscience of Change
+
 ## Survival system
+
 + Amygdala - fight or flight response
 	+ [[Fight, Flight and Freeze stress response]]
 	+ processing anxiety
@@ -23,6 +25,7 @@ date_modified: Monday, December 18th 2023, 7:41:03 am
 [[AgileWorkbook.pdf]]
 
 ## Seeking System
+
 Maslow Pyramid of needs
 ![[Pasted image 20231218075245.png]]
 
@@ -30,6 +33,7 @@ Maslow Pyramid of needs
 - [Motivation at work according to Maslow](https://youtu.be/J_Ri9uy878E)
 
 ### Survival systems
+
 + Dopamine - pleasure
 
 ![[Pasted image 20231218075739.png]]
@@ -72,8 +76,8 @@ Panksepp identified seven primary emotional systems in the brain:
     
 - **RAGE and Esteem/Safety Needs**: The RAGE system may be activated when an individual's esteem is threatened or when there is a direct threat to their safety.
 
-
 ## Conditioning
+
 + Choice
 + Environmental conditional
 + Participation
@@ -81,13 +85,16 @@ Panksepp identified seven primary emotional systems in the brain:
 Deconstruct your own conditioning
 
 ## Mirror Neurons
+
 Understand, immitate and relate with others
 Be aware of loading fear from others on yourself
 
 ## Negativity Bias
+
 Negativity bias refers to the human tendency to place far greater significance on negative events, emotions or information.
 
 # Week 2 - Taking Action
+
 + Develop and Deepen self awareness
 	+ through reflection on actions from me and others
 + It is a journey
@@ -95,6 +102,7 @@ Negativity bias refers to the human tendency to place far greater significance o
 + Work with handwriting for reflection - this enables more brain areas and leads to higher creativity
 
 ## Envisioning
+
 + envision end goal by answering *What*, *Why*, *By when*
 + What do I want?
 + How do I want to deal with uncertainty?
@@ -103,9 +111,11 @@ Negativity bias refers to the human tendency to place far greater significance o
 + Do this via a self writing exercise on What, Why, When with shortlisting after brainwriting
 
 ## Deconstructing Fears
+
 + face your fears and your connecting with these fears to avoid sabotaging your goals
 
 ### Mind Mapping
+
 + around my beliefs and associations to change, what words about change come to my mind
 + Note: I can do that with Excalidraw
 + does not have an order
@@ -117,6 +127,7 @@ Negativity bias refers to the human tendency to place far greater significance o
 	+ pick the associations that you want to replace and find replacement words or short phrases
 
 ### Worst Case Scenario - WCS modeling
+
 + do it in writing
 + reflect on a change that is causing a discomfort
 	+ what will happen in the worst scenario of this change
@@ -126,7 +137,9 @@ Negativity bias refers to the human tendency to place far greater significance o
 	+ 📖 Man's search for Meaning by Victor Frankl
 
 # Week 3 - Building a new Mindset
+
 ## Stories we tell ourselves
+
 Negative stories we tell ourselfes:
 + victim - it is not my fault
 + helpless - nothing I can do about it
@@ -138,12 +151,14 @@ Ask: Is it a story or a fact?
 [[AgileWorkbook_V2.pdf]]
 
 ## Agile Leader Mindset
+
 + Growth Mindset (Linking: [[From fixed mindset to growth mindset- the complete guide|From fixed mindset to growth mindset- the complete guide]] )
 + Empower teams - also via delegation
 + Observation, experimentatoin and innovation
 + servant leadership role
 
 ## Habit Forming
+
 + [[Atomic Habits - James Clear]]
 
 ![[Pasted image 20231220061649.png|300]]
@@ -159,10 +174,12 @@ Ask: Is it a story or a fact?
 	+ time to develop a habit between 18 - 254 days
 
 ## Reframing
+
 + for changing the narrative
 + access the situation from different angles (Note: use ChatGPT for getting different ideas on looking at a situation from different angles)
 
 ## Anchoring
+
 + NLP tool
 + Maslow Dog
 + e.g. with a moment you achieved something great through a change you made ... recap emotions, situations, how did I feel, voice, smile, behavior
@@ -171,6 +188,7 @@ Ask: Is it a story or a fact?
 	+ get into peak state, set the anchor - and repeat several times
 
 ## PDSA Cycle
+
 + Plan-Do-Study-Act
 
 ![[Pasted image 20231220063606.png|300]]
@@ -178,9 +196,10 @@ Ask: Is it a story or a fact?
 + add a tracking
 ![[Pasted image 20231220063813.png|200]]
 
-
 # Week 4 - Leader Self Care Practices
+
 ## Positive Psychology
+
 + Martin Seligman - main figure of positive psychology
 + focus on things that make us flourish - happiness, gratitude, resilience
 + PERMA model  - to achieve a fulfilling live
@@ -191,6 +210,7 @@ Ask: Is it a story or a fact?
 	+ Accomplishment
 
 ## Your source of energy
+
 + to P+E of the Perma Model
 	+ look at introvert, extravert and ambivert classification
 + What are my sources of energy?
@@ -199,11 +219,13 @@ Ask: Is it a story or a fact?
 + [What is ambivert](https://www.scienceofpeople.com/ambivert/)
 
 ## Stillness
+
 + shifting to observing mode - mindfulness and meditation
 + guided meditation, timed meditation, Zen-sitting, transcendental meditation
 + Insight Timer app
 
 ## Reflection
+
 + acknowledge and process our thoughts and experiences
 + 3 types of reflection
 	+ awareness building
@@ -223,6 +245,7 @@ Ask: Is it a story or a fact?
 + Use journaling and handwriting daily
 
 ## Gratitude
+
 + consistently recognize the positives in our lives
 + What can I be grateful for?
 + Some techniques:
@@ -233,20 +256,24 @@ Ask: Is it a story or a fact?
 	+ set a reminder in your calendar to pause and feel gratitude
 
 # Week 5
+
 + want, get to
 
 ## Overcoming pitfalls
+
 + not having enough time
 + accountability to ourself or making a pact with someone
 + lack of commitment to the process
 
 ## Daily rituals
+
 + pay attention to our habits
 + reflection, stillness, gratitude
 + 📖 Mini Habits - Steven Guise
 	+ take tiny steps each day
 
 ## Power of Association - pleasure and pain
+
 + link pain to something you want to remove and pleasure to something to establish
 + pain:
 	+ what it the long term implication of a behavior
@@ -257,13 +284,17 @@ Ask: Is it a story or a fact?
 	+ how will my life improve as a result of this change in 1, 5, 10, and 20 years
 	+ What will I gain by changing? 
 	+ What could I achieve if I change this belief?
+
 ## New experiences
+
 + engage in new experiences
 
 # Certificate
+
 [[Coursera DRFTKP36SAWV.pdf]]
 
 # Linking
+
 + ⬅ [[Introduction to Change]]
 + ➡ [[Developing a Team]]
 + 🔼 [[MOC Agile Leadership Course]]

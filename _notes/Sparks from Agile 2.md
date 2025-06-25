@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-date_created: Sunday, March 19th 2023, 12:16:39 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Sparks from Agile 2
+
 + Investigate Socratic leadership (and socratic discussion) --> [[Socratic Leadership]]
 + Detail different form of leadershio. Especially interesting Druckers inside person, outside person and someone to get things done - [[Agile 2 and Leadership]]
 	+ nice linking with mission command -- I guess that this was also connected to team of teams (need to check for the military link here) [[Agile 2 and Leadership#Mission Command]]
@@ -45,5 +46,3 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + Understanding Feedback loops and working with complex systems 
 
 # Linking
-
-

@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Monday, October 24th 2022, 6:41:07 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Swarm Stupidity
 
@@ -31,6 +31,7 @@ many companies aim to grow more, often more than double the market growth … wh
 **middle management – lost in the middle, without real power to protest up the hierarchy and pacify statements down the hierarchy.**
 
 ## Swarm intelligence
+
 - a team of ==**people who share a common purpose** and **joy of working together**== **towards their common goal** – it is a changing swarm of enthusiasts (who would like to leave – leaves … who would like to join – joins)
 - no side interests, no personal fights
 - when the original problem is solved – the swarm dissolves and everyone goes their own way – new problem – new swarm
@@ -38,6 +39,7 @@ many companies aim to grow more, often more than double the market growth … wh
 - (seeing) **the whole is giving power** to everyone involved
 
 ## Brilliant simplicity (not stupid simple)
+
 ![](Aspose.Words.7b83db3b-18cb-4539-9523-08e8b5fb6edb.006.png)
 
 - **to explain** something one can **either dumb it down** OR **use examples and explaining pictures** to describe it in a brilliant simple way
@@ -51,6 +53,7 @@ many companies aim to grow more, often more than double the market growth … wh
 - the **brilliantly simple is beautiful and clear**. It is simple to explain. It stands for honesty, openness, unsuspiciousness, innocence, straightness and missing unnecessary redundancy.
 
 ## Meetings
+
 There are heavy flaws in todays meeting culture
 
 - **we rarely talk about work** but just coordinate who does what and until when (and everyone is annoyed)
@@ -62,7 +65,7 @@ making working together afterwards even more harmful
 + through their daily stress in their regular work **meeting participants often are not prepared** (or just rushed in creating a presentation by paste and copy using previously held presentations)
 + the **brilliantly simple nearly never gets a chance in rushed meetings** – the **simple stupid wins against the simple excellent solutions** – **SWARM STUPIDITY**
 + conflict of interests, positioning, regulations, reporting needs, documentation needs, quality controls and status
-+ **all stay in their narrowed perspective** on the picture fragment and the group does [not see the whole picture (see the picture below and the nice story – 6 blind men and the elephant) – good companies discuss WHAT is an elephant? And what is ](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)a bigger, faster elephant?
++ **all stay in their narrowed perspective** on the picture fragment and the group does [not see the whole picture (see the picture below and the nice story – 6 blind men and the elephant) – good companies discuss WHAT is an elephant? And what is](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)a bigger, faster elephant?
 
 ![](Aspose.Words.7b83db3b-18cb-4539-9523-08e8b5fb6edb.008.jpeg)
 
@@ -72,6 +75,7 @@ Who knows what is the goal of that meeting?
 - in opposition to swarm intelligence – **not the experts and best in an area get together** but often the same recurring people in middle class level regarding the problem to solve
 
 ## Unrealistic targets
+
 - **too tough (and unrealistic) targets create stress, pressure, conflicts, errors and chaos** – in the end one is even not achieving far more simpler goals
 - If one tries to reach something that is far out of range (and one is blind seeing that it is)
 	- one often tries to do more of the same
@@ -93,6 +97,7 @@ Unrealistic targets lead to:
 + more hours … more stress … one is getting the victim of the problem
 
 ## Too high load
+
 + don’t aim for full resource utilization
 - simple formula from [queueing theory](https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Queueing): expected number [customers|people] = utilization / (1-utilization)  … if you e.g. aim for 92% utilization you get 0,92/ (1-0,92)
 - 11,5 people on average in the queue and expected length of waiting people = utilization \* expected number of people = 0,92 \* 11,5 = 10,58 people waiting on average.  (in opposition to 4,81 people waiting when utilization goes down to 85%).
@@ -114,12 +119,12 @@ Control points everywhere
 + and even worse – that kind of work to aggregate numbers is something most people hate to do
 + **mostly dominated top down** – that new kind of work leads to a shift to finding numbers and excuses – instead of working on something meaningful for the product
 
-
 ## Follow up
 
 [Watch Video At: https://youtu.be/rc37ov1iVFQ](https://youtu.be/rc37ov1iVFQ)
 
 # Linking
+
 + [[Leadership Coaching]]
 + [[Facilitation]]
 + [[My spiky points of view]]

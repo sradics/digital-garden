@@ -1,13 +1,15 @@
 ---
-aliases: 
+aliases: [Forte Labs - Theory of Contraints Blog Series]
 tags: 
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Monday, June 6th 2022, 3:58:05 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2025-06-15 21:03
+date_modified: 2025-06-25 06:05
+linter-yaml-title-alias: Forte Labs - Theory of Contraints Blog Series
 ---
 # Forte Labs - Theory of Contraints Blog Series
+
 [Source](https://fortelabs.co/blog/theory-of-constraints-101-table-of-contents/#.qtqvp9fnv)
 
 **every system has one bottleneck tighter than all the others**, in the same way a chain has only one _weakest_ link.
@@ -23,6 +25,7 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ![[Pasted image 20220606160301.png]]
 
 ## The illusion of local optima
+
 [https://fortelabs.co/blog/theory-of-constraints-102-local-optima/](https://fortelabs.co/blog/theory-of-constraints-102-local-optima/)
 
 > [!danger] 
@@ -43,6 +46,7 @@ Meanwhile, the same situation is going on in the downstream work centers: they f
 ![[Pasted image 20220606161109.png]]
 
 ## The Four Fundamental principles of Flow
+
 [https://fortelabs.co/blog/theory-of-constraints-103-the-four-fundamental-principles-of-flow/](https://fortelabs.co/blog/theory-of-constraints-103-the-four-fundamental-principles-of-flow/)
 
 ![[Pasted image 20220606161859.png]]
@@ -59,20 +63,22 @@ The processing rate of the bottleneck, strategically placed buffers, and the tim
 In all these creative fields, work moves not through the sequential, linear flow of an assembly line, but the even more rigid, even more linear flow of time.
 
 ## The Five focussing steps
+
 [https://fortelabs.co/blog/theory-of-constraints-106-the-five-focusing-steps/](https://fortelabs.co/blog/theory-of-constraints-106-the-five-focusing-steps/)
 
 ### IDENTIFY THE CONSTRAINT
+
 [https://fortelabs.co/blog/theory-of-constraints-107-identifying-the-constraint/](https://fortelabs.co/blog/theory-of-constraints-107-identifying-the-constraint/)
 The reassuring truth is that you don’t have to identify it perfectly from the very beginning. This is a self-correcting process, not a waterfall where small errors in the beginning become huge mistakes by the end. The advantage of working with a dynamic, interconnected system is that it responds very quickly to changes. The behavior of the system tells you whether you chose correctly.
 
 Instead of collecting vast amounts of data on every aspect of the business, we make our best guess as to where the constraint lies, and let reality be our guide. Instead of spending vast amounts of time making a detailed plan covering every contingency, we acknowledge that we don’t have answers, only hypotheses.
-
 
 ![[Pasted image 20220606165006.png]]
 
 ![[Pasted image 20220606165049.png]]
 
 #### Steps
+
 **First, you have to make work-in-progress visible**. Because information work doesn’t usually have a physical manifestation, much of modern productivity starts with making it tangible: kanban boards, gantt charts, burndown charts, to do lists, calendars, and timesheets create visual displays where workloads and progress can be evaluated more easily.
 
 **Second, look for the most scarce resources**. At an individual level, look for those tasks on your calendar or to do list that get repeatedly pushed back and rolled over. These tend to be tasks that require certain types of resources — skills, states of mind, tools, blocks of time, or the presence of others — that are in short supply. If your personal constraint is dedicated focus time, for example, then tasks that require such time will accumulate and get delayed, an experience familiar to many.
@@ -90,6 +96,7 @@ A freakishly dysfunctional machine would quickly collapse under the laws of phys
 It is not difficult at this point to convince everyone that their job is to do whatever it takes to maximize the constraint’s productivity, instead of working as many hours as possible.
 
 ### OPTIMIZE THE CONSTRAINT
+
 [https://fortelabs.co/blog/theory-of-constraints-108-optimizing-the-constraint/](https://fortelabs.co/blog/theory-of-constraints-108-optimizing-the-constraint/)
 
 Before adding capacity, we need to use the capacity we already have. “Optimize” in this sense means “doing everything possible to use the constraint to its fullest capacity.”
@@ -114,9 +121,8 @@ For knowledge work, this could include everything from clean, visually pleasing 
 [**Andon**](https://en.wikipedia.org/wiki/Andon_%28manufacturing%29)**: how can we make it easier and faster for constrained resources to surface and solve problems?**
 Andon is really about creating a culture that treats problems as “jewels to be treasured,” not mistakes to be hidden or blamed on someone.
 
-
-
 ### SUBORDINATE THE NON-CONSTRAINTS
+
 [https://fortelabs.co/blog/theory-of-constraints-109-the-psychology-of-subordination/](https://fortelabs.co/blog/theory-of-constraints-109-the-psychology-of-subordination/)
 The job of all non-constraints is to subordinate their decisions to the constraint’s needs. They should optimize for constraint (and thus system) performance, not their own individual performance
 
@@ -132,34 +138,40 @@ Another example of subordination is **expediting**. It is a decision to subordi
 When a non-constraint overproduces and piles up a bunch of knowledge work inventory in front of a constraint, it is like a grocery store supplier piling up a mountain of ice cream tubs outside the freezer because they didn’t bother to find out how much capacity it had. When this ice cream melts (the ideas and requirements become outdated), the entire cost of producing them (researching, analyzing, updating, reviewing, summarizing, etc.) has to be written off as operating expense, instead of counted as investment.
 
 ### ELEVATE THE CONSTRAINT
+
 [https://fortelabs.co/blog/theory-of-constraints-110-elevating-the-constraint/](https://fortelabs.co/blog/theory-of-constraints-110-elevating-the-constraint/)
 Only once we’ve completed the previous steps does it make sense to add more constraint capacity, and thereby increase system performance. Because adding capacity is tremendously expensive in terms of time and money, we do it as a last resort, not a first resort.
 
 #### TRACKING PERFORMANCE DATA
+
 Your goal is to identify and then fix the top sources of lost time using cross-functional teams.
 
 #### Reviews
+
 The Lean technique of Poka-Yoke (definitely the best Japanese Lean term, by the way) advises building defect detection and prevention into the equipment itself. This would be the modern equivalent of advising people to choose stronger passwords right when they’re creating an account.
 
 #### SETUP REDUCTION
+
 Automating deployment, integration, and testing for software programmers, or using templates or style guides for designers.
 
 #### UPDATES/UPGRADES
+
 This could include proactively scheduling updates and upgrades to avoid unnecessary downtime
 
 #### INCREASE CAPACITY
+
 Note that the economics of doing so are completely different than for the typical hire: it makes sense to hire even extremely expensive or extremely unproductive resources, because every unit of capacity at the constraint is worth the throughput of the whole organization. But because adding any capacity is extremely expensive in terms of time and money, we do it as a last resort, instead of a first resort.
 
 #### Resolve POLICY CONSTRAINTS
 
 #### PARADIGM CONSTRAINTS
+
 They are the blindspots and the assumptions, the worldviews and the filters that enable, but also limit, our view of reality.
-
-
 
 ### RETURN TO STEP 1
 
 ## Balance Flow, Not Capacity - Drum Buffer Rope
+
 [https://fortelabs.co/blog/theory-of-constraints-104-balance-flow-not-capacity/](https://fortelabs.co/blog/theory-of-constraints-104-balance-flow-not-capacity/)
 
 How do we operate the system to achieve maximum throughput?
@@ -178,7 +190,6 @@ Therefore, we must ensure that the bottleneck never goes idle for any reason. Th
 
 ## Critical Chain project management
 
-
-
 ## Resources
+
 [[The Goal]]

@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - fastlane
-date_created: Thursday, February 9th 2023, 5:20:28 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # 9 Leadership styles
+
 ![[Bildschirm­foto 2023-02-09 um 17.12.40.png]]
 
 1. How many types of leader are you?
@@ -15,7 +16,5 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 
  3. What do you want to be more of and/or less of?
 
-
 J.Ashton
-
 

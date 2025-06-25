@@ -3,6 +3,8 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # AI People Directory with important drivers
 
@@ -17,8 +19,4 @@ Source: [[Tiago Forte AI workshop slides]] (Slide 45)
 - [Ben’s Bites newsletter](https://www.bensbites.co/) *subscribed to newsletter*
 - [Not A Bot newsletter](https://www.google.com/search?q=not+a+bot+newsletter&oq=not+a+bot+new&aqs=chrome.0.0i512j69i57j0i390i650l3j69i60.2953j0j4&sourceid=chrome&ie=UTF-8)
 
-
-
 # Linking
-
-

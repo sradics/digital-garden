@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Thursday, April 20th 2023, 9:34:03 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Creating a flow of energy
+
 ## Creating an energy flow
 
 As you might know I’m a practitioner and big fan of the [5AM club](https://www.blinkist.com/en/app/books/the-5-am-club-en). This morning I have another great moment and what to share that here. Maybe people want to pick it put - so please let’s exchange. Maybe this could flow in a pathway and methods in a pathway, who knows.
@@ -32,7 +33,7 @@ Further hunches from that energy burst:
 - I had the hunch of my group learning experience when I joined the Scrum Change Manager course that went through 4 modules of 2 days and where a whole leadership team got together. One of the best experiences of learning I ever had. And the effect on group building was just outstanding.
 
 # Linking
+
 + [[Notes from Guide Master your 4 pillars of energy]]
 + [[MOC Building a 2nd brain]]
-
 

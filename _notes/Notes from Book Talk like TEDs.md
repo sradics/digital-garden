@@ -4,10 +4,11 @@ tags:
   - type/literature-note
   - digital_garden
   - publish_in_newsletter
-date_created: Thursday, November 2nd 2023, 1:50:39 pm
-date_modified: Thursday, November 2nd 2023, 3:38:29 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from Book Talk like TEDs
+
 Introduction [Source](https://blinkist.com/nc/reader/talk-like-ted-en?chapter=0)
 - the **content** of the presentations **was novel**; the speakers managed to **connect emotionally** to their audience; and the **content was** presented in a way that made it **easy to remember**.
 
@@ -77,6 +78,8 @@ Chapter 9: **Stimulating all of the senses** during a presentation helps your au
 - **multisensory environments (videos, texts and images)** are better able to recall information
 -  you should communicate in a way that appeals to more than just one sense. 
 - use pictures to support your presentation
+
 # Linking
+
 + [[MOC Presentation and Public speaking]]
 

@@ -4,23 +4,27 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/1-🌱
-date_created: Monday, September 5th 2022, 5:39:34 pm
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # How to implement OKRs at your small business
+
 ## Metadata
+
 * URL: [https://radreads.co/okrs/](https://radreads.co/okrs/)
 * Author: [[Khe Hy]]
 * Publisher: [[radreads.co]]
 * Published Date: 2022-06-25
 
 ## Highlights
+
 * Here’s how the lines of communication multiply as you go from 3 employees to 14 employees:
 
 ![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20220919064909.png]]
 *[Source](https://getlighthouse.com/blog/developing-leaders-team-grows-big/)*
 
 * The average manager has 7 direct reports (and assuming 40 hour work weeks) is responsible for the direction of 280 hours a week.
+
 > [!quote]
 > “If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster.”  *Steven Covey*
 
@@ -51,6 +55,6 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 	* Increase time user engagement to 30 minutes a day
 * we ==report weekly on our progress in a dedicated Slack channel==.
 
-
 ## Linking
+
 + [[Use OKRs for professional development]]

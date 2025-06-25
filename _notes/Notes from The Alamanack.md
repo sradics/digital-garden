@@ -3,8 +3,11 @@ tags:
   - digital_garden
   - epstatus/0-🌰
   - type/literature-note
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from The Alamanack
+
 [The Almanack of Naval Ravikant at Blinkist](https://www.blinkist.com/de/app/books/the-almanack-of-naval-ravikant-en-eric-jorgenson)
 + if you're unsure about a decision, then the answer is no
 	+ trust your doubts
@@ -33,9 +36,9 @@ tags:
 	+ Journalling
 + Eckhart Tolle - The Power of Now
 + **==Cutting down on alcohol, caffeine, sugar==** ... is keeping the mood more stable
-+ 
 
 # Linking
+
 + [[MOC Vegan Living]]
 + [[MOC Lifehacks]]
 

@@ -3,11 +3,13 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Thursday, July 7th 2022, 5:09:57 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # How Much Discovery is Enough-2nd pass
+
 ## Metadata
+
 * URL: [https://mail.google.com/mail/u/0/](https://mail.google.com/mail/u/0/)
 * https://web.getmatter.app/entry/9143822
 * Published Date: 2022-07-07
@@ -16,6 +18,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ![[Pasted image 20220719094344.png]]
 
 ## Highlights
+
 * Never launch anything solely based on opinions
 * It’s ok to release minor tweaks based on assessment
 * Having supporting data (without testing) is enough to launch only very small, low-risk, easy-to-revert changes
@@ -23,14 +26,17 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * How much validation you need depends on: a) the cost of building the idea in full, b)how risky it is, c) your risk tolerance.
 
 ## Opinions (Confidence <0.1)
+
 * This form of evidence is based on the self conviction of a single person or a small group of like-minded people (who aren’t the intended user).
 
 ## Assessment (0.1 < Confidence Level ≦ 0.5)
+
 * **Projections and business models** — Using back-of the envelope calculations, business model canvas, and other forms of business/tech analysis to refine our estimates of impact and ease.
 * **Risk analysis** — For example through assumption mapping (for reference consider Cagan’s Four Big Risks)
 * **Reviews** — Including peer reviews, expert reviews, management reviews, and stakeholder reviews.
 
 ## Data (0.5 > Confidence Level <=3)
+
 * Data Sources
 	* Customer/user requests 
 	* Customer/user interviews 
@@ -55,6 +61,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * We definitely don’t want to bloat the product with features no one uses.
 
 ## Tests and Experiments (3 < Confidence Level)
+
 * Testing means putting a version of the idea in front of users/customers and measuring the reactions.
 * **Early-stage tests** use a “fake product” or a prototype before the product is built, for example landing pages, wizards of Oz, concierge services, and prototype usability studies.
 * **Mid-stage tests**, for example internal team dogfood, early adopter programs, alpha, real product-based usability tests, use a rough and incomplete version of the idea with a small group of users.
@@ -76,4 +83,5 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ![[Pasted image 20220719094410.png]]
 
 ## Linking
+
 [[Confidence-Meter by Itamar Gilad]]

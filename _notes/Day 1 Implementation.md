@@ -3,8 +3,8 @@ tags:
   - digital_garden
   - type/fleeting-note
   - epstatus/0-🌰
-date_created: Tuesday, June 17th 2025, 6:34:36 am
-date_modified: Wednesday, June 18th 2025, 11:57:43 am
+date_created: 2025-06-17 06:34
+date_modified: 2025-06-25 06:05
 ---
 # Day 1 Implementation
 

@@ -1,11 +1,10 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
 - fastlane
-date_created: Tuesday, February 14th 2023, 9:53:16 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes from webcast - 10 Ways to replace meetings with Slack
 
@@ -29,9 +28,8 @@ Problem: too many meetings
 	+ send with timer
 	+ e.g. explain main highlights of a topic
 
-
-
 ## Resources
+
 ![[Slack_Workplace-Flexibility-Survey_Ergebnisse.pptx.pdf]]
 
 ![[22SLA0326-10-Ways-To-Replace-That-Meeting-With-Slack-Ebook-EP-FIN.de-DE.pdf]]

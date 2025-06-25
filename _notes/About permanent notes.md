@@ -3,15 +3,17 @@ tags:
   - digital_garden
   - epstatus/0-🌰
   - type/literature-note
-date_created: Sunday, June 1st 2025, 10:48:09 am
-date_modified: Sunday, June 1st 2025, 2:42:38 pm
+date_created: 2025-06-01 10:48
+date_modified: 2025-06-25 06:06
 ---
 # About permanent notes
 
 Sönke Ahrens (2025): 2.1 Permanent Notes [[@ahrens_21_2025]]
 
 ⬆ [[Notes while running through the course]]
+
 ## About permanent notes
+
 Permanent notes evolve over time
 - embraces the non-linear thinking
 - it is never complete
@@ -91,9 +93,10 @@ based on Anmerkungen  in Söhnke Ahrens Transcript
 „Sometimes it makes sense to take one paragraph from one note-sequence and add it to another. But not by linking or embedding, and also not by simple copy & paste, but by rephrasing it in order to make it a better fit. I would still keep the connection via backlink, but not rely on it alone.“ ([Ahrens, p. 8](zotero://select/library/items/ZSUB2Y5K)) ([pdf](zotero://open-pdf/library/items/HPX6TZVK?page=8&annotation=ELVE4EFK))
 
 ## Questions
+
 + How to work with a permanent notes dashboard
 	+ should provide easy re-entrance to the last state I left my Zettelkasten and start a conversation again...
 
-
 # Linking
+
 Sönke Ahrens (2025): 2 Transcript - Creating Notes and Networks [[@ahrens_2_2025]]

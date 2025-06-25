@@ -4,14 +4,17 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Monday, July 11th 2022, 3:58:59 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Lohnen sich Batteriespeicher für Photovoltaikanlagen-
+
 ## Metadata
+
 * URL: [https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/lohnen-sich-batteriespeicher-fuer-photovoltaikanlagen-24589](https://www.verbraucherzentrale.de/wissen/energie/erneuerbare-energien/lohnen-sich-batteriespeicher-fuer-photovoltaikanlagen-24589)
 
 ## Highlights
+
 * Sinn und Zweck eines Batteriespeichers ist es, den Solarstrom tagsüber für den Abend und die Nacht zu speichern. Richtig dimensioniert ist die Batterie, wenn sie den durchschnittlichen Stromverbrauch zwischen abends und morgens abdeckt. Wer beispielsweise im Jahr 3.600 Kilowattstunden Strom pro Jahr verbraucht, für den wäre grob geschätzt ein Speicher von bis zu 5 Kilowattstunden Kapazität richtig dimensioniert: 3.600 kWh / 365 / 2.
 * werden ==häufig viel zu große Speicher installiert, was dazu führt, dass der Ladezustand der Batterie zwischen halb voll und voll schwankt==. Dieser hohe Ladezustand ==beschleunigt die Alterung der Batterie, die ungenutzte Kapazität kostet unnötig Geld und verschwendet Rohstoffe und Ressourcen==,
 * Deshalb empfiehlt die Verbraucherzentrale als ==Richtwert für die Speichergröße etwa 1 Kilowattstunde Batteriekapazität pro 1.000 kWh== Jahresstromverbrauch.

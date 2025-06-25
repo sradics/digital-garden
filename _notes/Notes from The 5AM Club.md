@@ -1,17 +1,17 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/1-🌱
 - type/literature-note
-date_created: Sunday, February 19th 2023, 9:08:59 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from The 5AM Club
 
 [The 5AM Club](https://www.blinkist.com/de/app/books/the-5-am-club-en)
 
 ## Why getting up at 5AM
+
 * rise at 5:00 a.m. And after waking, he’d follow a little known formula designed to ==turbocharge his mental focus, build his physical fitness and encourage him to be his best self== day in and day out.
 * have understood that the ==isolation== that comes from getting up at 5:00 a.m. ==has a multiplying effect==.
 * the most reliable way to generate the best results in your personal and professional life is to build a world-beating morning routine.
@@ -20,6 +20,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * to get the results of the top 5 percent of elite performers, ==you need to do what 95 percent of entrepreneurs, artists and other people are unwilling to do==. Most people aren’t willing to get up at 5:00 a.m. so if you are, you have a huge competitive advantage
 
 ## Focus and getting rid of distractions
+
 * ==freedom from distraction is key==
 * If you want to win, you need to focus, simplify, and concentrate.
 * **self-discipline and perseverance always trump talent and giftedness**
@@ -30,6 +31,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 	* *Comment* [[MOC 10K$ framework]]
 
 ## 20-20-20 Soulset - Heartset - Healthset
+
 * Focus on your Soulset, and you’ll reconnect with the very best part of yourself.
 * It ignites your energy, dissolves your stress and expands your joy
 * Your Soulset, the billionaire explained, is your spirituality. Too often, everyday life pulls us toward the superficial and the material. So take some time in the quiet moments of the early morning to remember who you truly are
@@ -44,10 +46,10 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * you need to grow, so take 20 minutes to learn
 
 ## The importance of Sleep and good phases of Relaxation
+
 * Research has shown that ==sleep is one of the key factors in predicting life expectancy==. **How you spend the last hour of your day is almost as important to peak performance as how you spend the first**.
 * a key to top performance over time is to ==oscillate between periods of passionate, focused work at the highest levels and periods of time for deep refueling== through relaxation, recovery and fun.
 * Growth happens not just in the performance phase, but also in the recovery phase
 * Embracing sleep and the “twin-cycle of elite performance” is essential to maximizing the potential of the 5 AM club.
 * Spend the rest of the evening talking with loved ones, meditating, having a relaxing bath or reading and go to bed no later than 10:00 p.m. That way, you can truly maximize the value of your 5:00 a.m. time.
-
 

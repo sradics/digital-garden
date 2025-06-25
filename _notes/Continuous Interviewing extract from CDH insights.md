@@ -3,36 +3,31 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
-date_created: Monday, October 24th 2022, 8:17:41 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Continuous Interviewing extract from CDH insights
-## Argumentation for continuous interviewing
-This isn’t a linear process. You don’t map the opportunity space, choose a target opportunity, generate solutions, build something and then start over. All of these activities need to be happening in parallel. You want to stay open to the fact that you might have missed opportunities, that you might have chosen the wrong opportunity. Keeping an interview on the books each week helps to catch those mistakes. It also helps you develop a continuous mindset, rather than a waterfall mindset.
 
+## Argumentation for continuous interviewing
+
+This isn’t a linear process. You don’t map the opportunity space, choose a target opportunity, generate solutions, build something and then start over. All of these activities need to be happening in parallel. You want to stay open to the fact that you might have missed opportunities, that you might have chosen the wrong opportunity. Keeping an interview on the books each week helps to catch those mistakes. It also helps you develop a continuous mindset, rather than a waterfall mindset.
 
 “Tell me about your recent decision to discontinue use of the product.” You’ll probably need to preface this with, please don’t hesitate to share negative feedback with us
 
-
 > [!quote]
 > Everything really does rest on the habit of continuous interviewing. Get that started ASAP and the rest will start to follow.
-> 
-
 
 If you need to change course and you’ve stopped interviewing, you’ll have to start from scratch. Your next steps will be delayed until you can ramp up interviewing again. [^1]
 
 > [!quote]
 > We killed an opportunity on Tuesday, chose a new one on Wednesday, and used our already-scheduled interviews on Thursday to learn about the new opportunity.”
-> 
 
 Every week that you don’t interview increases the chances that you’ll stop interviewing altogether. To **nurture your interviewing habit**, interview at least one customer every week. 
 
 ... More importantly, continuous interviewing will help to **ensure that you can get fast answers to your daily questions**. [^3]
 
-
-
-
 ### Important arguments to consider
+
 ‘it’s really time intensive’:
 + create interview snapshots right after each interview
 
@@ -50,10 +45,10 @@ Abandon the idea of themes. There are two units of synthesis:
 > You don’t talk to users to ask them what you should build. You talk to users to learn about their lives, their goals, their context. This information helps you make better decisions about what to build for them.
 
 ## About automating
+
 blocking a morning/afternoon for discovery interviews makes it easy to protect/commit to the time and makes it easy for support/customer-facing teams to help recruit/schedule. if you have the luxury of a ux research/coordinator they can help set-up/modify calendly self-scheduling pages with screening criteria or to help route the right customers to the right teams based on the opportunities they’re trying to learn most about
 
 Success using Calendly for interviews.  It eliminates a lot of the scheduling pain especially wrt time zone coordination. Their free plan includes one ‘meeting type’
-
 
 combined `firebase remote config` with `typeform` with `calendly` to create a survey that I can change out at any time. Here is what I’m trying currently:  
 
@@ -70,12 +65,13 @@ Connect with e.g. Customer Support [^2]:
 + If a customer has a question about feature x, schedule an interview. 
 + If a customer requests a customization, schedule an interview.
 
-
 ## Tips for building the Continuous Interviewing habit
+
 + There is a lot of research that says that one of the best ways to help you build a habit is to **start tracking that habit**.
 + Share regularly with your stakeholders
 
 ## Tuning the Show Up rate and reduce No Shows
+
 $40 for 40 minutes
 
 -   Video:  Show a brief video of yourself at the time of booking, so they feel they know who they are meeting with.  Adds personalization + guilt if they choose to ghost you.
@@ -91,6 +87,7 @@ One of the benefits of story-based interviewing (assuming that’s what you are 
 I’ve found that if you limit the calendar to book either same day or at most the next day or two, you’ll get fewer no shows. (We are much more realistic about our time in the near term.)
 
 ## Atomic UX research and building a research repository
+
 ![[Pasted image 20221024211937.png]]
 
 https://www.youtube.com/watch?v=h9s3DrImGXA
@@ -99,6 +96,7 @@ https://www.youtube.com/watch?v=h9s3DrImGXA
 ![[Pasted image 20221024204341.png]]
 
 ## Some learnings about Questions
+
 [The Ladder of Evidence](https://www.youtube.com/watch?v=TF0EzrKINqg)
 
 ![[Pasted image 20221025150912.png]]
@@ -116,7 +114,6 @@ Asking all the right questions - [https://www.youtube.com/watch?v=PNQWNDZE5W8](h
 + let down the guard
 + 4 things to talk about - people, places, things and events in time
 
-
 What if your customer is asking for specific solutions during the interview?
 Let them describe what they’re looking for and then ask them 2 follow up questions:
 
@@ -124,8 +121,8 @@ Let them describe what they’re looking for and then ask them 2 follow up quest
 
 2) if they have a substitute, can you show me how you use that today? This reveals the context in which they imagine using the solution they just described.
 
-
 ## Advice for finding Non-Customers for interviewing in B2B
+
 -   run LinkedIn ads
 -   do outreaches on LinkedIn
 -   run landing pages and redirect traffic through ads onto them
@@ -134,6 +131,7 @@ Let them describe what they’re looking for and then ask them 2 follow up quest
 -   ask existing customers for intros
 
 ## Tooling
+
 + Ethnio and Intercom
 	+ had success using Hotjar to survey/recruit participants but something like [ethn.io](http://ethn.io/) offers an all in one solution.
 + Sleeknote
@@ -151,6 +149,7 @@ Let them describe what they’re looking for and then ask them 2 follow up quest
 + Userlytics - for unmoderated testing
 
 ## Linking
+
 + [[MOC Continuous Discovery Habits]]
 
 [^1]: Torres, Teresa. Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value (S.88). Product Talk LLC. Kindle-Version. 

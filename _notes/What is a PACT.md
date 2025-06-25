@@ -3,8 +3,10 @@ tags:
   - digital_garden
   - epstatus/1-🌱
   - type/permanent-note
-date_created: Saturday, May 3rd 2025, 8:46:23 am
-date_modified: Saturday, May 3rd 2025, 8:52:03 am
+date_created: 2025-05-03 08:46
+date_modified: 2025-06-25 06:10
+aliases: ["Understanding PACTs: Tiny Experiments for Personal Growth"]
+linter-yaml-title-alias: "Understanding PACTs: Tiny Experiments for Personal Growth"
 ---
 # Understanding PACTs: Tiny Experiments for Personal Growth
 
@@ -113,6 +115,7 @@ Over time, working with PACTs can transform your approach to growth and achievem
 By consistently working with PACTs, you develop the ability to navigate uncertainty with curiosity rather than fear, turning life's challenges into opportunities for experimentation and growth.
 
 # Linking
+
 - Source: [[Cunff-Tiny Experiments]]
 - [[Pomodoro Pact]]
 - [[SMART goals are not so smart- make a PACT instead]]

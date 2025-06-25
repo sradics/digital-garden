@@ -3,10 +3,11 @@ tags:
   - digital_garden
   - epstatus/1-🌱
   - type/literature-note
-date_created: Wednesday, March 20th 2024, 9:10:54 pm
-date_modified: Wednesday, March 20th 2024, 9:11:05 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Learning about Hooks
+
 [Source](https://www.linkedin.com/posts/faroukbacha_lara-acosta-linkedin-hook-strategy-ugcPost-7176193306240897024-mrr5?utm_source=share&utm_medium=member_desktop)
 
 + include numbers in hooks
@@ -25,6 +26,7 @@ date_modified: Wednesday, March 20th 2024, 9:11:05 pm
 + share insights ... via How to ..
 
 ## 12 tips from Lara
+
 1) Use specific numbers to gain trust  
 2) Keep the hook between 7-10 words  
 3) Reveal the final outcome in the hook  
@@ -39,8 +41,8 @@ date_modified: Wednesday, March 20th 2024, 9:11:05 pm
 12) Repeat using "you", "your", "How I" and "How you"
 
 ## 21 Simple Hook Headlines
-![[21HookHeadlines.pdf]]
 
+![[21HookHeadlines.pdf]]
 
 1. I {did something that your audience wants to do}
 2. My client/customer {did something that your audience wants to do}

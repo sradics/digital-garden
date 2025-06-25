@@ -1,11 +1,10 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
-date_created: Thursday, June 9th 2022, 6:59:09 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # The Coach in your head
 
@@ -26,11 +25,13 @@ Explore the focus area by asking:
 
 > [!quote] 
 > Stop thinking and trust your reactions
+
 ## Linking
+
 + [[The inner game of tennis]]
 + [[Personal Systemic Coaching]]
 + [[Leadership Coaching]]
 
-
 ## 1st pass processing notes
+
 ![[The Coach in your head_1stpass.pdf]]

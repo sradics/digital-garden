@@ -4,16 +4,19 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
-date_created: Friday, August 19th 2022, 5:20:24 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Reject the Algorithm
+
 ## Metadata
+
 * URL: [https://ofdollarsanddata.com/reject-the-algorithm/](https://ofdollarsanddata.com/reject-the-algorithm/)
 * Published Date: 2022-08-02
 * Author: [[Nick Maggiulli]]
 
 ## Highlights
+
 * The sad story of Jani Lane and “Cherry Pie” highlights the downsides of chasing commercial success at the expense of your beliefs and dignity.
 * After all, ==would you rather be yourself and be known by thousands, or be someone else and be known by tens (or hundreds) of thousands?==
 * Following the algorithm pervades our society.

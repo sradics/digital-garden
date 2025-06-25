@@ -4,12 +4,13 @@ tags:
 - type/literature-note
 - digital_garden
 - matter/processed
-date_created: Thursday, July 6th 2023, 5:35:35 am
-date_modified: Thursday, July 6th 2023, 5:40:03 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # The Complete Guide to Writing Midjourney Prompts
 
 ## Metadata
+
 * URL: [https://geekflare.com/midjourney-prompts/](https://geekflare.com/midjourney-prompts/)
 * Author: Amrita Pathak
 * Publisher: geekflare.com
@@ -17,6 +18,7 @@ date_modified: Thursday, July 6th 2023, 5:40:03 am
 * Tags: 
 
 ## Highlights
+
 * However, if you are a pro, you can prompt “**a full moon of slight yellowish color and a realistic visual of light in the dark sky having many stars on it”**. This will give a clear idea of what you really want from the AI.
 * * **Surrealism**: It is an art from the 20th-century literary revolution that explains the depths of your mind. For example, /imagine large turtles in Wonderland, surrealism.
 * * **A as B**: With this prompt, you can create new objects or creatures. For example, /imagine Lion as a Ninja Warrior.

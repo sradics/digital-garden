@@ -4,16 +4,19 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
-date_created: Monday, July 11th 2022, 3:59:00 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Working better with stakeholder - 3 advanced techniques
+
 ## Metadata
+
 * URL: [https://itamargilad.com/stakeholders/](https://itamargilad.com/stakeholders/)
 * Published Date: 2022-05-03
 * Author: [[Itamar Gilad]]
 
 ## Make Them Your Partner
+
 * What does partnership mean? It’s an exchange of value.
 * You need to **figure out what they’re really optimizing for**.
 	* Making their numbers? 
@@ -22,7 +25,9 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * So you have to **explain what you’re trying to achieve, and what you need from them**:
 	* autonomy, support, peace of mind, access to customers, data, or whatever else.
 * **never** work in an **“us against them”** mode.
+
 ## Be Explicit and Persistent About Your Goals
+
 * If your OKRs are a list of features you’ve committed to deliver this quarter, you’re sending a clear message: we’re a feature factory,
 * **Outcome goals send a very different message — here’s what we’re trying to achieve.**
 * Tools like the North Star Metric, Top Business Metrics, and metrics trees

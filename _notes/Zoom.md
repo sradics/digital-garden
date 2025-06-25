@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:10:40 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Zoom
+
 ## Topic
 
 Zoom
@@ -20,7 +21,6 @@ How can I leverage Zoom best for my sessions?
 ### Potential usages
 
 -   Become a PRO in using Zoom in your team sessions (Breakout Rooms, Recording, Meeting management)
-    
 
 ### My offer
 

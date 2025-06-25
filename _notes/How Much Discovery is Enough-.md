@@ -4,16 +4,19 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/0-🌰
-date_created: Monday, July 11th 2022, 3:59:00 am
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # How Much Discovery is Enough-
+
 ## Metadata
+
 * [Source](https://itamargilad.com/how-much-product-discovery/)
 * Published Date: 2022-07-07
 * Author: [[Itamar Gilad]]
 
 ## Highlights
+
 * **Never launch anything solely based on opinions**
 * It’s ok to release minor tweaks based on assessment
 	* **Having supporting data (without testing) is enough to launch only very small, low-risk, easy-to-revert changes**
@@ -22,16 +25,20 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 	* **the cost of building the idea** in full
 	* **how risky it is**
 	* your **risk tolerance.**
+
 ## Opinions (Confidence Level <= 0.1 out of 10)
+
 This form of evidence is based on the self conviction of a single person or a small group of like-minded people (who aren’t the intended user).
 
 ## Assessment (0.1 < Confidence Level ≦ 0.5)
+
 * ICE analysis
 * Projections and business models — Using back-of the envelope calculations, business model canvas, and other forms of business/tech analysis to refine our estimates of impact and ease.
 * Risk analysis — For example through assumption mapping (for reference consider Cagan’s Four Big Risks)
 * Reviews — Including peer reviews, expert reviews, management reviews, and stakeholder reviews.
 
 ## Data (0.5 < Confidence Level ≦ 3)
+
 * Customer/user requests 
 * Customer/user interviews 
 * Field studies 
@@ -52,6 +59,7 @@ This form of evidence is based on the self conviction of a single person or a sm
 * We definitely don’t want to bloat the product with features no one uses.
 
 ## Tests and Experiments (3 < Confidence Level)
+
 * Testing means putting a version of the idea in front of users/customers and measuring the reactions.
 * **Early-stage tests use a “fake product”** or a prototype before the product is built, for example landing pages, wizards of Oz, concierge services, and prototype usability studies.
 * **Mid-stage tests**, for example internal team dogfood, early adopter programs, alpha, real product-based usability tests, **use a rough and incomplete version of the idea with a small group of users**.

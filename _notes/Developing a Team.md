@@ -4,18 +4,22 @@ tags:
   - type/literature-note
   - epstatus/1-🌱
   - publish_in_newsletter
-date_created: Wednesday, December 20th 2023, 1:59:11 pm
-date_modified: Wednesday, December 20th 2023, 1:59:19 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Developing a Team
+
 + social psychology
 
 # Week 1
+
 ## Social psychology overview
+
 + how thoughts, feeling, behavior is formed and influenced within a social context
 + we are social beings first and are employees second
 
 ### 4 core insights from Social Sociology important for Change Processes
+
 + CHANGE IN ORGANIZATIONS IS A SOCIAL PROCESS
 + SOCIAL PSYCHOLOGY IS NECESSARY TO UNDERSTAND PEOPLE IN CHANGE PROCESSES
 + SOCIAL PSYCHOLOGY DEMONSTRATES THAT THE MEANING IS KEY DURING CHANGE
@@ -26,6 +30,7 @@ Two important aspects
 + understand the context of an individuals behavior
 
 ## Belonging and understanding
+
 📖 Social Beings - Susan T.Fiske
 
 Core social motives (Fundamental psychological processes):
@@ -37,7 +42,9 @@ Core social motives (Fundamental psychological processes):
 + Self-enhancing
 
 **Actively monitor how these 5 needs are satisfied during a change**
+
 ### Tools
+
 + what is your core message to the team
 + 📖 the culture code
 	+ You are part of this team. We have high standards here. I believe you can achieve those standards.
@@ -55,6 +62,7 @@ Core social motives (Fundamental psychological processes):
 	+ all have to agree to the teams mission
 
 ## Controlling, Trusting,Self-enhancing
+
 + controlling - need for a perceived dependency between behavior and outcome
 	+ explain what is expected and how it is rewarded
 + trusting - willingness to be vulnerable and to see others as kind and good
@@ -64,6 +72,7 @@ Core social motives (Fundamental psychological processes):
 	+ build skills, competencies
 
 ### Tools
+
 + mentoring conversations
 + Use GROW model GOAL-REALITY-OPTIONS-WAY FORWARD
 	+ Goal defines what we want. 
@@ -77,11 +86,11 @@ Core social motives (Fundamental psychological processes):
 	+ have a guiding question
 	+ connections, sense of belonging, shared problem solving
 + avoid feedback sandwhich
-+ 
-
 
 # Week 2
+
 ## Team working agreement
+
 + common understanding
 + living document
 + consists of 
@@ -96,6 +105,7 @@ Include in retrospective.
 ![[Pasted image 20231220145259.png]]
 
 ## Empathy maps
+
 + Empathy is the capacity to put yourself in another person's shoes and understand them from their point of view.
 + to design collaboration process
 + understand what each person does, what motivates each person, and what emotions members may be experiencing as they do their work
@@ -106,18 +116,19 @@ Include in retrospective.
 + put yourself in someone's else shoes
 + sneak peak into others motivations and feelings
 
-
 ## Scrum
+
 ![[Pasted image 20231220145850.png]]
 
 # Week 3 - Scrum
+
 + based on change and a working with a change resilient mindset
 + stronger relationship within team and with customer
 
 ![[Pasted image 20231220152143.png|400]]
 
-
 # Week 4 - Servant leadership
+
 + 📖 Robert Greenleaf - On Becoming a Servant Leader
 + Hesse: A Journey to the East
 +  listening, empathy, stewardship, and mentorship skills
@@ -127,6 +138,7 @@ Include in retrospective.
 ![[Pasted image 20231220155527.png|400]]
 
 ## Build Shared understanding - Interview
+
 + set context
 + ask focussed questions
 + ask filter questions (probing questions)
@@ -136,10 +148,12 @@ Include in retrospective.
 Derive facts, emotions, quotes and conclusions
 
 ## Facilitation
+
 + Art of unlocking intelligence, insights, and creativity in people
 + understand individual and group psychology
 
 ### Online
+
 + house-keeping
 + ask for video on
 + ask for focus
@@ -150,6 +164,7 @@ Derive facts, emotions, quotes and conclusions
 + ensure collaboration platform is clear for everyone
 
 ### Live Facilitation
+
 + break barriers - Fishbowl
 
 ![[Pasted image 20231220160546.png|200]]
@@ -159,6 +174,7 @@ Throw ideals in a bowl and draw an item to discuss,
 * enter the center - inner circle and outer circle
 
 ## Principles of Sustainable Innovation
+
 + ask Why + 5 times
 + growing ideas
 + piloting ideas
@@ -176,7 +192,6 @@ Foster divergent thinking - Convergent thinking is based in logic and practicali
 + use all out sense - 22 senses!!
 	+ time, smell,...
 + choose what to leave out
-
 
 Brainstorming techniques
 + Flowers vs. Wheat ... take time to grow ideas a little longer to know what the flower actually is
@@ -196,18 +211,20 @@ Brainstorming techniques
 	+ pivot and iterate quickly
 
 ### About innovation
+
 + Flex
 	+ bend the rules
 + Fuse 
 	+ combine to ideas into a new one
 + Fracture
 	+ break a concept to several smaller ideas
-+ 
 
 # Certificate
+
 [[Coursera LUY7E7V7TL7U.pdf]]
 
 # Linking
+
 + ⬅ [[Neuroscience of Change]]
 + ➡ [[Agile Organisation]]
 + 🔼 [[MOC Agile Leadership Course]]

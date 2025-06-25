@@ -3,14 +3,17 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Sunday, June 25th 2023, 7:15:48 pm
-date_modified: Sunday, June 25th 2023, 7:38:20 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Summary for Five Dysfunctions of a Team
+
 https://docs.google.com/document/d/12xKT2UjeT0p-HnEDBJztdkupp77lcMsGbJSiZhbjiJ4/edit?usp=sharing
 
 ## AVOIDANCE OF ACCOUNTABILITY
+
 ### you see it on
+
 * creates resentment (Abneigung) among teammembers who have different standards of performance
 * encourages mediocrity (Mittelmäßigkeit)
 * misses deadlines and key deliverables
@@ -134,4 +137,3 @@ https://docs.google.com/document/d/12xKT2UjeT0p-HnEDBJztdkupp77lcMsGbJSiZhbjiJ4/
 * 360 degree feedback
 
 # Linking
-

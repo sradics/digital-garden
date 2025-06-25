@@ -3,9 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Meeting Types
+
 ## Synchronization Meetings (Sync)
 
 - Short, regular meetings to synchronize the team
@@ -35,8 +37,9 @@ tags:
 - Reflect on the team's collaboration and way of working
 - What went well, what can be improved?
 - Learnings and improvement measures are derived from this
+
 # Linking
+
 + [[About meetings and tuning it]]
 + [[MOC Agile Learning Path]]
-
 

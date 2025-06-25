@@ -4,14 +4,14 @@ tags:
 - type/index-note
 - MOC
 - epstatus/1-🌱
-date_created: Thursday, September 15th 2022, 6:54:30 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # MOC Lifehacks
+
 + [[tooth power]]
 + [[Smart Oven]]
 + [[Natron antitransparant]]
 + [[Washing ball]]
 + [[MOC Vegan Living]]
-
 

@@ -2,10 +2,11 @@
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Tuesday, November 22nd 2022, 6:46:47 am
-date_modified: Tuesday, May 23rd 2023, 9:15:12 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # MOC Learning
+
 + [[Lerntypen]]
 + [[E-Learning Training Checklist by Trainergeheimnisse]]
 + [[The Fifth Discipline]] (also as [Blinkist version](https://www.blinkist.com/en/app/books/the-fifth-discipline-en))

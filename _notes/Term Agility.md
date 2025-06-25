@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/3-🌳
-date_created: Tuesday, August 30th 2022, 11:13:27 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Term Agility
 
@@ -14,8 +14,7 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 > [!quote]
 > Agility is a measure of one's ability to successfully take advantage of an opportunity. ( [[Software in 30 Days]] )
 
-
-
 ## Linking
+
 + [[When to consider Agile]]
 + [[Agile Values]]

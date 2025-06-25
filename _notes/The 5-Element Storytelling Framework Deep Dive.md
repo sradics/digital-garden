@@ -3,8 +3,10 @@ tags:
   - type/permanent-note
   - digital_garden
   - epstatus/1-🌱
-date_created: Friday, June 6th 2025, 11:27:50 am
-date_modified: Friday, June 6th 2025, 11:27:55 am
+date_created: 2025-06-06 11:27
+date_modified: 2025-06-25 06:10
+aliases: ["The 5-Element Storytelling Framework: Deep Dive"]
+linter-yaml-title-alias: "The 5-Element Storytelling Framework: Deep Dive"
 ---
 # The 5-Element Storytelling Framework: Deep Dive
 

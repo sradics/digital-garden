@@ -3,11 +3,13 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
-date_created: Tuesday, August 30th 2022, 1:18:59 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # High Performance Teams
+
 ## Practices that lead to high performing teams
+
 + Respect for the individual worker and build an environment with encouragement and respect
 + Built-in instability 
 + Self-organizing project teams providing autonomy, cross-fertilization
@@ -19,7 +21,6 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 + Self managing people
 + Uninterrupted work in teams
 
-
-
 ## Linking
+
 + [[Software in 30 Days]]

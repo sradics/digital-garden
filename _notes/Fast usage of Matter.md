@@ -1,10 +1,9 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Sunday, February 19th 2023, 6:32:41 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Fast usage of Matter
 
@@ -21,6 +20,6 @@ Workflow to integrate the *mattered*  page:
 - [ ] Create a better entry point to link to CODE - here I do need an entry point to Capture
 
 # Linking
-+ [[MOC Building a 2nd brain]]
 
++ [[MOC Building a 2nd brain]]
 

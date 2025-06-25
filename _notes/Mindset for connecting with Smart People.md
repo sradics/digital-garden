@@ -3,9 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-
+date_created: 2024-07-09 08:23
+date_modified: 2025-06-25 06:10
 ---
 # Mindset for connecting with Smart People
+
 Here's how to leverage this mindset:
 
 1. Cultivate Curiosity:
@@ -28,5 +30,3 @@ Integrate their perspectives with your own.
 Smart people appreciate mutual exchange.
 
 # Linking
-
-

@@ -1,19 +1,21 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Sunday, February 19th 2023, 7:28:41 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes from - The Seven Principles for Making Marriage Work
+
 ## Metadata
+
 * URL: [https://www.blinkist.com/de/nc/reader/the-seven-principles-for-making-marriage-work-en](https://www.blinkist.com/de/nc/reader/the-seven-principles-for-making-marriage-work-en)
 * Author: Nan Silver
 * Publisher: www.blinkist.com
 * Tags: 
 
 ## Highlights
+
 * The more developed your love map, the stronger your love
 * Functioning couples have a richly detailed love map.
 * without really knowing your partner, how can you truly love them?

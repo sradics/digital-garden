@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:01:40 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Asana
+
 ## Topic
 
 Asana
@@ -24,7 +25,6 @@ How can I use Asana for my projects?
 -   Implement your GTD
     
 -   Implement a structure for your project/s
-    
 
 ### My offer
 
@@ -35,7 +35,6 @@ Sparring partner for setting up your personal Asana or using Asana in your proje
 -   implemented own GTD
     
 -   implemented structure for projects
-    
 
 ## My level of expertise
 

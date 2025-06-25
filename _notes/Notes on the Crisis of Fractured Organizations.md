@@ -3,12 +3,15 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Tuesday, May 2nd 2023, 4:01:31 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes on the Crisis of Fractured Organizations
+
 [Source](https://www.airtable.com/ty/resources/reports/crisis-of-the-fractured-organization)
+
 ## Claims
+
 * make data widely accessible across the organization
 * use low code tools to build connected apps (to improve productivity)
 * strenghten alignments and employee engagement
@@ -17,6 +20,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * democratize software development 
 
 ## The Problem
+
 + information locked within different teams and systems
 	+ creates boundaries across teams
 + delayed and not-best informed decision making
@@ -27,9 +31,8 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + especially leadership:
 	+ don't have the full picture
 
-
-
 ### Data
+
 + large organizations (>20k employees) have on average 367! software apps/systems
 + 2.4h daily to look for data/information
 + 24% drop in productivity (19% in teams from inefficient and disconnected processes)
@@ -41,14 +44,17 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 ![[Pasted image 20230502162746.png]]
 
 ## Change suggested
+
 + create shared datasets
 + work with Low-Code-tools leveraging these shared datasets
 + use customizable software that allows organizations to connect silos and work with more agility
 
 ## Upskilling
+
 + on usage of Low-Code tools
 
 # Linking
+
 + [[MOC Building a 2nd brain]] and [[PARA Method Notes]]
 + [[Crisis of Fractured Organizations]]
 + https://www.airtable.com/ty/resources/reports/crisis-of-the-fractured-organization

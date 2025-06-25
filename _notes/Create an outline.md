@@ -1,13 +1,13 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
-date_created: Tuesday, June 7th 2022, 1:16:45 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Create an outline
+
 Thinking and writing at the same time is extremely difficult.
 
 Outlines expresses logic and sequence of arguments and having everything right in front.
@@ -41,8 +41,4 @@ Create categories when the emerge from having many items (more than 5) without a
 Via outlining ideas emerge by the new arrangement of insights.
 
 By outlining one get much deeper connected to a topic
-
-
-
-
 

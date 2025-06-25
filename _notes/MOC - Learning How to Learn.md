@@ -5,15 +5,17 @@ tags:
 - epstatus/2-🪴
 - type/index-note
 
-date_created: Tuesday, June 6th 2023, 2:43:21 pm
-date_modified: Saturday, June 24th 2023, 4:55:53 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # MOC - Learning How to Learn
+
 Course: [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn) by Dr. Barbara Oakley, Dr. Terrence Sejnowski
 Course claim: **Learn more effectively and with less frustration**
 I attended this course in 05/2023
 
 ## Week 1 - Focused and Diffuse Thinking
+
 [[Week 1 - Course Notes]] Focused and Diffuse Thinking
 - Focused thinking is like a spotlight, where we concentrate on a specific task or idea.
 - Diffuse thinking is like a relaxed state where our minds can wander and make connections between different ideas.
@@ -22,6 +24,7 @@ I attended this course in 05/2023
 - Taking breaks and engaging in physical activity can help stimulate diffuse thinking.
 
 ## Week 2 - Procrastination and Memory
+
 [[Week 2 - Course Notes]] - Procrastination and Memory
 - Procrastination is often caused by fear of failure or discomfort.
 - Techniques like the Pomodoro technique or the "just get started" approach can help overcome procrastination.
@@ -30,6 +33,7 @@ I attended this course in 05/2023
 - Visual aids like mind maps or diagrams can help with chunking.
 
 ## Week 3 - Memory and Recall
+
 [[Week 3 - Course Notes]] - Memory and Recall
 - Memory is improved through repetition and active recall.
 - The Feynman technique involves explaining a concept in simple terms as if we were teaching it to someone else.
@@ -38,6 +42,7 @@ I attended this course in 05/2023
 - Memory is context-dependent.
 
 ## Week 4 - Sleep and Learning
+
 [[Week 4 - Course Notes]] - Sleep and Learning
  - Sleep is crucial for learning and memory consolidation.
  - Getting enough sleep and taking breaks during study sessions can improve learning.

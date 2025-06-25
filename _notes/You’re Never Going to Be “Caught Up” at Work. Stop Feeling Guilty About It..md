@@ -4,17 +4,19 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
-date_created: Monday, August 15th 2022, 12:59:59 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # You’re Never Going to Be “Caught Up” at Work. Stop Feeling Guilty About It.
 
 ## Metadata
+
 * URL: [https://hbr.org/2018/07/youre-never-going-to-be-caught-up-at-work-stop-feeling-guilty-about-it](https://hbr.org/2018/07/youre-never-going-to-be-caught-up-at-work-stop-feeling-guilty-about-it)
 * Published Date: 2018-07-19
 * Author: [[Art Markman]]
 
 ## Highlights
+
 * There is evidence that **people will explicitly procrastinate to avoid shame**
 * **Being kind to and willing to forgive yourself** has shown to alleviate the negative effects of shame.
 * **Focus on your accomplishments**. Gabriele Oettingen’s research:

@@ -4,10 +4,11 @@ tags:
   - epstatus/0-🌰
   - digital_garden
   - type/literature-note
-date_created: Tuesday, October 31st 2023, 5:38:14 am
-date_modified: Tuesday, October 31st 2023, 5:38:29 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from book Beginners
+
 ## Notes from Beginners
 
 📖 [Beginners](https://www.blinkist.com/en/nc/reader/beginners-en)

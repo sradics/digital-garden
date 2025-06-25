@@ -3,12 +3,12 @@ tags:
   - digital_garden
   - type/literature-note
   - epstatus/0-🌰
-date_created: Sunday, June 1st 2025, 10:48:38 am
-date_modified: Sunday, June 1st 2025, 10:48:40 am
+date_created: 2025-06-01 10:48
+date_modified: 2025-06-25 06:06
 ---
 # About fleeting notes
-Sönke Ahrens (2025): 2.2 Fleeting Notes [[@ahrens_22_2025]]
 
+Sönke Ahrens (2025): 2.2 Fleeting Notes [[@ahrens_22_2025]]
 
 - fast jot down an idea
 - all formats allowed short/long/image/video/etc...
@@ -30,6 +30,7 @@ It should at least contain a bit of myself - (a comment, an own take on somethin
 - add a checkbox to the fleeting note if it is processed
 
 ## Processing 
+
 - what are or project is it most relevant for
 - What does this new piece of information add to new note
 	- answers?
@@ -49,6 +50,7 @@ After integrating a fleeting note we might either delete it or mark it as integr
 When you extend a permanent note and new ideas pop up, it is also completely fine to just extend the permanent note with the new question. No need to get out of flow at use fleeting notes too strict here.
 
 # Linking
+
 - [[Notes while running through the course#about notes]]
 - Sönke Ahrens (2025): 2 Transcript - Creating Notes and Networks [[@ahrens_2_2025]]
 

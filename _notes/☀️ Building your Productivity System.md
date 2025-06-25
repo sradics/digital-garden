@@ -4,16 +4,21 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
-date_created: Sunday, August 7th 2022, 10:35:45 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
+aliases: [Building your Productivity System]
+linter-yaml-title-alias: Building your Productivity System
 ---
 # Building your Productivity System
+
 ## Metadata
+
 * URL: [https://spoorthit.medium.com/%EF%B8%8F-building-your-productivity-system-9ce3a064398d](https://spoorthit.medium.com/%EF%B8%8F-building-your-productivity-system-9ce3a064398d)
 * Published Date: 2022-07-18
 * Author: [[Spoorthi T.]]
 
 ## Highlights
+
 * productivity system should ideally consist of ==four essential things==: 
 	* A ==task manager== (for me Asana)
 	* A ==digital calendar==  (for me Google Calendar)

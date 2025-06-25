@@ -4,10 +4,11 @@ tags:
   - epstatus/0-🌰
   - type/literature-note
   - publish_in_newsletter
-date_created: Saturday, October 28th 2023, 7:19:23 am
-date_modified: Tuesday, October 31st 2023, 5:35:36 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from Imposter Syndrome
+
 + Self doubt - what is this telling us?
 + Comparison and noticing gaps to others
 + push through hesitance
@@ -46,12 +47,14 @@ date_modified: Tuesday, October 31st 2023, 5:35:36 am
 [[Notes from Lead from the Outside]]
 
 ## Notes from 4 stages of psychological safety
+
 + [[6 questions to establish psychological safety]]
 + [[Notes from - 4 Stages of Psychological Safety]]
 + create an environment where failure isn’t just accepted – it’s rewarded
 + Create an environment where people are given the opportunity and support to take on responsibility, gives them the chance to prove to themselves they are capable.
 
 ## Moving forward
+
 + **self-doubt is telling you something, you just have to listen.**
 + consider your internal voices but also the external limiting factors
 + recommendation [Say No, Set boundaries](https://www.blinkist.com/en/app/guides/say-no-set-boundaries-with-the-blinkist-team)

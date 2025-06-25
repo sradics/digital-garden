@@ -3,8 +3,8 @@ tags:
 - type/permanent-note
 - digital_garden
 - epstatus/2-🪴
-date_created: Wednesday, June 28th 2023, 5:02:17 pm
-date_modified: Thursday, June 29th 2023, 6:44:19 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Find your Ikigai
 
@@ -40,6 +40,7 @@ Giving expression to that through
 ________ something no one else can do but me."
 
 ## To what question is Ikigai the answer to?
+
 + What do I leave behind?
 + Ikigai as a way to explore that
 + Motoki Tonn
@@ -49,6 +50,7 @@ ________ something no one else can do but me."
 	+ Be cautious about the limiting elements of this model
 
 ## People and Follow ups on Ikigai
+
 + 📖 [[Ikigai Das Geheimnis der kleinen Dinge - Klaus Motoki Tonn]]
 + 📖 [[Man's Search For Meaning - Viktor E Frankl]]
 + Chris Do - https://thefutur.com/people/chris-do
@@ -66,11 +68,13 @@ ________ something no one else can do but me."
 ![[Pasted image 20230628174042.png]]
 
 ## About Paying attention
+
 * Attention as our highest valued source. [[BASB - Learning about Express#ROA - Return on Attention - The most important metric for knowledge workers]]
 * Finding value and meaning is available to us in any moment and at any time.
 * My space is my freedom and now one take that away from me.
 
 ## What fosters our Ikigai awareness
+
 + Ease
 	+ e.g. Art (also fighting Art) ... this provided ease
 	+ Ichi-go Ichi-e
@@ -86,6 +90,7 @@ ________ something no one else can do but me."
 + Primal Inclination by Robert Greene - talk about Mastery
 
 ## What is grounding me in Ikigai
+
 * Chat with Ikigai moments
 * Ikigai meditations
 * Rhythms, patterns
@@ -93,6 +98,7 @@ ________ something no one else can do but me."
 * animals & nature - there one does not need to armour up
 
 ## Finding uniqueness in Ikigai
+
 + What is an unfair advantage
 + turn your minuses/disadvantages/challenges into unfair advantages
 
@@ -103,4 +109,5 @@ ________ something no one else can do but me."
 ![[Pasted image 20230628182703.png]]
 
 # Linking
+
 * [[Use Obsidian Canvas for Ikigai]]

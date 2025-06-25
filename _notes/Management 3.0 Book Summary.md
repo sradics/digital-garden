@@ -1,13 +1,14 @@
 ---
-tags: 
-- digital_garden
-- type/literature-note
-- epstatus/1-🌱
-date_created: Sunday, July 3rd 2022, 7:13:53 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+tags:
+  - digital_garden
+  - type/literature-note
+  - epstatus/1-🌱
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:15
+aliases:
+  - Innovation
+linter-yaml-title-alias: "Innovation "
 ---
-
-
 
 * Management is primarily about people and their relationships, not about departments and their profits
 * management 3.0 = complexity
@@ -16,18 +17,12 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
     *  old style management is the biggest obstacle
 * managers must learn how social systems work
 
-
 ## complexity is one of the most important concepts in the 21th century
-
-
 
 * those who know all about one level of a hierarchical system may be unqualified to deal with higher or lower levels because those other levels require different knowledge
 * applying linear thinking to complex system can create big mistakes
 
-
-# Innovation {#innovation}
-
-
+# Innovation 
 
 * innovation is key to survive for many organisations - crucial elements for innovation are
     * knowledge - to be productive
@@ -38,10 +33,7 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 * the orga must focus on actionable items out of ideas to really get innovation implemented
 * a team consumes information and produces innovation (means - it also need the information)
 
-
 # agile fundaments {#agile-fundaments}
-
-
 
 * people
     * are unique individuals
@@ -69,19 +61,13 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
     * conflicts as natural aspect of complex systems
     * force improvement
 
-
 ## complexity {#complexity}
-
-
 
 * difference between complexity and complication
     * e.g. a clock is complicated but not hard to to understand
     * a group of 3 people is not complicated but complex in it's behaviour
 
-
 ### body of knowledge of systems {#body-of-knowledge-of-systems}
-
-
 
 * system theory
     * a team can construct itself, can define its identity, needs to interact with its environment and importance of interaction between team members
@@ -108,10 +94,7 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
     * simple or complicated
     * ordered, complex, chaotic
 
-
 # energize people {#energize-people}
-
-
 
 * creative phase
     * preconventional creativity
@@ -121,7 +104,9 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
         * children &lt;11 years
         * creative with knowing constraints and domination of constraints
     * postconventional creativity
+
         * >11 years
+
         * knowing constraints but produce new things that use the constrains
 * problem with knowledge - it constrains peoples few of the world
 * you need to push people to the postconvetional creativity (orga often stuck in conventional creativity)
@@ -164,10 +149,7 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
     * autonomy - autonomous choice of action
     * relatedness - care for and be related to others, be involved in social world
 
-
 ### 10 desires of team members {#10-desires-of-team-members}
-
-
 
 * make people feel competent - challenging but within their grasp
 * feel accepted - make compliments on achievements
@@ -180,10 +162,7 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 * social contacts - create environment to emerge ~ 
 * status - let them see their status in the organization
 
-
 #### ASK what can I do to help you do your best work? {#ask-what-can-i-do-to-help-you-do-your-best-work}
-
-
 
 * acknowledges that person is capable of doing her best
 * person evaluates her own performance
@@ -191,14 +170,9 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 
 Create motivational balance sheets
 
-
-
 * list points that could influence motivation and say if it motivates or demotivated - make the final balance of all points
 
-
 ## creative techniques {#creative-techniques}
-
-
 
 * processes
     * creative problem solving, productive thinking model, synetics
@@ -212,21 +186,15 @@ Create motivational balance sheets
 
 <span style="text-decoration:underline;">incentives</span>
 
-
-
 * the pushing of individuals in a complex system leads to side effects that cannot be forseen
 
 <span style="text-decoration:underline;">diversity</span>
-
-
 
 * watch for every team member what connections it creates in the organizations network - to extends the common network
     * search for new people that extends or strengthen that network
     * use it in the recruiting talks - scan for behaviour to build networks
 
 <span style="text-decoration:underline;">personality</span>
-
-
 
 * do personal assessments for each team member ask, present your own results and let them share if they want
     * test - Big five factors of personality or sixteen personality factor questionnaire
@@ -235,8 +203,6 @@ Create motivational balance sheets
 * remove open door policy (implies, that there are bigger differences) - better have a no door policy
 
 <span style="text-decoration:underline;">self organization</span>
-
-
 
 * self organization is the default (in nature)
     * makes no distinction between good or bad -- command and control pattern was invented
@@ -342,10 +308,7 @@ Create motivational balance sheets
     * chaos
         * self empowerment - not structured and predictable
 
-
 ### who or what is tuning the rules in an organization {#who-or-what-is-tuning-the-rules-in-an-organization}
-
-
 
 * misconception is that managers do it
 * managers are not responsible for self orga
@@ -360,10 +323,7 @@ Create motivational balance sheets
 * short - tasks
     * develop the system, protect the system, direct the system
 
-
 ### leader {#leader}
-
-
 
 * a complex system does not need a single leader - needs more leaders by topic
 * a cross-functional team functions better when it has multiple leaders - each with own area(s) of interest
@@ -375,10 +335,7 @@ Create motivational balance sheets
 * leader - agree, advise, inquire
 * ruler - tell, sell, consult
 
-
 ### purpose and goals {#purpose-and-goals}
-
-
 
 * every living system has an intrinsic purpose (comes naturally to a system)
 * every living system can have an extrinsic purpose - assigned to it by an owner
@@ -392,10 +349,7 @@ Create motivational balance sheets
     * intrinsic - product software
     * extrinsic - (defined to have the boundary and allow self orga to take place in the right direction) - needs to be defined by the manager 
 
-
 # how to align constraints {#how-to-align-constraints}
-
-
 
 * goal - only an extrinsic or autonomous purpose; if intrinsic use better - meaning
 * the team should have/get a shared goal  - examples:
@@ -417,13 +371,9 @@ Create motivational balance sheets
     * value-based and fundamental that it builds on company values, team values or personal values
     * revisitable and assessable to reassess its applicability later
 
-
 ## Goals {#goals}
 
-
 ### goal don'ts {#goal-don'ts}
-
-
 
 * not created to intimidate people and threaten them (with loss of their jobs)
 * not defined merely to impress shareholders or people watching the orga from the sideline
@@ -431,30 +381,20 @@ Create motivational balance sheets
 * should not distract people from a desired outcome by focusing only on the action plan
 * not too many goals
 
-
 ### agile goals (in difference to old goals) {#agile-goals-in-difference-to-old-goals}
-
-
 
 * higher purpose - transcends goals of all individuals (not only CEO or shareholders)
 * goal depends on its context
 * should not be connected to rewards or incentives - should address intrinsic desires (as learned from Drive - extrinsic motivation often destroy creativity)
 * should give employees a sense of direction
 
-
 #### communicate your goal {#communicate-your-goal}
-
-
 
 * you raise the pressure and make it transparent
 
-
 ## ASK - Do you still know what your goal is? How is this action going to help us in achieving our goal?
 
-
 ### vision statement  {#vision-statement}
-
-
 
 * created for business, projects and products
 * outward facing
@@ -462,10 +402,7 @@ Create motivational balance sheets
 * is about the desired end state
 * paint picture about delighted users, market domination, world peace
 
-
 ### mission statement {#mission-statement}
-
-
 
 * used for groups and teams
 * inward facing
@@ -473,37 +410,25 @@ Create motivational balance sheets
 * is about the way to get to an end state
 * talk about technical excellence, innovative achievements, defeating the competition
 
-
 ### allow team to have an autonomous goal {#allow-team-to-have-an-autonomous-goal}
-
-
 
 * you need to map other goals with it
 * other goals should not overrule the team autonomous goal
 * team must find it on their own - never tell them to create their own goal
 
-
 ### use boundary list of authority {#use-boundary-list-of-authority}
-
-
 
 * table with key decision area, how (authority level- see above), whe (team/individual)
 * avoids that people run into hidden electrical fences - helps to keep them motivated and productive
 * set authority level to lowest possible level
 
-
 ### protect people {#protect-people}
-
-
 
 * self organizing system must not be fair (see kids group)
 * manager promotes self organization but also needs to protect people
 * ask - Who are your friends there to get a feeling if the member is integrated
 
-
 ### manage shared resources {#manage-shared-resources}
-
-
 
 * otherwise it leads to the tragedy of the commons - work the four ingredients:
     * institutions
@@ -515,36 +440,24 @@ Create motivational balance sheets
     * incentives
         * reward responsible use, punish overuse
 
-
 ### quality {#quality}
-
-
 
 * you need to put the right and clear constraints in place to enforce quality 
 
-
 ### social contract for orga {#social-contract-for-orga}
-
-
 
 * freedom to voice your opinion
 * professional development
 * nondiscrimination
 * help
 
-
 ### team - rules {#team-rules}
-
-
 
 * agree on the team's direction; don't go at it yourself (alignment)
 * don't collide with team members and prevent problems (separation)
 * work together with the team; don't single yourself out (cohesion)
 
-
 ### some agile manager principles {#some-agile-manager-principles}
-
-
 
 * culture - no matter what other methods you apply to achieve competence in a social system - in the end it all depends on whether people actually care
 * instructors - teach people how to do their jobs properly - again, and again and again
@@ -554,10 +467,7 @@ Create motivational balance sheets
 * car horn - make sure your team members have guts to tell each other how to improve their daily work
 * government - management will need to clean up the mess
 
-
 ### feedback loops {#feedback-loops}
-
-
 
 * positive feedback loops - effect increases itself
     * you need to recognize feedback loops - enables to understand why an orga can get stuck in a certain kind of behaviour
@@ -566,10 +476,7 @@ Create motivational balance sheets
 * can bring stability to a system
 * intentional feedback loops in a short cycle are often better than in long cycles
 
-
 ### Competence - discipline * skill {#competence-discipline-*-skill}
-
-
 
 * discipline
     * importance of discipline is evident
@@ -617,10 +524,7 @@ Create motivational balance sheets
     * big problems often start small
     * if a problem is too big to handle - target another related but smaller problem
 
-
 ### How to develop competence? {#how-to-develop-competence}
-
-
 
 * maturity models are too narrowly focused on processes
     * an orgas capability of learning and processes is measured but not the capability of being innovative and adaptive in a complex environment
@@ -628,8 +532,6 @@ Create motivational balance sheets
         * instead classify specific activities performed by specific people
 
 approaches to competence development (should begin with the first approach - and the followers are fallbacks) - competency stack:
-
-
 
 * self
     * self discipline and self development - refer to one's own initiative
@@ -647,10 +549,7 @@ approaches to competence development (should begin with the first approach - and
 * manager
     * its about setting good examples and about ruling and judging in some cases
 
-
 #### sub-optimization principle {#sub-optimization-principle}
-
-
 
 * if each subsystem, regarded separately, is made to operate with maximum efficiency, the system as a whole will not operate with utmost efficiency
 * conclusion: always optimize the whole
@@ -658,10 +557,7 @@ approaches to competence development (should begin with the first approach - and
     * global metrics over local metrics
         * metric of individual performance should be combined with metrics on team leam level should be combined with metrics on business unit ...
 
-
 ### 7 measurable dimensions of software development {#7-measurable-dimensions-of-software-development}
-
-
 
 * functionality (story points completed)
 * quality (problems reported)
@@ -671,22 +567,15 @@ approaches to competence development (should begin with the first approach - and
 * process (checklists completed)
 * value (increase in users per minute)
 
-
 #### performance metrics {#performance-metrics}
-
-
 
 * distinguish skill from discipline
     * helps skilled people to think about discipline and vice versa
     * discipline: task-board is up to date  skill: few bugs reported, no build failures, customer demos always accepted
 
-
 # Books {#books}
-
-
 
 * peopleware
 * first break all the rules
 * the 21 irrefutable laws of leadership
 
-  

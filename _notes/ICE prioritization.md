@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:05:36 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # ICE prioritization
+
 ## Topic
 
 ICE prioritization
@@ -20,7 +21,6 @@ How can I prioritize topics considering Impact, Ease and Confidence?
 ### Potential usages
 
 -   Prioritize your Backlog of Topics
-    
 
 ### My offer
 
@@ -33,11 +33,11 @@ Implemented ICE score tracking in Jira.
 -   Applied parts in Product Development Lifecycle
     
 -   Know where to map it
-    
 
 ## My level of expertise
 
 Advanced
 
 # Linking
+
 + [[Confidence Meter]]

@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-date_created: Wednesday, November 29th 2023, 4:31:58 pm
-date_modified: Wednesday, November 29th 2023, 4:32:09 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Emotional Agility Quiz
-http://quiz.susandavid.com/s3/eai
-# Linking
 
+http://quiz.susandavid.com/s3/eai
+
+# Linking

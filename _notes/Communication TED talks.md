@@ -3,10 +3,11 @@ tags:
   - type/literature-note
   - digital_garden
   - epstatus/1-🌱
-date_created: Friday, September 6th 2024, 6:39:16 am
-date_modified: Friday, September 6th 2024, 6:42:11 am
+date_created: 2024-09-06 06:39
+date_modified: 2025-06-25 06:06
 ---
 # Communication TED talks
+
 1. **How to Make a Conversation with Anyone** by Malavika Varadan: [Watch on YouTube](https://www.youtube.com/watch?v=F4Zu5ZZAG7I)
 2. **How to Speak So That People Want to Listen** by Julian Treasure: [Watch on YouTube](https://www.youtube.com/watch?v=eIho2S0ZahI)
 3. **How Not to Take Things Personally?** by Frederik Imbo: [Watch on YouTube](https://www.youtube.com/watch?v=LnJwH_PZXnM)
@@ -18,5 +19,6 @@ date_modified: Friday, September 6th 2024, 6:42:11 am
 8. **The Science of Flirting** by Jean Smith: [Watch on YouTube](https://www.youtube.com/watch?v=5cQoGNEcc5Q)
 
 # Linking
+
 + [[Two AI First examples]] with a prompt extract the TED talks from a presentation
 

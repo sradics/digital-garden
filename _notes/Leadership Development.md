@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note
-date_created: Thursday, June 30th 2022, 5:06:11 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Leadership Development
+
 ## Topic
 
 Leadership Development
@@ -24,7 +25,6 @@ What aspects of my leadership should be further developed?
 -   Include the systems world in your considerations
     
 -   Access an observer perspective by me observing you & your team
-    
 
 ### My offer
 
@@ -39,7 +39,6 @@ Mentoring with provided a bunch of potential tools and approaches to take a next
 -   regular mentoring
     
 -   having been a lead for several years
-    
 
 ## My level of expertise
 

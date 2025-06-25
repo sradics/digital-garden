@@ -3,43 +3,52 @@ tags:
   - digital_garden
   - type/permanent-note
   - epstatus/1-🌱
-date_created: Sunday, May 4th 2025, 9:28:59 pm
-date_modified: Sunday, May 4th 2025, 9:30:20 pm
+date_created: 2025-05-04 21:28
+date_modified: 2025-06-25 06:10
 ---
 # My previous running list of my 12 favorite problems
 
 ## Health
+
 How can I **extend my nutrition with healthy elements** without at the same time harming the environment?
 
 ## Help others to grow
+
 How can I **help others to grow & learn fast** and leverage my knowledge and build on what I learned over the years?
 
 ## Permaculture
+
 How can I **grow a permaculture based garden** where I flourish with being in flow while thinking about topics?
 
 ## Continuous Learning
+
 How can I find a good balance of learning topics that make sense to get capable of and at the same time leverage technology and already existing knowledge?
 + How can I establish my OKR habit - How can I consistently achieve the goals I set for myself?
 + What facets of my life can I automate?
 
 ## Wealth
+
 How can I **==grow my wealth to a level that I can think and act independently==** and at the same time stay connected, social and caring?
 + How can I generate income pursuing my interests?
 
 How can I stay financial self managed and incorporate best knowledge to **create a compounding income**, leveraging advantages of tax management?
 
 ## Relationsships
+
 How do I **==express myself clearly and regularly my wife to show her that I love her to the moon==** and beyond? How can we cultivate a romantic relationship of respect, understanding, support, care, affection, and passion as a couple?
 
 How can I **==hold a good connection with all my children and help with their growth==** and at the same time ensure that they stay highly engaged, with their curiosity?
 
 ## Integrity
+
 What does **living in integrity with myself** look like?
 
 ## Purpose
+
 What can I do to get clearer on my purpose?
 
 # Leading questions to discover more of my 12 questions
+
 What were you obsessed with as a child or teenager? (Ask your parents or caregivers)
 + playing Handball
 + being in the forrest and playing in nature
@@ -71,6 +80,5 @@ If you could travel to the future and ask your future self anything, what would 
 + How did you enable that immense growth?
 
 If you read all the books and took all the courses you wanted to, what question would you like to have answered after all that?
-
 
 What are your most pressing problems currently?

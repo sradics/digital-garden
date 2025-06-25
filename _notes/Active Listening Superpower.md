@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Wednesday, April 12th 2023, 8:07:17 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Active Listening Superpower
+
 + people want to be understood and accepted
 + By listening intensely, a negotiator demonstrates empathy and shows a sincere desire to better understand what the other side is experiencing
 + Listening is the cheapest, yet most effective concession we can make
@@ -34,6 +35,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + One can only be an exceptional negotiator, and a great person, by both listening and speaking clearly and empathetically; by treating counterparts—and oneself—with dignity and respect; and most of all by being honest about what one wants and what one can—and cannot—do
 
 # Linking
+
 + Source: [[Raz-Never Split the Difference]]
 + [[MOC Negotiations]]
 + [[Personal Systemic Coaching]]
@@ -43,7 +45,6 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + Combine with [[Paraphrasing]]
 + Combine with [[Calibrated questions]]
 + Combine with [[Negotiator types]]
-
 
  - [ ] Look for more information about Carl Rogers
 

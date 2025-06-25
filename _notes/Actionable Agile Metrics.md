@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/index-note
-date_created: Thursday, June 30th 2022, 5:00:21 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Actionable Agile Metrics
+
 ## Topic
 
 Actionable Agile Metrics
@@ -36,6 +37,7 @@ Implemented in Blinkist and further companies
 Master
 
 ## Linking
+
 -   [Actionable Agile Metrics - an overview](https://www.ontheagilepath.net/articles/Unleash%20predictability%20by%20using%20Actionable%20Agile%20Metrics%206%20Key%20Learnings%20from%20Daniel%20S%20Vacantis%20aweso.pdf)
 -   [Actionable Agile Metrics - Scatterplot diagram in praxis](https://www.ontheagilepath.net/articles/On%20Measurements%20%20applied%20actionable%20agile%20metrics%20for%20predictability%20%20Part%20I.pdf)
 -   [Cycle Time Scatterplot by example](https://www.ontheagilepath.net/articles/Cycle%20time%20scatterplot%20by%20example.pdf)

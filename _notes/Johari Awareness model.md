@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-date_created: Monday, May 15th 2023, 10:47:29 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Johari Awareness model
+
 ![[Johari.excalidraw]]
 
 1.  Open or Arena: This quadrant represents the things that are known to both the individual and others. It includes information that is shared openly and freely, such as strengths, weaknesses, and personal preferences.
@@ -18,5 +19,3 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 4.  Unknown or Unknown Area: This quadrant represents the things that are unknown to both the individual and others. It includes information that has not yet been discovered or explored, such as undiscovered talents or hidden potential.
 
 # Linking
-
-

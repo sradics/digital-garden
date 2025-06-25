@@ -18,7 +18,7 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Sunday, September 18th 2022, 3:33:53 pm
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Lean Software Development - Mary Poppendieck Tom Poppendieck Thomas David Poppendieck

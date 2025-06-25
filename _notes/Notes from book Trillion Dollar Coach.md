@@ -4,10 +4,11 @@ tags:
   - type/literature-note
   - digital_garden
   - publish_in_newsletter
-date_created: Saturday, November 4th 2023, 12:11:34 pm
-date_modified: Saturday, November 4th 2023, 12:13:22 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from book Trillion Dollar Coach
+
 Introduction [Source](https://blinkist.com/nc/reader/trillion-dollar-coach-en?chapter=0)
 - Bill’s unique insights into leadership and team-building made him one of the world’s most influential and important business minds by the time 
 
@@ -45,6 +46,7 @@ Chapter 8: Final summary [Source](https://blinkist.com/nc/reader/trillion-dollar
 -  insistence on getting emotional responses to setbacks out of the way at the beginning of meetings and moving on to other issues at hand. Psychologists call this problem-focused coping.
 
 # Linking
+
 + [[Socratic Leadership]]
 + [[Personal Systemic Coaching]]
 + [[Leadership Coaching]]

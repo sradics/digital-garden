@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/literature-note
-date_created: Wednesday, November 16th 2022, 5:04:59 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes from Working Smarter through your tech stack
+
 + the **challenge of Hybrid Working**
 + **Alignment as a key thing to get done right**
 	+ What changed? And who needs to know about that?
@@ -23,8 +24,7 @@ date_modified: Thursday, May 18th 2023, 6:16:21 pm
 + tools building on No-Code, Low-Code extensions - like e.g. Slack workflows 
 + more emphasis on outcome, value vs. time in meetings/office
 
-
 ## Linking
-+ [[About meetings and tuning it]]
 
++ [[About meetings and tuning it]]
 

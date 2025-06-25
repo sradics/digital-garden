@@ -3,10 +3,11 @@ tags:
   - type/literature-note
   - epstatus/0-🌰
   - digital_garden
-date_created: Saturday, May 11th 2024, 5:35:51 am
-date_modified: Saturday, May 11th 2024, 5:48:54 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
+aliases: ["Summary of 'Meetings as Culture Carriers'"]
+linter-yaml-title-alias: "Summary of 'Meetings as Culture Carriers'"
 ---
-
 # Summary of 'Meetings as Culture Carriers'
 
 The document discusses the **importance of creating a sense of togetherness in hybrid work environments**, especially during meetings. The main points covered include:

@@ -4,9 +4,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
-date_created: Thursday, November 30th 2023, 6:13:50 pm
-date_modified: Thursday, November 30th 2023, 6:491345:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
+# The Swimming Competition That Taught Me Empathy
+
  The Swimming Competition That Taught Me Empathy
 ![[Pasted image 20231130181446.png]]
 At the age of 10, I learned a lesson in empathy and team spirit—not in a classroom, but at a swimming competition, with the echo of splashes as my soundtrack.  

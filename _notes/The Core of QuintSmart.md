@@ -3,11 +3,10 @@ tags:
   - digital_garden
   - type/permanent-note
   - epstatus/1-🌱
-date_created: Saturday, June 7th 2025, 7:05:08 am
-date_modified: Saturday, June 7th 2025, 7:05:20 am
+date_created: 2025-06-07 07:05
+date_modified: 2025-06-25 06:06
 ---
 # The Core of QuintSmart
-
 
 In an era where artificial intelligence and automation are fundamentally transforming the workplace, continuous development of your capabilities is crucial. Traditional learning methods can no longer keep pace with the speed of technological change.
 
@@ -20,18 +19,23 @@ With QuintSmart, I empower knowledge workers to adapt quickly and diversify thei
 My proven approach is based on integrating **five core pillars of intelligent learning**
 
 ### 1. **Personal Knowledge Management with a Second Brain**
+
 Systematic organization and management of information through the proven CODE methodology (Capture-Organize-Distill-Express). Your Second Brain becomes a living knowledge ecosystem that connects your thoughts and unleashes creativity.
 
 ### 2. **Holistic 4MAT Learning Cycle**
+
 Structured methodology for sustainable learning that addresses all learning types. The 4MAT cycle (Why-What-How-If) transforms how you absorb and apply new information.
 
 ### 3. **Development of a Learning-Oriented Mindset**
+
 Cultivating a positive attitude toward lifelong learning with proven frameworks like the "12 Favorite Problems" and Atomic Habits for sustainable growth.
 
 ### 4. **Teaching Learning Fundamentals (Metacognition)**
+
 Understanding essential learning processes and mechanisms. You learn to reflect on your learning and continuously optimize your strategies.
 
 ### 5. **AI-First Learning Integration**
+
 Strategic integration of AI as your learning amplifier, not replacement. Learn to leverage AI for research acceleration, content processing, and insight generation while maintaining your unique thinking patterns. Create powerful AI-enhanced workflows that multiply your learning capabilities.
 
 ## Your Transformation in 9 Weeks

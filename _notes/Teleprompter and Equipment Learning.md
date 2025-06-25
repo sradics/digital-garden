@@ -3,10 +3,11 @@ tags:
   - type/literature-note
   - digital_garden
   - epstatus/0-🌰
-date_created: Sunday, May 5th 2024, 2:16:19 pm
-date_modified: Sunday, May 5th 2024, 2:16:36 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Teleprompter and Equipment Learning
+
 [Teleprompter setup with iPad](https://www.youtube.com/watch?v=Bozw87PAHtY)
 
 Teleprompter Glide Gear TMP 100
@@ -23,11 +24,10 @@ EQUIPMENT: Canon M50 camera: [https://amzn.to/3yJGzjp](https://www.youtube.com/r
 * Ringlights are great
 * Micro - hand thumb to small finger spread away
 
-
 MICS SHOWN IN THIS VIDEO: Rode Lavalier GO Black: [https://amzn.to/3EgZ41L](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWJhckZWdnZlTW5DSzNvVG95c3JpeFNlOS11QXxBQ3Jtc0tubE9IYWM1SGN1SWVuNVlCMlBfWi0tVFkxTFUwWmlHM3R0WHJkb1g3TWd6Z2Y2bHFBRlBHNzZKcjdaS2w5UW5yT0dfUEVlSW53dU1RR3FjWmp6ZW8wMEFpMnFydHRMQ3JnRlZDTnRCeUdteXladV81aw&q=https%3A%2F%2Famzn.to%2F3EgZ41L&v=lyzWGAuLLKg) Blue Yeti USB Condenser Microphone: [https://amzn.to/3pyQHdS](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa25HUzNvcEtydTQwM01DS2tza0xTdzZFYkc0Z3xBQ3Jtc0tuVXliTGJLNy16dnJXUFNwRi1XQlVVMlhLU3pMei15QWZXdXVHYnhDUlM5RlZVbXZNZUFsb3JfUlpfVVM5SGtHVW5oeDZweWhPb3RtcGFsem5wazBZenZwZUJVS2ljdTZZWHZ0VzFEaXJySnNaejhPSQ&q=https%3A%2F%2Famzn.to%2F3pyQHdS&v=lyzWGAuLLKg) Takstar SGC-598 Shotgun Mic: [https://amzn.to/3jE939t](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEExSzhxWmdCSEU2M3BLRE1yVndaUldwa0Q5Z3xBQ3Jtc0trUS16cTlnSmx5NDdobHNFaEdVVTN0akpvaF9jcW5GZ29mT2E5am1rMGgwTmVFak9kbWpJR1Z4SDEtTTVUaHdlMER6VmhoRXNETTdGV0FoRzJtM1BzMzlydk9QazRPaEd3aktBQ1NCVTJuazRrS1otSQ&q=https%3A%2F%2Famzn.to%2F3jE939t&v=lyzWGAuLLKg) MY MIC SETUP: Rode Wireless GO: [https://amzn.to/3mcbgKT](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW9CTU9NVFNLZ0tNcnhOSjB4SVpLT2RwQUg5d3xBQ3Jtc0tuVjdrSk1lSlpZWHlfWGpGODFDOFNkQ1lwLWF0a1BfMlY1eXZ0c2tCbHdfdG5RNU9HY1ptSGg5SU1iT0lneEZMSUZld0UwV25tQXFlOWx0VksySkVrLTVaRXhkc2pJRGZOMzFoZ0ZUUDVFX2tNUWNCdw&q=https%3A%2F%2Famzn.to%2F3mcbgKT&v=lyzWGAuLLKg) Rode Lavalier GO (white): [https://amzn.to/3jAQnro](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2o0OHV3eTIxWTdpbnlweVB3RDNhemROZVRFZ3xBQ3Jtc0trRnZ2SHpBODRud2s1ODRmUEhNeE5OOW5PSVNNaU1JWXpFVkphSlM3Z3FYejUtclhlTXNPN0tSWmY1T0tZVnk4T050aFRiOXlCNGtxNVloVDh1Z09mYm9sOGdoUmxFZ2hiWGdjTDc1VjVWZEtBOExuVQ&q=https%3A%2F%2Famzn.to%2F3jAQnro&v=lyzWGAuLLKg)
 
-
 ## Framing
+
 [Source](https://www.youtube.com/watch?v=aFdu6n2gHuY&list=PLkKYTfBf8C2NF4sHJGTfYwkQegJY3kYn7&index=5)
 
 + flattering angle
@@ -48,12 +48,10 @@ Teleprompter tips
 * need special scrip formating
 * emphasis
 	* **asterisk** or ALL CAPS as a visual cue
-	* 
 * flow
 	* natural flow, not rushing
 	* Add pace in the script ENTER ENTER
 	* add visual curs like ... or ----
-	* 
 * articulation
 	* type tricky word phonetically
 	* write out numbers and symbols
@@ -61,7 +59,5 @@ Teleprompter tips
 	* one hundred dollars instead of $100
 	* also helps with teleprompter spacing
 * font right size
-* 
-	
 
 ![[Pasted image 20240505150610.png]]

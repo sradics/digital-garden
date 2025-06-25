@@ -4,16 +4,19 @@ tags:
 - matter/processed
 - epstatus/1-🌱
 - type/literature-note
-date_created: Friday, August 19th 2022, 5:20:24 am
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Figma is making you a bad designer.
+
 ## Metadata
+
 * URL: [https://uxdesign.cc/figma-is-making-you-a-bad-designer-54db4dc995ff](https://uxdesign.cc/figma-is-making-you-a-bad-designer-54db4dc995ff)
 * Published Date: 2022-06-28
 * Author: [[Emily Schmittler]]
 
 ## Highlights
+
 * If you jump straight into a design tool you’re not using it, it’s using you and it’s sucking your creativity dry.
 * if I couldn’t do my job with pen and paper (or whiteboard and marker), then I wasn’t a very good designer. To this day, I find the sentiment to be at my advantage.
 

@@ -3,22 +3,25 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Adaptabilty through AQ and Adapts Model
 
 ## Overview on Adapts
-[Source for ADAPTS](https://www.toprightthinking.com/2018/01/16/aq-adaptability-quotient-and-the-growth-mindset/) that was derived from [HBR article](https://hbr.org/2011/07/adaptability-the-new-competitive-advantage) and mattered via [[Adaptability- The New Competitive Advantage]]
 
+[Source for ADAPTS](https://www.toprightthinking.com/2018/01/16/aq-adaptability-quotient-and-the-growth-mindset/) that was derived from [HBR article](https://hbr.org/2011/07/adaptability-the-new-competitive-advantage) and mattered via [[Adaptability- The New Competitive Advantage]]
 
 ![[Pasted image 20240215124857.png]]
 
 ## Overview on Adaptability Quotient
+
 Linked with [[How high is your adaptability quotient and why is it important-]] and [[AQ - Adaptability Quotient and the Growth Mindset]] and visualized via
 
 ![[Pasted image 20240215125527.png]]
 
 ## Combining Adapts and scan each dimension with AQ 
+
 The ADAPTS model is a framework that can be applied to improve adaptability in various contexts, including personal development, project management, and organizational change. The Adaptability Quotient (AQ) is a measure of how well an individual or an organization can adapt to change. Combining the ADAPTS model with AQ involves using the principles of ADAPTS to enhance the components that contribute to a high AQ.
 
 Here's how the ADAPTS model can be integrated with the concept of AQ:
@@ -36,8 +39,9 @@ Here's how the ADAPTS model can be integrated with the concept of AQ:
 6. **Speed (S):** Agility and the ability to act quickly are important in adapting to new situations. A high AQ requires the ability to respond rapidly and effectively to change, which the 'Speed' aspect of ADAPTS emphasizes.
 
 By implementing the ADAPTS framework, an individual or organization can systematically work on improving adaptability. Using ADAPTS to guide actions and strategies can lead to the development of a higher AQ, as it addresses the core areas that are necessary for successfully navigating change. For instance, at Blinkist, applying the ADAPTS model could mean regularly exploring new content delivery methods, staying ahead of technological trends, and maintaining a flexible strategy to respond quickly to changes in consumer behavior or competitive challenges.
+
 # Linking
+
 + [[MOC Agile Learning Path]]
 + [[Change Management]]
-
 

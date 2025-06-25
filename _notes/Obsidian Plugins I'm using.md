@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
-date_created: Tuesday, August 2nd 2022, 8:44:21 pm
-date_modified: Sunday, June 25th 2023, 7:07:01 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Obsidian Plugins I'm using
 
@@ -105,6 +105,7 @@ date_modified: Sunday, June 25th 2023, 7:07:01 pm
 **Custom File Explorer sorting** - allows me to have my PARA folder structure and Johnny Decimal combined
 
 ***
+
 *this shows the folder order of PARA - Projects-Areas-Resources-Archive although the numbering would not allow an alphabetic ordering*
 ![[Pasted image 20230825065528.png|200]]
   
@@ -140,7 +141,6 @@ date_modified: Sunday, June 25th 2023, 7:07:01 pm
 **Tidy footnotes** - great simplifier when you work with Footnotes  
   
 **Typewriter scroll** - great to have focussed writing mode  
-  
 
 ## Some combinations & usage information-
 

@@ -1,10 +1,11 @@
 ---
 tags: 
 - digital_garden
-date_created: Thursday, June 30th 2022, 5:04:26 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Eisenhower Matrix
+
 ## Topic
 
 Eisenhower Matrix (Prioritization with Urgency and Importance)
@@ -18,7 +19,6 @@ How can I prioritize considering urgency and importance?
 ### Potential usages
 
 -   Apply another prioritization dimension (see also ICE prioritization) to incorporate urgency (and importance)
-    
 
 ### My offer
 
@@ -27,7 +27,6 @@ Sparring partner for your prioritization.
 ## Where did I apply that?
 
 -   used it several times to structure the priorities for topics … individually and with teams
-    
 
 ## My level of expertise
 

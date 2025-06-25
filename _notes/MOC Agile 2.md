@@ -4,13 +4,15 @@ tags:
 - MOC
 - digital_garden
 - epstatus/0-🌰
-date_created: Sunday, March 19th 2023, 8:26:50 pm
-date_modified: Thursday, June 29th 2023, 6:47:43 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # MOC Agile 2
+
 [[Sparks from Agile 2]] - captured initial thoughts what to further look at, what was inspiring while reading
 
 ## Emphasize on Leadership
+
 + [[Agile 2 and Leadership]] - condensed aspects of leadership described throughout the book
 	+ [[Socratic Leadership]] - this was new to me, really interesting approach to empower groups and also to foster learning. 
 	+ [[Leadership roles in product development]]
@@ -19,5 +21,6 @@ date_modified: Thursday, June 29th 2023, 6:47:43 am
 	+ [Leadership sketch](https://agile2.net/more-resources/a-leadership-sketch/)
 
 # Linking
+
 + [[MOC Agile Learning Path]] - overall agile learning areas
 + [[Kurt Cagle-Agile 2]] - my 2nd stage processing file - all highlights extracted from Kindle

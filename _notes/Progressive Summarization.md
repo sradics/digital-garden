@@ -1,15 +1,17 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
-date_created: Saturday, June 4th 2022, 12:02:51 pm
-date_modified: Thursday, May 18th 2023, 5:50:32 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Progressive Summarization
+
 [Source](https://www.youtube.com/watch?v=fWFKoVbSwGo)
+
 ## 1st pass
+
 * Use **bold** and highlights on the highlights from a book. 
 * Just mark the areas that express the key point from a highlight and that are surprising and/or something new
 * Don't drill down on a topic. You can do this later. So touch lightly, move quickly.
@@ -17,6 +19,7 @@ date_modified: Thursday, May 18th 2023, 5:50:32 pm
 * Do the 1-pass processing e.g. in the evening
 
 # 2nd pass
+
 * working with ==yellow highlighting== to make it even more visible what the ballparks are. Just look on the **bold** marked items
 * things that should really peak your interest in a year from now
 * what jumps out
@@ -24,6 +27,7 @@ date_modified: Thursday, May 18th 2023, 5:50:32 pm
 * 1/3 of the time of pass #1
 
 # 3rd pass
+
 Learned from Blinkist Guide with Tiago Forte
 + extract the distilled highlights and write it in your own structure and words
 + *addition by me*: add Linking, Comments
@@ -31,4 +35,5 @@ Learned from Blinkist Guide with Tiago Forte
 Prepare for express or start expressing right away
 
 # Linking
+
 + [The Ultimate Guide to Summarizing Books: How to Distill Ideas to Accelerate Your Learning](https://fortelabs.com/blog/the-ultimate-guide-to-summarizing-books/)

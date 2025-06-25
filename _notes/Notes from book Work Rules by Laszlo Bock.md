@@ -4,8 +4,8 @@ tags:
   - type/literature-note
   - digital_garden
   - publish_in_newsletter
-date_created: Saturday, November 4th 2023, 11:59:55 am
-date_modified: Saturday, November 4th 2023, 12:01:49 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from book Work Rules by Laszlo Bock
 
@@ -22,6 +22,7 @@ date_modified: Saturday, November 4th 2023, 12:01:49 pm
 	+ **==expect commitment==** from everyone in the team
 
 ### Detailed notes
+
 Introduction [Source](https://blinkist.com/nc/reader/work-rules-en?chapter=0)
 - at Google somehow brings to mind the idea of **personal freedom**, or working at your best 
 - Laszlo Bock, the head of People Operation
@@ -68,6 +69,6 @@ Chapter 6: Sometimes Google rewards failure and pays people unfairly. Why? [Sour
 Chapter 7: Google confronts the dark side of its culture head on. [Source](https://blinkist.com/nc/reader/work-rules-en?chapter=7)
 - CEO Larry Page is responsible for the annual **spring clean where he discontinues some products that are waning**, don’t have great market prospects, or are being outperformed by others.
 
-
 # Linking
+
 + [[Trinity of Directing, Leadership and Management]]

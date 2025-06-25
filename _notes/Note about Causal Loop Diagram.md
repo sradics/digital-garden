@@ -3,11 +3,10 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
-date_created: Friday, June 24th 2022, 7:01:46 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Note about Causal Loop Diagram
-
 
 **Causal Loop Diagrams**
 
@@ -16,7 +15,6 @@ that we **move away from looking at isolated events and their causes** (usually 
 If you shift from this event orientation to **focusing on the internal system structure, you improve your possibility of improving business performance**. This is because system structure is often the underlying source of the difficulty. 
 
 you **first generalize from the specific events associated with your problem to considering patterns of behavior that characterize the situation**
-
 
 Usually this requires that you **investigate how one or more variables of interest change over time**. (In a business setting, variables of interest might be such things as cost, sales, revenue, profit, market share, and so forth.) 
 
@@ -48,6 +46,6 @@ From these events, move to showing (perhaps only qualitatively) the pattern of b
 + Oscillating? S-shaped? 
 + Finally, once the pattern of behavior is determined, use the concepts of positive and negative feedback loops, with their associated generic patterns of behavior, to begin constructing a causal loop diagram which will explain the observed pattern of behavior.
 
-
 # Linking
+
 + [[Systems Thinking]]

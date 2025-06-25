@@ -3,13 +3,12 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
-date_created: Friday, July 1st 2022, 5:14:06 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Analyze costs and benefits
-Proper initiation also helps ensure that the _benefits_ of the project outcomes will outweigh the _costs_.
 
-  
+Proper initiation also helps ensure that the _benefits_ of the project outcomes will outweigh the _costs_.
 
 These guiding questions can help you **define costs**:
 
@@ -20,9 +19,6 @@ These guiding questions can help you **define costs**:
     need to work on it? How much time will it take? Where will the resources come from?
     
 3.  What would be the cost of not solving this problem?
-    
-
-  
 
 These guiding questions can help you **define benefits**:
 

@@ -3,8 +3,11 @@ tags:
   - epstatus/0-🌰
   - type/literature-note
   - digital_garden
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Key elements for writing simply
+
 [Source](http://www.paulgraham.com/simply.html)
 
 + **Using ordinary words** and **simple sentences** to make writing easier to read and understand.
@@ -17,10 +20,10 @@ tags:
 + Choosing to use complicated sentences or fancy words intentionally for effect, not by accident.
 
 # Linking
+
 + [[5 keys to readability]]
 + [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Writing is the best personal growth tool|Writing is the best personal growth tool]]
 + [[Nesslabs Community - Creative writing Session - Childhood Talents]]
 + [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/The 5 pillars of my writing process]]
 + [[My personal writing style]]
-
 

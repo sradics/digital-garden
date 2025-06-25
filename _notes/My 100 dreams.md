@@ -3,9 +3,11 @@ tags:
 - digital_garden
 - epstatus/1-🌱
 - type/permanent-note
-
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # My 100 dreams
+
 Based on [[Notes from Create a Life Compass for Aligned Action#Dreams exercise]]
 
 1. Go to US and see the nature impressions
@@ -21,7 +23,4 @@ Based on [[Notes from Create a Life Compass for Aligned Action#Dreams exercise]]
 11. Become financially independent in a level that I can spent most of my time with topics I want to spent time on
 12. Touch a Mammut-Tree in their original place
 
-
 # Linking
-
-

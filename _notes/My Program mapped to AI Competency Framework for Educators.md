@@ -3,12 +3,12 @@ tags:
   - digital_garden
   - type/permanent-note
   - epstatus/1-🌱
-date_created: Sunday, June 15th 2025, 11:39:54 am
-date_modified: Sunday, June 15th 2025, 11:40:25 am
+date_created: 2025-06-15 11:39
+date_modified: 2025-06-25 06:05
 ---
 # My Program mapped to AI Competency Framework for Educators
-based on [[AI Competency Framework for Educators]]
 
+based on [[AI Competency Framework for Educators]]
 
 # AI Competency Framework Assessment Matrix
 
@@ -126,13 +126,12 @@ Based on actual session content analysis from Weeks 1-7 transcripts.
 | **Empowering Learners** | 3 | 3 | 3 | 2 | 1 | 0 | **3/5** |
 | **Digital Competence** | 4 | 3 | 3 | 2 | 1 | 0 | **3/5** |
 
-
 ![[Pasted image 20250615114513.png]]
 
 ![[Pasted image 20250615114520.png]]
 
-
 ![[Pasted image 20250615114501.png]]
+
 ## Key Insights
 
 **Strongest Areas (4-5/5):**

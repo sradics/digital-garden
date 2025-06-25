@@ -4,11 +4,12 @@ tags:
   - digital_garden
   - type/literature-note
   - publish_in_newsletter
-date_created: Thursday, October 5th 2023, 1:56:40 pm
-date_modified: WedneThursday, Octo2ber 5th 203243311, 1:57:06 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Course - Confidence for Women in Leadership
-Source: [Welcome to Confidence for Women in the Workplace ](https://go1learning.mygo1.com/play/36103939/36103936/structure?origin=https%3A%2F%2Fgo1learning.mygo1.com%2Fp%2F%23%2Fapp%2Fcourse-view%2F36103936%2Foverview)
+
+Source: [Welcome to Confidence for Women in the Workplace](https://go1learning.mygo1.com/play/36103939/36103936/structure?origin=https%3A%2F%2Fgo1learning.mygo1.com%2Fp%2F%23%2Fapp%2Fcourse-view%2F36103936%2Foverview)
 
 * You're responsible for creating the confidence you want
 * Knowledge is not POWER - Only Action is power
@@ -18,6 +19,7 @@ Source: [Welcome to Confidence for Women in the Workplace ](https://go1learning.
 * Segway: Take action with this course
 
 ## The Truth about Confidence
+
 6 core elements of confidence
 * Attitude
 	* the way you approach a topic
@@ -47,18 +49,25 @@ What do you think your life would be like with more confidence? *Think about all
 [[Course Material#Goal setting]]
 
 ## 3 Myths about confidence
+
 ### Myth Nr 1: Some people are LUCKY to have confidence
+
 * lucky has nothing to do with it
 * instead it needs endurance and ongoing dedicated efforts to get it done
+
 ### Myth Nr 2: Confidence levels are consistent
+
 * instead they fluctuate - and being aware of that is important
 * also discover moments/triggers that gave your confidence a hit ... stop a downward spiral
+
 ### Myth Nr 3: Some people NEVER suffer from low confidence
+
 * all do
 
 How you manage the moments with low confidence make all the difference.
 
 ## Powerfully setting your confidence goal and move into action
+
 Stretch, Measurable, Motivates
 
 + Apply for that promotion
@@ -74,6 +83,7 @@ BTW Excuses are everywhere! Recognize them AND move forward anyway.
 The beginning of learning might feel uncomfortable.
 
 ## What is fear?
+
 + Beginning - Endings
 + Success - Failure
 + Change - Stuck
@@ -87,6 +97,7 @@ What is holding us back from moving forward?
 Recognize your fears , work with the fears and don't allow the fears to run the show.
 
 ### 5 Fear Facts
+
 + Everyone feel fear
 	+ being human, helps to survive, we can't remove it
 	+ brains react to social threats the same way as to physical pain
@@ -107,13 +118,16 @@ Confidence comes from positive doing and achieving.
 Just do it!
 
 ## Get comfortable with fear
+
 + Do one thing every day that scares you - constantly face your fear
 + Become familiar with the feeling of fear
 + take small steps outside your comfort zone (e.g. with a small group, then bigger)
 + e.g riding rollercoasters
 + learn about the role models that inspire you
 + learn to push through your fear
+
 ## Be OK with failure
+
 + people are inspired by the struggle too
 	+ we can see ourself in them, their wins become our wins
 + failure is part of the game, failure is necessary
@@ -131,6 +145,7 @@ Change your perception of failure.
 [[Course Material#Working with Failure]]
 
 ## Understanding Self-Doubt
+
 + we give that too much power 
 + if self doubt becomes a habit we need to change that
 + look self-doubt in the eyes - thanks for the interest - and let it go
@@ -151,6 +166,7 @@ Reflect our your self-doubt:
 * What is your self-doubt currently telling you you can't do, in relation to the confidence goal you set earlier?
 
 ## Taking control of your negative thinking
+
 + Learn how to manage negative thoughts
 + Positive thought needs much more re-inforcements
 + interrupt automatic negative thoughts
@@ -167,6 +183,7 @@ Reflect our your self-doubt:
 + the more you chose thoughts the more you will create positive outcomes for yourself
 
 ## Practical techniques to overcome negative thinking
+
 + What you say and think determines the reality of your life
 + thoughts creates a field of reference
 + we have a tendency to try to be right on our thoughts and also to find evidence that proves that
@@ -175,6 +192,7 @@ Reflect our your self-doubt:
 + write down negative thought ... AND I know this is not true
 
 ### T:Reframe your thoughts
+
 + Identify a negative thought: 
 	+ The negative thought I have is ...
 	+ and I know that is not true
@@ -188,6 +206,7 @@ Reflect our your self-doubt:
 + train that muscle
 
 ## T:Power Mantras - Positive reinforcement
+
 + Positive affirmations
 + Repeat positive statements constantly to override negative statements
 	+ best by speaking aloud
@@ -198,26 +217,37 @@ Reflect our your self-doubt:
 [[Course Material#Power Mantras and Reframing Thoughts]]
 
 ## Why we care what others think
+
 + one of the biggest confidence destroyers
+
 ### Be aware of your social connections
+
 + this is a strong need
 	+ relying on social media and likes is a trap - it is not all there is. Take the good from it
 + people are more drawn to authenticity
+
 ### They're all just opinions
+
 + they are often thinking about you. And they don't see through your lense
 + There is not opinion that matters more than yours when it comes to your own life
 + IN MY OPINION
+
 ### What we really fear is failing publicly
+
 + this often stops us from trying
 + think about "presenting on a desert island" to conquer that thought
 + How are THEY anyway
+
 ### They are not on the Court
+
 + You are playing your game on the court. Not them!
 + It doesn't matter what OTHER people think... ALL that matters is what YOU think and that YOU'RE on the court playing the game.
 + They are not thinking about YOU! Nobody cares that much about you. They much more care about themselves (and mirror their thoughts)
 
 ## Practical techniques to Care Less What Others Think
+
 ### Focus on your personal best
+
 + check in on what you want to belief
 + stop comparing to other woman (you don't know their full story) - but compare to yourself
 	+ and learn whom you are comparing to atm
@@ -226,13 +256,16 @@ Reflect our your self-doubt:
 But if you judge a fish by its ability to climb a then it will live its whole life believing it is stupid." *Einstein*
 
 + know what your goals and your priorities are
+
 ### Unsubscribe
+
 + from all the rubbish ... start own personal detox
 + get rid of all the toxic influences that are holding you back
 + connect with people & stories that inspire you and build you up
 + chose your social influencers
 
 ### In My Opinion
+
 An opinion is a belief or judgement that FALLS SHORT of absolute conviction, certainty or positive knowledge; it is a conclusion that certain facts or ideas are PROBABLY true or likely to prove so.
 
 + many opinions are not based on facts or solid grounds
@@ -246,51 +279,74 @@ Place IN MY OPINION in front of everything someone says ... this connects it to 
 [[Course Material#In my opinion exercise]]
 
 ## Four techniques to confidently advance in you workplace
+
 ### Increase your belief in your abilities, skills, and talents -confidence is just as important as competence
+
 + build your self belief and back yourself and your true version of yourself and in your abilities
 + express verbal and non-verbal cues
 + skill of confidence you need to work on
+
 ### Manage the external influencers
+
 + especially the negative ones
 	+ they don't think about you
 	+ don't get blocked by their limiting beliefs
 + your own thoughts matter
+
 ### Become the change you want to see
+
 * get mentor and connect regularly ... learn and grow from them
 * learn about the unique perspectives from others
+
 ### Truly accept that you deserve where you are
+
 + people notice your lack of confidence!
 
 ## 5 Powerful techniques to conquer imposter
+
 + Imposter - cognitive bias were they don't realize their capabilities (vs. Dunning Kruger - where they overestimate their capabilities)
 	+ if you suffer from imposter ... this likely means you're already highly capable
 + Believing theses thoughts creates the problem
 + Repeatedly holding back, creates a habit ... so be careful and instead show up
 + Try making yourself heard
 + Imposter hates confidence
+
 ### Don't be afraid to ask
+
 + don't know, what to know more or wan't to push back
 + become the most informed person in your workplace
+
 ### Nr 1: Be OK with failure
+
 + learn, grow and adapt
 + get comfortable with failing
 + observe the lesson and move on
+
 ### Nr 2: Harness the power of your words and yourself
+
 + we chose how we want to see the worlds
 + use positive affirmations
+
 ### Nr 3: Don't compare to anyone but you
+
 + get valuable messages from social media but don't use that as personal benchmarks
 + get inspired by their journey but don't automatically see this as your journey
+
 ### Nr 4: Fake it, till you make it
+
 * repeat and practice confidence often enough 
 * pretend that you're
 * do you best to become the most informed person and take most informed decisions
+
 ### Nr 5: Have a well book
+
 + capture anything positive that gets to you
 + open it when in self doubt
 
 ## How to Stop Comparison, Overthinking and Perfectionism in the Workplace
+
 ### Comparison
+
 + all do it
 + apples to oranges when you compare to someone else. They are completely different
 + too many things to compare too ... endless list
@@ -299,7 +355,9 @@ Place IN MY OPINION in front of everything someone says ... this connects it to 
 	+ stay in you own lane!
 + compare to your better self!!
 + inspire yourself and beat your personal best, run your own race - this is a realistic benchmark
+
 ### Overthinking
+
 + it is not thinking too much! It is analyzing by far too much and focussing on the worst case scenarios
 + Question everything include yourself
 + especially woman experiencing relating to their self doubts and don't give themselves a break with thinking about it
@@ -308,7 +366,9 @@ Place IN MY OPINION in front of everything someone says ... this connects it to 
 + confidence will reduce overthinking 
 + take action to learn - also from failure
 + think less, do more
+
 ### Perfectionism
+
 + ineffectiveness
 + more does not automatically lead to better results
 + perfectionism does not lead to more success automatically
@@ -324,6 +384,7 @@ Place IN MY OPINION in front of everything someone says ... this connects it to 
 [[Course Material#The Good enough scale]]
 
 ## Break the hesitation loop - How to Confidently Speak Up in Meetings
+
 + maybe you Second guessed yourself
 + hesitation - stops from raising your hand
 + hesitation loop
@@ -349,6 +410,7 @@ Place IN MY OPINION in front of everything someone says ... this connects it to 
 + your contribution is unique
 
 ## Creating the Confidence to Present to an Audience
+
 + expect fearful feelings to arrive
 + speaking is a skill one can learn
 + stop the conversation in your head
@@ -388,6 +450,7 @@ Place IN MY OPINION in front of everything someone says ... this connects it to 
 + put your best food forward - clothing, freshness
 
 ## How to Network as a Confident Woman
+
 + master the ability to talk to strangers
 + be prepared
 	+ mentally - everyone is a stranger until you meet them
@@ -444,6 +507,7 @@ Place IN MY OPINION in front of everything someone says ... this connects it to 
 [TED Talk about body language](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?language=en)
 
 ## Choosing Your Confident Woman Role Model
+
 + can be familiar or far away
 + skill set based, behavior based
 + look for the personality and skills you want to master
@@ -460,4 +524,5 @@ Place IN MY OPINION in front of everything someone says ... this connects it to 
 [[Course Material#Chose a Role model]]
 
 ## Certificate
+
 ![[Certificate_102307198_1697122892.pdf]]

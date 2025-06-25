@@ -3,11 +3,11 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/0-🌰
-date_created: Sunday, September 18th 2022, 3:10:26 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Scrum and XP
-![[Pasted image 20220918151048.png]]
 
+![[Pasted image 20220918151048.png]]
 
 [[Learning Agile]] (p204)

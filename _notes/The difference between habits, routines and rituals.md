@@ -4,12 +4,13 @@ tags:
 - type/literature-note
 - digital_garden
 - matter/processed
-date_created: Thursday, June 15th 2023, 3:06:57 pm
-date_modified: Saturday, June 24th 2023, 5:13:24 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # The difference between habits, routines and rituals
 
 ## Metadata
+
 * URL: [https://nesslabs.com/habits-routines-rituals](https://nesslabs.com/habits-routines-rituals)
 * Author: Anne-Laure Le Cunff
 * Publisher: Ness Labs
@@ -17,6 +18,7 @@ date_modified: Saturday, June 24th 2023, 5:13:24 am
 * Tags: 
 
 ## Highlights
+
 * “habit” and “routine” interchangeably, they both mean two distinct things.
 * **main difference** between habits and routines is **how much aware and intentional you are**.
 * A ==**habit usually manifests itself as an automatic urge to do something**==, often triggered by a particular cue.

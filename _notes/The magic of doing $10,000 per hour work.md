@@ -4,17 +4,19 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Monday, July 11th 2022, 3:58:59 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # The magic of doing $10,000 per hour work
 
 ## Metadata
+
 * URL: [https://radreads.co/10k-work/](https://radreads.co/10k-work/)
 * Published Date: 2020-04-30
 * Author: [[Khe Hy]]
 
 ## Highlights
+
 * ==Credit card hacking== is a ==prime example of doing $10/hour work==. * It feels productive (free money!). * It releases dopamine (A free flight upgrade!) * And it makes you feel like you’re outfoxing a competitor (I got away with THIS!).
 	==* But does not move the needle==
 * ==$10k/hour examples. What would move the needle? * Cancelling Amazon prime. * Conducting a monthly money review with your spouse. * Paying cash for all purchases. * Learning how to cook.== * Automating a 529 plan for an unborn child.
@@ -34,10 +36,8 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 > ==What is 1000 more impactful than email?==
 > ![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20220723065847.png]]
 
-
 ![[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/attachments/Pasted image 20220723065921.png]]
 
-
-
 # Linking
+
 + [[MOC 10K$ framework]]

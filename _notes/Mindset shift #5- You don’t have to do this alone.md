@@ -4,16 +4,21 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Sunday, September 11th 2022, 8:51:43 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
+aliases: [Social Learning]
+linter-yaml-title-alias: Social Learning
 ---
 # Social Learning
+
 ## Metadata
+
 * URL: [https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1](https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1)
 * Publisher: [[Forte Labs]]
 * Published Date: 2022-08-26
 
 ## Highlights
+
 * To my amazement, there was a thriving underground scene of small, informal “interest clubs” organized through the website Meetup.com.
 * And at yet another meetup, I was introduced to the Theory of Constraints, which became my most prolific source of insights on productivity.
 * Why not go along with our sociability instead of fighting it? Why not double down on the collaborative aspect of creativity in a hyperconnected world? Why not proactively adopt methods that leverage people’s gifts and perspectives instead of treating them as threats to our ego?

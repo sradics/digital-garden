@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/1-🌱
-date_created: Tuesday, August 30th 2022, 12:31:16 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Agile Values
+
 + Commitment
 + Feedback
 + Focus
@@ -17,6 +18,7 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 + Openness
 
 ## Linking
+
 + [[Agiler führen]]
 + [[Term Agility]]
 + [[Learning Agile]]

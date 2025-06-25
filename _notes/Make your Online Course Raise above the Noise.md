@@ -3,13 +3,17 @@ tags:
 - epstatus/1-🌱
 - type/literature-note
 - digital_garden
-date_created: Friday, March 3rd 2023, 5:51:25 am
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
+aliases: ["Make your Online Course Raise above the Noise "]
+linter-yaml-title-alias: "Make your Online Course Raise above the Noise "
 ---
 # [[Make your Online Course Raise above the Noise ]]
+
 [Source](https://keystoneaccelerator.com/recording-rise-above-the-noise-mar-2-2023/?utm_medium=email&utm_source=keystone&utm_term=zoom-registrants&utm_campaign=rise-above-noise-mar-23&utm_content=recording) (online available for a limitted time)
 
 # Notes from the session
+
 ChatGPT - for writing sales copy (used the AI integration in Notion).
 This will lead to an extreme content explosion.
 
@@ -31,9 +35,9 @@ As an expert, I have a hard time simplifying that and explaining that to someone
 Nr 1 survival skill: Create a distinct, stand-out message that reflects your authenticity.
 
 ## Approach 1 - Add the human touch
+
 > [!question]
 > Does it have my **fingerprint** on it? How can I put my unique fingerprint on my marketing content?
-> 
 
 No one has my unique combination of stories, places, knowledge ... the person I am. 
 
@@ -41,8 +45,8 @@ It is about reaching the right people, that actually really will benefits from m
 
 The path of learning starts way before my course. So each early stage interaction also already contributes to the learning.
 
-
 ## Approach 2 - Create Intellectual Property (IP)
+
 E.g. the steps that I go through in my program.
 It is about outlining my methodology and how I'm going about doing things.
 
@@ -65,6 +69,7 @@ Get clear about how I will defense my framework. Why is it better than others? H
 The Five Lightbulbs marketing methodology (not yet sure what this is about)?
 
 ## Approach 3 - Drive home one clear message from one hundred angles
+
 So think a lot about the words I use to send a message to someone else.
 📖 [[Reality in Advertising - Rosser Reeves]] - includes a study about stickyness.
 
@@ -85,23 +90,24 @@ Also to prepare for people speaking on my behalf.
 Focus on the one thing that is the big needle mover.
 
 ## About the great course offer by Billy Broas
+
 Pick an Offer ... and run it through Keystone
 
 ### When to best use it?
+
 + When you have a marketing launch coming up
 + When your marketing needs a refresh
 + When you need to get your team on the same page with your messaging
 
 ## High level on The Five Lightbulbs 
+
 1) **Gather** insights
 2) **Add messaging** to your messaging map
 	+ and derive messages for different channels
 3) **Create your marketing**. (Never start from scratch again)
 
-
 ## Thoughts
+
 Connects well to [[What is a spiky point of view]]
 
 # Linking
-
-

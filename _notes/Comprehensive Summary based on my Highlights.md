@@ -3,9 +3,11 @@ tags:
   - digital_garden
   - epstatus/1-🌱
   - type/literature-note
-date_created: Wednesday, March 26th 2025, 7:41:45 pm
-date_modified: Wednesday, March 26th 2025, 7:42:09 pm
+date_created: 2025-03-26 19:41
+date_modified: 2025-06-25 06:05
 image: Pasted image 20250326192514.png
+aliases: [Comprehensive Summary of $100M Leads by Alex Hormozi]
+linter-yaml-title-alias: Comprehensive Summary of $100M Leads by Alex Hormozi
 ---
 # Comprehensive Summary of $100M Leads by Alex Hormozi
 
@@ -70,6 +72,7 @@ When building an audience, choose between:
 ## 4. Outreach and Lead Generation
 
 ### Warm Outreach
+
 The 10 steps for warm reach outs:
 1. Get your list
 2. Pick a platform
@@ -88,6 +91,7 @@ Free customers can make you money in three ways:
 - Their testimonials bring in paying customers
 
 ### Cold Outreach
+
 Cold outreach has enormous benefits:
 - It's incredibly reliable
 - Fewer platform changes
@@ -124,6 +128,7 @@ Four types of lead getters:
 4. **Affiliates**: Businesses who tell their audiences about your stuff
 
 ### Referrals
+
 Referrals are extremely valuable because:
 - They're worth more (higher LTGP)
 - They cost less (lower CAC)
@@ -141,6 +146,7 @@ Seven ways to ask for referrals:
 7. Ongoing referral programs with bonuses
 
 ### Affiliates
+
 For affiliates to work well:
 - Find businesses with audiences similar to your customers
 - Have them buy your product first (they should believe in it)
@@ -192,6 +198,7 @@ Six levels of advertising progression:
 The key insight: Most people dramatically underestimate the volume it takes to make advertising work. Success comes from doing the right things consistently and at scale.
 
 ## One Page Advertising Checklist
+
 ![[Pasted image 20250326193327.png]]
 1) Pick The Type Of Engaged Lead To Get : Customers, Affiliates, Employees or Agencies
 2) Pick Rule of 100 or Open To Goal. Commit To Your Daily Advertising Action
@@ -200,8 +207,10 @@ The key insight: Most people dramatically underestimate the volume it takes to m
 5) When you do, go back to step 1. Make employees your new target lead type. And repeat steps 1-4 until you have the help you need. Then, scale again.
 
 ## Follow up
+
 * Acquisition.com/training/leads  
 * Acquisition.com/avatar
 
 # Linking
+
 - [[Highlights_extracted]] - these highlights were a direct extract from images taken from the book with highlighted sections

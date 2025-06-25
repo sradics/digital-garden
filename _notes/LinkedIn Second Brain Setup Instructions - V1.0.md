@@ -2,10 +2,11 @@
 tags:
   - digital_garden
   - type/permanent-note
-date_created: Friday, November 29th 2024, 9:32:34 am
-date_modified: Friday, November 29th 2024, 9:54:39 am
+date_created: 2024-11-29 09:32
+date_modified: 2025-06-25 06:06
 ---
 # LinkedIn Second Brain Setup Instructions - V1.0
+
 It takes you 7 simple steps, doable in 5 minutes to open your LinkedIn-Second Brain. I'll outline the 7 steps here for you. 
 
 1) Install [Obsidian](https://obsidian.md/) and please follow the installation instructions described by the Obsidian team.

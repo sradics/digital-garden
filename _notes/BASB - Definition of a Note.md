@@ -3,8 +3,8 @@ tags:
 - type/permanent-note
 - epstatus/2-🪴
 - digital_garden
-date_created: Sunday, April 30th 2023, 6:31:45 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:05
 ---
 # BASB - Definition of a Note
 
@@ -12,9 +12,9 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 > A discrete unit of information ==interpreted through my **unique** perspective== and stored outside of my head. 
 > 
 > ==A knowledge building block.==
-> 
 
 ## Leading questions to discover candidates for new notes
+
 **What creative raw material do I already have access too?**
 
 My answers on 2023-05-06_Sat:
@@ -35,20 +35,11 @@ My answers on 2023-05-06_Sat:
 + support the learning process for others more easily
 
 # Linking
+
 + [[How to take Smart Notes - Key Insights]] and different types of notes
 	+ [[What is a literature note]]
 	+ [[What are permanent notes]]
 	+ [[What is a fleeting note]]
 	+ [[About my usage of Fleeting Notes, Permanent notes and Literature Notes]]
-+ [[BASB - Learning about Express#Approach to work with intermediate packages/IP to increase ROA| Working with Intermediate Packages to increase ROA]]
-
-
-
-
-
-
-
-
-
-
++ [[BASB - Learning about Express#Approach to work with intermediate packages/IP to increase ROA|Working with Intermediate Packages to increase ROA]]
 

@@ -4,8 +4,10 @@ tags:
   - type/literature-note
   - digital_garden
   - publish_in_newsletter
-date_created: Saturday, November 4th 2023, 12:19:00 pm
-date_modified: Saturday, November 4th 2023, 12:19:53 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
+aliases: [Book notes from Leading with Love and Laughter]
+linter-yaml-title-alias: Book notes from Leading with Love and Laughter
 ---
 # Book notes from Leading with Love and Laughter
 
@@ -52,4 +54,5 @@ Chapter 6: Appropriate humor in the workplace provides many benefits. [Source](h
 - Humble leaders are confident without arrogance, sincere, modest, and able to laugh at themselves openly.
 
 # Linking
+
 + [[Midjourney V6 prompts examples/030-039 Areas/32 Zettelkasten/Literature notes/Matter/Mindset shift -2- Your brain is for having ideas, not holding them|Mindset shift -2- Your brain is for having ideas, not holding them]]

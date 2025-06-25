@@ -3,12 +3,13 @@ tags:
 - epstatus/0-🌰
 - type/literature-note
 - digital_garden
-date_created: Thursday, May 11th 2023, 7:27:11 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Talk- The Expanding Dark Forest and Generative AI
 
 ## Metadata
+
 * URL: [https://maggieappleton.com/forest-talk](https://maggieappleton.com/forest-talk)
 * Author: Maggie Appleton 🧭
 * Publisher: maggieappleton.com
@@ -16,6 +17,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * Tags: 
 
 ## Highlights
+
 * “very online”. I live on Twitter and write a lot online. I hang out with people who do the
 * 18th-century **men of letters**.
 * **dark forest theory**

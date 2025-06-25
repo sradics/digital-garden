@@ -3,9 +3,11 @@ tags:
   - digital_garden
   - type/permanent-note/essay
   - 12_fav_problems/continuous_learning
-date_created: Sunday, October 27th 2024, 10:38:31 pm
-date_modified: Monday, October 28th 2024, 2:16:52 pm
+date_created: 2024-10-27 22:38
+date_modified: 2025-06-25 06:10
 image: AgileLandscape.excalidraw_snapshot.png
+aliases: [Abstract]
+linter-yaml-title-alias: Abstract
 ---
 # Abstract
 
@@ -37,11 +39,13 @@ These principles remain foundational to Agile and are seen as a direct challenge
 ## Variants of Agile
 
 ### Scrum
+
 Scrum is one of the most popular frameworks for implementing Agile. Developed by Jeff Sutherland and Ken Schwaber, Scrum revolves around defined roles (such as product owner, scrum master, and development team), structured work cycles (sprints), and regular ceremonies (such as sprint reviews, retrospective meetings, and daily stand-ups). Each role and event ensures a clear organizational rhythm and fosters accountability.
 
 The benefits of Scrum include delivering better products faster and more consistently. Each sprint concludes with a potentially shippable product increment, meaning the team provides functional code or another deliverable frequently. However, Scrum isn’t without its critics. Some teams find the rigid structure of roles and meetings constraining, particularly in less software-oriented fields or smaller, cross-functional teams.
 
 ### Kanban
+
 Kanban, popularized within manufacturing and later applied to Agile teams, emphasizes visualizing work in progress and limiting the number of tasks or items in progress at a time. The Kanban board, usually featuring columns like “To Do,” “In Progress,” and “Done,” enables teams to monitor the flow of work at any given moment. Unlike Scrum, Kanban doesn’t operate using time-boxed sprints, which makes it flexible for teams with operational tasks or continuously changing priorities.
 
 Kanban’s adaptability can be both its strength and its Achilles’ heel. Teams new to Agile sometimes struggle with the lack of pre-defined workflow constraints, which can lead to the overextension of team resources if tasks continuously move into the “In Progress” column.
@@ -73,10 +77,12 @@ For organizations contemplating an Agile transformation, a focus on education an
 # Original Draft
 
 ## Introduction to Agile
+
 AgileLandscape.excalidraw.md
 ![AgileLandscape.excalidraw](S01%20Personal/030-039%20Areas/38%20Agile/38.44%20Agile%20Core/attachments/AgileLandscape.excalidraw.md)
 
 # Linking
+
 + [[MOC Agile Learning Path]]
 + [[MOC Agile 2]]
 + [[Term Agility]]

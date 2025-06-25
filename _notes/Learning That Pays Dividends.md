@@ -4,8 +4,8 @@ tags:
   - digital_garden
   - epstatus/2-🪴
 event_date: 2025-03-19
-date_created: Wednesday, March 26th 2025, 3:18:44 am
-date_modified: Wednesday, March 26th 2025, 3:23:01 am
+date_created: 2025-03-26 03:18
+date_modified: 2025-06-25 06:10
 image: Pasted image 20250326034630.png
 ---
 # Learning That Pays Dividends
@@ -16,19 +16,22 @@ Workshop Slides:
 
 ![[CompoundingLearning.pdf]]
 
-
 ## Agenda
+
 ![[Pasted image 20250326034630.png|400]]
 
 ## Workshop Briefing for AI
+
 - [[Workshop Briefing for AI]]
 
 ## Stats
+
 - 5 attendees
 - 20 registered (but 2x date shifted)
 - about 100 messages
 
 ## LinkedIn - FiveLightbulbs messaging
+
 - [[Information as Competitive Advantage]] (09.02)
 - [[Learning That Pays Dividends Workshop]] (11.02.)
 - [[Compounding starts with you]] (12.02.)
@@ -46,6 +49,7 @@ Workshop Slides:
 - [[A small Compounder example]] (18.03.)
 
 # Linking
+
 - [Newsletter about Compounding Learning](https://pages.quintsmart.com/posts/learning-that-pays-dividends-transform-information-overload-into-compound-growth-the-friday-brain-upgrade)
 - Project: [[329 Compounding Learning Workshop]]
 - [Compounding Learning: From Small Steps to Rich Depths - Magazine Article](https://leonardo.institute/SPARK/February2025/)

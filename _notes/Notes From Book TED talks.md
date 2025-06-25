@@ -4,10 +4,11 @@ tags:
   - type/literature-note
   - digital_garden
   - publish_in_newsletter
-date_created: Thursday, November 2nd 2023, 1:06:25 pm
-date_modified: Thursday, November 2nd 2023, 3:38:24 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes From Book TED talks
+
 Chapter 1: **Public speaking is a great way to spread your ideas**; **anyone can learn to do it**.  [Source](https://blinkist.com/nc/reader/ted-talks-en?chapter=1)
 - we put something very dear to us on the line – our reputation
 - risking being disliked, ridiculed or even worse, ignored.
@@ -63,6 +64,8 @@ Chapter 7: Channel your adrenaline. [Source](https://blinkist.com/nc/reader/ted-
 Chapter 8: Final summary [Source](https://blinkist.com/nc/reader/ted-talks-en?chapter=8)
 - make sure to **vary your voice.**
 	- using tools like volume, tone and timbre
+
 # Linking
+
 + [[MOC Presentation and Public speaking]]
 

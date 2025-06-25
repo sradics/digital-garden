@@ -4,15 +4,18 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Tuesday, July 26th 2022, 8:24:34 am
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # $10K Training Lesson 13 A portfolio approach to $10K Work
+
 ## Metadata
+
 * URL: [https://mail.google.com/mail/u/0/](https://mail.google.com/mail/u/0/)
 * Published Date: 2021-11-09
 
 ## Highlights
+
 * See, if all you did ==all day was $10K work, you'd be a dreamer==. You'd plan out your future, brainstorm new skills that you could learn or think about your business strategy - but you'd never act on it.
 * aim to create a portfolio of activities.
 * ==$10/hr work = cash==. It’s liquid, moves quickly, “safe” and allows you to function on a daily basis.
@@ -24,6 +27,6 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 * ==the earlier you are in your career, the less agency you have to get rid of $10 and $100 tasks==. (can be interesting for coaching!)
 * ==the more you advance professionally, the more you should shift your focus towards the big picture==.
 
-
 # Linking
+
 + [[MOC 10K$ framework]]

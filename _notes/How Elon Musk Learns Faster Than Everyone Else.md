@@ -4,17 +4,20 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Wednesday, September 21st 2022, 8:40:27 pm
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # How Elon Musk Learns Faster Than Everyone Else
+
 ## Metadata
+
 * URL: [https://medium.com/@mariastepanova7/how-elon-musk-learns-faster-than-everyone-else-26c5cf4c2ef5](https://medium.com/@mariastepanova7/how-elon-musk-learns-faster-than-everyone-else-26c5cf4c2ef5)
 * Author: [[Maria Stepanova]]
 * Publisher: [[medium.com]]
 * Published Date: 2022-06-16
 
 ## Highlights
+
 * ==Rule #1 — Make sure you are building a Tree of Knowledge==
 * make sure you ==understand the fundamental principles==, i.e. the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang onto.”
 * understanding fundamental principles ==and mental models that are at the core of each of the sectors==
@@ -27,7 +30,9 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 * ==Learn across multiple fields and work tirelessly on making connections==.
 
 ## Connecting with 2nd brain
-The described approach links very well with my understand of [[MOC Building a 2nd brain | building a 2nd brain]] and taking [[How to take Smart Notes - Key Insights | smart notes]]. Reading 2 books a day is very special. I'm not there yet. But at least I'm already reading one per week. And I'm using [Blinkist](https://www.blinkist.com/) to gain a fast overview on topics and decide when to buy a book. 
+
+The described approach links very well with my understand of [[MOC Building a 2nd brain |building a 2nd brain]] and taking [[How to take Smart Notes - Key Insights |smart notes]]. Reading 2 books a day is very special. I'm not there yet. But at least I'm already reading one per week. And I'm using [Blinkist](https://www.blinkist.com/) to gain a fast overview on topics and decide when to buy a book. 
 
 ## Linking
+
 + [[MOC Building a 2nd brain]]

@@ -3,10 +3,11 @@ tags:
   - type/literature-note
   - epstatus/0-🌰
   - digital_garden
-date_created: Friday, November 29th 2024, 10:04:54 am
-date_modified: Friday, November 29th 2024, 10:05:08 am
+date_created: 2024-11-29 10:04
+date_modified: 2025-06-25 06:10
 ---
 # Webinar with Markus
+
 + Share what he is doing and why he think it is working with Markus
 + (happy to help with orchestration) (also with chat)
 + You are what you repeatedly do!
@@ -40,7 +41,6 @@ date_modified: Friday, November 29th 2024, 10:05:08 am
 	+ need to consider and respect that we will work with different speeds
 + Marker - Options - Work framework to replace loaded wording ... and immediately start with the work
 
-
 ![[Pasted image 20241129102954.png]]
 
 📖 How big things are done
@@ -73,7 +73,6 @@ Who we are - Identity
 - **markers** - slow and stable, sometimes we need to change
 	- you need people accountable for that, to early on discover important needs to adjust. Often they then need to change fast
 
-
 What we have to do
 + **work**
 	+ flow
@@ -93,10 +92,8 @@ You need clarity on level of options.
 Options
 - discussion on qualitative level is often difficult
 
-
 Example:
 ![[Pasted image 20241129104836.png]]
-
 
 Resolution partially very low in the slides shown
 
@@ -111,12 +108,10 @@ Options:
 
 Strategy is often scary in the middle 
 
-
 In summary:
 * Play to Win strategy canvas
 + discuss things weekly with the canvas
 + it is not a linear process
-
 
 High cadence!!
 Options, Marker - weekly 15' -- to make problems visibe

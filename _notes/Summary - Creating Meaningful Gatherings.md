@@ -3,10 +3,11 @@ tags:
   - type/literature-note
   - digital_garden
   - epstatus/0-🌰
-date_created: Saturday, May 11th 2024, 5:45:12 am
-date_modified: Saturday, May 11th 2024, 5:47:46 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
+aliases: ["Summary of 'Creating Meaningful Gatherings'"]
+linter-yaml-title-alias: "Summary of 'Creating Meaningful Gatherings'"
 ---
-
 # Summary of 'Creating Meaningful Gatherings'
 
 The transcript is a discussion on creating meaningful gatherings and building community, featuring insights from Priya Parker, an expert in the field. Key points include:

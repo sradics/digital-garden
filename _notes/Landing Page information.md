@@ -3,10 +3,11 @@ tags:
   - digital_garden
   - epstatus/1-🌱
   - type/permanent-note
-date_created: Tuesday, January 21st 2025, 11:54:10 am
-date_modified: Wednesday, March 26th 2025, 4:00:51 am
+date_created: 2025-01-21 11:54
+date_modified: 2025-06-25 06:06
 ---
 # Landing Page information
+
 [Tally Application Form](https://tally.so/r/w212Le)
 
 Main insights I'd like to provide during the session

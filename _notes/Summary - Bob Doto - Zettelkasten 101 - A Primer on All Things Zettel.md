@@ -3,8 +3,10 @@ tags:
   - epstatus/0-🌰
   - type/literature-note
   - digital_garden
-date_created: Wednesday, June 4th 2025, 2:44:53 pm
-date_modified: Wednesday, June 4th 2025, 2:45:44 pm
+date_created: 2025-06-04 14:44
+date_modified: 2025-06-25 06:06
+aliases: [Bob Doto Zettelkasten - Book to Action Implementation Plan]
+linter-yaml-title-alias: Bob Doto Zettelkasten - Book to Action Implementation Plan
 ---
 # Bob Doto Zettelkasten - Book to Action Implementation Plan
 

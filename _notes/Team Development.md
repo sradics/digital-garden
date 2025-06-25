@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:09:18 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Team Development
+
 ## Topic
 
 Team Development
@@ -18,14 +19,12 @@ Team Development
 -   I which phase is my team?
     
 -   What could be next steps toward forming a high performing team?
-    
 
 ### Potential usages
 
 -   Analyze your team’s development stage
     
 -   Plan and implementation for next steps with your teams
-    
 
 ### My offer
 
@@ -36,13 +35,13 @@ Consult with team development related topics. Applying OODA to further tune your
 -   led several teams
     
 -   references to Team of Teams, Team Genuis, 5 dysfunctions of a team
-    
 
 ## My level of expertise
 
 Advanced
 
 ## Linking
+
 [[38.43 Teams]] (a MOC for teams and knowledge around teams)
 [[Accelerate]]
 [[Agile Career Development]]

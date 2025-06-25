@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/social-media/linkedIn-post-note
-date_created: Thursday, August 24th 2023, 6:40:30 am
-date_modified: Thursday, August 24th 2023, 6:42:40 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # 5 hints for Mastering Coursera Courses and earn your certificates
+
 🏆 Quick Guide to Mastering Coursera Courses in Record Time! 🚀  
 ---  
 Achievement Unlocked: Completed a 16-week course on Leadership and Negotiation Skills in just 7 days!  
@@ -28,6 +29,6 @@ Happy Learning, Achievers! ✨💼📘
   
 [Learning](https://www.linkedin.com/feed/hashtag/?keywords=learning&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7100342740881661952) [BASB](https://www.linkedin.com/feed/hashtag/?keywords=basb&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7100342740881661952)
 
-
 Posted on [**LINKEDIN**](https://www.linkedin.com/posts/sebastiankamilli_learning-basb-activity-7100342740881661952-mMq5?utm_source=share&utm_medium=member_desktop) on 2023-08-24_Thu 
+
 # Linking

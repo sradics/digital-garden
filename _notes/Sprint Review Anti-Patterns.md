@@ -4,16 +4,19 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
-date_created: Sunday, August 7th 2022, 10:35:45 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Sprint Review Anti-Patterns
+
 ## Metadata
+
 * URL: [https://age-of-product.com/sprint-review-anti-patterns/](https://age-of-product.com/sprint-review-anti-patterns/)
 * Published Date: 2022-05-21
 * Author: [[Stefan Wolpers]]
 
 ## Highlights
+
 * Moreover, how did the previous Sprint contribute to our Scrum team’s mission?
 * ==Selfish PO==: Product Owners present “their” accomplishments to the stakeholders.
 * ==“Acceptance” by the PO==: The Product Owner uses the Sprint Review to “accept” Product Backlog items that
@@ -30,4 +33,5 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * ==Passive stakeholders:== The stakeholders are passive and unengaged.
 
 ## Linking
+
 + [[Agility Framework Scrum]]

@@ -4,16 +4,19 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
-date_created: Monday, July 11th 2022, 3:59:00 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Why The Impact Effort Prioritization Matrix Doesn't Work
+
 ## Metadata
+
 * URL: [https://itamargilad.com/why-impact-effort-prioritization-doesnt-work/](https://itamargilad.com/why-impact-effort-prioritization-doesnt-work/)
 * Published Date: 2017-07-17
 * Author: [[Itamar Gilad]]
 
 ## Highlights
+
 * In 1979 behavioral psychologists Daniel Kahneman and Amos Tversky described the phenomenon they called Planning Fallacy.
 * In 2003, Kahneman and Lovallo extended the definition of Planning Fallacy to include the ==tendency to underestimate the time, costs, and risks of future actions== and at the same time ==overestimate the benefits of the same actions==.
 * Analyses of A/B experiments conducted independently by Microsoft, Netflix, Booking.com and other companies had shown that at best 1 in 3 ideas tested created any measurable positive results.

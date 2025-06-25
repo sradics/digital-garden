@@ -3,12 +3,15 @@ tags:
   - digital_garden
   - type/literature-note
   - epstatus/3-🌳
-date_created: Friday, March 29th 2024, 5:23:37 pm
-date_modified: Friday, March 29th 2024, 5:23:53 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Magnetic writing tips distilled
+
 based on [[magnetic-writing-10-tips-to-make-your-content-irresistible]] by Kieran Drew
+
 ## Broad to Grow, Specific to Sell
+
 + Catch on Social Media - with broad messages. Sell via eMail with specific messages
 + Eugen Schwartz - Market Awareness Levels
 ![[Pasted image 20240329172546.png|400]]
@@ -16,11 +19,14 @@ based on [[magnetic-writing-10-tips-to-make-your-content-irresistible]] by Kiera
 Catch with a broad hook!
 
 ***
+
 *Example for broad on social media and specific in eMail*
 ![[Pasted image 20240329172636.png]]
+
 ***
 
 ## The Rule of One
+
 + People enjoy **==simple content==**, like to **==feel special and are busy==**!
 
 + Write for **==one person==**
@@ -30,11 +36,14 @@ Catch with a broad hook!
 + With **==one call to action==**
 
 ***
+
 *Specific example for the Rule of One*
 ![[Pasted image 20240329172946.png|400]]
 
 ***
+
 ## Use YOU as the most beautiful word in the English Language
+
 When we read we have only one question in mind: **==What is in it for me?==**
 
 Do not:
@@ -51,6 +60,7 @@ The reader is the hero! Bounce between You and I.
 ![[Pasted image 20240329173555.png]]
 
 ## Make your Writing a Slippery Slide
+
 Slippery Side Writing
 + Short first sentences
 + Small paragraphs
@@ -64,12 +74,14 @@ Slippery Side Writing
 
 connects well with [[On Writing]]
 
-
 ## Be the Guide, not the Guru
+
 **==Swap How To's for How I's==**
 
 ![[Pasted image 20240329174028.png|400]]
+
 ## The 33% Rule
+
 Write **==concise, curious, clear==**
 
 Set a target to **==reduce word count by 33% before you publish==**!
@@ -79,6 +91,7 @@ Set a target to **==reduce word count by 33% before you publish==**!
 + First draft fast, second slow, final edit and then go
 
 ## Build bridges for readers
+
 Use **==simple language, useful explanations and logical sequence==**.
 
 ![[Pasted image 20240329174431.png|500]]
@@ -88,7 +101,6 @@ Use **==simple language, useful explanations and logical sequence==**.
 + Stories - chose the simples ones, that your reader can relate to most
 + Analogies - illustrate your ideas
 ![[Pasted image 20240329174657.png]]
-
 
 + Metaphors - is a direct comparison
 ![[Pasted image 20240329174738.png]]
@@ -102,6 +114,7 @@ Use **==simple language, useful explanations and logical sequence==**.
 ![[Pasted image 20240329174916.png]]
 
 ## Five For, Five Against
+
 + What do you believe strongly about that most people don’t?
 + What pisses you off?
 
@@ -109,6 +122,7 @@ Use **==simple language, useful explanations and logical sequence==**.
 ![[Pasted image 20240329175059.png]]
 
 ## 4 W's of Winning Ideas
+
 A winning idea lights your reader on fire, getting them to declare: 
 + “Yes, this is precisely how I feel!” 
 + “Finally, someone said it!” 

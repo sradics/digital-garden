@@ -1,14 +1,17 @@
 ---
 excalidraw-plugin: parsed
 tags: [type/excalidraw-note]
-date_created: Sunday, October 23rd 2022, 12:57:53 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
+aliases: [Excalidraw Data]
+linter-yaml-title-alias: Excalidraw Data
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
-
 # Excalidraw Data
+
 ## Text Elements
+
 Lean Mindset ^kq6AA21x
 
 Agile Methodology ^XD3UZlT0
@@ -68,6 +71,7 @@ the Agile Values and provide guidance on how
 to act in alignment with the Agile Values. ^L4TCgHkB
 
 ## Element Links
+
 DrdzOQLY: [[Kanban - An overview]]
 
 2SMjyYx6: [[Agile Framework Scrum]]
@@ -85,7 +89,9 @@ nwyivRLs: https://agilemanifesto.org/
 L4TCgHkB: https://agilemanifesto.org/principles.html
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBWbR4aOiCEfQQOKGZuAG1wMFAwYuh4cXQgojkkfhLGFnYuNAB2ABYABlrIetZOADlOMW4ARgBOZvieVubhgGZZrohCDmIs
 
@@ -209,4 +215,5 @@ wGwAMCMjugf86RPjqILNAxsIb2lzq4JtHN03RLyMCQDq2Tgh3FWYgCiAQCbdPKEAYd8QCDRBYEAYbpOi
 
 PwejYLuUYDPAm3bUs2UprCBIWxL5aUAam8mwmmAnWcckFgio8IAaP7oFeGhHAD7dnMMWVcMABtaoQgAA
 ```
+
 %%

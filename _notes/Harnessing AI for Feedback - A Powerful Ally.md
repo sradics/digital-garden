@@ -4,9 +4,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
-date_created: Friday, December 1st 2023, 11:11:23 am
-date_modified: Friday, December 1st 2023, 11:16:26 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
+# Harnessing AI for Feedback - A Powerful Ally
+
  Harnessing AI for Feedback - A Powerful Ally  
 ![[Pasted image 20231201111703.png|400]]
 

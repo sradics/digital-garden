@@ -3,10 +3,13 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/permanent-note
-date_created: Wednesday, March 1st 2023, 9:01:02 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
+aliases: ["Note about lead magnets "]
+linter-yaml-title-alias: "Note about lead magnets "
 ---
 # [[Note about lead magnets ]]
+
 Source: Maven info mail by Maven
 
 Resources that you offer for free in exchange for an email address.
@@ -17,6 +20,7 @@ Resources that you offer for free in exchange for an email address.
 Repurpose a lesson from a curriculum, a worksheet already created, or a video. It’s a great way to ==add value while building your waitlist==.
 
 ## Examples for Lead Magnets
+
 -   Curriculum outlines or syllabus overviews
 -   PDFs or brochures
 -   Helpful templates
@@ -30,12 +34,14 @@ Repurpose a lesson from a curriculum, a worksheet already created, or a video. I
 -   Free consultations
 
 ## Where
+
 + Add on a course landing page
 + Automated flow *Offer lead magnet in exchange for mail* - *mail signup flow* - *send lead magnet* - *add to potential broadcast list about a course*
 
 [Further lead magnet examples from Maven](https://help.maven.com/en/articles/6539423-offer-a-lead-magnet?_hsmi=248202201&_hsenc=p2ANqtz-8LCQAcIFEBj5OtBmTaQXN7PrUbD2fuEKac94cH73qZdGcRNOLJJGHZsJzG6glX3NCwTnaQkKVRKY9IVgli98HotUyMXwaYfvX_ecOt2Ob3oYqUMwQ)
 
 # Linking
+
 + [[Notes from top 5 marketing breakthroughs]]
 + [[MOC Maven Course Accelerator Learnings]]
 

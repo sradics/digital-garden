@@ -3,9 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-
+date_created: 2024-07-02 07:09
+date_modified: 2025-06-25 06:10
 ---
 # Personal Brand Blueprint
+
 The Personal Brand Blueprint
 
 → Authenticity: Be true to yourself.
@@ -20,5 +22,3 @@ The Personal Brand Blueprint
 → Adaptability: Stay flexible and current.
 
 # Linking
-
-

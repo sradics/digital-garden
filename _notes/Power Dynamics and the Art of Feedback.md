@@ -4,10 +4,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - epstatus/2-🪴
   - publish_in_newsletter
-date_created: Thursday, November 30th 2023, 6:22:15 pm
-date_modified: Thursday, November 30th 2023, 6:49:25 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Power Dynamics and the Art of Feedback
+
 ![[Pasted image 20231130182314.png|400]]
 Feedback is a gift, but when it travels uphill in the hierarchy, it comes wrapped in layers of anxiety, fear, and power dynamics.  
   
@@ -32,6 +33,7 @@ Have you ever been in a similar situation, either as the one giving or receiving
 [Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135311426973265920) [Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135311426973265920) [Communication](https://www.linkedin.com/feed/hashtag/?keywords=communication&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135311426973265920) [PowerDynamics](https://www.linkedin.com/feed/hashtag/?keywords=powerdynamics&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135311426973265920) [ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7135311426973265920)
 
 # Linking
+
 + [[MOC Feedback]]
 + ⬅ [[A Four-Step Dance to Effective Feedback]]
 + ➡ [[Reflecting Through the Lens of Radical Candor]]

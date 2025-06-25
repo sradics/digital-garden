@@ -4,16 +4,19 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
-date_created: Friday, July 22nd 2022, 7:14:50 pm
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # How to Create a Product Roadmap That Everyone Can Understand!
+
 ## Metadata
+
 * URL: [https://coffeebeansconsulting.medium.com/how-to-create-a-product-roadmap-that-everyone-can-understand-5cc2c86f2487](https://coffeebeansconsulting.medium.com/how-to-create-a-product-roadmap-that-everyone-can-understand-5cc2c86f2487)
 * Published Date: 2022-07-13
 * Author: [[CoffeeBeans Consulting]]
 
 ## Highlights
+
 * A good ==product roadmap must be visually appealing, easily accessible, and clear enough for anyone to scan for answers== to the following questions:
 	* ==What exactly are we doing?== 
 	* ==Why are we doing it in the first place?== 

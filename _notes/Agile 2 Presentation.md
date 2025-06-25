@@ -4,11 +4,11 @@ tags:
   - type/permanent-note
   - digital_garden
 event_date:
-date_created: Wednesday, March 26th 2025, 7:46:46 am
-date_modified: Wednesday, March 26th 2025, 7:51:12 am
+date_created: 2025-03-26 07:46
+date_modified: 2025-06-25 06:10
 ---
 # Agile 2 Presentation
+
  ![[Presentation Agile 2.pdf]]
 
 # Linking
-

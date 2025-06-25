@@ -1,11 +1,10 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
 - fastlane
-date_created: Friday, February 24th 2023, 1:09:15 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Use Obsidian Canvas for Ikigai
 
@@ -16,6 +15,7 @@ Inspiration for combining Obsidian Canvas to create an Ikigai diagram.
 ![[Pasted image 20230224131011.png]]
 
 # Linking
+
 + [[Personal Systemic Coaching]]
 + [[Find your Ikigai]]
 

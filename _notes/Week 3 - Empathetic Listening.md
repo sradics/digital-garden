@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Monday, August 14th 2023, 7:45:29 am
-date_modified: Monday, August 14th 2023, 7:45:49 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Week 3 - Empathetic Listening
+
 *Problem*: The most frequent error when we communicate in work environments is **to only pay attention to the technical aspects of the conversation**.
 
 **Empathy**: Derived from the idea of feeling sympathy or affinity, **empathy is about tuning into the sender** of a message.
@@ -16,26 +17,30 @@ Learn to understand **messages** from others, not only by paying close **atte
 Consider **dialogue** and **empathy** as **tools to resolve conflicts**.
 
 ## Lets first consider 3 Levels of Listening - Hearing-Listening-Empathy
+
 - **Hearing**: The basic perception of sounds or noises around us. It is automatic and doesn’t necessarily involve paying attention.
 - **Listening**: Goes beyond just hearing, as it requires attention to understand the content of a message.
 - **Empathy**: This deeper level of listening involves understanding the emotional state of the speaker. It identifies not just what is being said, but how it's being conveyed emotionally.
 
 ***
+
 *Infographic that details the 3 levels of listening*
 ![[Pasted image 20230814080055.png]]
 
-
 ### Empathetic Reflection
+
 **Respecting and validating the emotions** of others without judgment. It involves using phrases that reflect the speaker's emotions, **ensuring them that their feelings are recognized and understood.** Examples include: "I can see this situation is making you very angry," or "I'm sorry this family problem is worrying you so much."
 
 Link to [[Access your Emotional Intelligence]]
 
 ## Dialogue
+
  + Dialogue is an invaluable tool for **confronting differences**
  + **respect and tolerance**. At the same time dialogue helps remove obstacles
  + Dialogue is composed of **two basic skills**: the **ability to communicate** and the **ability to listen**
 
 ## Errors that hinder empathy
+
 - Ignoring or **not paying attention to what is said.**
 - Pretending to listen to someone, but **having our attention elsewhere**.
 - **Listening only to the aspects that interest us**, ignoring all of the others that are not relevant to us.
@@ -44,6 +49,7 @@ Link to [[Access your Emotional Intelligence]]
 - Constantly **imposing our authority as team leaders**.
 
 ## 11 Aspects of Empathetic listening 
+
 Empathetic listening is not just a skill but an essential aspect of human interaction that plays a multifaceted role in our personal and professional lives. 
 
 1. **Building Connection**: At its core, empathetic listening is crucial for building genuine connections. It fosters an environment where individuals feel valued and understood, creating bonds that are both deep and meaningful.
@@ -71,6 +77,7 @@ Empathetic listening is not just a skill but an essential aspect of human intera
 In conclusion, empathetic listening is not just about understanding another person; it's about bridging gaps, nurturing relationships, and fostering an environment of mutual respect and collaboration. As society grows increasingly complex and diverse, the ability to listen with empathy will only become more invaluable.
 
 ## 5 Steps for Empathetic Listening
+
 Empathy, as an **interpersonal skill**, has the **power to tap into profound human emotions**, enhancing communication. Consistent practice of empathetic reflection can lead to **more meaningful interactions and positive feedback** from those around you.
 
 Empathetic listening involves a technique that **allows for understanding both the content of the message and the emotions** with which it is delivered. To effectively practice this skill:
@@ -89,7 +96,9 @@ Empathetic listening involves a technique that **allows for understanding both t
 	+ “I’m really sorry you’ve had to go through such a painful situation.” 
 	+ "I can feel that you’re discouraged and not motivated to do this job.” 
 	+ "I can see you’re happy about the promotion you got. Congratulations!”
+
 ### Examples to illustrate the difference between typical and empathetic responses
+
 - **Example 1**:    
     - Typical: “Let's go to sleep. You should have told this to your colleague.”
     - Empathetic: “I see you had a challenging day and feel frustrated about the work situation. Would you like to discuss it further or rest now?”
@@ -97,12 +106,12 @@ Empathetic listening involves a technique that **allows for understanding both t
     - Typical: “That's what you're paid for. It's not a big deal.”
     - Empathetic: “Congratulations on the excellent work! You seem motivated and happy about it.”
 
-
 More details about [[3QxbaOVpSkuMW2jlafpLxQ_df0fa90fa9cf4cb9a823f2bc7cbbbc57_Empathy-as-a-tool-for-active-listening.pdf|EMPATHY AS A TOOL FOR ACTIVE LISTENING]]
 
 ![[Pasted image 20230814080529.png]]
 
 ## Errors in communication
+
 + Being impatient or authoritarian
 + Being disrespectful to the person we are dialoging with
 + Entering the dialogue with an attitude of “deafness”
@@ -110,6 +119,7 @@ More details about [[3QxbaOVpSkuMW2jlafpLxQ_df0fa90fa9cf4cb9a823f2bc7cbbbc57_Emp
 	+ In order to be truly empathetic, we need to exercise the skills of an active listener: paraphrasing, seeking clarifications, reflecting with empathy, and asking the necessary questions to explain the message.
 
 # Linking
+
 + ⬅ [[Week 2 - Assertive Communication]]
 + ➡ [[Week 4 - How to provide feedback]]
 + [[7 Active Listening skills]]

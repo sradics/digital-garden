@@ -1,13 +1,15 @@
 ---
-aliases: 
+aliases: [_What are permanent notes]
 tags: 
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Tuesday, June 7th 2022, 9:59:06 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
+linter-yaml-title-alias: _What are permanent notes
 ---
 # _What are permanent notes
+
 [Source](https://fortelabs.co/blog/how-to-take-smart-notes/)
 
 Permanent notes are the third type of note, and make up the long-term knowledge that give the slip-box its value.

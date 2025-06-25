@@ -4,16 +4,17 @@ tags:
   - 12_fav_problems/help_others_grow
   - type/literature-note
   - epstatus/0-🌰
-date_created: Thursday, March 6th 2025, 5:44:21 pm
-date_modified: Thursday, March 6th 2025, 5:45:16 pm
+date_created: 2025-03-06 17:44
+date_modified: 2025-06-25 06:05
 ---
 # Fractal reading
-[Source Michael Simmons](https://blockbuster.thoughtleader.school/p/augmented-reading-learn-10x-faster-and-better?utm_campaign=post&utm_medium=web)
 
+[Source Michael Simmons](https://blockbuster.thoughtleader.school/p/augmented-reading-learn-10x-faster-and-better?utm_campaign=post&utm_medium=web)
 
 Before spending hours of reading a non-fiction book, it is worth investing in getting a high level overview to decide on the crucial aspects to explore
 
 ## Steps to consider
+
 - look at the books Metadata
 	- high signal-to-noise ratio
 	- condensed version
@@ -32,5 +33,6 @@ So - zoom out on crucial items
 - Read TOC and first/last chapters in Google Books
 
 # Linking
+
 - [[Day 3 - Speed Reading]]
 - [[I Was Wrong About Speed Reading- Here are the Facts]]

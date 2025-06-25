@@ -3,8 +3,11 @@ tags:
   - type/literature-note
   - digital_garden
   - epstatus/1-🌱
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # How to provide opinions
+
 [Source](https://www.linkedin.com/posts/adem-mulamustafi%C4%87_meinungsverschiedenheiten-activity-7132623677862350848-y2ed?utm_source=share&utm_medium=member_desktop)
 
 Graham's Hierarchy of Disagreement, also known as the "Graham's Pyramid," is a concept introduced by Paul Graham, an essayist and programmer. It categorizes the various levels of the quality of argument in a disagreement
@@ -20,6 +23,7 @@ Graham's Hierarchy of Disagreement, also known as the "Graham's Pyramid," is a c
 ![[Providing opinions.pdf]]
 
 # Linking
+
 + [Original by Paul Graham](http://www.paulgraham.com/disagree.html)
 + [[MOC Presentation and Public speaking]]
 + [[Effective Communication For Leaders]]

@@ -1,17 +1,16 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
-date_created: Monday, May 30th 2022, 8:46:43 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Zettelkasten method
+
 [[supreme-locket-8f6_notion_site.Notion  The all-in-one workspace for your notes tasks wikis and databases|Source]]
 
 Zettelkasten is one of the best methods for thinking and writing. It is a note-taking and Personal Knowledge Management method created by [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann), a German sociologist and thinker in systems theory. Using his Zettelkasten (which means ”slip box” in German), Mr. Luhmann managed to publish more than 70 books and hundreds of articles.
-
 
 While the Zettelkasten method was created as an analog system, it is perfectly applicable to digital systems.
 
@@ -34,6 +33,7 @@ A Zettelkasten is personal. Yours will differ from mine, and that’s normal; yo
 Before we dive into the method, let’s first look at the structure and the concepts.
 
 ## Zettelkasten structure, concepts, and principles
+
 A Zettelkasten is composed of three parts
 
 * An Inbox
@@ -62,6 +62,7 @@ Notes in a Zettelkasten have a simple structure:
 -   Tags
 
 ## The Zettelkasten method
+
 Now that you know the concepts, let’s look at the method.
 
 The method/process is the part of Zettelkasten that brings the most value. It’s what will help you think and write better. Trust it!
@@ -74,6 +75,7 @@ The method goes as follows:
 -   Review your fleeting notes regularly to aim for zero inbox
 
 ### Capturing fleeting notes
+
 First, whenever interesting ideas or questions cross your mind, and you don’t want to let them vanish, you should create a fleeting note. As I’ve mentioned, it doesn’t need to be polished. Fleeting notes focus on ideas, not on the form, not on the quality or depth of the text.
 
 A fleeting note could be as short as “Interesting how code quality is influenced by team cohesion”. There could be typos or missing words. Fleeting notes quality doesn’t matter much. All that matters is that you can understand what you meant later on.
@@ -83,6 +85,7 @@ I personally use fleeting notes whenever I don’t have time to write proper lit
 Ideally, fleeting notes need to include the source(s) of inspiration.
 
 ### Creating literature notes
+
 We are all inspired by different things. When you work on your personal knowledge base, you need to focus on what inspires you. The purpose of literature notes is to capture what you find noteworthy and could be used as a reference and/or inspiration later on.
 
 Taking literature notes requires more time and effort than taking fleeting notes. Literature notes are here to stay, so you need to polish those a bit more. The goal when you write those is to capture the essence of what inspires you. Ideally, those should be written using your own words, and represent your own interpretation of what you read/heard/learned. That being said, it’s okay to capture verbatim quotes here and there. What is of the utmost importance is for your future self to be able to re-understand the what and the why of the information you’ve captured.
@@ -92,6 +95,7 @@ If you read an article or a book, then take notes and create literature notes ba
 Build the habit of capturing what you find interesting. Although, be mindful of the [Collector’s fallacy](https://supreme-locket-8f6.notion.site/Collector-s-fallacy-eb062b841057466294de56008b92673d).
 
 ### Writing permanent notes
+
 The most important part of the Zettelkasten method is the elaboration and linking of permanent notes. While you capture ideas and write literature notes, you should always take note of your own thoughts and ideas. Those will be the starting point for permanent notes.
 
 Writing permanent notes means writing what you know, what you think, and what you care about.
@@ -105,6 +109,7 @@ Permanent notes should be connected to other notes; either permanent or literatu
 It is of the utmost importance for permanent notes to be 100% yours. It’s totally okay to take inspiration elsewhere and “steal” ideas, but you don’t want to plagiarize. Anything that ends up in your permanent notes should be the result of your own thinking process, even if inspired or influenced by what others have said or written.
 
 ### Linking and tagging notes
+
 As I’ve mentioned, linking is one of the core practices of Zettelkasten. Atomic ideas are great, but they become much more valuable when combined with other ones. In tools such as Obsidian, this can be done in multiple ways:
 
 -   Using actual links (e.g., [[Some Other Note]])
@@ -116,6 +121,7 @@ Linking and tagging are part of the note-taking process. It’s something that y
 The simple act of creating those links will help your brain realize that those ideas are connected. Again, this helps with memorization and recall, in addition to adding value to your knowledge base.
 
 ### Reviewing fleeting notes
+
 As I’ve mentioned, fleeting notes are not meant to exist for a long time. Those are transient in nature, and you should avoid accumulating them in your knowledge base.
 
 Also, the longer you wait before you decide what to do with a fleeting note, the less you’ll remember the reasons why you created it in the first place.
@@ -129,11 +135,13 @@ If you decide to turn it into a permanent note, then make sure to remove the fle
 Emptying the Inbox containing fleeting notes relates to the [Inbox Zero principle](https://supreme-locket-8f6.notion.site/Inbox-Zero-principle-fc4b332f8bef4f0b96349ea3e57114ac). The goal is to avoid feeling overwhelmed and to process ideas before it’s too late.
 
 ### Structuring content
+
 As your knowledge base grows, you’ll need to invest some time in creating and maintaining indexes. Those will help you further structure your content. Indexes are very useful to quickly access related notes.
 
 One technique to create such indexes is [Maps of Content (MoCs)](https://supreme-locket-8f6.notion.site/Maps-of-Content-MoCs-57bf4d39b8de417f8f533efb7e11dc6d)
 
 ### Organizing content
+
 I want to insist on the fact that you don’t need to waste time creating a complex organization system in your Zettelkasten. As I’ve mentioned in this article, the core containers of Zettelkasten (the inbox, the literature notes archive, and the permanent notes archive) are all you need. You don’t need to further organize your content into sub-folders.
 
 Three key elements matter:
@@ -144,6 +152,7 @@ Three key elements matter:
 That’s it. If you do that, then you will be able to find what you need when you need if, even if you have thousands of notes in a single folder.
 
 ### Continuous improvement
+
 Perfection doesn’t exist, but we can tend towards it using continuous improvement.
 
 Whenever you go back to a note you wrote previously, look for improvements you can make; no matter how tiny:
@@ -155,6 +164,7 @@ Also, if re-exploring an idea generates a new one, then take the opportunity to 
 With this approach, your Web of knowledge will keep improving and become more useful over time.
 
 ## Benefits of the Zettelkasten method
+
 The Zettelkasten method provides us with a structure and a process. Those are two keys to success in note-making. The structure helps us to be organized, focused, and eases the process of growing a knowledge base. As a result, the Zettelkasten method makes us more productive.
 
 The focus on atomic notes helps us focus on one idea at a time, and makes it much easier for us to reuse content and connect ideas together. Thanks to this, we can create a real Web of knowledge. It also helps us think better.

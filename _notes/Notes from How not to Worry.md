@@ -4,10 +4,11 @@ tags:
   - type/literature-note
   - digital_garden
   - publish_in_newsletter
-date_created: Thursday, November 2nd 2023, 12:36:46 pm
-date_modified: Thursday, November 2nd 2023, 3:38:18 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from How not to Worry
+
 Chapter 1: **Worrying, anxiety and stress are all part of a cycle that can affect your health.** [Source](https://blinkist.com/nc/reader/how-not-to-worry-en?chapter=1)
 - The key to combating them is remembering this simple motto: **“Stop before you spiral.”**
 - Worrying is part of a cycle, where the next stops are anxiety and stress
@@ -71,6 +72,8 @@ Chapter 8: **Change your personal worry triggers, stop trying to please others a
 
 Chapter 9: Final summary [Source](https://blinkist.com/nc/reader/how-not-to-worry-en?chapter=9)
 - There’s nothing like **==exercise as a remedy for anxiety==**. Getting your blood pumping improves your circulation and releases natural opiates called endorphins, leaving you feeling cooler, calmer and – most importantly ­– happier.
+
 # Linking
+
 + [[MOC Presentation and Public speaking]]
 

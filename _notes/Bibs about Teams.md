@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/3-🌳
-date_created: Friday, July 1st 2022, 6:06:08 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Bibs about Teams
+
 ## Team Genius by Rich Karlgaard and Michael S. Malone
 
 [**https://blinki.st/135e30d2c55f?blinkspack=team-genius-en**](https://blinki.st/135e30d2c55f?blinkspack=team-genius-en)

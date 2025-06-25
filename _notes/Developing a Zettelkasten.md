@@ -1,13 +1,13 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
 - fastlane
-date_created: Monday, February 13th 2023, 11:52:08 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Developing a Zettelkasten
+
 [Source](https://www.youtube.com/watch?v=5Br2gBA-1rM)
 based on Obsidian
 
@@ -19,25 +19,30 @@ Nice evolution path for notes in analogy to a digital garden.
 Good structure how notes progress
 
 ## Cosmic soup
+
 + Initial questions, thought and source
 
 ## Stardust
+
 + good title
 + footer with references and tags
 + initial thought more verbalized
 
 ## Star
+
 not perfect yet, but good
 + Describes thought already quite well, but still something missing
 + at least two links with other notes
 + embedded on an overview note (e.g. on a MOC)
 
 ## Bright Star
+
 + finished thought  (not depending on number of words)
 + no comments left
 + many links to other topics/areas
 
 # Observations
+
 + Does Video directly with Obsidian notes
 + when working with tags outside frontmatter I can also use pictures for the text
 + CMT+CTRL+Leertaste shows Emojii
@@ -46,8 +51,8 @@ not perfect yet, but good
 Seems to be a comment function in Obsidian
 %%
 
-
 # Linking
+
 + [[Zettelkasten - Taking Smart Notes - Notes from a video by Joshua Meyer]]
 + [[How to take Smart Notes - Key Insights]]
 + [[Zettelkasten method]]

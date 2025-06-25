@@ -3,15 +3,20 @@ tags:
   - epstatus/0-🌰
   - type/literature-note
   - digital_garden
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
+# How to overcome resistance and get into deep focus (Pomodoro 2.0)
 
 ## Metadata
+
 * URL: [https://beyondproductivity.substack.com/p/how-to-overcome-resistance-and-get](https://beyondproductivity.substack.com/p/how-to-overcome-resistance-and-get)
 * Publisher: beyondproductivity.substack.com
 * Published Date: 2023-07-20
 * Tags: 
 
 ## Highlights
+
 * set a timer and commit to working without distractions for just 30 minutes. After that, add another 15 to 60 minutes – if you feel like it (spoiler: you probably will).
 * three distinct phases. In phase 1, we struggle toward focus:
 * it’s difficult to suppress our instinctive urges to distract

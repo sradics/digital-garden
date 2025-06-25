@@ -4,16 +4,18 @@ tags:
 - type/literature-note
 - digital_garden
 - publish_in_newsletter
-date_created: Wednesday, July 26th 2023, 6:13:50 am
-date_modified: Wednesday, July 26th 2023, 6:14:24 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes from How to Win your Week
+
 ## Weekly review
 
 [[Drawing 2023-07-26 06.16.58.excalidraw]]
 ![[Drawing 2023-07-26 06.16.58.excalidraw.svg|400]]
 
 ### Time and task audit
+
 + Show me someones calendar and I'll show you their values
 + conduct occasional time audit
 + review aged tasks
@@ -25,6 +27,7 @@ date_modified: Wednesday, July 26th 2023, 6:14:24 am
 	+ JUST LET IT GO
 
 ### Reflection - Cultivating self-awareness
+
 Ask your alignment questions:
 - What's the pebble in my shoe?
 - Am I living the life I choose for myself? Does how I spend my time align with what I value?
@@ -35,6 +38,7 @@ Ask your alignment questions:
 - What am I avoiding?
 
 ### Vision setting - Am I headed in the right direction
+
 How to eliminate $100 Work:
 - Are my domains and $10K questions still the right ones?
 - Answer your North Star questions
@@ -42,6 +46,7 @@ How to eliminate $100 Work:
 - Frequency: Quarterly
 
 ### Planning & Prioritization - Your Anchor
+
 - The GTD-style Review
 - Indispensable and holds the system together
 - Enables lack of due dates
@@ -50,6 +55,7 @@ How to eliminate $100 Work:
 - Frequency: WEEKLY (without fail), 25 minutes max
 
 #### Small checklist - Do the review under 25'
+
 1. Assign 5 units of $10K work or "Thinking Time" using do dates
 2. Repeat the process for $1,000 work
 3. Review aged tasks and waiting on
@@ -57,6 +63,7 @@ How to eliminate $100 Work:
 5. If you could only work 2 hours each day, what would you do?
 
 # Linking
+
 + [[MOC 10K$ framework]]
 + [[Midjourney V6 prompts examples/050-059 Resources/themes/58 Agile/Eisenhower Matrix|Eisenhower Matrix]]
 + [[Getting Things Done]]

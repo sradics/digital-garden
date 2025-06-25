@@ -4,11 +4,13 @@ tags:
   - digital_garden
   - epstatus/0-🌰
   - publish_in_newsletter
-date_created: Tuesday, October 31st 2023, 5:39:33 am
-date_modified: Tuesday, October 31st 2023, 5:39:42 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from Natalie Lue - It's not in your head, it is Gaslighting
+
 ## Notes from Natalie Lue - It's not in your head, it is Gaslighting
+
 + I knew it but I doubt myself
 + be aware of manipulations
 + gaslighters - make you believe their narrative

@@ -4,16 +4,19 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
-date_created: Sunday, August 7th 2022, 10:35:45 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Unengaded Stakeholders at Sprint Review
+
 ## Metadata
+
 * URL: [https://age-of-product.com/unengaged-stakeholders-making-your-scrum-work-25/](https://age-of-product.com/unengaged-stakeholders-making-your-scrum-work-25/)
 * Published Date: 2022-07-25
 * Author: [[Stefan Wolpers]]
 
 ## Highlights
+
 * The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed.
 * Sprint Review is Empiricism at work: inspect the Product Increment and adapt the Product Backlog.
 * They do not understand the ==importance of the Sprint Review== :Waste of time: Your stakeholders do not feel seen, heard, or respected.
@@ -24,4 +27,5 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 	* ==Shift & Share is an excellent Liberating Structure== microstructure for that purpose.
 
 ## Linking
+
 + [[Agility Framework Scrum]]

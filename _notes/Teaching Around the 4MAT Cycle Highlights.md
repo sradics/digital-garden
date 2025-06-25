@@ -3,8 +3,8 @@ tags:
   - digital_garden
   - type/literature-note
   - epstatus/1-🌱
-date_created: Saturday, May 3rd 2025, 5:53:21 pm
-date_modified: Saturday, May 3rd 2025, 5:53:38 pm
+date_created: 2025-05-03 17:53
+date_modified: 2025-06-25 06:05
 ---
 # Teaching Around the 4MAT Cycle Highlights
 
@@ -27,6 +27,7 @@ Favorite question: Why?
 Improve: Working under pressure and taking risks 
 
 ## Type 2 Learners - What
+
 - They learn by thinking through experiences, judging the accuracy
 - examining details and specifics
 - take the time to
@@ -42,6 +43,7 @@ Improve: Working under pressure and taking risks
 Favorite question: "What?"  They seek to know what the experts know.
 
 ## Type 3 Learners - How
+
 perceive information abstractly at 6:00 and process it actively at 9:00.
 what can be done with what they learn.
 
@@ -52,6 +54,7 @@ what can be done with what they learn.
 Favorite question: How does this work?" They seek to know the usability 
 
 ## Type Four Learners: What If?
+
 perceive information directly at 12:00 and process it actively
 - seek challenge and are risk takers
 - They thrive on chaotic situations
@@ -62,7 +65,6 @@ perceive information directly at 12:00 and process it actively
 Favorite question: What if. They seek to know the possibilities
 
 ## The Cycle of Learning
-
 
 - First we experience
 - Then we reflect
@@ -84,6 +86,7 @@ Learners move from subjectivity, to objectivity, to integration
 > Renew thyself completely each day, do it again, and again, and forever again.
 
 ## Reflection questions to think about yourself
+
 - How much time do you spend experiencing the now, what is actually happening in the moment?
 - How much time do you spend reflecting on what has happened?
 - How much time do you spend thinking, examining, focusing on some aspect of what interests you intellectually?
@@ -95,17 +98,22 @@ Learners move from subjectivity, to objectivity, to integration
 The teacher has connected the activity that is happening to the students' past experiences. Responses are: "I know how that feels" or "I have been there myself."
 
 ## The "They" of quadrant two
+
 - Master teachers make sure all the students get it. 
 - They tell it in multiple ways, they make it available in some form to be checked later by those who need to return to it in their own time, and they use visual as well as verbal forms to aid understanding.
 
 ## The "It" of quadrant three
+
 lead students to personal expertise that is useful to them for the rest of their lives.
 
 ## The "We" of quadrant four
+
 have students adapt learning to their world and to use it to influence their future.
 
 ## Teaching around the cycles
+
 ### Quadrant one - answering the "Why" question
+
 Creating a sense of "I know something about this, and I want to know more"
 
 - Personal, meaningful connections based on experience
@@ -122,6 +130,7 @@ Creating a sense of "I know something about this, and I want to know more"
 - Becoming aware of the value of learning
 
 #### Questions they can answer
+
 "Is there a larger context?
 "Why do I need to know this?"
 "Why is this material valuable in my life?"
@@ -130,10 +139,12 @@ Creating a sense of "I know something about this, and I want to know more"
 > get them to love the learning!
 
 ### Quadrant two - answering the "What" question
+
 What do the need to know to master this content?
 essence pieces, the core concepts
 
 #### What students experience
+
 - Connecting fascination to facts
 - Comprehending the learning
 - Receiving expert knowledge
@@ -143,12 +154,16 @@ essence pieces, the core concepts
 - solid ground to further understanding
 
 ### Quadrant three - answering the "How" question
+
 Move from expert knowledge into personal skill and usefulness
+
 #### Questions they can answer
+
 - How will my students use this in their real lives
 - How will this content affect their power
 
 #### What students experience
+
 - Learning important skills
 - Practicing
 - Experimenting
@@ -161,11 +176,13 @@ Move from expert knowledge into personal skill and usefulness
 - Extending the learning into usefulness in real-life
 
 ### Quadrant four - answering the "If" question
+
 They refine their use of what they have learned, integrating it into their lives.
 
 What power will they have attained as persons?
 
 #### What students experience
+
 - Adapting the learning
 - Modifying
 - Summarizing
@@ -184,6 +201,7 @@ What power will they have attained as persons?
 > Bruner 
 
 ## Some important definitions
+
 **Emotion**
 Connected to particular mental images that activate a specific brain system. 
 - Emotion in the brain produces feelings in the body.
@@ -202,12 +220,13 @@ A sense of self about the present, the here and now.
 Organizing and manipulating new information with previous information
 in order to understand something. There is a major interaction between feeling and thinking.
 
-
 Damasio's (1999) **list of how we come to know**: 
 **"From observer, to perceiver, to knower, to thinker and then to actor."**
 
 ## Learning Strategy preferences
+
 ### Linear Processing
+
 - Prefer verbal instructions
 - Like controlled, systematic experiments
 - Prefer problem solving with logic
@@ -221,7 +240,9 @@ Damasio's (1999) **list of how we come to know**:
 - Excel in propositional language
 - Draw on previously accumulated information
 - Seek routines, familiarity
+
 #### Linear processing words
+
 - tell
 - listen
 - sit still
@@ -278,8 +299,8 @@ Damasio's (1999) **list of how we come to know**:
 - form new questions
 - produce evidence
 
-
 ### Round processing
+
 - prefer demonstrated instructions
 - like open-ended experiments
 - prefer problem solving with hunching
@@ -290,6 +311,7 @@ Damasio's (1999) **list of how we come to know**:
 - seek novelty
 
 #### Round processing words
+
 - reflect
 - relate
 - draw
@@ -327,11 +349,11 @@ Damasio's (1999) **list of how we come to know**:
 - merge to a higher form
 
 ## Teaching for the whole brain
+
 - Using Metaphors and Similes - Creating metaphors reveals the essence of material
 - Patterning - Find patterns in ideas, texts, and manner of visuals
 
 Example: Create a record of how you spend your time, when you get home from school until you go to bed, for five school nights. Describe any pattern you see
-
 
 - Using Imagery - Create pictures of concepts, relationships, and connections.
 - Raising sensory awareness - Use techniques that call on auditory, visual, kinethetic, tacticle and olfactory senses
@@ -340,12 +362,16 @@ Example: Create a record of how you spend your time, when you get home from scho
 - Three dimensional tasks
 
 ## The complete 4MAT cycles
+
 ### Quadrant One
+
 #### Step 1: Connect
+
 - relationship between learners and the content
 - it connects to their own lives (not telling them how it connects, but having something actually happen in the classroom that will help them make the connection themselves)
 
 #### Step 2: Attend
+
 - what just happened
 - attend to their own experience and to the
 - how it went, what really happened
@@ -355,23 +381,28 @@ Allow students to reflect on the experience together, discussing, sharing, seein
 - students will become mentors to each other
 
 ### Quadrant Two
+
 The purpose of Quadrant Two is to inform and enlarge the learner's understanding of the content, to answer the question "What?"
 
 #### Step 3: Imagine
+
 - You need your students to imagine, to picture the concept as they understand it and have experienced it, before you take them to the experts
 - use analogies, metaphors, visuals
 - "I already know something about this"
 - Imagine: imaginen—to create a mental picture
 
 #### Step 4: Inform
+
 Inform: in forma—to bring form into
 
 ### Quadrant Three
+
 - to become skilled, to move to mastery
 - to answer the question "How?"
 - to learn by practicing.
 
 #### Step 5: Practice
+
 - become sufficiently skilled before they can innovate.
 - begin to extend the learning into their lives
 - practice the learning as the experts do it.
@@ -380,32 +411,35 @@ The right mode's ability to see possibilities, patterns, wholeness,
 
 Practice: praktikos—capable of being used
 
-
 #### Step 6: Extend
+
 - Extend: ex tendere—to stretch out of
 - to tinker, to see how it works for them,
 - The right mode's ability to see possibilities, patterns, wholeness, and roundness is a major asset here.
 - They can make something of the learning for themselves
+
 ### Quadrant Four
+
 The purpose of Quadrant Four is to adapt, to create, to integrate
 the learning so it can be used by the students in their future, to
 answer the question "If?"
 
 #### Step 7: Refine
+
 - Other students can critique (students are often the best evaluators of their own work). 
 - The teacher suggests, helps with resources, offers. 
 - Have them move outside of their own extension, analyzing, improving, refining their work.
 
-
 #### Step 8: Perform
+
 - Look for originality, relevance, new questions, connections to larger ideas, skills that are immediately useful, values confirmed or questioned anew
 
 Perform: per form—to form through, to shape, to mold, to fashion
 
 Inform (to add form into) leads to Perform (to form through) in this culminating step.
 
-
 ## Teaching from Concepts
+
 **A concept is a significant idea** that relates to other significant ideas in a way that connects to the main body of content and creates meaning for students in their lives.
 
 Like someone asks: **What was that movie really about?**
@@ -420,12 +454,13 @@ Can ask learners to examine all the instances of betrayal in the play and in the
 An idea is a concept when it naturally connects: to learners, to content, and to other significant ideas.
 
 ### Umbrella as a verb
-You write the description of the content you hope to teach in the oval at the bottom of the page, as illustrated below, and then attempt to find the overarching idea and write it into the umbrella
 
+You write the description of the content you hope to teach in the oval at the bottom of the page, as illustrated below, and then attempt to find the overarching idea and write it into the umbrella
 
 ![[Pasted image 20250504200525.png]]
 
 ### Finding the Concept
+
 4. Is that a significant idea?
 5. Does it have potential for creating meaning in students' lives?
 6. What would happen if it didn't exist? Would that be a problem?
@@ -446,22 +481,26 @@ You write the description of the content you hope to teach in the oval at the bo
 - Perform -  Outcomes
 
 ### For Inform and Practice
+
 - How will your determine if they understood the lecture?
 - What kind of practice will your require?
 - Are there work pages or questions at the end of chapters?
 - Are there skill and drill materials?
 
 ### For intended outcomes - Perform stage
+
 - What outcomes are you intending for students?
 - What will they be able to do that they can't do now?
 - How will learners explain or perform their work?
 
 ### The Connection (Connect Stage)
+
 - What will you do to get your students excited about the material?
 
 this is something that happens, something that intrigues them (a problem to solve), connects to them (a situation that has real meaning in their lives), or touches them in a way that links to their humanity.
 
 ### Sharing the connection - Attend Stage
+
 What discussion techniques will you use to give students the opportunity to share what just happened in the experience you created?
 
 Will you ask them to list any commonalities they have discovered in their shared perceptions?
@@ -469,22 +508,22 @@ Will you ask them to list any commonalities they have discovered in their shared
 Will you ask the to list "hoped-for" outcomes
 
 ### The Learning used (Extend Stage)
+
 Take learning and do something with it, something that has meaning for them, not just something that is done to pass a test for school's sake. This is where relevance is demonstrated.
 
 What will they do to show and use their new understandings and new skills?
 
 ### Critiquing the work (Refine Stage)
+
 How will students edit and refine their unique use of the learning? Here they pause to reflect, merging their interpretive applications with "by the book."
 
 What procedures for feedback and mentoring?
 
 ### The Image that connects
+
 What is the nonverbal strategy you will use to have learners express their "pre-understanding" of the concept? 
 
 For example, if you are studying rebellion, have them draw a need to rebel. 
 If you are studying decay, have them nonverbally express a lack of decay.
 If you are studying liberty, have them recite poems and play songs that express freedom.
-
-
-
 

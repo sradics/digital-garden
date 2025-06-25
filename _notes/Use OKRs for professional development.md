@@ -3,11 +3,10 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Sunday, July 17th 2022, 9:23:47 am
-date_modified: Thursday, May 18th 2023, 6:15:55 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Use OKRs for professional development
-
 
 source: [![](https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/favicon-v2-16x16.png)Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/project-planning-google/supplement/2UQow/okrs-for-personal-and-professional-development)
 
@@ -63,7 +62,6 @@ Next, it’s time to ==add key results, which describe how you’ll achieve your
 Working with one objective at a time, brainstorm a list of 2–5 key results. To help you generate your list, consider the following:
 -   ==How would you define success for this objective?==    
 -   What metrics would prove that you’ve successfully achieved the objective?
-    
 
 Once you have a few key results, review and revise them so they meet the following criteria:
 
@@ -82,6 +80,7 @@ Some examples for key results:
 + Take on one additional project this quarter while maintaining the same number of work hours.
 
 ## Linking
+
 -   [Using OKRs for Professional Development](https://www.whatmatters.com/articles/professional-development-okr-examples/ "https://www.whatmatters.com/articles/professional-development-okr-examples/")
 -   [John Doerr’s Ted Talk: Why the secret to success is setting the right goals](https://youtu.be/L4N1q4RNi9I "https://youtu.be/L4N1q4RNi9I"
 -   [OKRs and SMART goals: What's the difference?](https://www.whatmatters.com/resources/okrs-smart-goals-difference-between/ "https://www.whatmatters.com/resources/okrs-smart-goals-difference-between/")

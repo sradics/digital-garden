@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-date_created: Thursday, June 5th 2025, 8:50:43 am
-date_modified: Thursday, June 5th 2025, 8:50:51 am
+date_created: 2025-06-05 08:50
+date_modified: 2025-06-25 06:10
 ---
 # An aspect of better writing on LinkedIn
+
 [[@yitian_cheng_smarter_2025]]
 
 ## The Core Insight: Escape the Curse of Knowledge
@@ -56,5 +57,6 @@ When you speak clearly about what your audience feels every day, your content tr
 **Bottom line:** Meet your audience where they are emotionally, not where you are intellectually.
 
 # Linking
+
 - [[MOC LinkedIn Writing]]
 

@@ -3,8 +3,10 @@ tags:
 - digital_garden
 - epstatus/3-🌳
 - type/index-note
-date_created: Thursday, July 28th 2022, 3:31:42 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
+aliases: [Power MBABooklist including Blinkist Blinks]
+linter-yaml-title-alias: Power MBABooklist including Blinkist Blinks
 ---
 # Power MBABooklist including Blinkist Blinks
 
@@ -37,4 +39,3 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 | No Rules Rules: Netflix and the Culture of Reinvention                                                                                            | Module 5, Unit 2                | [BiB](https://blinki.st/135e30d2c55f?blinkspack=no-rules-rules-en)                                                                                                                 | [Amazon](https://www.amazon.com/-/de/dp/B0845Z14DX/ref=sr_1_1?crid=1XAK03OIXAW54&keywords=no+rules+rules&qid=1643389736&s=books&sprefix=no+rule%2Cstripbooks-intl-ship%2C149&sr=1-1)                                                                                                                                                                                                                                                                                                                                                    |
 | Jab, Jab, Jab, Right Hook: How to Tell Your Story in a Noisy Social World                                                                         | Module 6, Unit 2                | [BiB](https://blinki.st/135e30d2c55f?blinkspack=jab-jab-jab-right-hook-en)                                                                                                         | [Amazon](https://www.amazon.de/-/en/Gary-Vaynerchuk/dp/006227306X/ref=sr_1_1?crid=AHHM7O2FAYI2&keywords=garry+right+hook&qid=1643863626&sprefix=garry+right+hook%2Caps%2C68&sr=8-1)                                                                                                                                                                                                                                                                                                                                                     |
 | Building a StoryBrand: Clarify Your Message So Customers Will Listen                                                                              | Module 6, Unit 2                | [BiB](https://blinki.st/135e30d2c55f?blinkspack=building-a-storybrand-en)                                                                                                          | [Amazon](https://www.amazon.de/-/en/Donald-Miller/dp/1400201837/ref=sr_1_1?crid=1XX9KVWMFEM9V&keywords=building+a+story+brand+by+donald+miller&qid=1643910750&sprefix=building+a+story+%2Caps%2C84&sr=8-1)                                                                                                                                                                                                                                                                                                                              |
-

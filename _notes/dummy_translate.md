@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-date_created: Friday, May 5th 2023, 1:32:56 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # dummy_translate
+
 Es gibt so viel zu entdecken in wer Welt. Und hier kommt Blinkist ins Spiel. 
 
 Genieße die Schlüsselinhalt von über 6000 top Titeln aus 27 Kategorien.
@@ -55,6 +56,5 @@ be more productive level up your career
 improve your relationship Blinkist has  
 the inspiration you need right when you  
 need it don't miss your free 7-Day trial
+
 # Linking
-
-

@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Thursday, August 17th 2023, 8:16:27 am
-date_modified: Thursday, August 17th 2023, 8:16:43 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Week 2 - The Implementation Strategy
+
 The second topic of the course focuses on effective communication in negotiations. The three pillars of effective communication - Perception, Cognition, and Emotion - are introduced as fundamental components of negotiation. Here is a summarized breakdown:
 
 1. **Importance of Communication in Negotiation**: 
@@ -35,6 +36,7 @@ The second topic of the course focuses on effective communication in negotiation
 In summary, effective communication is integral to successful negotiations. This involves managing one's perception, cognition, and emotion, and leveraging Emotional Intelligence as a key skill to build constructive and empathetic interactions with the other party.
 
 ### The importance of preparation
+
 main purpose of the preparation stage is to define what **negotiation tactic**
 
 + Preparation for negotiation constitutes a fundamental stage in the negotiation process.
@@ -44,14 +46,14 @@ main purpose of the preparation stage is to define what **negotiation tactic**
 
 Think of an *ideal*, *realistic* and *acceptable* result.
 
-
-
 ### Three imperatives of negotiation
+
 + Determine the result we want from negotiation
 + Calculate the limits or reservation values beyond which we cannot negotiate
 + Determine our BATNA 
 
 #### Verification list
+
 [PON checklist](https://qz.com/work/1139744/harvard-law-schools-advice-for-prepare-to-negotiate/)
 - **What do I want** from this negotiation? List **short-term and long-term goals** and dreams related to the negotiation.
 - What are my **strengths—values, skills, and assets**—in this negotiation?
@@ -85,7 +87,9 @@ Think of an *ideal*, *realistic* and *acceptable* result.
 - **Have I practiced** communicating my message to the other side? How are they likely to respond?
 - **Does the agenda make room for simultaneous discussion of multiple issues?**
 - Is an agreement likely to create net value for society? **How can we reduce potential harm to outside parties?**
+
 #### Example agenda for a Win-Win ... integrative negotiation
+
 (There is a historic relationship of mutual collaboration and confidence between the parties.)
 1. Program a reunion among peers to define the problem
 2. Share information about the resources of both negotiators.
@@ -94,6 +98,7 @@ Think of an *ideal*, *realistic* and *acceptable* result.
 5. Initiate implementation and provide follow-up.
 
 #### Example agenda for a Win-lose ... distributive negotiation
+
 (There is no relationship between the parties, nor is there any interest in having one. Short-term results are desired.)
 1. Define the three imperatives of the negotiation
 2. Find out as much information as possible about your counterpart
@@ -102,6 +107,7 @@ Think of an *ideal*, *realistic* and *acceptable* result.
 5. Exert power to take the greatest amount of the resource that is available.
 
 #### Internal agenda for a pre-negotiation
+
 when a team of negotiators that is preparing for a **negotiation with another organization**. This preparation process is known as **pre-negotiation**.
 
 1. The **negotiating teams frequently sabotage their own efforts**, even when technically they are on the same side. **This happens when each member has different priorities** and imagines different ideal results. 
@@ -110,11 +116,12 @@ when a team of negotiators that is preparing for a **negotiation with another o
     
 3. By revealing the interests in conflict, the team can d**etermine what “_trade-offs_” can be made.** The tactics in role playing teach discipline and reduce the risk of error that could happen in the real negotiation.
 
-
 ### Overview about BATNA
+
 ![[Pasted image 20230817084534.png]]
 
 ## Agreement implementation
+
 In this part of the course, the focus is on the critical role of emotions in negotiations and how to manage them through Emotional Intelligence (EI). Here is the summary:
 
 1. **Significance of Emotional Intelligence in Negotiation**: 
@@ -148,6 +155,7 @@ Many agreements end in failure when they can’t be implemented.
 Harvard Business Review: Getting Past Yes: Negotiating as if Implementation Mattered.
 
 ### Avoid these errors when passing to implementation
+
 + **Forgetting that implementation is the final goal** of the negotiation, beyond the deal. 
 + **Not sharing the lessons learned** during the negotiation process **with those in charge of implementation**.
 + **Failing to communicate to the implementers any verbal (non-written) agreements** made during the negotiation. 
@@ -156,6 +164,7 @@ Harvard Business Review: Getting Past Yes: Negotiating as if Implementation Matt
 + Hurried negotiators who rush to make the next deal in the agenda, **forgetting the implementers**, who often don’t know where to start.
 
 ### Questions to ask
+
 + How can we achieve agreements with self-enforcing mechanisms, creating incentives for the parties to fulfill their commitments? 
 + **How can we monitor the performance and compliance of the agreement** during the implementation stage? 
 + **How can we resolve the conflicts** among the parties that are caused by misinterpretation of the information and who will cover the follow-up costs? 
@@ -165,18 +174,19 @@ Harvard Business Review: Getting Past Yes: Negotiating as if Implementation Matt
 + What **mechanisms for conflict resolution** will we have for problems arising during the implementation and who will pay for these mechanisms? 
 + **What adverse scenarios can surprise us** during implementation and how can we establish alerts for developing contingency plans?
 
-
 ### Recommendations
+
 + **Begin the negotiation with the result in mind** - Think of the result of the agreement within, say, the next twelve months. Try to imagine how the implementation has developed and if something didn’t occur as anticipated. 
 + **Create a collaborative culture** - Avoid surprises by asking the opinions of the implementers about the viability and practicality of the actions required by the agreements. 
 + **Develop alignment mechanisms** - The interests of the parties should be similar or complementary to the agreements that could be implemented. 
 + **Consider the negotiation as a process** - Combine a disciplined preparation stage with an evaluation of the results obtained in the implementation stage
 
 ***
+
 ![[Pasted image 20230817090351.png]]
 
-
 ## The exercise
+
 **Title: There’s life after the deal**
 
 **Objective: To emphasize the importance of the implementation phase of an agreement so that the negotiation is effective, that is efficient and efficacious.**
@@ -187,8 +197,8 @@ Of course you will meet significant resistance from the fusion and acquisition d
 
 The managers don’t have a culture of evaluating results, nor are they accustomed to including other parties in the different stages of the negotiation process. Most of them have been in the company more than 15 years, enjoying admittedly excellent achievements related to sustainable development, but having no worries about competencies that didn’t even exist in the past. Now things have changed significantly and a radical cultural transformation is needed.
 
-
 #### Checklist
+
 + It has the identification data of the company.
 + It includes a detailed description of the implementation strategy.
 + The implementation strategy considers an evaluation process
@@ -196,5 +206,6 @@ The managers don’t have a culture of evaluating results, nor are they accustom
 + It includes the justification of the elements enlisted above.
 
 # Linking
+
 + ➡ [[Week 3 - Internationalization strategy]]
 + ⬅ [[Week 1 - Negotiation Styles and Tactics]]

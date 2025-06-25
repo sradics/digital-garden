@@ -3,10 +3,11 @@ tags:
   - epstatus/0-🌰
   - type/literature-note
   - digital_garden
-date_created: Tuesday, October 17th 2023, 11:25:10 am
-date_modified: Tuesday, October 17th 2023, 11:25:41 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from $100M Offers
+
 [$100M Offers at Blinkist](https://www.blinkist.com/de/app/books/100m-offers-en)
 + Make people an offer so good they would feel stupid saying no
 + for sure your product needs to deliver on its promise
@@ -16,6 +17,7 @@ date_modified: Tuesday, October 17th 2023, 11:25:41 am
 $$
 prospects\: dream\: outomes \times likelyhood\: of\: success \over prospects\: time \times effort
 $$
+
 + over deliver on the likelyhood for your prospect to achieve their dream outcome while making it as instant and effortless for them as possible
 + what is the dream outcome?
 	+ list all obstacles
@@ -29,8 +31,5 @@ $$
 	+ humans fear losses more than thez crave gains
 + Naming: What is your product offer/service. And add a some words that ties to how you leveraged scarcity, urgency, bonuses, guarantees
 	+ 80% off Master your Money Master class
-+ 
-
 
 # Linking
-

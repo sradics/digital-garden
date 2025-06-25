@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/3-🌳
-date_created: Thursday, July 28th 2022, 3:14:36 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Kanban - An overview
+
 “The Kanban Method introduces a complex adaptive system that is intended to catalyze a Lean outcome within an organization.” ( [[Learning Agile]] (p315) )
 
 Kanban is ==a method for process improvement== used by agile teams.
@@ -25,6 +26,7 @@ In Kanban, the improvement is left in the hands of the team, and this is one rea
 ![[Kanban - An overview.pdf]]
 
 ## Kanban Boards
+
 They have work items. A work item is a single, self-contained unit of work that can be tracked through the entire system. ( [[Learning Agile]] (p323) )
 
 The work item has a larger lifecycle that extends beyond the team that’s building it. The kanban board will have columns for the steps that a work item goes through before and after the team gets their hands on it.  ( [[Learning Agile]] (p324) )
@@ -39,5 +41,6 @@ The work item has a larger lifecycle that extends beyond the team that’s build
 [[Learning Agile]] (p338)
 
 ## Linking
+
 + [[Learning Agile]]
 + [[Lean - an overview]]

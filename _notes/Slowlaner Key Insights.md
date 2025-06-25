@@ -4,10 +4,11 @@ tags:
   - digital_garden
   - epstatus/0-🌰
   - type/literature-note
-date_created: Sunday, May 12th 2024, 9:25:24 pm
-date_modified: Monday, May 13th 2024, 11:47:18 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Slowlaner Key Insights
+
 ## Slowlaner Key Insights from 'The Millionaire Fastlane' by MJ DeMarco
 
 **Wealth Formula: Wealth = Job Income + Market Investments**
@@ -45,5 +46,6 @@ Slowlaners trade time for money in traditional employment, relying on steady but
 30. Focus on maintaining a good credit score for future loans.
 
 # Linking
+
 + Source - [[DeMarco-The Millionaire Fastlane]]
 + [[MOC Becoming a Fastlaner]]

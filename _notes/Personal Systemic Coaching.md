@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/1-🌱
-date_created: Thursday, June 30th 2022, 5:07:25 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Personal Systemic Coaching
+
 ## Topic
 
 Personal Systemic Coaching
@@ -20,7 +21,6 @@ How can I leverage my strengths to work on a topic?
 ### Potential usages
 
 -   1:1 where you’d like to access your resources in order to find a solution for your topic
-    
 
 ### My offer
 
@@ -33,13 +33,13 @@ I can run individual coaching session. Although this is not the core of my role 
 -   I’m educated with systemic aggression management
     
 -   Worked on several sessions with Blinkist members and included my “strange questions and perspectives” to nudge the system
-    
 
 ## My level of expertise
 
 Advanced
 
 # Linking
+
 + [[TGROW Coaching Model]]
 + [[The CORE feedback model]]
 + [[Growth Zone Model]]

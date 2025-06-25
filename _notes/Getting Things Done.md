@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
-date_created: Thursday, June 30th 2022, 5:05:15 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Getting Things Done
+
 ## Topic
 
 Implement your Getting Things Done
@@ -20,7 +21,6 @@ How can I implement GTD with Asana?
 ### Potential usages
 
 -   Implement your GTD
-    
 
 ### My offer
 
@@ -29,7 +29,6 @@ I can provide my example of working with GTD.
 ## Where did I apply that?
 
 -   Using it since 2 years for my own context
-    
 
 ## My level of expertise
 

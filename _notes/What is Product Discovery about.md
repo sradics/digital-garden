@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - type/permanent-note
 - epstatus/2-🪴
-date_created: Monday, September 12th 2022, 2:56:41 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # What is Product Discovery about
 
@@ -20,8 +20,8 @@ Product discovery involves **running a series of very quick experiments, and to 
 
 The **key to effective product discovery is getting access to our customers** without trying to push our quick experiments into production.
 
-
 ## Core principles
+
 - We know we can’t count on our customers (or our executives or stakeholders) to tell us what to build. (It’s our job to ensure that what we build solves the underlying user problem). 
 - The most important thing is to **establish compelling value**. So that customers ultimately choose to buy or use our product. This is where we need to spend most of our discovery time. 
 - As hard and important as the engineering is, coming up with a good user experience is usually even harder, and more critical to success. 

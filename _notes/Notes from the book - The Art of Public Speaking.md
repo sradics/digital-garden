@@ -4,10 +4,11 @@ tags:
   - type/literature-note
   - digital_garden
   - publish_in_newsletter
-date_created: Friday, November 3rd 2023, 6:52:27 am
-date_modified: Friday, November 3rd 2023, 760:525:48 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from the book - The Art of Public Speaking
+
 Chapter 1: Becoming a skilled speech-giver is **a matter of practice**, and stage fright can be conquered. [Source](https://blinkist.com/nc/reader/the-art-of-public-speaking-en?chapter=1)
 -  Well, mastering the art of public speaking is much **like learning to swim. Giving speeches is the only way to become a skilled orator.**
 - isn’t a matter of becoming fearless; it’s **a matter of mastering your fear**
@@ -99,6 +100,8 @@ Chapter 9: Final summary [Source](https://blinkist.com/nc/reader/the-art-of-publ
 - Your speeches will be considerably more effective if you have a large vocabulary. 
 - if you truly want to broaden your vocab, you must use new words.
 - note down some unfamiliar words
+
 # Linking
+
 + [[MOC Presentation and Public speaking]]
 

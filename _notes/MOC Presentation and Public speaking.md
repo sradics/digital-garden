@@ -4,8 +4,8 @@ tags:
   - type/index-note
   - digital_garden
   - epstatus/0-🌰
-date_created: Thursday, November 2nd 2023, 12:40:53 pm
-date_modified: Thursday, November 2nd 2023, 4:26:07 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # MOC Presentation and Public speaking
 
@@ -22,6 +22,7 @@ Notes from [Blinkist Collection - Beat anxiety in 9 days](https://www.blinkist.c
 + [[Notes from the book - The Art of Public Speaking]]
 
 ## Notes from Breathing for Health
+
 [Source](https://www.blinkist.com/en/app/shortcasts/the-doctor-s-kitchen/455?collection=beat-presentation-anxiety-in-9-days)
 
 + breathing has a Body-Mind-Connection
@@ -33,8 +34,8 @@ Notes from [Blinkist Collection - Beat anxiety in 9 days](https://www.blinkist.c
 + **An emotion is simply a chemical reaction that happens and creates certain sensations**. And then we group those sensations together and we define that as a feeling or an emotion
 	+ Link to [[Access your Emotional Intelligence]]
 
-
 ## Notes from How to improvise
+
 [Source](https://www.blinkist.com/en/app/shortcasts/cautionary-tales/446?collection=beat-presentation-anxiety-in-9-days)
 - History, music and neuroscience all suggest you may **produce some of your best work by learning to let go**
 - He would research, draft, redraft, memorise, finally deliver with passion.

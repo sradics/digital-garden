@@ -3,10 +3,11 @@ tags:
 - epstatus/0-🌰
 - type/literature-note
 - digital_garden
-date_created: Monday, March 13th 2023, 10:23:43 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # The 11 star framework
+
 The **11** **★ Framework** makes you think and design to the extreme and then work backward to develop a delightful and word-of-mouth worthy experience.
 
 The "11-star experience" is a concept that Brian Chesky, co-founder and CEO of Airbnb, developed to describe the level of service and hospitality that he wanted his company to provide to its customers. Chesky believed that in order to truly differentiate Airbnb from other travel companies, they needed to go above and beyond in terms of customer service and satisfaction.
@@ -16,6 +17,7 @@ The idea is to ==think through what a 5-star service would be like and then extr
 ![[Pasted image 20230313102559.png|300]]
 
 # Reflection of using it
+
 I was participating in a workshop where that framework was used. Some reflection:
 
 Differentiating in so many detailed steps feels too much. Especially going back from a expected experience (5) and then going to step 4-3-2-1. 
@@ -28,6 +30,7 @@ But what actually defines the expected experience? Unclear to me and I observed 
 Going upwards from the expected experience (5) also here it feels a bit too much to go 6-7-8-9-10-11 and would recommend to go 6-7 to get an insight on the imagined next level from expected experience and then go 10-11 to really have the outstanding, dream experience. 
 
 ## It needs anchors
+
 For the AirBnb case one can imagine and experience, likely because the product connects well with our imagination and I can describe what a great experience for traveling looks like. 
 
 I found that to be more difficult when working with a more abstract understanding of user persona groups. 
@@ -41,7 +44,7 @@ For the extremely well part ... this might still be too much anchored around: I 
 
 I did not do the exercise with my concrete product usage to get backwards. This might be interesting to define the essentials for my use case and detect areas that just could be removed (might connect well with [Liberating Structures: Ecocycle Planning](https://www.liberatingstructures.com/31-ecocycle-planning/)).
 
-
 # Linking
+
 + [[Notes from Do things that don't scale]]
 

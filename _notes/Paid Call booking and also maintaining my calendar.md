@@ -3,10 +3,11 @@ tags:
   - epstatus/1-🌱
   - digital_garden
   - type/permanent-note
-date_created: Friday, September 22nd 2023, 11:57:15 am
-date_modified: Friday, September 22nd 2023, 3:30101:p57:43 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Paid Call booking and also maintaining my calendar
+
 [https://app.cal.com/](https://app.cal.com/)
 + individual meeting links 
 + payment can be added

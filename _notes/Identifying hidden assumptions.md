@@ -3,8 +3,8 @@ tags:
 - digital_garden
 - type/fleeting-note
 - epstatus/0-🌰
-date_created: Monday, August 29th 2022, 1:56:59 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Identifying hidden assumptions
 

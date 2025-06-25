@@ -3,9 +3,11 @@ tags:
 - digital_garden
 - epstatus/0-🌰
 - type/fleeting-note
-
+date_created: 2024-07-13 18:45
+date_modified: 2025-06-25 06:10
 ---
 # AI Interview tools list
+
 [Source](https://www.linkedin.com/posts/leonardrodman_most-people-fail-job-interviews-because-theyre-activity-7217890521036279808--vtC?utm_source=share&utm_medium=member_desktop)
 
 Huru (Free Trial)
@@ -52,5 +54,3 @@ Feedback on coding skills, problem-solving, and communication style
 ↳ www.interviewing.io
 
 # Linking
-
-

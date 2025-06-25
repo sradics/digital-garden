@@ -1,12 +1,12 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/2-🪴
-date_created: Saturday, June 11th 2022, 5:27:05 pm
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # 12 rules for life
+
 [Source](https://www.blinkist.com/en/nc/browse/books/12-rules-for-life-de?r=1&st=12+rules)
 
 ## Kopf hoch,Brust raus
@@ -34,7 +34,9 @@ Komm für die wirklich wichtigen Schritte ins Handeln.
 > Dazu gehört auch die Konfrontation mit negativen Eigenschaften und Verhaltensweisen.
 
 Ein Team wird hinzunehmen eines Underperformers geschwächt. Die Idee, dass andere eine schwaches Teammitglied mitziehen funktioniert meist nicht.
+
 ## Vergleiche dich mit dir selbst
+
 + Selbstkritik bringt Antrieb, Motivation und Ansporn.
 + kleine Schritte
 + betrachte alle Bereiche
@@ -42,27 +44,29 @@ Ein Team wird hinzunehmen eines Underperformers geschwächt. Die Idee, dass ande
 > [!tip] Regel #4
 > Vergleiche dich mit dem, der du gestern warst (statt mit Anderen)
 
-
 ## Erziehung
+
 + Bestimme so wenig Regeln wie möglich
 + Sei nur so streng wie nötig
 + Zieht als Eltern an einem Strang
-
 
 > [!tip] Regel #5
 > Pass auf, dass sich deine Kinder zu verantwortungsvollen und sympathischen Menschen entwicklen
 
 ## Die Schwere des Lebens
+
 > [!tip] Regel #6
 > Suche den Fehler bei dir selbst, statt ihn Anderen in die Schuhe zu schieben
 
 ## Belohnung aufschieben
+
 > [!tip] Regel #7
 > Strebe nach dem was sinnvoll **ist**, nicht nach dem was dir im Moment sinnvoll erscheint
 
 + setze die langfristige und sinnvolle Ziele
 
 ## Wahrheit
+
 > [!tip] Regel #8
 > Sag die Wahrheit -oder- Lüge zumindest nicht.
 
@@ -70,6 +74,7 @@ Ein Team wird hinzunehmen eines Underperformers geschwächt. Die Idee, dass ande
 + setze realistische Ziele und sei flexibel und passe die Ziele immer wieder an
 
 ## Wie man richtig streitet
+
 **Ich weiss, dass ich nichts weiss** (Sokrates)
 
 + Nutze Diskussionen als Chancen zu lernen
@@ -79,19 +84,22 @@ Ein Team wird hinzunehmen eines Underperformers geschwächt. Die Idee, dass ande
 > Gehe davon aus, dass die Person mit der du sprichst etwas weiss, von dem du nichts weisst.
 
 ## Was GENAU ist passiert
+
 > [!tip] Regel #10
 > Sei **präzise** in deiner Ausdrucksweise
 
 ## Die Agression der Männer
+
 > [!tip] Regel #11
 > Störe deine Kinder nicht beim Skateborden
 
 ## Ohne Dunkelheit kein Licht
+
 + genieße den einzelnen Moment (dem die Dunkelheit den Glanz verleiht)
 
 > [!tip] Regel #12
 > Läuft dir eine Katze 🐈‍⬛  über den Weg, dann streichle sie.
-> 
 
 ## 1st Pass processing notes
+
 ![[12 rules for life.pdf]]

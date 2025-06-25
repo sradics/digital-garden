@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/2-🪴
-date_created: Thursday, June 30th 2022, 5:02:37 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Business Understanding - Power MBA
+
 ## Topic
 
 Business Understanding - PowerMBA
@@ -24,11 +25,11 @@ Sparring partner for exchanging on topics from the education.
 ## Where did I apply that?
 
 -   took the PowerMBA education beginning of 2022
-    
 
 ## My level of expertise
 
 Advanced
 
 ## Linking
+
 + [[PowerMBA Booklist including Blinkist Blinks]]

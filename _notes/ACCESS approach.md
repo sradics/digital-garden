@@ -1,12 +1,12 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/2-🪴
-date_created: Saturday, June 11th 2022, 9:35:54 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # ACCESS approach
+
 An interesting mapping of tools in the areas *folders vs links* and *knowledge vs action*
 (A)tlas -(C)alendar - (C)ards - (E)xtra- (S)ources - (S)paces
 
@@ -21,6 +21,7 @@ Provides a top/down view.
 Here we put new ideas...
 
 ## Atlas
+
 **Maps to your world of knowledge**
 
 + Higher order notes like
@@ -32,6 +33,7 @@ Here we put new ideas...
 + Gather, develop and navigate knowledge
 
 ## Calendar
+
 **Log, track, review what matters**
 Time based information.
 
@@ -42,6 +44,7 @@ Time based information.
 + Journals
 
 ## Cards
+
 **Build and connect your ideas.**
 Insight, ideas and other things.
 
@@ -53,6 +56,7 @@ Insight, ideas and other things.
 Our own things! (vs Sources with external things)
 
 ## Extra
+
 **Keep your support material handy**
 
 Support material
@@ -65,6 +69,7 @@ Support material
 + Drawings
 
 ## Sources
+
 **Build your external library of ideas**
 
 Things you encounter
@@ -77,6 +82,7 @@ Things you encounter
 + Talks
 
 ## Spaces
+
 Big areas in your life
 eg.Life and Work
 
@@ -92,6 +98,7 @@ In the MAPS the action happens.
 ### Supporting Notes
 
 # Reflection to PARA
+
 + I like the ATLAS and Calendar entry points. Although:
 	+ ATLAS is currently covered by META folders
 	+ Calendar is currently covered by Journal folders but I like the sub-categories for it (like Daily, Plan, Reviw...) .. can make a great folder insights projects

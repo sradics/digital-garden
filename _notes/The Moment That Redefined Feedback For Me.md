@@ -8,11 +8,12 @@ tags:
   - rating/⭐️⭐️⭐️
   - 12_fav_problems/relationships
   - 12_fav_problems/help_others_grow
-date_created: Thursday, November 30th 2023, 6:09:40 pm
-date_modified: Thursday, November 30th 2023, 6:49:50 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 image: Pasted image 20231130181054.png
 ---
 # The Moment That Redefined Feedback For Me
+
 ![[Pasted image 20231130181054.png]]
 
 Early in my career as a Junior Software Developer, I encountered a moment that has stayed with me for two decades. It was a routine day at the office, the kind where the hum of computers harmonized with the clacking of keyboards—a symphony of productivity. That harmony was disrupted when a senior colleague, someone I deeply respected, decided it was the right moment to provide me with some critical feedback.  
@@ -33,6 +34,7 @@ I'd love to hear your stories. Have you ever experienced feedback that missed th
 [Feedback](https://www.linkedin.com/feed/hashtag/?keywords=feedback&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [Leadership](https://www.linkedin.com/feed/hashtag/?keywords=leadership&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [GrowthMindset](https://www.linkedin.com/feed/hashtag/?keywords=growthmindset&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184) [ProfessionalDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=professionaldevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7133496322044637184)
 
 # Linking
+
 + [[MOC Feedback]]
 + ➡ [[The Swimming Competition That Taught Me Empathy]]
 + [[My running list of 12 favorite problems#Relationsships]]

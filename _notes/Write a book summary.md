@@ -1,13 +1,13 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Tuesday, June 7th 2022, 7:37:51 pm
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Write a book summary
+
 [Source](https://www.youtube.com/watch?v=AdWyWK2QFRE&t=38s)
 Based on [[Create an outline]]
 
@@ -36,4 +36,5 @@ Chapter - What can it teach us?
 Explain it verbally to derive what to write about it and check the story behind that.
 
 ## Further linking
+
 https://fortelabs.co/blog/the-ultimate-guide-to-summarizing-books/

@@ -4,10 +4,9 @@ tags:
   - epstatus/0-🌰
   - digital_garden
   - 12_fav_problems/wealth
-date_created: Sunday, May 12th 2024, 9:29:40 pm
-date_modified: Monday, May 13th 2024, 11:49:08 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
-
 # Transition from Slowlaner to Fastlaner
 
 Transitioning from a Slowlaner to a Fastlaner involves adopting a different mindset and strategic approach to wealth and business. Here are some recommended steps to facilitate this transition:
@@ -39,6 +38,7 @@ Transitioning from a Slowlaner to a Fastlaner involves adopting a different mind
 By embracing these steps, you can transition from a Slowlaner, where you trade time for money, to a Fastlaner, who builds scalable systems and leverages investments to create substantial wealth. This path requires commitment, a willingness to take risks, and a proactive approach to financial growth and independence.
 
 # Linking
+
 + [[S01 Personal/050-059 Resources/Literature notes/Fastlaner Key Insights]]
 + [[Slowlaner Key Insights]]
 + [[DeMarco-The Millionaire Fastlane]]

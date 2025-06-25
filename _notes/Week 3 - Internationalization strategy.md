@@ -3,15 +3,17 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/1-🌱
-date_created: Thursday, August 17th 2023, 10:28:47 am
-date_modified: Thursday, August 17th 2023, 10:29:04 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Week 3 - Internationalization strategy
+
 In today's discussion, the focus is on internationalization strategy and negotiating in the context of cultural diversity. The concept of **"culture" is introduced as the shared values, attitudes, and practices that characterize a group of people**, which can be a significant factor in negotiations, especially when parties from different cultures are at the same table. 
 The term **"cultural intelligence" is introduced, which refers to the ability to relate successfully in multicultural scenarios**. This is an essential skill for negotiators in today’s globalized world. 
 The concept of **"organizational culture" is also discussed, focusing on how members of different ethnic groups within the same organization can work together effectively**. It is emphasized that people should not be stereotyped based on their culture; instead, negotiators should adopt a more open and dynamic mentality. This approach is referred to as **"cultural prototypes," which helps to consider specific cultural tendencies within the broader context of a culture.** The discussion aims to motivate individuals to further develop their negotiation skills, encouraging them to adopt more effective strategies in the global arena of negotiation and to be mindful of cultural differences, even within their own environments.
 
 ### Culture
+
 The concept of culture refers to the shared values, attitudes, and practices that characterize an institution, a group or a community of people who have their own language, religion, cuisine, social habits, music, and art and who are usually distributed throughout the geographical regions of our planet.
 
 **Transculturation** occurs when a group respects the cultural values of others, with some individuals even adopting the other cultures, but this is not true of their whole community.
@@ -29,6 +31,7 @@ your actions must show that you have entered his world.
 **Stereotypes** are usually fixed, inflexible, and based on prejudices with a negative connotation to typify another culture.
 
 ### Analyze our level of cultural intelligence
+
 we can analyze our level of cultural intelligence in the following personal assessment, by rating the extent to which we agree with each of the 12 statements:
 + Before I interact with people from a new culture, I ask myself what I hope to achieve.
 + If I encounter something unexpected while working in a new culture, I use this experience to figure out new ways to approach other cultures in the future.
@@ -44,6 +47,7 @@ we can analyze our level of cultural intelligence in the following personal asse
 + I am confident that I can deal with a cultural situation that's unfamiliar.
 
 ### Shell model for organizations
+
 Professor Schein believes that organizational culture is organized in layers, like an onion, with **values** (invisible) in the core, and in the outer layers are **attitudes** and on the surface, **behaviors** as the last expressions of a culture. *Edgar H. Schein*
 
 observable manifestations of culture are behaviors that, in diverse ways, can be grouped into cultural prototypes.
@@ -51,6 +55,7 @@ observable manifestations of culture are behaviors that, in diverse ways, can be
 ![[Pasted image 20230817104810.png]]
 
 ## International negotiation
+
 In this session, the focus is on international negotiation, a topic presented as both a significant opportunity and a considerable responsibility. Despite the seeming **trend towards regionalization, which involves measures to protect local production systems (such as tariff barriers) and which can have serious consequences for international commerce**, international negotiation remains crucial. 
 The emphasis is placed on the **importance of enhancing and sophisticating negotiation tactics to navigate these challenges** effectively. This is particularly relevant when engaging with peers who are different in various aspects, such as culture and language. The session reintroduces the concept of "cultural prototypes" in the context of the **"law of large numbers," suggesting that negotiators should anticipate and understand preferential behaviors in specific cultures as part of their international preparation.** These behaviors, known as "cultural dimensions," serve as comparative measurements reflecting a particular culture. The session aims to promote a message of inclusion that encourages negotiators to step out of their comfort zones and engage with other cultures. It encourages participants to use the information presented, along with existing literature on internationalization, to design new strategies for navigating the increasingly complex global landscape and to view this as an opportunity for personal and professional growth.
 
@@ -66,6 +71,7 @@ The emphasis is placed on the **importance of enhancing and sophisticating negot
 In order to adapt, it’s best to **arrive two or three days before the date of the negotiation**. That time should be spent **talking with your interlocutor or translator,** and reviewing the material that will be used in the negotiation. It’s very important to be prepared for the negotiation before leaving home.
 
 ### Time usage differences by countries
+
 Time as a negotiation tactic (USA) American negotiators tend to minimize the time spent on activities not related to the beginning of the negotiations themselves, usually acting as if today were the last day of their lives. They negotiate with conviction and interpret delay and indecision as signs of evasion or incompetence. “Time is gold.”
 
 Time as a negotiation tactic (Germany) Germans spend a lot of time in procedural aspects. They want well-planned and well-organized negotiations that are efficient and effective and use a set agenda and organization as the means to achieve these ends.
@@ -78,7 +84,6 @@ Time as a negotiation tactic (Japan) The Japanese prefer relatively short sessio
 
 Time as a negotiation tactic (México) In Mexico, schedule commitments are desirable but not firm promises. Mexicans tend to put people before work and don’t allow schedules or business to interfere with family or friends.
 
-
 Hofstede’s six cultural dimensions are: 
 + the power distance index (strength of social hierarchy)
 + individualism vs. collectivism
@@ -87,9 +92,8 @@ Hofstede’s six cultural dimensions are:
 + short-term vs. long term orientation
 + restraint vs. indulgence
 
-
-
 # Linking
+
 + ➡ [[Week 4 - Complex Negotiations]]
 + ⬅ [[Week 2 - The Implementation Strategy]]
-+ [Simulator using Hofstede's Cultural dimensions ](https://www.hofstede-insights.com/product/compare-countries/)
++ [Simulator using Hofstede's Cultural dimensions](https://www.hofstede-insights.com/product/compare-countries/)

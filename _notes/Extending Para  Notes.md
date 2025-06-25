@@ -1,12 +1,12 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Tuesday, February 7th 2023, 4:25:26 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Extending Para  Notes
+
 [Source](https://fractalproductivity.substack.com/p/paramore?ck_subscriber_id=1758824896)
 
 PARA - organize things by actionability
@@ -35,14 +35,12 @@ WIP stands for "Work In Progress". It refers to **the number of unfinished item
     
 -   **I do more house-keeping of my resources** (while before I would accumulate a never-ending pile of new references)
 
-
 by adding custom spaces you also **risk its potency and clarity.**
-
-
 
 ![[Pasted image 20230207180214.png]]
 
 ## How to deal with bigger and hot topics that span several projects?
+
 These "epics" are often too "hot" or short-lived to count as areas. They are also way too big to be just a single project. And if it's multiple related projects, how do I represent their connectedness and priority over everything else?
 
 Whenever I run into these situations, I create what I call a [personal program](https://fractalproductivity.substack.com/p/the-personal-program).
@@ -58,11 +56,13 @@ tackle one of them I create a temporary "hotter-than-project" space. So I’d go
 ![200](Pasted%20image%2020230207181004.png)
 
 ## Tagging
+
 In [Tagging is Broken](https://fortelabs.co/blog/tagging-is-broken) Tiago Forte points out that tags are ill-suited to replace folder hierarchies.
 
 Tagging systems won't replace folder hierarchies, that’s right. But they can very well **supplement them.**
 
 ### Recommendations when working with Tags
+
 [Source](https://fractalproductivity.substack.com/p/paramore-4-the-meta-layer?sd=pf)
 + reduce the upfront decision cost as much as possible
 	+ "tagging triggers" woven into your workflows that tell you it is time to tag
@@ -75,15 +75,18 @@ Tagging systems won't replace folder hierarchies, that’s right. But they can v
 + choose a lightweight, antifragile approach to tagging
 
 ### His examples
+
 [Source](https://fractalproductivity.substack.com/p/paramore-4-the-meta-layer-supplementary)
 
 ![300](Pasted%20image%2020230208070044.png)
 
 ## Meta
+
 + **Containers growing too large for efficient navigation**
 + **Lacking an overview by item type.** What if you need an overview of all your book summaries or list all the checklists you have ever created?
 
 ## About capturing
+
 [Source](https://fractalproductivity.substack.com/p/paramore-5-paria-unlocking-the-incubator)
 A solid capture habit is worth a lot, but it can lead to a problem. It makes us prone to _**over-capture**; to keep more than we are able to use._
 
@@ -93,6 +96,7 @@ To create my safe area / someday maybe empire I added a 5th _space_ to my P.A.
 *Comment:* I achieve that my taking smart notes and adding such things to fleeting notes that I will then further process.
 
 ## About Inbox management
+
 [Source](https://fractalproductivity.substack.com/p/paramore-6-inbox-management)
 That's why I deem it legit to consider the inbox as a hidden space of P.A.R.A. (think **i.P.A.R.A.**)
 
@@ -105,6 +109,7 @@ Some advanced users may be able to actually ever only inbox triage _opportunist
 A third way you can approach it is what I call **Inbox Kanban**. Here you triage based on the number of items the inbox contains.
 
 # Linking
+
 + [[MOC Building a 2nd brain]]
 + [[Para Blog by Tiago Forte]]
 + [[PARA Method Notes]]

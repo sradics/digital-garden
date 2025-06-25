@@ -3,8 +3,11 @@ tags:
   - epstatus/0-🌰
   - type/literature-note
   - digital_garden
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:09
 ---
 # Advice for financial freedom by Ali Abdaal
+
 [Source](https://www.youtube.com/watch?v=BBAuhqvT_ds)
 
 + Define the goal behind reaching financial freedom
@@ -25,6 +28,6 @@ tags:
 - My interview with Codie Sanchez:  [Unlock Financial Freedom: Secrets Fro...](https://www.youtube.com/watch?v=zHiRzcXftPw&t=0s)   
 - If I Wanted to Be a Millionaire by 30, I'd Do This - [If I Wanted to Be a Millionaire by 30, I'd Do This](https://www.youtube.com/watch?v=mBTPvvgRICQ&t=0s)
 
-
 # Linking
+
 + Follow up key insights - [[MOC Becoming a Fastlaner]]

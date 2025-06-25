@@ -4,21 +4,24 @@ tags:
   - epstatus/1-🌱
   - type/permanent-note
   - publish_in_newsletter
-date_created: Friday, October 6th 2023, 5:00:24 pm
-date_modified: Saturday, November 4th 2023, 12:30:04 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # The Culture of Feedback
+
 I recently joined a very interesting [Coaching Pathway](https://www.coachingbyblinkist.com/) on the topic of Feedback Excellence (I also co-created this pathway and learned by being a participant). And one session in this pathway was dedicated to building a Culture of Feedback in your team and company. 
 
 The model of 4 stages of psychological safety [[#Notes from: 4 Stages of Psychological Safety]] combined 6 great questions to Establish Psychological Safety provide a really powerful tool that can be used by leader to systematically work on nurturing Psychological Safety in their teams.
 
 ## Short overview on the 4 Stages of Psychological Safety
+
 + Stage 1 - Inclusion Safety - **feel included**
 + Stage 2 - Safety to learn, make oneself vulnerable, and make mistakes - **feel safe to learn**
 + Stage 3 - Provide contributor safety - **feel safe to contribute**
 + Stage 4 - Democratize innovation by fostering challenger safety - **feel safe to challenge status quo**
 
 ***
+
 *Screenshot taken during the live cohort workshop*
 ![[Pasted image 20231006150024.png|400]]
 
@@ -27,6 +30,7 @@ The model of 4 stages of psychological safety [[#Notes from: 4 Stages of Psychol
 	+ it needs a challenger (for too many new ideas) and also the innovator (bringing in new ideas)
 	+ connection with Pioneer, Settler, Townplanner
 		+ [[GCHQ_Boiling_Frogs_Highlights.pdf]]
+
 ## Short overview on the Six Questions to establish psychological safety
 
 ![[Pasted image 20231006152748.png]]
@@ -40,13 +44,19 @@ Where to use the Six Questions?
 + just planting the seed and let people answer that over time
 
 ## A vale of combining both tools
+
 You can learn about each team members current level of psychological safety and then work with the 6 questions to understand what might be next steps to further establish psychological safety.
+
 ### Next action for myself
+
 Actually use the 6 questions to reflect about myself and bring this back to my leads … it is also a great tool for self reflection tool
 
 ## Notes from 2 Books in Blinks I was asked to read in preparation for the Live Session
+
 ### Notes from: 4 Stages of Psychological Safety
+
 #### 4 Stages
+
 + Inclusion Safety - feel included
 + Safety to learn, make oneself vulnerable, and make mistakes - feel safe to learn
 + Provide contributor safety - feel safe to contribute
@@ -96,6 +106,7 @@ Chapter 5: Final summary [Source](https://blinkist.com/nc/reader/the-4-stages-of
 - Cultivate learner safety by encouraging and rewarding people for making mistakes and asking questions (remember the calculus teacher!). Get to know your colleagues. **Decide what type of contributor safety they need to participate**, and when it’s a good idea to provide it. And, finally, remember: **innovation won’t happen by sticking with the status quo – you need challenger safety**. 
 
 ### Notes from Courageous Cultures
+
 Introduction [Source](https://blinkist.com/nc/reader/courageous-cultures-en?chapter=0)
 - To encourage employees to speak up, you need to **help them feel safe and supported**. (connect to contributor safety)
 
@@ -156,6 +167,7 @@ Chapter 8: Final summary [Source](https://blinkist.com/nc/reader/courageous-cult
 - **IDEA approach to check whether what they’re offering is feasible. In this acronym, I stands for Interesting, D for Doable, E for Engaging, and A for Actions**
 
 # Linking
+
 + [Coaching by Blinkist](https://www.coachingbyblinkist.com/)
 + [[Agile 2 and Leadership]]
 	+ [[Socratic Leadership]]

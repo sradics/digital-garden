@@ -4,11 +4,13 @@ tags:
 - type/literature-note
 - epstatus/1-🌱
 - publish_in_newsletter
-date_created: Sunday, July 16th 2023, 2:00:56 pm
-date_modified: Sunday, July 16th 2023, 9:11:16 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from Day 3 of the Mindvalley AI Summit 2023
+
 ## AI Summary for day 3
+
 - The potential of generative AI in content creation was discussed by Iman Oubou.
 - The Hierarchy of Effects model was explored, outlining customer engagement stages.
 - The importance of understanding your audience's demographics and psychographics was emphasized.
@@ -21,6 +23,7 @@ date_modified: Sunday, July 16th 2023, 9:11:16 pm
 - A demonstration was given on building a mobile app quickly using Adalo and the OpenAI API.
 
 ## Talk from Iman Oubou - The Power of AI Content Creation - Scaling Content Marketing with AI
+
 > [!important]
 > By leveraging the power of generative AI, anyone can produce high-quality, personalised content quickly and efficiently, without having to invest significant resources into its creation. 
 
@@ -29,6 +32,7 @@ Attention as currency of today (connects to [[Time to Value]] and [[BASB - Learn
 All the following demo is base on [AIPRM](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj) extension for ChatGPT
 
 ### Hiearchy of effects model
+
 *Robert J. Lavidge and Gary A. Steiner in the 1960*
 1. **Cognitive Stage (Awareness/ Knowledge)**: This is the stage where the customer becomes aware of the product or service and gains an understanding of what it is and what it can do. This stage is all about providing information and educating the potential customer.
     
@@ -37,6 +41,7 @@ All the following demo is base on [AIPRM](https://chrome.google.com/webstore/det
 3. **Behavioral Stage (Purchase)**: Finally, the customer makes the decision to purchase and act on their preference and conviction.
 
 ### Step 1 - Know you audience
+
 + Demographic, psychographic, professional details
 + via segments and personas
 
@@ -45,6 +50,7 @@ Prompt with [Buyer Persona Legend](https://app.aiprm.com/prompts/179219421548536
 ![[Pasted image 20230716180752.png]]
 
 ### Step 2  - Keyword Research
+
 Doing keyword research means you can choose the right topics that can help you drive traffic from these search queries.
 
 [Keyword Research Volume](https://app.aiprm.com/prompts/1793905723655315456)
@@ -56,6 +62,7 @@ Doing keyword research means you can choose the right topics that can help you d
 ![[Pasted image 20230716182446.png]]
 
 ### Step 3 - Content Plan
+
 It's important to have a strong content plan in place from the beginning: that way, you have a mapped-out, organised overview of your pipeline
 
 Get Monthly content calendar.
@@ -66,6 +73,7 @@ And forward to airtable
 ![[Pasted image 20230716182713.png]]
 
 ### What can you brainstorm
+
 - Blog post topics and descriptions
 - Social media content calendar
 - Podcast episode topics
@@ -75,6 +83,7 @@ And forward to airtable
 - Email newsletter concepts
 
 #### EMail strategy
+
 Welcome series for my clients
 
 Great give me the copy for each eMail
@@ -88,6 +97,7 @@ Pull notes out and put them to your notes app
 ![[Pasted image 20230716183913.png]]
 
 ### Step  4 - Use it for content creation
+
 By using AI tools like ChatGPT, you can now craft high-quality content that is optimised for search engine rankings and resonates with your intended audiences.
 
 For long form optimized 
@@ -97,6 +107,7 @@ For long form optimized
 ![[Pasted image 20230716184436.png]]
 
 ### Step 5 - Content Analysis
+
 ChatGPT is a powerful tool for text analysis.
 By understanding the context of words and phrases, it can be used for a variety of tasks, such as sentiment analysis, SEO, and text mining..
 
@@ -113,6 +124,7 @@ Ask ChatGPT to analyze content and then to improve it.
 [Outrank Article](https://app.aiprm.com/prompts/1000101) (based on Competitor URL)
 
 ### Copy AI detectors
+
 - InteresteinAi
 - Crossplag
 - Content Detector.Ai
@@ -123,12 +135,14 @@ Ask ChatGPT to analyze content and then to improve it.
 - Quietest
 
 ## Mr Grateful - his workflow on using AI as a social media agent
+
 ![[Pasted image 20230716152425.png|200]]
 
 **Workflow for todays session**
 Content ideas > Research > script > Lights and Camera Set up > RunwayGen-1 > Supporting visuals with ArtGrid and Runway Gen2 > Edit in cap cut + auto subtitles built in > Transcribe > Captions and Hashtags > Insights to find time to post > Daily Metrics
 
 ### Training GPT
+
 > [!quote] Prompt
 > What are the components of a brand voice that need to be defined to clearly describe the voice a brand speaks through. 
 
@@ -149,9 +163,11 @@ Tool Descript ... to transcribe my videos. Also to learn about my brand voice an
 Give it you metrics about what did perform well and what not.
 
 ### Insta key metrics
+
 + Plays, Likes, Saves, Shares, Comments
 
 #### Scripting with timings included
+
 Certainty Domenic After carefully analyzing your top performing Reels and taking into account your brand insights, here's a structured formula template that can serve as a guide for creating future content with viral potential
 1. The Hook (5-7 seconds): Start with a captivating or thought-provoking question or statement related to your content. It should stir curiosity create a sense of intrigue, or instantly resonate with the viewer's interests
 Example: "If you had a Disney version of yourself, would it make content creation eser or at least more fun?
@@ -172,6 +188,7 @@ Example: Tim Domenic, Mr. Grateful, until next time, stay curious and creative, 
 Unfairness, Fear, Frustration
 
 ### Value Equation
+
 ![[Pasted image 20230716153916.png|300]]
 
 > [!quote] Prompt
@@ -199,6 +216,7 @@ Perceived reasons for non achievement? example: I am already so far behind that 
 ![[Pasted image 20230716154242.png]]
 
 ### Research
+
 A list of highly influencing people in AI
 - @mr.grateful 
 - @chatgptricks
@@ -215,28 +233,34 @@ A list of highly influencing people in AI
 - @mindvalley
 
 ### Script
+
 > [!quote] Prompt
 > Here is research I gathered about our topic: How to leverage Al to enhance your competitive edge.
 Please write a script using this information in our brand voice, using our template. 
 
 ### Setup & equipment
+
 ![[Pasted image 20230716154709.png|300]]
 
 ***
+
 *Iphone as camera with specific settings*
 ![[Pasted image 20230716155237.png|100]]
 
 ### Supporting visuals
+
 Runway Text-to-video
 
 ### Capcut and AutoCaption
 
 ### Captions & Hastags
+
 Take your transcript and ask: Can you please write a caption and hashtags...
 
 ![[Pasted image 20230716155604.png]]
 
 ### Daily Metrics
+
 > [!quote] Prompt
 > Hey Agent! Here is a metric check
 > Last 30 Days:
@@ -247,6 +271,7 @@ Take your transcript and ask: Can you please write a caption and hashtags...
 Ask why is something performing well?
 
 ### List of all Apps mentioned in the presentation
+
 - Firefly AI image editing [https://www.adobe.com/sensei/generative-ai/](https://www.adobe.com/sensei/generative-ai/) firefly.html
 - Runway AI video generation V1 [https://research.runwayml.com/gen1](https://research.runwayml.com/gen1)
 - Runway AI video generation V2 [https://research.runwayml.com/gen2](https://research.runwayml.com/gen2)
@@ -259,6 +284,7 @@ Ask why is something performing well?
 - [https://www.d-id.com/](https://www.d-id.com/)
 
 ## Build an APP in 1h
+
 + [Adalo](https://www.adalo.com/)
 + ChatGPT - openAI api
 
@@ -269,6 +295,7 @@ Fast pacing demo how to build a Mobile App that is created with Adalo and sends 
 ## Closing thoughts
 
 # Linking
+
 + ⬅ [[Notes from Day1 of the Mindvalley AI Summit 2023]]
 + ⬅[[Notes from Day 2 of the Mindvalley AI Summit 2023]]
 

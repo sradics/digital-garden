@@ -4,10 +4,11 @@ tags:
   - type/literature-note
   - digital_garden
   - publish_in_newsletter
-date_created: Thursday, November 2nd 2023, 3:33:06 pm
-date_modified: Thursday, November 2nd 2023, 3:38:13 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from the book Magic Words
+
 Chapter 1: Magic words connect you with others by motivating them. [Source](https://blinkist.com/nc/reader/magic-words-en?chapter=1)
 - Magic words motivate others, and thus make you a more effective communicator. 
 - words only constitute about seven percent of what we communicate – the rest is body language and tone of voice.
@@ -47,6 +48,8 @@ Chapter 5: **“Help” is useful when delegating responsibility** and **“than
 
 Chapter 6: Final summary [Source](https://blinkist.com/nc/reader/magic-words-en?chapter=6)
 - **==elicit “yeses” and avoid “nos,” direct attention with “but,” motivate others with “because” and “if” and show appreciation with “help” and “thanks.”==** 
+
 # Linking
+
 + [[MOC Presentation and Public speaking]]
 

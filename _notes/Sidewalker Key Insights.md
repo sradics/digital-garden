@@ -4,11 +4,13 @@ tags:
   - epstatus/0-🌰
   - digital_garden
   - 12_fav_problems/wealth
-date_created: Sunday, May 12th 2024, 9:24:33 pm
-date_modified: Tuesday, May 14th 2024, 5:19:40 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Sidewalker Key Insights
+
 date:: 2024-05-12
+
 ## Sidewalker Key Insights from 'The Millionaire Fastlane' by MJ DeMarco
 
 **Wealth Formula: Wealth = Income + Debt - Lifestyle Expenses**
@@ -46,5 +48,6 @@ Sidewalkers often engage in poor financial management, prioritizing immediate gr
 30. Total lack of a retirement plan or savings for old age.
 
 # Linking
+
 + [[MOC Becoming a Fastlaner]]
 + [[DeMarco-The Millionaire Fastlane]]

@@ -3,10 +3,11 @@ tags:
 - epstatus/1-🌱
 - type/literature-note
 - digital_garden
-date_created: Sunday, June 18th 2023, 8:28:59 pm
-date_modified: Saturday, June 24th 2023, 4:46:30 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from Task Management Workshop with Tiago Forte
+
 [Source](https://building-a-second-brain.circle.so/c/replays-1ba411/replay-of-task-management-workshop-with-tiago-05-30-2023)
 + Based on GTD
 + Uses the app *Things*
@@ -24,6 +25,7 @@ date_modified: Saturday, June 24th 2023, 4:46:30 am
 + tasks need their own approach - GTD and notes are core to building a Second Brain and notetaking
 
 ### Difference between GTD and BASB
+
 The writer emphasizes that **tasks and notes are fundamentally different**. **Tasks are active, timely, convergent, short, and focused on execution**. On the other hand, **notes are passive, timeless, divergent, and used for reference**. They emphasize the importance of treating these two entities differently due to their distinct characteristics.
 
 | GTD      | BASB    |
@@ -40,19 +42,24 @@ The writer emphasizes that **tasks and notes are fundamentally different**. **Ta
 + Notes are not actionable themself, but they contain action items
 
 ### GTD - Capture
+
 + Key to inbox zero - convert it super fast to a task (e.g. within Asana plugin)
 + **Taskmanager Things**
 
 ### GTD - Clarify
+
 + Add more clarity to previously captured tasks. Best e.g. in a weekly review. 
 
 ### GTD - Organize
+
 + Put the tasks in a project - so what is the nearest project this task might belong too?
 
 ## Flow
+
 + search for *waiting for:* (as follow up)
 
 ## Free notes
+
 + use energy levels as the context to decide on what tasks to take on
 	+ e.g. focussed work vs. anytime work
 + GTD - a system to protect your attention
@@ -61,6 +68,7 @@ The writer emphasizes that **tasks and notes are fundamentally different**. **Ta
 + What is actionable? From that - what is of high priority?
 
 ## Managing inboxes - 5 inboxes
+
 Order of the weekly review ...
 
 ### EMAIL
@@ -72,9 +80,11 @@ Order of the weekly review ...
 ### Notes
 
 ### Task manager
+
 So ending with the decision what really to do about it
 
 ## Summary created via Lex
+
 In the draft, the writer discusses task management, specifically how to organize and prioritize tasks, how to focus on important projects, and how to visually prioritize tasks. 
 
 They differentiate between tasks and notes, explaining that tasks are actionable, timely, convergent, short, and focused on execution, while notes are passive, timeless, divergent, and used for reference. 
@@ -84,6 +94,6 @@ They compare the steps of GTD (Getting Things Done) and their own methodology ca
 Finally, they mention the importance of organizing projects and areas and the relationship between reflecting on tasks and expressing ideas through notes.
 
 # Linking
-+ [[MOC Building a 2nd brain]]
 
++ [[MOC Building a 2nd brain]]
 

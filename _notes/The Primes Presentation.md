@@ -4,8 +4,8 @@ tags:
   - type/permanent-note
   - digital_garden
 event_date:
-date_created: Wednesday, March 26th 2025, 7:49:15 am
-date_modified: Wednesday, March 26th 2025, 7:51:02 am
+date_created: 2025-03-26 07:49
+date_modified: 2025-06-25 06:10
 ---
 # The Primes Presentation
 
@@ -14,4 +14,3 @@ date_modified: Wednesday, March 26th 2025, 7:51:02 am
 Presentation on Slideshare: [The Primes - How any group can solve any problem](https://www.slideshare.net/SebastianRadics/the-primes-how-any-group-can-solve-any-problem)
 
 # Linking
-

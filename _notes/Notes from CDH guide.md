@@ -1,17 +1,16 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Sunday, November 27th 2022, 11:27:51 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes from CDH guide
-
 
 [Peak - The new science of expertise](https://www.blinkist.com/de/app/books/peak-en-anders-ericsson-and-robert-pool?r=3&st=pea)
 
 ## Opportunity solution tree
+
 Outcome - measure the value one creates for the customer.
 E.g. Increase percentage of customer who work out at least 2x per week
 
@@ -36,5 +35,4 @@ Outcomes are the impacts on your business or your customers.
 Focus on a few outcomes for a longer time. In product discovery patience is key. 6-9 months to expect.
 
 Ask: What impact will this outcome have on our business and/or customer
-
 

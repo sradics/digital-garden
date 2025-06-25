@@ -4,16 +4,18 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Monday, July 18th 2022, 5:46:30 am
-date_modified: Thursday, May 18th 2023, 6:15:58 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # $10K Training Lesson 9 No, a new iPad won't change your life
 
 ## Metadata
+
 * URL: [https://mail.google.com/mail/u/0/](https://mail.google.com/mail/u/0/)
 * Published Date: 2021-10-30
 
 ## Highlights
+
 * ==shiny new toy syndrome (also known as SNTS).==
 * It provides a blueprint for a system. And ==systems always outlast shiny toys.==
 * Tools don’t deliver massive outcomes unless they’re ==accompanied by Self-Awareness and Behavior Change.==
@@ -30,6 +32,6 @@ date_modified: Thursday, May 18th 2023, 6:15:58 pm
 * ==[[The Feynman Technique]]==: This method focuses on distilling ideas to childlike simplicity to enforce retention.
 * YNAB for budgeting:
 
-
 # Linking
+
 + [[MOC 10K$ framework]]

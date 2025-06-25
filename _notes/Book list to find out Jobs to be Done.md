@@ -1,12 +1,12 @@
 ---
-aliases: 
 tags: 
 - digital_garden
 - epstatus/0-🌰
-date_created: Tuesday, January 24th 2023, 11:52:57 am
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Book list to find out Jobs to be Done
+
 [Source](https://www.linkedin.com/posts/robertcmeza_behavioralscience-behavioraldesign-innovation-activity-7023541483517411328--OKX?utm_source=share&utm_medium=member_desktop)
 
 To Find the Outcome and Job for your customers:  
@@ -66,6 +66,5 @@ For Gamification and Habits in Products
 For Lit reviews:  
   
 ✅ How to Read a Paper - Trish Greenhalgh
-
 
 ![[Pasted image 20230124115342.png]]

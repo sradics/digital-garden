@@ -4,22 +4,26 @@ tags:
 - matter/processed
 - type/literature-note
 - epstatus/2-🪴
-date_created: Friday, August 19th 2022, 5:20:24 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Why we transitioned from Sprints to Basecamp’s “Shape Up” methodology
+
 ## Metadata
+
 * URL: [https://medium.com/adventures-in-consumer-technology/why-we-transitioned-from-sprints-to-basecamps-shape-up-f416114224e7](https://medium.com/adventures-in-consumer-technology/why-we-transitioned-from-sprints-to-basecamps-shape-up-f416114224e7)
 * Published Date: 2022-07-07
 * Author: [[Cory Torres Bishop]]
 
 ## Highlights
+
 * Large epics always overlapped into additional sprints
 * little time to pause, review, and refine the process itself
 * Reflection every few weeks is key to growth.
 * Our **decisions should solely be based on moving the product forward in the next six weeks**, not micromanaging time.
 
 ## Dual Tracks: Shaping & Building
+
 * asked to swarm a project together and give it their undivided attention to see it through to completion.
 * During any six-week cycle, teams are building work that’s been previously shaped,
 * Two tracks when in-cycle (6 weeks): 
@@ -52,4 +56,5 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 * buy-in and alignment from the very top
 
 ## Linking
+
 + [[MOC Product Discovery]]

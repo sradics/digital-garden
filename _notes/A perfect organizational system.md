@@ -3,11 +3,13 @@ tags:
 - digital_garden
 - epstatus/2-🪴
 - type/permanent-note 
-date_created: Sunday, June 5th 2022, 6:28:07 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # A perfect organizational system
+
 ## A perfect organizational system
+
 - **universal**, encompassing any conceivable kind of information from any source
 - **flexible**, able to work with any project or activity you take on, now and in the future
 - **simple**, not requiring any time-consuming maintenance, cataloguing, tagging, or reorganizing beyond a bare minimum

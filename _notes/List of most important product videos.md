@@ -3,10 +3,11 @@ tags:
 - digital_garden
 - type/index-note
 - epstatus/3-🌳
-date_created: Friday, September 30th 2022, 5:22:20 am
-date_modified: Thursday, May 18th 2023, 6:15:56 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # List of most important product videos
+
 1. The Root Causes of Product Failure by [Marty Cagan](https://www.linkedin.com/in/ACoAAAAAjycBVwSf0tRMLhZIJgQhgC8WlvNo9g8)  
 [https://lnkd.in/dx45AEmn](https://lnkd.in/dx45AEmn)
 2. Product Strategy: The Missing Link by [Marty Cagan](https://www.linkedin.com/in/ACoAAAAAjycBVwSf0tRMLhZIJgQhgC8WlvNo9g8)  

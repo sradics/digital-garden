@@ -4,12 +4,15 @@ tags:
   - digital_garden
   - epstatus/0-🌰
   - publish_in_newsletter
-date_created: Tuesday, October 31st 2023, 5:29:22 am
-date_modified: Tuesday, October 31st 2023, 5:29:35 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:06
 ---
 # Notes from - 4 Stages of Psychological Safety
+
 ## Notes from: 4 Stages of Psychological Safety
+
 ### 4 Stages
+
 + Inclusion Safety - feel included
 + Safety to learn, make oneself vulnerable, and make mistakes - feel safe to learn
 + Provide contributor safety - feel safe to contribute

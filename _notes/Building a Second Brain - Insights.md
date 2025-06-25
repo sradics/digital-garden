@@ -4,17 +4,16 @@ tags:
 - digital_garden
 - type/literature-note
 - epstatus/2-🪴
-date_created: Thursday, June 16th 2022, 5:42:02 am
-date_modified: Thursday, May 18th 2023, 6:15:57 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Building a Second Brain - Insights
 
 > [!tip] Definition for 2nd brain
 > A repeatable, reliable system for generating ideas, gathering and organizing them, and putting them to use in concrete form 
-> 
-
 
 ## What is a 2nd Brain
+
 + ==personal knowledge management helps us harness the full potential of what we know==
 + ==individual counterpart to Knowledge Management==
 + ==organize information holistically—for a variety of purposes, for any project or goal—instead of only for one-off tasks.==
@@ -25,6 +24,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + ==“knowledge garden” where you are free to cultivate your ideas and develop your own thinking away from the deafening noise of other people’s opinions==
 
 ## Why should I consider Building my 2nd Brain
+
 + ==little effort applying that knowledge and making it our own==
 + ==Find anything you’ve learned, touched, or thought about in the past within seconds==
 + ==Save your best thinking so you don’t have to do it again==
@@ -37,10 +37,14 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + ==personal knowledge management exists to support taking action==
 + ==minimize the time we spend filing, labeling, tagging, and maintaining our digital notes.==
 + Our most scarce resource is time, which means we need to prioritize our ability to quickly rediscover the ideas
+
 ### Value of information
+
 + Human ==capital includes “the knowledge and the knowhow embodied in humans—their education, their experience, their wisdom, their skills, their relationships, their common sense, their intuition.”==
 + ==treating my thoughts as treasures== 
+
 ### Aspect of Time Management
+
 + ==26 percent of a typical knowledge worker’s day is spent looking for and consolidating information spread across a variety of systems.==
 + ==only 56 percent of the time are they able to find the information==
 + ==Spend less time looking for things, and more time doing the best, most creative work you are capable==
@@ -48,9 +52,11 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 	+ ==attention we invested in producing that in-between work gets thrown away, never to be used again.== 
 
 ### Space for Creative Work
+
 + ==“Creative people are better at recognizing relationships, making associations and connections.”==
 
 ## How does the 2nd Brain work
+
 + ==package it up and send it through time to our future==
 + ==begins with the simple act of writing things down==
 + ==What are the chances that the most creative, most innovative approaches will instantly be top of mind? What are the odds that the best way to move forward is one of the first ways we come up with?== 
@@ -60,6 +66,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 	+ ==becoming a thinking tool for creating new things==
 
 ### Notes as Building Blocks
+
 + ==a note is a “knowledge building block”== 
 + ==It stands on its own and has intrinsic value, but knowledge building blocks can also be combined into something much greater—a report, an argument, a proposal, a story.==
 + ==By keeping diverse kinds of material in one place, we facilitate this connectivity==
@@ -68,7 +75,9 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + ==A knowledge asset is anything that can be used in the future to solve a problem==
 
 ### CODE - Capture-Organize-Distill-Express
+
 #### Capture - Keep What Resonates
+
 + ==you jot down the idea as a digital note on your smartphone==
 + ==You dictate a quick audio memo to your phone as you drive, which gets automatically transcribed and saved in your notes==
 + ==objectives, challenges, questions, concerns, contributions, and reminders you’ve collected==
@@ -106,12 +115,14 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + ==Your fears, doubts, mistakes, missteps, failures, and self-criticism—it’s all just information to be taken in, processed, and made sense of==. 
 
 ##### What not to keep
+
 + ==sensitive information you’d like to keep secure==
 + ==special format or file type better handled by a dedicated app==
 + ==very large file==
 + ==collaboratively edited==
 
 #### Organize - Save for Actionability
+
 + ==goal of organizing our knowledge is to move our goals forward==
 + ==avoid organizing methods that are overly rigid and prescriptive.==
 + ==organize for action==
@@ -125,25 +136,28 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + ==need clear workspaces to be able to create.==
 
 ##### ==Move Quickly, Touch Lightly==
+
 + ==look for the path of least resistance and make progress in short steps==
 + “==What is the smallest, easiest step I can take that moves me in the right direction?==”
 + Look at your calendar: ==What do you need to follow up on from the past? What needs planning and preparation for the future?==
 + ==What actions are you already taking that are actually part of a bigger project you’ve not yet identified?==
 + ==What are you keeping around because it is part of a larger project?==
 
-
 ##### PARA Overview
+
 + ==universal, encompassing any kind of information, from any source, in any format, for any purpose==
 + ==PARA guides you in quickly sorting your ideas according to what really matters: your goals==.
 +  Priming Your Mind (and Notes) for Action
 + ==we only really improve when we standardize the way we do something.== 
 
 ##### Projects
+
 +  ==starting each project with a stated goal==
 + ==How did you do? Did you get to your goal? Did you improve on it? Did it change along the way? Could you have done it all more efficiently?==”
 + ==have a specific, clear outcome that needs to happen in order for them to be checked off as complete, such as “finalize,” “green-light,” “launch,” or “publish.”==
 
 ##### Areas
+
 + ==What I’m Committed to Over Time==
 + 12 problems
 	+ ==“What are the questions I’ve always been interested in?”==
@@ -158,6 +172,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + ==there is a standard that you want to uphold in each of these areas==
 
 ##### Resources
+
 + ==catchall for anything that doesn’t belong to a project or an area and could include any topic you’re interested in gathering information about==
 + ==What topics are you interested in?==
 + ==What subjects are you researching==?
@@ -166,8 +181,8 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 
 ##### Archive
 
-
 #### Distill Find the Essence
+
 + ==Picasso’s Secret: Prune the Good to Surface the Great== 
 + ==Picasso’s act of distillation involves stripping away the unnecessary so that only the essential remains
 + ==when you drop the merely good parts, the great parts can shine more brightly.==
@@ -191,6 +206,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + ==best stuff always sticks in your mind for an hour or two==.
 
 ##### Mistakes
+
 + ==Mistake #1: Over-Highlighting==
 	+ ==layer of highlighting should include no more than 10–20 percent of the previous layer.==
 + ==Mistake #2: Highlighting Without a Purpose in Mind==
@@ -198,12 +214,14 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 	+ passages will ==move you, pique your attention, make your heart beat faster, or provoke you.==
 
 #### Express - Show Your Work
+
 + ==personal knowledge management exists to support taking action==
 + ==Information becomes knowledge—personal, embodied, verified—only when we put it to use==
 + ==shift as much of your time and effort as possible from consuming to creating==
 + synonyms: ==evaluate, share, teach, record, post, and lobby==
 
 ##### Working with Intermediate packets
+
 + ==expressing your ideas earlier, more frequently, and in smaller chunks to test what works and gather feedback from others==
 + ==stuck on a task, break it down into smaller steps==
 + ==Distilled notes==
@@ -216,6 +234,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + ==To truly make an idea stick, you have to engage with it. You have to get your hands dirty and apply that knowledge to a practical problem==.
 
 ### How does it support creativity?
+
 + ==Creativity depends on a creative process.== 
 + ==knowledge most often shows up as “content”—snippets of text, screenshots, bookmarked articles, podcasts, or other kinds of media==
 + also the ==content you create as you compose emails, draw up project plans, brainstorm ideas, and journal your own thoughts==
@@ -232,15 +251,17 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 	+ ==the only time we have available to maintain our systems is during the execution of our regular work.==
 	+  ==need to follow an outer discipline—a system of principles and behaviors—to channel our energies, thoughts, and emotions productively==.
 
-
 #### Divergence and convergence
+
 ##### Divergence
+
 + ==You open the space of possibilities and consider as many options as possible.==
 + ==purpose of divergence is to generate new ideas, so the process is necessarily spontaneous, chaotic, and messy. You can’t fully plan or organize what you’re doing in divergence mode, and you shouldn’t try. This is the time to wander.==
 + ==Capture and Organize, make up divergence
 + ==divergently gather a group of ideas, sources, or points that will form the backbone of your essay, presentation, or deliverable==.
 
 ##### Convergence
+
 + ==Convergence forces us to eliminate options, make trade-offs, and decide what is truly essential.==
 + ==Distill and Express, are about convergence.== 
 + ==close the door, put on noise-canceling headphones, ignore every new input, and ferociously chase the sweet reward of completion==.
@@ -248,34 +269,43 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + ==The bolds and highlights of Progressive Summarization help me quickly determine which parts== are most interesting 
 
 #### Archipelago of ideas
+
 + ==The Archipelago of Ideas: Give Yourself Stepping-Stones== ==looking at a document filled with quotes: from letters, from primary sources, from scholarly papers, sometimes even my own notes==.
 + ==An Archipelago of Ideas separates the two activities your brain has the most difficulty performing at the same time: choosing ideas (known as selection) and arranging them into a logical flow (known as sequencing)==
 + ==First you select the points and ideas you want to include in your outline, and then in a separate step, you rearrange and sequence them into an order that flows logically==
 
 #### ==The Hemingway Bridge: Use Yesterday’s Momentum Today==
+
 + ==end a writing session only when he knew what came next==
 + ==using today’s energy and momentum to fuel tomorrow’s writing==
 
 #### Dial Down the Scope
+
 + ==there is a smaller, simpler version of it that would deliver much of the value in a fraction of the time.==
 + ==Dial Down the Scope: Ship Something Small and Concrete==
 +  ==dialed down are the ones that are most difficult or expensive to build, that have the most uncertainty or risk==
 + ==unblock ourselves and move forward even when time is scarce
 + ==Knowing that nothing I write or create truly gets lost—only saved for later use—gives me the confidence to aggressively cut my creative works down==
 
-
 #### 4 Retrieval methods
+
 ##### Search
+
 + ==saving your notes in a central place, you enable software to search==
 
 ##### Browse
+
 + ==people strongly prefer to navigate their file systems==
 	+ ==folders and file names providing small contextual clues== 
 	+ ==uses older parts of the brain that developed to navigate physical environments==
+
 ##### Tag
+
 + ==Tags can overcome this limitation by infusing your Second Brain with connections, making it easier to see cross-disciplinary themes and patterns that defy simple categorization.==
 + ==It takes far too much energy to apply tags to every single note compared to the ease of searching with keywords or browsing your folders==.
+
 ##### Serendipity
+
 + ==look at five or six PARA folders just in case they contain something useful==
 + ==focus only on the highlighted passages==
 + ==serendipity is amplified by visual patterns.==
@@ -291,6 +321,7 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 		+ ==It is by sharing our ideas with other people that we discover which ones represent our most valuable expertise.==
 
 ## For projects
+
 + ==Move Fast and Make Things==
 + ==Make an outline with your goals, intentions, questions, and considerations for the project.==
 + ==Start by writing out anything already on your mind, and then peruse your PARA categories for related notes and Intermediate Packets.==
@@ -325,11 +356,13 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 	+ ==Our success in the workforce depends on our ability to make use of information more effectively and to think better, smarter, faster==.
 
 ## What are concrete steps I can take
+
 * ==Are you hoping to remember more? Focus on developing the practice of capturing and organizing your notes according to your projects, commitments, and interests using PARA.==
 * ==Are you hoping to connect ideas and develop your ability to plan, influence, and grow in your personal and professional life? Experiment with consistently distilling and refining your notes using Progressive Summarization and revisiting them during weekly reviews==.
 * ==Are you committed to producing more and better output with less frustration and stress? Focus on creating one Intermediate Packet at a time and looking for opportunities to share them in ever more bold ways.==
 
 ### Mindset
+
 + ==Your fears, doubts, mistakes, missteps, failures, and self-criticism—it’s all just information to be taken in, processed, and made sense of==. 
 + ==the lens of appreciation and abundance==
 	+ ==looking at the world as full of valuable and helpful==
@@ -352,4 +385,5 @@ date_modified: Thursday, May 18th 2023, 6:15:57 pm
 + Remove: ==Who are you to speak up? Who says you have anything to offer? Who are you to demand people’s attention and take up their time?== 
 
 ## Source
+
 [[Building a Second Brain - Tiago Forte]]

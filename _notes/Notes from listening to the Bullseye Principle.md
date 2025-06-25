@@ -2,10 +2,11 @@
 tags: 
 - digital_garden
 - epstatus/1-🌱
-date_created: Monday, November 21st 2022, 2:07:47 pm
-date_modified: Thursday, May 18th 2023, 6:16:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 06:10
 ---
 # Notes from listening to the Bullseye Principle
+
 [Source](https://www.blinkist.com/en/app/books/the-bullseye-principle-en)
 
 + Align with what you say with who you are. And being in line with your personal brand.

@@ -6,8 +6,10 @@ tags:
   - linkedin/processed
   - 12_fav_problems/continuous_learning
 image: Pasted image 20250615120747.png
-date_created: Saturday, June 14th 2025, 12:06:46 pm
-date_modified: Sunday, June 15th 2025, 12:08:34 pm
+date_created: 2025-06-15 12:06
+date_modified: 2025-06-25 00:01
+aliases: ["That beesting moment "]
+linter-yaml-title-alias: "That beesting moment "
 ---
 # [[That beesting moment ]]
 

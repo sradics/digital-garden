@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Tuesday, March 12th 2024, 5:24:12 am
-date_modified: Sunday, April 21st 2024, 9:33:58 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[SAM team rules]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-team-needs-these-4-rules-for-inclusivity-activity-7173226295424720896-jnp_?utm_source=share&utm_medium=member_desktop)
 
 Your team needs these 4 rules  
@@ -36,6 +38,7 @@ Did you implement a similar rule in your team? What would you add?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 When working in teams I recommend to align on ways of working. I recommend the following four team rules as a starting point. 
 
 No-one gets lost
@@ -58,5 +61,7 @@ No Power to rumors
 4 simple rules that lead to inclusive behavior, foster accountability, increase speed in decision making and enable radical candor where team members care personally and challenge directly.
 
 Posted on **LINKEDIN** on 2024-03-12_Tue
+
 # Linking
+
 + [[MOC Teams]]

@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250130061753.png
-date_created: Wednesday, January 29th 2025, 6:58:40 am
-date_modified: Thursday, January 30th 2025, 6:18:30 am
+date_created: 2025-01-29 06:58
+date_modified: 2025-06-25 00:01
 ---
 # [[AI companion rather than tool]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_youre-just-talking-to-a-machine-activity-7290262413306642432-mzgj?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250130061753.png|400]]
@@ -51,13 +53,12 @@ Rooting for our shared future
 
 P.S. Speaking of evolution - today's Second Brain Discovery workshop shows you how to amplify your thinking beyond AI. Because if this partnership intrigues you, imagine what's possible when you have a system for your own knowledge creation.
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-01-29_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

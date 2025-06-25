@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250307060841.png
-date_created: Thursday, March 6th 2025, 6:55:35 am
-date_modified: Friday, March 7th 2025, 6:09:26 am
+date_created: 2025-03-06 06:55
+date_modified: 2025-06-25 00:01
 ---
 # [[Facilitation Myths - Misbeliefs - Misconceptions]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5-dangerous-myths-about-facilitation-activity-7303308734112366592-FKSr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250307060841.png|400]]
@@ -69,5 +71,7 @@ Comment "4MAT" or send me a DM for more details about the course.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-06_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

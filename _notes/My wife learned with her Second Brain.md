@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20240710061951.png
-date_created: Monday, July 8th 2024, 9:06:27 pm
-date_modified: Wednesday, July 10th 2024, 6:21:39 am
+date_created: 2024-07-08 21:06
+date_modified: 2025-06-25 00:01
 ---
 # [[My wife learned with her Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-wife-passed-every-exam-on-the-first-activity-7216327484324130817-x83d?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240710061951.png|400]]
 My wife ❤️ passed every exam on the first try  
@@ -58,11 +60,11 @@ Convinced and want to take your next step in better learning?
   
 Subscribe to my newsletter to get insights on my upcoming  
 masterclass on holistic learning. And/or DM me for more insights.
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 This year my wife excelled and mastered her one year study and became a certified facility management specialist (Fachwirt for Facility Management).
 
 It was a challenging, learning intense education. With a lot of learning material to work through and one exam to pass each month. 
@@ -96,7 +98,6 @@ Convinced and want to take your next step in better learning.
 
 Subscribe to my newsletter and stay informed on my upcoming masterclass on holistic learning. DM me for more insights.
 
-
 ([[Notes from Simple Marketing for Smart People|details for Belief-Claim-Proof]])
 Belief: *A notebook is a secret weapon of top creatives.* 
 Claim: *Top thinkers and creatives relied on notebooks throughout history.* 
@@ -123,5 +124,7 @@ One CTA:
 P.S. - Please repost ♻ if you found this useful
 
 Posted on **LINKEDIN** on 2024-07-08_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]

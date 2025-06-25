@@ -6,12 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240602212227.png
-date_created: Sunday, June 2nd 2024, 5:43:31 am
-date_modified: Sunday, June 2nd 2024, 9:23:10 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
-
 # [[Reflecting on 4MAT learning principles]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-good-to-great-12-principles-of-powerful-activity-7202942015892795392-X67N?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240602212227.png|400]]
@@ -67,6 +68,7 @@ Grow a lifelong love of learning and develop critical thinking skills.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 From Good to Great: 12 Principles of Powerful Learning
 
 📌 Learning is functional
@@ -116,6 +118,8 @@ Grow a lifelong love of learning and develop critical thinking skills.
 Which ONE of the 12 principles resonates most? 
 
 Posted on **LINKEDIN** on 2024-06-02_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[4MAT Principles of Learning]]

@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241104065016.png
-date_created: Sunday, November 3rd 2024, 7:15:45 am
-date_modified: Monday, November 4th 2024, 6:50:37 am
+date_created: 2024-11-03 07:15
+date_modified: 2025-06-25 00:01
 ---
 # [[The evolution in an age of information abundance]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_warning-this-note-making-technique-may-cause-activity-7258734677136404480-dATN?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241104065016.png|400]]
@@ -35,13 +37,11 @@ The course NOTEMAKING MASTERY by Nick Milo.
 It is only week one, and the course is already leading to a new level of working with my notes.  
   
 I start to think deeper, more connected.  
-  
-  
+
 Input Two:  
 ———  
 The 📖 recommendation - "Philosophy Quest for Truth". The book arrived yesterday and it will help me to deepen my understanding of Philosophy  
-  
-  
+
 Input Three:  
 ———  
 A podcast with Rolf Dobelli that showed me the connection between Stoicism and becoming Learning Champions.  
@@ -75,8 +75,7 @@ To ride this wave, build by writing through it.
 Note-Making power is unfolding.  
   
 What is your one note you can make today?  
-  
-  
+
 ———  
 P.S.  
 I help people learn how to learn, retain and recall with ease  
@@ -89,7 +88,8 @@ Want to gain deeper insights into Learning with Impact?
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-11-03_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

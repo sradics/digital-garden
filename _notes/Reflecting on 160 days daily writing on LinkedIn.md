@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/continuous_learning
-date_created: Saturday, June 8th 2024, 5:32:52 am
-date_modified: Sunday, June 9th 2024, 5:42:30 am
+date_created: 2024-06-08 05:32
+date_modified: 2025-06-25 00:01
 ---
 # [[Reflecting on 160 days daily writing on LinkedIn]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-my-second-brain-powers-my-linkedin-writing-activity-7205108818542800897-T7JI?utm_source=share&utm_medium=member_desktop)
 🚀 Reflections on 160 Days of Writing About Smarter Learning  
   
@@ -38,6 +40,7 @@ I explore, express, connect with others, and amplify my learning.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Currently I express my thoughts on Smarter Learning daily on LinkedIn. I’m doing this since 01.01. this year and I can say - what a challenging and experience rich journey. Holding myself accountable and forming that habit is a challenge. Now after 160 days - I think I’m about to have it established as a routine. Through that daily writing:
 
 - I learn a lot, while thinking about the topics to write about next and connections with topics I already touched
@@ -59,6 +62,8 @@ I recently worked through awesome [Collector to Creator course](https://communit
 So to summarise - for me writing is a gift to explore myself, to express myself, to create a connection with others, to amplify my learning and to make me happy - as I’m happy through learning. And maybe it provides a little value to other to just use it and building something great from it. This way I can say - for me writing creates meaning.
 
 Posted on **LINKEDIN** on 2024-06-08_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[MOC LinkedIn Writing]]

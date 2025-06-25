@@ -9,11 +9,15 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241219061424.png
-date_created: Wednesday, December 18th 2024, 6:34:14 am
-date_modified: Thursday, December 19th 2024, 6:15:14 am
+date_created: 2024-12-18 06:34
+date_modified: 2025-06-25 00:01
+aliases: [No overnight success]
+linter-yaml-title-alias: No overnight success
 ---
 # [[No overnight success]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-found-the-secret-to-overnight-success-activity-7275042132820692993-5Ien?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241219061424.png|400]]
@@ -103,5 +107,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-18_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

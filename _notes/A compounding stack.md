@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250221071921.png
-date_created: Thursday, February 20th 2025, 6:56:54 am
-date_modified: Friday, February 21st 2025, 7:20:02 am
+date_created: 2025-02-20 06:56
+date_modified: 2025-06-25 00:01
 ---
 # [[A compounding stack]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-create-a-knowledge-flywheel-that-pays-activity-7298235013702053888-u3OX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250221071921.png|400]]
@@ -62,5 +64,7 @@ Comment "5" or DM me for details.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-20_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

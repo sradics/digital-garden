@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/continuous_learning
-date_created: Thursday, August 1st 2024, 6:20:20 am
-date_modified: Friday, August 2nd 2024, 6:51:30 am
+date_created: 2024-08-01 06:20
+date_modified: 2025-06-25 00:01
 ---
 # [[Obsidian is my Second Brain software]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-poured-20-years-of-my-heart-into-my-diary-activity-7224655894108610561-liOe?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240802065052.png|400]]
 
@@ -69,5 +71,7 @@ P.S.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-08-01_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

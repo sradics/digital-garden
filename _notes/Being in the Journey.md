@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Sunday, February 11th 2024, 6:45:06 am
-date_modified: Sunday, April 21st 2024, 10:03:44 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Being in the Journey]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_be-in-the-journey-a-inspiring-lesson-learned-activity-7162369725363142656-UTdZ?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421100323.png|400]]
@@ -45,6 +47,7 @@ Being 'in the journey' is not just a mindset, but a transformative experience.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 In one of my recent cycling sessions  Cristine D'ercole provided another great emotional moment when she told her story of Being in the journey. I felt it deepply connection and I was able to process why during the session. Similar sentences like - Der Weg ist da Ziel - made me think in past too. And I i understand the background much better today. 
 There is a huge value in taking action and progressing through a topic. And I learned that observing the way and capturing all the new insights, new practices and artifacts is of immense value. Let's consider the example of writing daily LinkedIn posts. I'm actively thinking about experiences and topics that connect with leadership and with my 12 big topics I want to grow into. This thinking creates connection between topics, fosters creativity and keeps me exploring. 
 For instance my discovery of Smart Connections AI in my Second Brain system I'm growing in Obsidian was mainly driven by need to leverage my externalized knowledge better to express my thoughts. 
@@ -65,5 +68,7 @@ So how can you be more in the journey?
 + celebrate the progress and especially when you push the boundaries even a small bit
 
 Posted on **LINKEDIN** on 2024-02-11_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Health]]

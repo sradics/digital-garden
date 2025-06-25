@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Sunday, January 21st 2024, 1:06:01 pm
-date_modified: Sunday, January 28th 2024, 9:26:39 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Rapid Capturing and focussed processing]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_secondbrain-efficiency-productivity-activity-7154820795981053952-U1Tg?utm_source=share&utm_medium=member_desktop)
 
 Unlock Focus and Efficiency: Decouple Information Capturing from Processing! 🧠✨  
@@ -39,6 +41,7 @@ How has it impacted your focus and efficiency?
 👉 [FOLLOW ME](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli) for more insights into [hashtag#productivity](https://www.linkedin.com/feed/hashtag/?keywords=productivity&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154820795981053952) and efficient processing of information.
 
 ## Content
+
 + When I find something of interest - be it a website, a video, an article, a recommendation I immediately safe that to Matter. 
 + I made that capturing step super easy: 
 	+ It is integrated in my Browser and I do capture via Ctrl+M
@@ -52,4 +55,5 @@ How has it impacted your focus and efficiency?
 Decoupling capturing from processing helps to stay focussed. It creates a balance between not losing an idea and finding the right time to work on an idea. Making capturing and further processing as lightweight as possible helps to form a habit and also brings me statisfaction with being efficient and not wasting time with too much manual processing. 
 
 Posted on **LINKEDIN** on 2024-01-21_Sun
+
 # Linking

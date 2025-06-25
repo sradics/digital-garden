@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241215064851.png
-date_created: Saturday, December 14th 2024, 7:07:34 am
-date_modified: Sunday, December 15th 2024, 6:54:56 am
+date_created: 2024-12-14 07:07
+date_modified: 2025-06-25 00:01
 ---
 # [[It is about Compounding]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-knowledge-compounds-like-money-but-activity-7273591782913802240-PAtN?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241215064851.png|400]]
@@ -62,6 +64,8 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-14_Sat
+
 # Linking
+
 + [Fully conversation generated with NotebookLM](https://notebooklm.google.com/notebook/87450277-a72f-45fc-bc17-a65514614719/audio)
 + [[My running list of 12 favorite problems]]

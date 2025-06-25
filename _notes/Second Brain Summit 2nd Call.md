@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/relationships
   - linkedin/processed
 image: Pasted image 20240922061312.png
-date_created: Saturday, September 21st 2024, 7:00:27 am
-date_modified: Sunday, September 22nd 2024, 6:13:47 am
+date_created: 2024-09-21 07:00
+date_modified: 2025-06-25 00:01
 ---
 # [[Second Brain Summit 2nd Call]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_many-brains-are-growing-soon-in-la-i-guess-activity-7243136913157537792-K-ke?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240922061312.png|400]]
@@ -67,8 +69,8 @@ Only 3 days left to my virtual MASTERCLASS
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-09-21_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

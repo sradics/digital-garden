@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250412064630.png
-date_created: Friday, April 11th 2025, 6:31:53 am
-date_modified: Saturday, April 12th 2025, 6:47:30 am
+date_created: 2025-04-11 06:31
+date_modified: 2025-06-25 00:01
 ---
 # [[The ReInvention Tax]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_theyre-applying-less-than-12-of-what-they-activity-7316339285282938881-JeLH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250412064630.png|400]]
@@ -62,5 +64,7 @@ This is exactly what you build in my 9-week program "Learning Ecosystem Mastery"
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-11_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

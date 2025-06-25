@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240703065323.png
-date_created: Tuesday, July 2nd 2024, 7:22:49 am
-date_modified: Wednesday, July 3rd 2024, 6:54:26 am
+date_created: 2024-07-02 07:22
+date_modified: 2025-06-25 00:01
 ---
 # [[Fast Learning and Fast position adaptation]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_4-job-roles-how-i-accelerated-my-learning-activity-7213798639146577920-POpB?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240703065323.png|400]]
@@ -39,8 +41,7 @@ I helped teams iterate faster and enhance their learning.
 With my background for facilitating efficient working sessions I designed many successful workshops.  
   
 I Lead teams in the past. This enabled me to design effective leadership soft skill trainings.  
-  
-  
+
 ➠ In all roles speed of learning mattered!  
   
 Starting from scratch on topics feels sometimes overwhelming! 🤯  
@@ -68,6 +69,7 @@ P.S. - Please repost ♻️ if you found this useful.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 In the past 5 years I learned a lot. And I worked in many different roles. Being able to learn about a new topic fast and with a sufficient level of understanding was crucial. 
 
 To illustrate, let's look at some roles I supported from:
@@ -89,7 +91,6 @@ Would you benefit from adjusting faster and retaining more?
 DM me "SMART" and let's explore your path together.
 
 P.S. - Please repost ♻ if you found this useful
-
 
 ([[Notes from Simple Marketing for Smart People|details for Belief-Claim-Proof]])
 Belief: *A notebook is a secret weapon of top creatives.* 
@@ -117,5 +118,7 @@ One CTA:
 P.S. - Please repost ♻ if you found this useful
 
 Posted on **LINKEDIN** on 2024-07-02_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

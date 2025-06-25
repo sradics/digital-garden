@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240717055945.png
-date_created: Tuesday, July 16th 2024, 7:05:30 am
-date_modified: Wednesday, July 17th 2024, 6:00:43 am
+date_created: 2024-07-16 07:05
+date_modified: 2025-06-25 00:01
 ---
 # [[Dare to Share - LinkedIn Second Brain Day 1]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-dare-to-share-part-one-of-my-linkedin-activity-7218857119884742656-b3LF?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240717055945.png|400]]  
 
@@ -20,8 +22,7 @@ Part One of my LinkedIn Second Brain
 → All the LinkedIn insight I gain  
 → watch, steal, grow faster  
 → and learn smarter too  
-  
-  
+
 As announced with [https://lnkd.in/ee-pMxzG](https://lnkd.in/ee-pMxzG)  
   
 ➠ I invite you to your learning experiment  
@@ -46,17 +47,16 @@ P.S. - Please repost ♻ if you found this useful
 P.P.S. - This is my first LinkedIn video.  
 I highly appreciate your direct feedback 💛
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I dare to share
 
 → A basic setup for sharing learnings
 → All the LinkedIn insight I gain
 → watch, steal, grow faster
 → and learn smarter too
-
 
 As announced with https://www.linkedin.com/posts/sebastiankamilli_i-grow-faster-on-linkedin-daily-and-nearly-activity-7217756671920517120-ClPV?utm_source=share&utm_medium=member_desktop
 
@@ -79,10 +79,6 @@ In the coming weeks:
 → as founP.S. - Please repost ♻ if you found this useful
 P.P.S. - This is my first LinkedIn video. 
 I highly appreciate your direct feedback 💛
-
-
-
-
 
 ([[Notes from Simple Marketing for Smart People|details for Belief-Claim-Proof]])
 Belief: *A notebook is a secret weapon of top creatives.* 
@@ -110,5 +106,7 @@ One CTA:
 P.S. - Please repost ♻ if you found this useful
 
 Posted on **LINKEDIN** on 2024-07-16_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

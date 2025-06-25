@@ -4,11 +4,13 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Tuesday, January 23rd 2024, 10:10:23 am
-date_modified: Sunday, January 28th 2024, 9:12:14 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Wardley Mapping Leadership Post]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_leadershipdevelopment-wardleymaps-continuouslearning-activity-7155498459091861506-K9dz?utm_source=share&utm_medium=member_desktop)
 
 5 Key Insights on Leadership Learning unveiled through Wardley Mapping  
@@ -31,9 +33,8 @@ But I'm early in my journey. Can you spot areas for improvement in my map? Where
   
 [hashtag#LeadershipDevelopment](https://www.linkedin.com/feed/hashtag/?keywords=leadershipdevelopment&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7155498459091861506) [hashtag#WardleyMaps](https://www.linkedin.com/feed/hashtag/?keywords=wardleymaps&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7155498459091861506) [hashtag#ContinuousLearning](https://www.linkedin.com/feed/hashtag/?keywords=continuouslearning&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7155498459091861506)
 
-
-
 ## Content preparation
+
 I rediscovered my love for Wardley Maps and really cool that now it got much easier to create via OnlineWardleyMaps (link in the comment). 
 
 And I started to map _Leadership Learning Development_. Anchor - our main user - a leader or someone growing in a leadership role.
@@ -52,4 +53,5 @@ What it shows - with just some investment in visualization (and myself not being
 As I'm a starter with Wardley Maps, likely there are great improvements. What would you question? Where should I extend the picture or reduce it?
 
 Posted on **LINKEDIN** on 2024-01-23_Tue
+
 # Linking

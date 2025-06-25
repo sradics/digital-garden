@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240618060156.png
-date_created: Friday, June 14th 2024, 7:02:30 pm
-date_modified: Tuesday, June 18th 2024, 6:02:21 am
+date_created: 2024-06-14 19:02
+date_modified: 2025-06-25 00:01
 ---
 # [[Excalidraw Magic]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-the-power-of-visual-thinking-in-activity-7208370330363383808-gyVe?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240618060156.png|400]]
 
@@ -76,8 +78,8 @@ These were just some highlights. There is so much more to explore. Just look for
 
 What is your experience with using Excalidraw? Or what other drawing tools do you use for visual thinking?
 
-
-
 Posted on **LINKEDIN** on 2024-06-14_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]

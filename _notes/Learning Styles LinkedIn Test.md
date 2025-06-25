@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250116065500.png
-date_created: Wednesday, January 15th 2025, 7:11:15 am
-date_modified: Thursday, January 16th 2025, 6:55:44 am
+date_created: 2025-01-15 07:11
+date_modified: 2025-06-25 00:01
 ---
 # [[Learning Styles LinkedIn Test]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unmasked-inside-my-linkedin-laboratory-activity-7285189046119612416-brYD?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250116065500.png|400]]
@@ -69,5 +71,7 @@ I'll detail this journey in my next newsletter on Friday.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-15_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

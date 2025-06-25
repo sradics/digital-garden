@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250129065623.png
-date_created: Tuesday, January 28th 2025, 7:02:52 am
-date_modified: Wednesday, January 29th 2025, 6:57:46 am
+date_created: 2025-01-28 07:02
+date_modified: 2025-06-25 00:01
 ---
 # [[Lets build systems]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_26-projects-thats-my-current-reality-activity-7289900233872793600-iKIQ?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250129065623.png|400]]
@@ -76,5 +78,7 @@ Rooting for your success
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-28_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

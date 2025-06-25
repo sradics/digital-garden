@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Saturday, January 4th 2025, 7:08:26 am
-date_modified: Sunday, January 5th 2025, 6:54:46 am
+date_created: 2025-01-04 07:08
+date_modified: 2025-06-25 00:01
 ---
 # [[It is about how we learn]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_one-shock-at-18-turned-me-into-a-learning-activity-7281202831435390976-sxkR?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250105065413.png|400]]
@@ -54,5 +56,7 @@ Learning fast and efficiently led to:
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-04_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

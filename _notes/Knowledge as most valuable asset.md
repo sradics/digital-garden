@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250414064718.png
-date_created: Sunday, April 13th 2025, 7:04:07 am
-date_modified: Monday, April 14th 2025, 6:48:15 am
+date_created: 2025-04-13 07:04
+date_modified: 2025-06-25 00:01
 ---
 # [[Knowledge as most valuable asset]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-know-ive-solved-this-before-but-activity-7317064196322414592-5iIl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250414064718.png|400]]
@@ -63,5 +65,7 @@ This feels different, so much I can tell.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-13_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

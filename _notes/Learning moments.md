@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241103071401.png
-date_created: Saturday, November 2nd 2024, 6:54:49 am
-date_modified: Sunday, November 3rd 2024, 7:14:27 am
+date_created: 2024-11-02 06:54
+date_modified: 2025-06-25 00:01
 ---
 # [[Learning moments]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-pressure-to-evolve-are-we-asking-too-activity-7258372342081294336-jIMH?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241103071401.png|400]]  
@@ -66,13 +68,12 @@ Want to gain deeper insights into Learning with Impact?
 ➠ Subscribe to my newsletter for exclusive tips and updates
 (from my profile or post header link)
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-11-02_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

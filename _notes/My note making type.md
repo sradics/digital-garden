@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241030065433.png
-date_created: Tuesday, October 29th 2024, 6:19:52 am
-date_modified: Wednesday, October 30th 2024, 6:55:29 am
+date_created: 2024-10-29 06:19
+date_modified: 2025-06-25 00:01
 ---
 # [[My note making type]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-blend-action-first-topics-first-and-daily-activity-7256922771484557313-zXoe?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20241030065433.png|400]]  
 
@@ -90,6 +92,8 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-29_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]
 + [Different ways of organizing our notes](https://www.youtube.com/watch?v=AtdAAD47aQY)

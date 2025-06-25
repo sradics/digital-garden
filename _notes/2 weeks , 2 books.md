@@ -6,9 +6,15 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20240815065624.png
+aliases: ["2 weeks, 2 books"]
+linter-yaml-title-alias: "2 weeks, 2 books"
+date_created: 2024-08-14 07:01
+date_modified: 2025-06-25 00:01
 ---
 # [[2 weeks, 2 books]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_two-weeks-2-books-two-all-time-hitters-activity-7229367158420492289-_eqp?utm_source=share&utm_medium=member_desktop)
 
   ![[Pasted image 20240815065624.png|400]]
@@ -68,11 +74,9 @@ I already started to express with insights:
 Next ➠➠  
 I started 📖 Confessions of an Advertising Man  
 by David Ogilvy  
-  
-  
+
 What is your ONE recent book favorite?  
-  
-  
+
 ———  
 P.S.  
 🔔 I share insights daily at 8:00AM (CEST)  
@@ -83,7 +87,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-14_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

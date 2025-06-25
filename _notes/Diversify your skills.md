@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/1-🔴-status_quo
 image: Pasted image 20240925055933.png
-date_created: Tuesday, September 24th 2024, 6:41:25 am
-date_modified: Wednesday, September 25th 2024, 6:00:39 am
+date_created: 2024-09-24 06:41
+date_modified: 2025-06-25 00:01
 ---
 # [[Diversify your skills]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_this-mindset-shouldnt-exist-for-professionals-activity-7244224080076238852-DF8K?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240925055933.png|400]]
@@ -68,5 +70,7 @@ Today marks the start of my 2-DAY virtual MASTERCLASS
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-24_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

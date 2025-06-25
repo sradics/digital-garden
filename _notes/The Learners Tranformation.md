@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240726060834.png
-date_created: Thursday, July 25th 2024, 6:07:29 am
-date_modified: Friday, July 26th 2024, 6:09:32 am
+date_created: 2024-07-25 06:07
+date_modified: 2025-06-25 00:01
 ---
 # [[The Learners Tranformation]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_8-roles-one-goal-perfect-hooklines-every-activity-7222118645877936130-J2AA?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240726060834.png|400]]  
 
@@ -80,7 +82,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-07-25_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

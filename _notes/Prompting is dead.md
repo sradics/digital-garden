@@ -5,8 +5,10 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/help_others_grow
-date_created: Sunday, June 15th 2025, 4:12:16 pm
-date_modified: Tuesday, June 17th 2025, 7:24:46 am
+date_created: 2025-06-15 16:12
+date_modified: 2025-06-25 00:01
+aliases: ["Prompting is dead "]
+linter-yaml-title-alias: "Prompting is dead "
 ---
 # [[Prompting is dead ]]
 

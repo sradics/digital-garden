@@ -10,11 +10,13 @@ tags:
   - lightbulb/5-🔵-their_new-life
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250219072000.png
-date_created: Tuesday, February 18th 2025, 7:34:57 am
-date_modified: Wednesday, February 19th 2025, 7:20:49 am
+date_created: 2025-02-18 07:34
+date_modified: 2025-06-25 00:01
 ---
 # [[Tom is changing it]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-brain-on-knowledge-steroids-turn-activity-7297510184040423424-pEQz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250219072000.png|400]]
@@ -60,5 +62,7 @@ Comment "5" or DM for workshop details.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-18_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

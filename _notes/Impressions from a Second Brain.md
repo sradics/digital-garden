@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240721070552.png
-date_created: Saturday, July 20th 2024, 6:07:15 am
-date_modified: Sunday, July 21st 2024, 7:07:10 am
+date_created: 2024-07-20 06:07
+date_modified: 2025-06-25 00:01
 ---
 # [[Impressions from a Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_only-read-if-a-second-brain-does-not-scare-activity-7220306516505997314-ozgU?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240721070552.png|400]]  
 
@@ -84,5 +86,7 @@ Others might get lost (too)
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-07-20_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,11 +6,13 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2025_KW06_Weekly Highlights.pdf
-date_created: Friday, February 7th 2025, 7:15:11 am
-date_modified: Saturday, February 8th 2025, 6:37:29 am
+date_created: 2025-02-07 07:15
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights 2025-KW06]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_kw-06-2025-highlights-activity-7293524274177331202-MW9v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[2025_KW06_Weekly Highlights.pdf|400]]
@@ -42,5 +44,7 @@ My top > Compounding learning: from small steps to rich depths ─
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-07_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -5,12 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
-date_created: Sunday, January 28th 2024, 9:47:56 pm
-date_modified: Sunday, January 28th 2024, 9:49:59 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Unlock the full Power of Blinkist - 10 advanced features you should explore]]
 
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-the-full-power-of-blinkist-10-features-activity-7151171040721715202-RcmB?utm_source=share&utm_medium=member_desktop)
 
 Unlock the Full Power of [Blinkist](https://www.linkedin.com/company/blinkist/): 10 advanced Features You should explore  
@@ -40,4 +41,5 @@ Experience the full spectrum of what Blinkist has to offer and supercharge your 
 ![[1704970861546.pdf]]
 
 Posted on **LINKEDIN** on 2024-01-28_Sun
+
 # Linking

@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Saturday, May 11th 2024, 6:04:42 am
-date_modified: Saturday, May 11th 2024, 7:45:02 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 pdf: SmartConnect Summarization Workflow.pdf
 ---
 # [[Smart Connections for fast summaries]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_a-strong-summarization-workflow-for-your-activity-7195618227668799488-jffJ?utm_source=share&utm_medium=member_desktop)
 ![[SmartConnect Summarization Workflow.pdf]]
 
@@ -51,5 +53,7 @@ You can use this simple workflow:
 A quite cool workflow as it combines the summarization power of ChatGPT and streamlines taking a note from it. With advancing capabilities in ChatGPT I expect fast summaries for Audio and Video files too, then I have a very strong capture+summarization step to distill content in one go. 
 
 Posted on **LINKEDIN** on 2024-05-11_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]

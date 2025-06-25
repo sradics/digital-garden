@@ -6,9 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/relationships
 image: Pasted image 20240828052844.png
+date_created: 2024-08-27 05:24
+date_modified: 2025-06-25 00:01
 ---
 # [[I am 47, I am made redundant]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-am-47-i-am-made-redundant-i-am-scared-activity-7234077296318447616-ZMdQ?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240828052844.png|400]]  
 
@@ -73,10 +77,8 @@ Want to follow my journey?
 
 ## Content preparation
 
-
-
-
-
 Posted on **LINKEDIN** on 2024-08-27_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

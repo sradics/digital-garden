@@ -7,11 +7,13 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
 pdf: LinkedIn5MonthGrowth.pdf
-date_created: Tuesday, January 14th 2025, 7:14:05 am
-date_modified: Wednesday, January 15th 2025, 7:09:44 am
+date_created: 2025-01-14 07:14
+date_modified: 2025-06-25 00:01
 ---
 # [[8K Followers in Data]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_linkedin-in-200d-activity-7284826880111706113-Z8zw?utm_source=share&utm_medium=member_desktop)
 
 ![[LinkedIn5MonthGrowth.pdf]]
@@ -61,5 +63,7 @@ Just ping me an I'll send you the details
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-14_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

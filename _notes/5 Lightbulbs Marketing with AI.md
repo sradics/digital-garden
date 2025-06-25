@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240624045634.png
-date_created: Sunday, June 23rd 2024, 6:36:20 am
-date_modified: Monday, June 24th 2024, 4:57:02 am
+date_created: 2024-06-23 06:36
+date_modified: 2025-06-25 00:01
 ---
 # [[5 Lightbulbs Marketing with AI]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-supercharge-my-marketing-strategy-with-activity-7210553087738941440-2pUA?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240624045634.png|400]]
@@ -52,18 +54,17 @@ I already:
 → have plenty of connected learnings  
 → created several GPTs  
 → grew a strong prompt library for all Five 💡💡💡💡💡  
-  
-  
+
 → The collaborative learning experience is incredible.  
 → We’ve learned so much already from each other. This enhances the course value a lot!  
   
 Billy is opening the next cohort soon!  
 If you want to be part of this transformative journey, reach out to him or me.
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I'm currently running through an exceptional course about Simple Marketing for Smart People. The course adds AI capabilities to the 5 Lightbulbs Method by Billy Broas. 
 
 Five Main insights so far:
@@ -84,5 +85,7 @@ Five Main insights so far:
 I know that Billy is opening the next cohort soon! So approach him (or me), if you want to be part of it.
 
 Posted on **LINKEDIN** on 2024-06-23_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]

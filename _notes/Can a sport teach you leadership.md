@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240729063605.png
-date_created: Sunday, July 28th 2024, 6:45:20 am
-date_modified: Monday, July 29th 2024, 6:36:24 am
+date_created: 2024-07-28 06:45
+date_modified: 2025-06-25 00:01
 ---
 # [[Can a sport teach you leadership]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_can-a-sport-teach-you-leadership-it-taught-activity-7223206039695831040-sWW1?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240729063605.png|400]]
@@ -66,7 +68,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-07-28_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

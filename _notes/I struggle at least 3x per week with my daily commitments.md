@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Wednesday, April 3rd 2024, 5:47:11 am
-date_modified: Sunday, April 21st 2024, 8:35:49 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421083648.png
 ---
 # [[I struggle at least 3x per week with my daily commitments]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-struggle-at-least-3xweek-with-my-daily-activity-7181183684199206913-bHvn?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421083648.png|400]]
@@ -51,6 +53,7 @@ How could you stack motivations to make it a non-negotiable?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 One person:
 A motivation builder
 
@@ -71,4 +74,5 @@ What is your motivation stack?
 My daily exercise routine and 2 examples - pushups and cycling
 
 Posted on **LINKEDIN** on 2024-04-03_Wed
+
 # Linking

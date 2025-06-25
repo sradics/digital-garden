@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250123071313.png
-date_created: Wednesday, January 22nd 2025, 6:56:39 am
-date_modified: Thursday, January 23rd 2025, 7:14:00 am
+date_created: 2025-01-22 06:56
+date_modified: 2025-06-25 00:01
 ---
 # [[On to the future]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-gap-is-rising-from-personal-library-activity-7287725701569380352-KiKd?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250123071313.png|400]]
@@ -65,5 +67,7 @@ Next Tuesday -- Discover it ... Workshop Link in my Profile
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-22_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

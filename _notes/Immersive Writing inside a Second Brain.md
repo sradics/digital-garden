@@ -7,9 +7,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - publish_in_newsletter
 pdf: ImmersiveWritingInObsidian.pdf
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Immersive Writing inside a Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_4-steps-to-focused-divergence-obsidian-activity-7190258454148657153-1KV0?utm_source=share&utm_medium=member_desktop)
 
 ![[ImmersiveWritingInObsidian.pdf]]
@@ -52,11 +56,11 @@ I can combine writing and collecting with quickly copy+paste key insights into m
 This method doesn't just help me write; it transforms the way I think and connect with my ideas.  
   
 👉Ready to experience such a flow in action? Reach out, and let’s explore how you can harness the power of your 'Second Brain'!"
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Knowledge, done right, is about feeling empowered
 
 I experienced a new flow in writing with with my Second Brain. 
@@ -82,9 +86,10 @@ Advantages:
 + The ability to copy key insights fast and insert in my writing window, all inside Obsidian, makes it a seamless and fun experience. I have joy in the discovery and collecting. Feels like searching for mushrooms.
 + Thinking a creativity can flourish under restricting conditions.
 
-
 Posted on **LINKEDIN** on 2024-04-28_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[How to take Smart Notes - Key Insights]]
 + [[Mental Tune-Up -2 Do you ever get angry at having your attention hijacked-]]

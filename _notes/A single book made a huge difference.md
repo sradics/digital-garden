@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240728063744.png
-date_created: Saturday, July 27th 2024, 6:24:28 am
-date_modified: Sunday, July 28th 2024, 6:38:35 am
+date_created: 2024-07-27 06:24
+date_modified: 2025-06-25 00:01
 ---
 # [[A single book made a huge difference]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_can-a-book-change-your-life-it-changed-activity-7222840563220258816-b5a6?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240728063744.png|400]]
@@ -27,7 +29,6 @@ Then I found a book.
 Back than in a library. 
 Online Search, Bookstores did not yet exists.
 The book set me on a lifelong journey.
-
 
 This book taught me: SUCCESS HAS A METHOD!
 ➠ through hard work and continuous learning
@@ -48,7 +49,6 @@ you can achieve great things.
 ➠ I worked through 9 different roles 
 ➠ I lead several high performing teams
 
-
 SUCCESS HAS A METHOD!
 → Keep learning
 → Keep pushing
@@ -60,8 +60,8 @@ P.S.
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-07-27_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

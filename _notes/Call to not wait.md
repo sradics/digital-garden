@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250418070637.png
-date_created: Thursday, April 17th 2025, 7:41:42 am
-date_modified: Friday, April 18th 2025, 7:07:44 am
+date_created: 2025-04-17 07:41
+date_modified: 2025-06-25 00:01
 ---
 # [[Call to not wait]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_only-the-paranoid-survive-a-strategic-activity-7318514536053895168-theq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250418070637.png|400]]
@@ -68,5 +70,7 @@ P.S. I'll start on 28th of April (and then you have to wait for another 9 weeks 
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-17_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

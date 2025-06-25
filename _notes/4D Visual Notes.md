@@ -6,11 +6,15 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20241029061513.png
-date_created: Monday, October 28th 2024, 7:00:32 am
-date_modified: Tuesday, October 29th 2024, 6:18:17 am
+date_created: 2024-10-28 07:00
+date_modified: 2025-06-25 00:01
+aliases: ["[4D Visual Notes]]"]
+linter-yaml-title-alias: "[4D Visual Notes]]"
 ---
 # [4D Visual Notes]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-document-4x-faster-and-with-a-smile-activity-7256559946643697664-Gd5w?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241029061513.png|400]]
@@ -70,5 +74,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-28_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

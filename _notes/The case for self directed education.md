@@ -8,11 +8,13 @@ tags:
   - lightbulb/2-🟡-things_they_tried
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20240909064156.png
-date_created: Sunday, September 8th 2024, 6:56:04 am
-date_modified: Monday, September 9th 2024, 6:42:38 am
+date_created: 2024-09-08 06:56
+date_modified: 2025-06-25 00:01
 ---
 # [[The case for self directed education]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-bet-on-self-directed-education-i-spent-activity-7238426148823527424-3B31?utm_source=share&utm_medium=member_desktop)
 
   ![[Pasted image 20240909064156.png|400]]
@@ -94,7 +96,8 @@ I help people learn how to learn, retain and recall with ease
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-09-08_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

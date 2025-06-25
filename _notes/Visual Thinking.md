@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
   - lightbulb/4-🟢-my_offer
-date_created: Sunday, October 13th 2024, 7:47:15 am
-date_modified: Monday, October 14th 2024, 6:46:56 am
+date_created: 2024-10-13 07:47
+date_modified: 2025-06-25 00:01
 ---
 # [[Visual Thinking]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-think-visually-inside-my-second-brain-activity-7251110419853979650-8wZF?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241014064737.png|400]]
@@ -68,5 +70,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-12_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

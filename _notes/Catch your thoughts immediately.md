@@ -6,12 +6,14 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
   - 12_fav_problems/continuous_learning
-date_created: Sunday, April 21st 2024, 5:59:57 am
-date_modified: Sunday, April 21st 2024, 10:42:33 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: InspirationIsPerishable.jpg
 ---
 # [[Catch your thoughts immediately]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-capture-my-ideas-instead-of-losing-activity-7187714173403824128-dWb_?utm_source=share&utm_medium=member_desktop)
 
 ![[InspirationIsPerishable.jpg|400]]
@@ -83,6 +85,8 @@ How do you capture your ideas? Curious to learn about further approaches.
 👉 Follow me for more insight on working with a Second Brain
 
 Posted on **LINKEDIN** on 2024-04-21_Sun
+
 # Linking
+
 + [[BASB - Learning about Capture]]
 + [[BASB  - My ways to capture to my Second Brain]]

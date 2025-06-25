@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Saturday, March 2nd 2024, 7:10:02 am
-date_modified: Sunday, April 21st 2024, 9:45:12 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Unlock Extraordinary Growth with Tiny Daily Steps]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-extraordinary-growth-with-tiny-daily-activity-7169617430510575616-I66s?utm_source=share&utm_medium=member_desktop)
 
 ![[ImpactOfDailyProgress.jpg|400]]
@@ -60,5 +62,7 @@ The fundamentals for my habit forming journey are based on:
 📚 Outlive by Peter Attia - put it in a wider context
 
 Posted on **LINKEDIN** on 2024-03-02_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems#Health]]

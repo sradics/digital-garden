@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/continuous_learning
 image: Pasted image 20240806063411.png
-date_created: Monday, August 5th 2024, 6:20:50 am
-date_modified: Tuesday, August 6th 2024, 6:34:48 am
+date_created: 2024-08-05 06:20
+date_modified: 2025-06-25 00:01
 ---
 # [[A role disappears]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_agile-coach-from-highest-payed-role-activity-7226104725371301888-LkAv?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240806063411.png|400]]
 
@@ -65,16 +67,12 @@ P.S.
 ♻ Repost to help others in your network
 ➕ Follow me for more posts like this
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
-
-
-
 Posted on **LINKEDIN** on 2024-08-05_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

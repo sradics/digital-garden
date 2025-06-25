@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
   - lightbulb/4-🟢-my_offer
-date_created: Monday, September 30th 2024, 6:38:52 am
-date_modified: Tuesday, October 1st 2024, 6:07:37 am
+date_created: 2024-09-30 06:38
+date_modified: 2025-06-25 00:01
 ---
 # [[My Son starts with his Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-bridged-a-generational-gap-yesterday-activity-7246398603231997952-KRi9?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20241001060521.png|400]]  
 
@@ -83,5 +85,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-30_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

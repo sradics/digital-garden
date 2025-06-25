@@ -7,12 +7,14 @@ tags:
   - linkedin/processed
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
-date_created: Monday, January 6th 2025, 6:59:45 am
-date_modified: Tuesday, January 7th 2025, 7:12:40 am
+date_created: 2025-01-06 06:59
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250107071048.png
 ---
 # [[The Learning Styles Conflict]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-discovered-why-my-coworker-drove-me-crazy-activity-7281927637466247168-wnlk?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250107071048.png|400]]
@@ -56,5 +58,7 @@ Apply now: [https://lnkd.in/ejcQ5QTn](https://lnkd.in/ejcQ5QTn)
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-06_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

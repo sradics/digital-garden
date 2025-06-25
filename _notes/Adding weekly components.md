@@ -7,15 +7,18 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250505060851.png
-date_created: Friday, May 2nd 2025, 6:55:05 am
-date_modified: Monday, May 5th 2025, 6:09:14 am
+date_created: 2025-05-02 06:55
+date_modified: 2025-06-25 00:01
+aliases: ["Adding weekly components "]
+linter-yaml-title-alias: "Adding weekly components "
 ---
 # [[Adding weekly components ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-built-immersion-into-my-training-activity-7323950254683279360-CHhN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250505060851.png|400]]
-
 
 [Short video insight](https://www.youtube.com/watch?v=GM-4qHT77jc)
 
@@ -57,5 +60,7 @@ Have you found ways to extend learning beyond the initial experience?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-02_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

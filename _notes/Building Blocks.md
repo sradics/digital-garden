@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250324063908.png
-date_created: Friday, March 21st 2025, 6:59:17 am
-date_modified: Monday, March 24th 2025, 6:40:33 am
+date_created: 2025-03-21 06:59
+date_modified: 2025-06-25 00:01
 ---
 # [[Building Blocks]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-want-to-access-my-best-ideas-in-seconds-activity-7308744640172548096-2Fpi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250324063908.png]]
@@ -66,5 +68,7 @@ If you want to get the recording of the Workshop, comment or DM me "compound"
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-21_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - ln_weekly_highlight
   - linkedin/processed
-date_created: Friday, June 7th 2024, 5:19:36 am
-date_modified: Friday, June 7th 2024, 5:19:51 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240608052717.png
 ---
 # [[My highlights KW23]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-top-5-linkedin-insights-this-week-activity-7204738898936086528-iLcZ?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240608052717.png|400]]
 My top 5️⃣ LinkedIn Insights this Week 💡  
@@ -68,5 +70,7 @@ My top: Amplify Your Second Brain 🧠 and Digital Garden 🌱 with AI 🤖 ─ 
 Your turn: What inspired you this week?
 
 Posted on **LINKEDIN** on 2024-06-07_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

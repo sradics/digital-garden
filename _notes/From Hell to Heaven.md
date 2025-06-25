@@ -8,12 +8,14 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Sunday, February 23rd 2025, 7:46:11 am
-date_modified: Monday, February 24th 2025, 6:46:32 am
+date_created: 2025-02-23 07:46
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250224064548.png
 ---
 # [[From Hell to Heaven]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5478-documents-to-1-game-changing-insight-activity-7299322152825094144-3ArY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250224064548.png|400]]
@@ -63,5 +65,7 @@ Transform your scattered thoughts into your greatest asset.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-23_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

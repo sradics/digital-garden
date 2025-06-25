@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250411052015.png
-date_created: Thursday, April 10th 2025, 6:32:55 am
-date_modified: Friday, April 11th 2025, 5:20:43 am
+date_created: 2025-04-10 06:32
+date_modified: 2025-06-25 00:01
 ---
 # [[Do you ever]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-knowledge-was-leaking-heres-how-i-plug-activity-7315976884696084480-3H1s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250411052015.png|400]]
@@ -56,13 +58,12 @@ P.S. Oh - you came here for how I plugged these holes in my own knowledge system
 
 These three pillars form the foundation of what I teach in Learning Ecosystem Mastery.
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-04-10_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

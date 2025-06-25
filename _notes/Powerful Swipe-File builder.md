@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241203070937.png
-date_created: Monday, December 2nd 2024, 6:38:31 am
-date_modified: Tuesday, December 3rd 2024, 7:10:51 am
+date_created: 2024-12-02 06:38
+date_modified: 2025-06-25 00:01
 ---
 # [[Powerful Swipe-File builder]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-turn-scattered-marketing-genius-into-activity-7269244414424662016-5GBL?utm_source=share&utm_medium=member_desktop)
   
 ![[Pasted image 20241203070937.png|400]]
@@ -97,5 +99,7 @@ What is ONE approach to building on the wisdom of others that works best for you
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-02_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

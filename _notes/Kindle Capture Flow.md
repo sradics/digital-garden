@@ -6,9 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240515054442.png
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Kindle Capture Flow]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_distilling-the-millionaire-fastlane-your-activity-7196041545626628097-_85l?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240515054442.png|400]]
 
@@ -34,8 +38,7 @@ I enrich each note with tags, related ideas, and personal reflections for better
 ↳ I share it with everyone: I exported these enriched notes into my digital garden. This makes it accessible to you, allowing for wider sharing and application of the knowledge.  
   
 You can explore it here (link free from hidden agenda and costs!): [https://lnkd.in/gZ-cDt23](https://lnkd.in/gZ-cDt23)  
-  
-  
+
 💡Impact of This Process:  
 ‾‾‾‾‾  
 🌱Better retention:  
@@ -56,6 +59,7 @@ What are your thoughts?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I recently finished reading the book the Millionaire Fastlane and this is how I started distilling key insights:
 
 + While reading on Kindle I highlighted important aspects from the book
@@ -76,7 +80,8 @@ Recent thoughts about FASTLANER
 + F-A-S-T-L-A-N-E S-U-P-E-R-C-H-A-R-G-E-R - https://www.linkedin.com/posts/sebastiankamilli_embarking-on-the-fastlane-to-wealth-activity-7195307639470182400-3jAp?utm_source=share&utm_medium=member_desktop
 + Second Brain and Fastlane: https://www.linkedin.com/posts/sebastiankamilli_accelerate-your-fastlane-journey-with-a-activity-7195686721160642560-YhyI?utm_source=share&utm_medium=member_desktop
 
-
 Posted on **LINKEDIN** on 2024-05-14_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

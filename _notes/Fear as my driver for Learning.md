@@ -7,9 +7,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - lig
 image: Pasted image 20240918055743.png
+date_created: 2024-09-17 06:21
+date_modified: 2025-06-25 00:01
 ---
 # [[Fear as my driver for Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-found-fear-to-be-my-driver-for-learning-activity-7241687710631931904-NbcX?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240918055743.png|400]]  
@@ -30,7 +34,6 @@ It also cause a moment of financial anxiety.
 I had to find my way to contribute! 
 
 I had to perform. I had to LEARN FAST.
-
 
 Fear of falling behind drove my learning.
 Not Joy, not exploration, not fun - FEAR.
@@ -74,10 +77,8 @@ Want to connect to your drivers?  And find more ...
 
 ## Content preparation
 
-
-
-
-
 Posted on **LINKEDIN** on 2024-09-17_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -7,11 +7,13 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20241220065540.png
-date_created: Thursday, December 19th 2024, 6:24:29 am
-date_modified: Friday, December 20th 2024, 6:56:36 am
+date_created: 2024-12-19 06:24
+date_modified: 2025-06-25 00:01
 ---
 # [[I'm working in Pods]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_4-unexpected-benefits-of-linkedins-most-activity-7275404513929302016-i1sk?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241220065540.png|400]]
@@ -110,5 +112,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-19_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

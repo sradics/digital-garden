@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20241230065233.png
-date_created: Sunday, December 29th 2024, 7:06:47 am
-date_modified: Monday, December 30th 2024, 6:53:24 am
+date_created: 2024-12-29 07:06
+date_modified: 2025-06-25 00:01
 ---
 # [[The forgetting curve]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-monument-that-exposed-my-10-year-education-activity-7279028568318259200-dQYD?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241230065233.png|400]]
@@ -80,5 +82,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-29_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

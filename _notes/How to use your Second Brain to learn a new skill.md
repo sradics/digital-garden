@@ -6,12 +6,14 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
   - 12_fav_problems/help_others_grow
-date_created: Monday, April 22nd 2024, 5:51:07 am
-date_modified: Wednesday, April 24th 2024, 6:32:28 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240424063155.png
 ---
 # [[How to use your Second Brain to learn a new skill]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-my-second-brain-powers-my-linkedin-writing-activity-7188076595000090624-U5tP?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240424063155.png|400]]  
 How My Second Brain Powers My LinkedIn Writing Journey  
@@ -41,6 +43,7 @@ Join My Journey! 👉 Follow me for tips on building your own knowledge system.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 How I grow my writing skills with my Second Brain
 
 I'm currently learning about writing on LinkedIn. On a daily base I use my Second Brain for writing and growing my insights on writing. Here is a brief overview on aspects how I leverage my Second Brain for that: 
@@ -57,7 +60,9 @@ I'm currently learning about writing on LinkedIn. On a daily base I use my Secon
 + With feedback from post engagement, conversations with others I evaluate what is working an tune my approach further. I capture that feedback as an extra note in my project and highlight the key insights and what to try next
 
 ## Mapped to Bloom's Taxonomy
+
 [[Bloom's Taxonomy]]
+
 ### Remember
 
 - I have worked through many basics of writing, attended courses, noted down essential aspects, and can access them quickly.
@@ -86,9 +91,12 @@ I'm currently learning about writing on LinkedIn. On a daily base I use my Secon
 - I combine text, image, and soon video to reach a new level of creativity and expression.
 
 ## CTA
+
 👉 Follow me to gain more insights about Smart Learning through my daily posts 
 
 Posted on **LINKEDIN** on 2024-04-22_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[MOC Building a 2nd brain]]

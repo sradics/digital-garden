@@ -7,12 +7,14 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
-date_created: Monday, February 3rd 2025, 7:04:48 am
-date_modified: Tuesday, February 4th 2025, 6:12:59 am
+date_created: 2025-02-03 07:04
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250204061217.png
 ---
 # [[Compounding Knowledge Feature]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_compounding-learning-from-small-steps-to-activity-7292074204705812480-cP31?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250204061217.png|400]]
@@ -39,5 +41,7 @@ Curious? Find my full article in February's SPARK Magazine by [Leonardo Institut
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-03_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

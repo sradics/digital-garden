@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20241226070023.png
-date_created: Wednesday, December 25th 2024, 7:01:38 am
-date_modified: Thursday, December 26th 2024, 7:00:47 am
+date_created: 2024-12-25 07:01
+date_modified: 2025-06-25 00:01
 ---
 # [[This was burning fast]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_at-10-i-became-an-accidental-arsonist-activity-7277579152281534464-oGtw?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20241226070023.png|400]]
 
@@ -63,12 +65,12 @@ Want to gain deeper insights into Learning with Impact?
 ➠ Subscribe to my newsletter for exclusive tips and updates  
 (from my profile or post header link or via [https://lnkd.in/euDnjSXS](https://lnkd.in/euDnjSXS))
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-12-25_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

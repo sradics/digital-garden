@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241031063648.png
-date_created: Wednesday, October 30th 2024, 6:57:36 am
-date_modified: Thursday, October 31st 2024, 6:37:21 am
+date_created: 2024-10-30 06:57
+date_modified: 2025-06-25 00:01
 ---
 # [[overcoming a blank page]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-overcome-that-blank-page-a-journey-activity-7257285373918081024-atC-?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241031063648.png|400]]  
@@ -92,13 +94,12 @@ Want to gain deeper insights into Learning with Impact?
 ➠ Subscribe to my newsletter for exclusive tips and updates
 (from my profile or post header link)
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
- 
-
 Posted on **LINKEDIN** on 2024-10-30_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

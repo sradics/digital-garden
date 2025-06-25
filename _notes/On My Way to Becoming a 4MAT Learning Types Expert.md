@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240527043506.png
-date_created: Sunday, May 26th 2024, 6:12:08 am
-date_modified: Monday, May 27th 2024, 4:35:45 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[On My Way to Becoming a 4MAT Learning Types Expert]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_on-my-way-to-becoming-a-4mat-learning-types-activity-7200405333444362240-VEG-?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240527043506.png|400]]  
 
@@ -37,6 +39,7 @@ I'll do my best to get answers for you.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 On my way becoming a 4MAT learning types expert
 
 The next 3 days will be full immersion into 4MAT and the 4 Learning Types. I'm looking forward to being trained by Hanne Houbak. I'm convinced that tailoring learning to really support our individual way of learning is crucial to Smarter Learning - learning with high motivation and engagement, more effectively and efficiently.
@@ -49,8 +52,8 @@ What I aim to learn:
 
 As I'm on the way and will directly work with Hanne, the leading expert for 4MAT in Europe - maybe you have questions that I might ask her? Add all your questions in the comments and I'll try to find answers for you and reply later directly in the comments.
 
-
-
 Posted on **LINKEDIN** on 2024-05-26_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]

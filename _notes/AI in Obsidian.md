@@ -3,10 +3,11 @@ tags:
   - digital_garden
   - epstatus/2-🪴
   - linkedin/processed
-date_created: Saturday, February 4th 2023, 2:34:21 pm
-date_modified: Thursday, May 18th 2023, 6:15:55 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # AI in Obsidian
+
 Recently I unlocked new possibilities with Text Generator in my Obsidian Second Brain 🧠 - it's a great addition! rephrase: Now I can super easy  get what I want
 
 Now I can easily obtain what I want.:
@@ -20,5 +21,6 @@ This direct integration within Obsidian makes it super easy to leverage OpenAI f
 Posted on [LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_secondbrain-pkms-obsidian-activity-7027635991481851907-Wntv?utm_source=share&utm_medium=member_desktop) on [[2023-02-04_Sat]]
 
 # Linking
+
 + [[MOC Building a 2nd brain]]
 + [[MOC Artificial Intelligence]]

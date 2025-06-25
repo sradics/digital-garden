@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250217055822.png
-date_created: Sunday, February 16th 2025, 6:57:59 am
-date_modified: Monday, February 17th 2025, 5:59:29 am
+date_created: 2025-02-16 06:57
+date_modified: 2025-06-25 00:01
 ---
 # [[Meta Compounding]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_turn-information-into-fortune-warning-this-activity-7296785424830595072-8Kir?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250217055822.png|400]]
@@ -95,5 +97,7 @@ The list of posts I got from my Second Brain. I asked via AI:
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-16_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

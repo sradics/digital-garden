@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Thursday, May 9th 2024, 5:01:15 am
-date_modified: Friday, May 10th 2024, 4:49:26 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240510044814.png
 ---
 # [[The role of automation in my Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-reduce-cognitive-load-through-automating-activity-7194229665442451456-d5ft?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240510044814.png|400]]
@@ -57,6 +59,8 @@ In my Second Brain I maintain several workflows. To simplify and reduce cognitiv
 I observe where I use repeated activities and invest in continuously improve my approach with automations. This way I can focus on important, higher level topics and leverage technology to help me getting rid of mundane tasks. 
 
 Posted on **LINKEDIN** on 2024-05-09_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[MOC Building a 2nd brain]]

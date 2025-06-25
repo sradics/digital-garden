@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - ln_weekly_highlight
   - linkedin/processed
-date_created: Friday, May 24th 2024, 5:21:48 am
-date_modified: Saturday, May 25th 2024, 6:41:45 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240525063949.png
 ---
 # [[My highlights KW21]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-top-5-linkedin-insights-this-week-activity-7199665463495196672-nnvP?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240525063949.png|400]]
 
@@ -42,6 +44,7 @@ Your turn: What inspired you this week?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 My top 5️⃣ LinkedIn Insights this Week 💡
 (Unknown, Brand,📚 for Smarter Learning, ❌🤖, missing Leader Meetings)
 
@@ -68,5 +71,7 @@ My top: 4 Books for Smarter Learning 📚  ─  https://www.linkedin.com/posts/s
 Your turn: What inspired you this week?
 
 Posted on **LINKEDIN** on 2024-05-24_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

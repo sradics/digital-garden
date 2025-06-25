@@ -6,11 +6,15 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2024_KW51_Weekly Highlights.pdf
-date_created: Friday, December 20th 2024, 6:59:30 am
-date_modified: Saturday, December 21st 2024, 7:02:07 am
+date_created: 2024-12-20 06:59
+date_modified: 2025-06-25 00:01
+aliases: ["[[My highlights KW51]"]
+linter-yaml-title-alias: "[[My highlights KW51]"
 ---
 # [[My highlights KW51]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-highlights-from-kw-51-in-2024-activity-7275767019939983361-pWm7?utm_source=share&utm_medium=member_desktop)
   
 ![[2024_KW51_Weekly Highlights.pdf]]
@@ -55,5 +59,7 @@ Want to gain deeper insights into Learning with Impact?
 EDITION 004 - AI supported Learning - today 13:00 CET
 
 Posted on **LINKEDIN** on 2024-12-20_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

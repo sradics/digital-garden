@@ -5,11 +5,15 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[About AI and the switch to becoming more of a manager]]
+
 ![[Pasted image 20240128211138.png|300]]
 
 ## LinkedIn Post
+
 [Source](https://www.linkedin.com/posts/sebastiankamilli_knowledgemanagement-futureofwork-ai-activity-7155831615804350464-TqWD?utm_source=share&utm_medium=member_desktop)
 
 💡 Not What You Know, but How You Manage - The New Knowledge Era  
@@ -58,10 +62,10 @@ Core ideas:
 + A main conclusion: People who are better equipped to use different facets of AI in their day-to-day lives will be at a significant advantage in the economy
 + Another conclusion: Working with knowledge management approaches like Building a Second Brain and leveraging AI summarization to combine AI with my specific and unique focus and knowledge propels my capabilities to solve higher level work and create an impact
 
-
 Headline teasers for phrasing a hooking headline:
 + Today's knowledge workers are urgently required to add knowledge management to their skill set
 + It is not longer about what you know but to know how to allocate and manage knowledge
 
 Posted on **LINKEDIN** on 2024-01-24_Wed
+
 # Linking

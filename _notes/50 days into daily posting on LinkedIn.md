@@ -5,9 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[50 days into daily posting on LinkedIn]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_charting-a-new-course-50-days-of-writing-activity-7164166554975219712-NmKn?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240225174042.png]]
 
@@ -54,6 +58,7 @@ The Impact 📈
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 50 days into a daily writing habit for LinkedIn. My procedure and what I learned so far.
 
 Based on working through the course from Tim Queen and learning about a daily writing habit (see details on my post), I started posting daily in LinkedIn. And I follow a strict sequence that looks like that:
@@ -81,7 +86,6 @@ What happened in 50 days?
 
 I would really love to further improve the way I express my thoughts and provide value for readers. Your feedback either via comments, direct message is highly welcome. What works for you? What would you wish to read more about? What should I stop?
 
-
-
 Posted on **LINKEDIN** on 2024-02-16_Fri
+
 # Linking

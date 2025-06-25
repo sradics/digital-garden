@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241127061024.png
-date_created: Tuesday, November 26th 2024, 6:45:13 am
-date_modified: Wednesday, November 27th 2024, 6:11:30 am
+date_created: 2024-11-26 06:45
+date_modified: 2025-06-25 00:01
 ---
 # [[Thanks for 7K followers]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-3k-to-7k-followers-my-133-growth-journey-activity-7267069655402385408-52uW?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241127061024.png|400]]
@@ -68,5 +70,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-26_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

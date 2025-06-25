@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241125054923.png
-date_created: Sunday, November 24th 2024, 7:14:58 am
-date_modified: Monday, November 25th 2024, 5:50:44 am
+date_created: 2024-11-24 07:14
+date_modified: 2025-06-25 00:01
 ---
 # [[Growing MOCs over time]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-agile-coachs-dilemma-16-years-of-knowledge-activity-7266344836507525120-NzRP?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241125054923.png|400]]
@@ -73,5 +75,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-24_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

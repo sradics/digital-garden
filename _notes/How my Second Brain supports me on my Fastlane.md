@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240514050527.png
-date_created: Monday, May 13th 2024, 5:03:22 am
-date_modified: Tuesday, May 14th 2024, 5:06:08 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[How my Second Brain supports me on my Fastlane]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_accelerate-your-fastlane-journey-with-a-activity-7195686721160642560-YhyI?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240514050527.png|400]]  
 
@@ -46,13 +48,13 @@ keeps you on the cutting edge in fast-evolving sectors like AI
 manage your contacts and interactions, turning relationships into opportunities  
 🌱 Fuels Personal Development  —  
 tracks your growth and helps in adapting Fastlane principles  
-  
-  
+
 👉 Curious how a Second Brain works? Let's connect!
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Accelerate Your Fastlane Journey with a 🧠Second Brain🧠
 
 Working with a Second Brain supports you on your Fastlane of creating a scalable business. It provides concrete support on the aspects of:
@@ -70,10 +72,9 @@ Working with a Second Brain supports you on your Fastlane of creating a scalable
 + manage risks by building on a repository of lessons learned and insights gained
 + support with networking and collaboration by stories details about network contacts and interactions 
 
-
-
-
 Posted on **LINKEDIN** on 2024-05-13_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]
 + [[MOC Becoming a Fastlaner]]

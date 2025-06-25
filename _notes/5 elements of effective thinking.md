@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240528043146.png
-date_created: Monday, May 27th 2024, 4:55:16 am
-date_modified: Tuesday, May 28th 2024, 4:32:46 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[5 elements of effective thinking]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5-ways-to-supercharge-your-thinking-activity-7200760160997253121-sonK?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240528043146.png|400]]  
 🚀 5 Ways to Supercharge Your Thinking  
@@ -56,6 +58,7 @@ What additional knowledge, understanding and experience would they bring to the 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 📖 The 5 elements of effective thinking
 (Basics, Fail, Socratic Questioning, Flow, Change)
 
@@ -97,7 +100,8 @@ What additional knowledge, understanding and experience would they bring to the 
 
 Insights from the book: The 5 Elements of Effective Thinking by Burger & Starbird
 
-
 Posted on **LINKEDIN** on 2024-05-27_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

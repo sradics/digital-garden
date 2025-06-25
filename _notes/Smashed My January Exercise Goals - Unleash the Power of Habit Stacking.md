@@ -4,11 +4,13 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Saturday, February 3rd 2024, 6:08:44 am
-date_modified: Sunday, April 21st 2024, 10:12:02 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Smashed My January Exercise Goals - Unleash the Power of Habit Stacking]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_smashed-my-january-exercise-goals-unleash-activity-7159478124215214080-s4lr?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421101136.png]]
@@ -40,6 +42,7 @@ So, what's your exercise routine? How do you build your habits? Let's share and 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 + in January I reached the first time ever 3000 minutes Peloton training per month
 + done with a stack of 10-15' meditation,25' yoga, 5' strength, 60-120' cycling
 + embedded in my morning routine to start in the day energized with a sense of accomplishment
@@ -61,5 +64,7 @@ Call to action:
 + follow me on Peloton - find me via VeloBasti
 
 Posted on **LINKEDIN** on 2024-02-03_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems#Health]]

@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241224062054.png
-date_created: Monday, December 23rd 2024, 6:28:15 am
-date_modified: Tuesday, December 24th 2024, 6:21:53 am
+date_created: 2024-12-23 06:28
+date_modified: 2025-06-25 00:01
 ---
 # [[Learning through games]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-great-grandfather-let-me-win-at-chess-activity-7276854123822473217-qUct?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241224062054.png|400]]
@@ -64,5 +66,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-23_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

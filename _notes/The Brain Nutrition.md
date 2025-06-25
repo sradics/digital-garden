@@ -6,9 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240812061519.png
+date_created: 2024-08-11 04:47
+date_modified: 2025-06-25 00:01
 ---
 # [[The Brain Nutrition]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_this-morning-545-my-wife-wondered-while-activity-7228278979374305280-3T8m?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240812061519.png|400]]
@@ -44,7 +48,6 @@ You just learned 10 super good BRAIN FOODs.
 
 Happy cooking, happy Sunday!
 
-
 ———  
 P.S.  
 🔔 I share insights daily at 8:00AM (CEST)
@@ -55,9 +58,8 @@ P.S.
 
 ## Content preparation
 
-
-
-
 Posted on **LINKEDIN** on 2024-08-11_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

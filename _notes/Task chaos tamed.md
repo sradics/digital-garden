@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Wednesday, February 28th 2024, 5:05:28 am
-date_modified: Sunday, April 21st 2024, 9:51:13 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Task chaos tamed]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_task-chaos-tamed-how-connecting-todoist-activity-7168515193059102721-G5hb?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421095106.png]]
@@ -50,6 +52,7 @@ What's your strategy for staying on top of tasks and notes?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 For a long time I did not have a clear approach for working with tasks. My task where scattered through different media like my note taking app, in Slack, in Confluence/Notion, on my Remarkable. And I mixed my tasks and my notes. 
 
 A year ago I changed my approach an centralized my task management with Todoist and combined my task management approach with my Second Brain. 
@@ -69,5 +72,7 @@ Advantages:
 + Connecting my task management with my Second Brain structure but splitting notes and tasks provides a clear separation of what becomes a long term note vs. what is an action I do take. It leverages the strengths of each system instead of forcing a note taking app to become a task manager or a task manager to become a note taking app.
 
 Posted on **LINKEDIN** on 2024-02-28_Wed
+
 # Linking
+
 + [[Digital Productivity Pyramid]]

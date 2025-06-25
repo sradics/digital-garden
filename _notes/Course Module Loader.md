@@ -9,11 +9,15 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250512061716.png
-date_created: Friday, May 9th 2025, 6:47:36 am
-date_modified: Monday, May 12th 2025, 6:17:54 am
+date_created: 2025-05-09 06:47
+date_modified: 2025-06-25 00:01
+aliases: ["Course Module Loader "]
+linter-yaml-title-alias: "Course Module Loader "
 ---
 # [[Course Module Loader ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-brilliant-insights-deserve-better-than-activity-7326485360127975424-O2Tl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250512061716.png|400]]
@@ -47,5 +51,7 @@ Check out the video and have fun exploring the Course Module Loader
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-09_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

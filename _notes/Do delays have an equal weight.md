@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20241120070702.png
-date_created: Tuesday, November 19th 2024, 6:56:07 am
-date_modified: Wednesday, November 20th 2024, 7:07:43 am
+date_created: 2024-11-19 06:56
+date_modified: 2025-06-25 00:01
 ---
 # [[Do delays have an equal weight]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_confession-i-put-off-a-5-minute-task-for-activity-7264532894247706626-Nx-x?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241120070702.png]]
@@ -70,5 +72,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-19_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

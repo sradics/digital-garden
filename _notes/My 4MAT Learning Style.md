@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: 4MATLearningStyles.jpg
-date_created: Tuesday, May 28th 2024, 4:34:11 am
-date_modified: Tuesday, May 28th 2024, 7:07:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[My 4MAT Learning Style]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_are-you-a-what-learner-too-discover-activity-7201115063003344896-O-GS?utm_source=share&utm_medium=member_desktop)
 ![[4MATLearningStyles.jpg|400]]
 
@@ -62,6 +64,7 @@ Imagine the impact of designing trainings that match different learning types. I
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I am a WHAT learner - Style 2 - Analytic
 
 Based on 4MAT Learning Types I'm a strong WHAT learner - Style 2 - Analytic. 
@@ -94,8 +97,8 @@ Now imagine the effect of knowing about different learning types and designing t
 
 Curious about your Learning Type? Let me know!
 
-
-
 Posted on **LINKEDIN** on 2024-05-28_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

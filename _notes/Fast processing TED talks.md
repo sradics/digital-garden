@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20240908065049.png
-date_created: Saturday, September 7th 2024, 4:51:52 am
-date_modified: Sunday, September 8th 2024, 6:52:25 am
+date_created: 2024-09-07 04:51
+date_modified: 2025-06-25 00:01
 ---
 # [[Fast processing TED talks]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-retain-80-more-from-a-ted-talk-activity-7238063454547312640-ExbA?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240908065049.png|400]]  
@@ -90,5 +92,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-07_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

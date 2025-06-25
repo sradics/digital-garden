@@ -7,11 +7,13 @@ tags:
   - linkedin/processed
   - lightbulb/2-🟡-things_they_tried
   - lightbulb/3-🟠-my_approach
-date_created: Sunday, September 22nd 2024, 6:22:39 am
-date_modified: Monday, September 23rd 2024, 6:13:42 am
+date_created: 2024-09-22 06:22
+date_modified: 2025-06-25 00:01
 ---
 # [[5 Mistakes that stop career growth]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5-mistakes-that-stop-career-growth-and-activity-7243499323810803712-zJJO?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240923061316.png]]  
@@ -67,5 +69,7 @@ P.S.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-22_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

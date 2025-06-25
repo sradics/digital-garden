@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240529164544.png
-date_created: Wednesday, May 29th 2024, 4:06:45 am
-date_modified: Wednesday, May 29th 2024, 4:46:23 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Learning is the making of meaning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_learning-is-the-making-of-meaning-its-activity-7201477422129573888-Rj6Q?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240529164544.png|400]]  
 
@@ -44,6 +46,7 @@ I just learned: The sky is blue because tiny particles in the air, mainly nitrog
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Learning is the making of meaning
 It’s like when you learn why the sky is blue, not just that it is blue.
 
@@ -65,8 +68,8 @@ When I care about meaning:
 ——— P.S.
 I just learned: The sky is blue because tiny particles in the air, mainly nitrogen and oxygen molecules, scatter the blue light from the sun in all directions. This scattered blue light fills the sky, making it look blue to us.
 
-
-
 Posted on **LINKEDIN** on 2024-05-29_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

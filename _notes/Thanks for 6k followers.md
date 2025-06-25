@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/relationships
   - linkedin/processed
 image: Pasted image 20241021055354.png
-date_created: Saturday, October 19th 2024, 5:48:08 am
-date_modified: Monday, October 21st 2024, 5:54:30 am
+date_created: 2024-10-19 05:48
+date_modified: 2025-06-25 00:01
 ---
 # [[Thanks for 6k followers]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-3k-to-6k-followers-my-100-growth-journey-activity-7253284070921498624-g9P8?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241021055354.png|400]]
@@ -74,8 +76,8 @@ Want to gain deeper insights into Learning with Impact?
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-10-19_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

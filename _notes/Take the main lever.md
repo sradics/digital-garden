@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240814065906.png
-date_created: Tuesday, August 13th 2024, 5:57:56 am
-date_modified: Wednesday, August 14th 2024, 7:00:14 am
+date_created: 2024-08-13 05:57
+date_modified: 2025-06-25 00:01
 ---
 # [[Take the main lever]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_anything-youre-given-doesnt-matter-activity-7229003827465629697-m_4y?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240814065906.png|400]]  
@@ -37,13 +39,10 @@ while you learn.
 
 DM me SMART and/or add yourself and be the first to get more details.
 
-
-
 (inspired by:
 Jorgenson, Eric. 
 The Almanack of Naval Ravikant: 
 A Guide to Wealth and Happiness)
-
 
 ———  
 P.S.  
@@ -55,7 +54,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-13_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

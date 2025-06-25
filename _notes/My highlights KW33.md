@@ -6,11 +6,13 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2024_KW33_Weekly Highlights.pdf
-date_created: Friday, August 16th 2024, 6:08:10 am
-date_modified: Saturday, August 17th 2024, 6:08:12 am
+date_created: 2024-08-16 06:08
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW33]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_2024-kw33-5-top-highlights-activity-7230091018610569217-1Bxz?utm_source=share&utm_medium=member_desktop)
 
 ![[2024_KW33_Weekly Highlights.pdf]]
@@ -22,9 +24,7 @@ is week, I explored:
 ↳ 10 super good BRAIN FOODs  
 ↳ FREE personal branding GUIDE  
 ↳ 14 things you want to say at work  
-  
-  
-  
+
 Here are 5 posts that sparked my thinking:  
 ‾‾‾‾‾‾‾‾  
 ✪ The Four Types of LUCK  
@@ -57,7 +57,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-16_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

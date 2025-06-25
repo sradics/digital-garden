@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20241023060953.png
-date_created: Tuesday, October 22nd 2024, 5:50:36 am
-date_modified: Wednesday, October 23rd 2024, 6:10:51 am
+date_created: 2024-10-22 05:50
+date_modified: 2025-06-25 00:01
 ---
 # [[AB Test stats]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-linkedin-ab-test-result-suggests-a-twist-activity-7254370994914578432-7Due?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241023060953.png|400]]
@@ -107,5 +109,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-22_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,9 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240617054614.png
+date_created: 2024-06-15 04:27
+date_modified: 2025-06-25 00:01
 ---
 # [[Join next 5LB AI cohort]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ive-opened-my-pocket-multiple-times-activity-7207645513586765824-SEVN?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240617054614.png|400]]
@@ -70,7 +74,8 @@ https://billybroas.acemlna.com/lt.php?x=3DZy~GDLJ6LN75F.ytDHhRSd~n6nuNX0whlhYnPM
 
 Let me know if you might need further insights from someone just being in the trenches. 
 
-
 Posted on **LINKEDIN** on 2024-06-15_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

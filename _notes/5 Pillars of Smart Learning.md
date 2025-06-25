@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/continuous_learning
 image: Pasted image 20240716070024.png
-date_created: Monday, July 15th 2024, 5:31:00 am
-date_modified: Tuesday, July 16th 2024, 7:01:24 am
+date_created: 2024-07-15 05:31
+date_modified: 2025-06-25 00:01
 ---
 # [[5 Pillars of Smart Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_what-if-learning-is-a-path-to-happiness-activity-7218495178163023872-1_wX?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240716070024.png]]
@@ -46,14 +48,13 @@ Would that change your image of learning?
   
 It certainly did fo  
 Curious? DM me SMART
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-07-15_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

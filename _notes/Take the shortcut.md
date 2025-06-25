@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250128064015.png
-date_created: Monday, January 27th 2025, 6:47:24 am
-date_modified: Tuesday, January 28th 2025, 6:41:11 am
+date_created: 2025-01-27 06:47
+date_modified: 2025-06-25 00:01
 ---
 # [[Take the shortcut]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_that-moment-when-a-brilliant-idea-hits-you-activity-7289537573364858880-1OLP?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250128064015.png|400]]
@@ -65,5 +67,7 @@ Rooting for your success
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-27_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

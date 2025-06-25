@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240719054359.png
-date_created: Thursday, July 18th 2024, 6:51:05 am
-date_modified: Friday, July 19th 2024, 5:45:26 am
+date_created: 2024-07-18 06:51
+date_modified: 2025-06-25 00:01
 ---
 # [[Put a filter in between]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_60-newsletters-and-100-attention-grabbers-activity-7219582585851518976-2v0I?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240719054359.png|400]]  
 
@@ -58,8 +60,11 @@ Matter integrates in the Second Brain apprWhere its all about information an the
 ↳ Express
 
 Want to learn more about it?  👉 Follow me 
+
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-07-18_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]

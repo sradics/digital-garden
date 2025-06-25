@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: VideoCoverTop_1_Percent.jpg
-date_created: Sunday, October 27th 2024, 5:14:28 am
-date_modified: Monday, October 28th 2024, 6:58:21 am
+date_created: 2024-10-27 05:14
+date_modified: 2025-06-25 00:01
 ---
 # [[The Case for Continuous Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-to-join-the-top-1-of-intelligence-activity-7256198572293992448-1P4D?utm_source=share&utm_medium=member_desktop)
 ![[VideoCoverTop_1_Percent.jpg|400]]
 
@@ -89,5 +91,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-27_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

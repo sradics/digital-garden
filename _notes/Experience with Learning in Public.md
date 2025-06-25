@@ -6,15 +6,16 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240524050731.png
-date_created: Thursday, May 23rd 2024, 4:46:52 am
-date_modified: Friday, May 24th 2024, 5:08:08 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Experience with Learning in Public]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_7-advantages-i-gain-from-learning-in-public-activity-7199303105606209536-YmN7?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240524050731.png|400]]
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 7 Advantages I Gain from Learning in Public  
@@ -34,8 +35,7 @@ Here’s what You? and I gain from learning in public:
 ↳ Inspiration: If I inspire even one person, it's worth it.  
 Have you felt a spark from my posts? Let me know!  
 ↳ Structured Learning: Sharing publicly makes my learning more organized and expressive, leading to better retention  
-  
-  
+
 I learn in public by:  
 ——  
 → Digital Gardening: Growing and sharing ideas  
@@ -52,7 +52,9 @@ Areas I'm working on:
   
 What’s your experience with learning in public?  
 What is one thing that is holding you back? Let’s connect and learn together!
+
 ## Content preparation
+
 7 advantages I gain from learning in public
 
 From a workshop about Learning in Public by the NessLabs community I got inspired to share my experience from learning in public. 
@@ -77,7 +79,6 @@ Advantages of sharing in public:
 + running public workshops (e.g. Smarter Learning, Winning with Remote Teams, Mastering the Art of Feedback, Second Brain and AI)
 + joining cohort based trainings (e.g. Building a Second Brain)
 + rarely through youtube and slideshare presentation
-+ 
 
 3 things I want to improve:
 + sharing failures with approaches 
@@ -87,10 +88,10 @@ Advantages of sharing in public:
 What is your experience with Learning in Public? 
 Or is there something holding you back? Let's connect and learn together!
 
-
-
 Posted on **LINKEDIN** on 2024-05-23_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]
 + 📖[Show your work](https://www.blinkist.com/en/app/books/show-your-work-en)
 + [[MOC Digital Garden]]

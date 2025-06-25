@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - rating/⭐️⭐️⭐️
   - 12_fav_problems/health
-date_created: Thursday, July 27th 2023, 9:45:38 am
-date_modified: Thursday, July 27th 2023, 9:46:01 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[1000 workouts celebration]]
+
 ## Iterated
+
 Today marks my 1000th workout with Peloton, rounding off an unbroken 103-week streak! 🎉💪  
   
 My journey wasn't embarked upon alone. I owe a significant part of my success to these game-changing philosophies and support systems:  
@@ -24,6 +26,7 @@ My journey wasn't embarked upon alone. I owe a significant part of my success to
 Moreover, a standing ovation to Blinkist/GO1 for curating a seamless work-from-home culture that saves me a daily commute of 1.5 hours. This bonus time has allowed me to prioritize my fitness. The results? I've become a power-packed reservoir of energy, with an almost non-existent sick leave record of 0.3% in the last 3.5 years and my motivation is at an all-time high. 🚀
 
 ## Draft
+
 Today I achieved 1000 workouts with Peloton, connecting to a 103 week streak so far. 
 
 Some support along that journey that I'm very grateful for:
@@ -38,4 +41,5 @@ I also want to thank Blinkist/GO1 for providing such an awesome workplace where 
 [Posted on **LINKEDIN** on 2023-07-27_Thu](https://www.linkedin.com/posts/sebastiankamilli_today-marks-my-1000th-workout-with-peloton-activity-7090245593016532993-nK0v?utm_source=share&utm_medium=member_desktop)
 
 # Linking
+
 * [[My running list of 12 favorite problems#Health]]

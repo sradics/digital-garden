@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20241126064056.png
-date_created: Monday, November 25th 2024, 5:52:20 am
-date_modified: Tuesday, November 26th 2024, 6:41:51 am
+date_created: 2024-11-25 05:52
+date_modified: 2025-06-25 00:01
 ---
 # [[Newsletter adventure]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_warning-this-newsletter-may-cause-extreme-activity-7266707563189047297-g-us?utm_source=share&utm_medium=member_desktop)
   
 ![[Pasted image 20241126064056.png|400]]
@@ -61,12 +63,12 @@ For those who subscribe before the first newsletter is sent, I'll include a Link
 
 See you in the deep-dive?
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-11-25_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

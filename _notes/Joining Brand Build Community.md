@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/relationships
   - linkedin/processed
-date_created: Saturday, June 29th 2024, 6:45:20 am
-date_modified: Sunday, June 30th 2024, 8:51:40 am
+date_created: 2024-06-29 06:45
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240630085030.png
 ---
 # [[Joining Brand Build Community]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_thrilled-to-join-the-brand-built-community-activity-7212718955231113216-wGy5?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240630085030.png|400]]
@@ -39,6 +41,7 @@ I’m looking forward to a full first week of live sessions, further exchanges, 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I joined the Brand Built community by Nat Berman and Darren Mass. And after one day as a community member I already got great insights:
 + I'm learning deeper about LinkedIn and next steps on providing more value for my audience (You 🤗)
 + The way Nat and Darren set up the community is a blueprint for community building
@@ -69,5 +72,7 @@ One Story:
 One CTA:
 
 Posted on **LINKEDIN** on 2024-06-29_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

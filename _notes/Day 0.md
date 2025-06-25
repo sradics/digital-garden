@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
   - linkedin/processed
-date_created: Thursday, October 3rd 2024, 3:05:35 am
-date_modified: Friday, October 4th 2024, 2:53:21 am
+date_created: 2024-10-03 12:05
+date_modified: 2025-06-25 00:01
 ---
 # [[Day 0]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_secondbrainsummit-activity-7247564368626823169-IeHS?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241004025246.png|400]]
@@ -56,5 +58,7 @@ What is your ONE tip for dealing with Jet Lag?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-03_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

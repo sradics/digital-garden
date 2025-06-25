@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/relationships
   - linkedin/processed
 image: Pasted image 20240906062931.png
-date_created: Thursday, September 5th 2024, 6:52:02 am
-date_modified: Friday, September 6th 2024, 6:30:27 am
+date_created: 2024-09-05 06:52
+date_modified: 2025-06-25 00:01
 ---
 # [[Second Brain Summit]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_im-soon-exploring-the-second-brain-universe-activity-7237338806893379584-Inqd?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240906062931.png|400]]
 
@@ -56,5 +58,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-05_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

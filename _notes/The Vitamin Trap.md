@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/2-🟡-things_they_tried
   - lightbulb/3-🟠-my_approach
-date_created: Wednesday, March 12th 2025, 7:06:32 am
-date_modified: Friday, March 14th 2025, 7:12:03 am
+date_created: 2025-03-12 07:06
+date_modified: 2025-06-25 00:01
 ---
 # [[The Vitamin Trap]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_leaders-your-training-isnt-a-vitamin-deficiency-activity-7305482854547804160-YSMl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250314071126.png|400]]
@@ -76,5 +78,7 @@ You rock, my friend! Whatever your next step is.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-12_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

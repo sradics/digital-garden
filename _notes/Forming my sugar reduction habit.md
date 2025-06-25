@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/health
   - linkedin/processed
 image: Pasted image 20240507041720.png
-date_created: Sunday, May 5th 2024, 6:09:41 am
-date_modified: Tuesday, May 7th 2024, 4:17:40 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Forming my sugar reduction habit]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-125-days-sugar-free-gaining-health-and-activity-7192787603153125376-YaiY?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240507041720.png|400]]
 
@@ -44,8 +46,8 @@ Have you tried going sugar-free? Share your tips!
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
-Absorb what is useful, discard what is useless, and add what is specifically your own (Bruce Lee)
 
+Absorb what is useful, discard what is useless, and add what is specifically your own (Bruce Lee)
 
 Detaching from added sugar is really tough and I need to make a conscious effort to detach. Now I'm again mainly free from added sugar for 125 days. And it feels great. 
 
@@ -72,7 +74,9 @@ Sources with interesting insights:
 + Beat Sugar Addiction Now! by Jacob Teitelbaum and Chrystle Fiedler
 
 Posted on **LINKEDIN** on 2024-05-05_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Health]]
 + [[Goals checking after 4 months in this year]]
 + [[Notes from book Outlive - topic Longevity]]

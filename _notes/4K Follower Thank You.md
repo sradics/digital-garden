@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/relationships
 image: Pasted image 20240807060546.png
-date_created: Tuesday, August 6th 2024, 6:58:56 am
-date_modified: Wednesday, August 7th 2024, 6:06:17 am
+date_created: 2024-08-06 06:58
+date_modified: 2025-06-25 00:01
 ---
 # [[4K Follower Thank You]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_4k-followers-27-in-one-month-my-twist-activity-7226467549729751040-Ro2c?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240807060546.png|400]]
@@ -67,14 +69,12 @@ P.S.
 ♻ Repost to help others in your network
 ➕ Follow me for more posts like this
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
-
 Posted on **LINKEDIN** on 2024-08-06_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

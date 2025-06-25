@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241111063536.png
-date_created: Sunday, November 10th 2024, 6:51:32 am
-date_modified: Monday, November 11th 2024, 6:36:22 am
+date_created: 2024-11-10 06:51
+date_modified: 2025-06-25 00:01
 ---
 # [[Desire Change, Disrupt Understanding]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-desire-driven-career-i-dared-to-disrupt-activity-7261271590678532096-BmvG?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241111063536.png|400]]  
@@ -109,8 +111,9 @@ Want to gain deeper insights into Learning with Impact?
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-11-10_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]
 + based on NoteMaking reflection - [[When you desire change, you disrupt understanding]]

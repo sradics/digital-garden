@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - ln_weekly_highlight
 image: Pasted image 20240428110443.png
-date_created: Friday, April 26th 2024, 5:10:52 am
-date_modified: Sunday, April 28th 2024, 5:22:36 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW17]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-hypergrowth-to-anti-productivity-hacks-activity-7189518604793520128-5Gvi?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240428110443.png|400]]
 
@@ -44,6 +46,7 @@ My top: Building my LinkedIn GPT Assistant in Just 4 Hours
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 From Hypergrowth to Anti Productivity Hacks
 (Top 5 LinkedIn Posts I Loved This Week)
 
@@ -71,5 +74,7 @@ https://www.linkedin.com/posts/informationarchitect_productivity-tip-no-more-tod
 My top: Building my LinkedIn GPT Assistant in Just 4 Hours ─ https://www.linkedin.com/posts/sebastiankamilli_building-my-linkedin-gpt-assistant-in-just-activity-7188793790793420800-xC7y?utm_source=share&utm_medium=member_desktop
 
 Posted on **LINKEDIN** on 2024-04-26_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems#Relationsships]]

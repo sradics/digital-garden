@@ -6,11 +6,13 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2024_KW49_Weekly Highlights.pdf
-date_created: Friday, December 6th 2024, 7:04:23 am
-date_modified: Saturday, December 7th 2024, 7:08:56 am
+date_created: 2024-12-06 07:04
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW49]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_kw-49-in-2024-weekly-top-5-ugcPost-7270693504006164481-70fs?utm_source=share&utm_medium=member_desktop)
 
 ![[2024_KW49_Weekly Highlights.pdf]]
@@ -52,7 +54,8 @@ Want to gain deeper insights into Learning with Impact?
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-12-06_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

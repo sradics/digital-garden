@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241124062726.png
-date_created: Saturday, November 23rd 2024, 6:38:15 am
-date_modified: Sunday, November 24th 2024, 6:27:53 am
+date_created: 2024-11-23 06:38
+date_modified: 2025-06-25 00:01
 ---
 # [[Open up for more impulses]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-job-board-to-life-changing-platform-activity-7265982632457342976-OIYv?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20241124062726.png]]
 
@@ -68,5 +70,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-23_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

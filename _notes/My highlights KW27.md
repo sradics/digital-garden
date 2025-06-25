@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - ln_weekly_highlight
 pdf: 2024_KW27_Weekly Highlights.pdf
-date_created: Friday, July 5th 2024, 6:12:59 am
-date_modified: Saturday, July 6th 2024, 5:18:56 am
+date_created: 2024-07-05 06:12
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW27]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5-top-insights-from-linkedin-this-week-activity-7214876478851743744-zgLn?utm_source=share&utm_medium=member_desktop)
 
 ![[2024_KW27_Weekly Highlights.pdf]]
@@ -42,6 +44,7 @@ P.S. - Please repost ♻ if you found this useful
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 My top 5️⃣ LinkedIn Insights this Week 💡  
 (Step Up!, Learning, Well-Being, Crazy≠Bad,Accelerate)  
 
@@ -67,5 +70,7 @@ My top > 4 Job Roles! Accelerated Learning of 5 Years  ─  https://www.linkedin
 P.S. - Please repost ♻ if you found this useful
 
 Posted on **LINKEDIN** on 2024-07-05_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

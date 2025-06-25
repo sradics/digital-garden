@@ -7,12 +7,14 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250326034435.png
-date_created: Tuesday, March 25th 2025, 7:36:02 am
-date_modified: Wednesday, March 26th 2025, 3:45:43 am
+date_created: 2025-03-25 07:36
+date_modified: 2025-06-25 00:01
 "": 
 ---
 # [[The Highlight Extraction Experiment]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-rescued-400-book-highlights-without-activity-7310193998109777921-fpCL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250326034435.png|400]]
@@ -62,5 +64,7 @@ Thoughts?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-25_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

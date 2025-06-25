@@ -5,13 +5,15 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
-date_created: Saturday, January 27th 2024, 5:48:03 am
-date_modified: Sunday, January 28th 2024, 9:01:23 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[My Personal Productivity Toolstack]]
+
 ![[PKM toolstack.excalidraw.png]]
 
 ## LinkedIn post
+
 [Post on LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_knowledgemanagement-activity-7156926314552156161-IktW?utm_source=share&utm_medium=member_desktop)
 
 Unleashing the Power of Personal [hashtag#KnowledgeManagement](https://www.linkedin.com/feed/hashtag/?keywords=knowledgemanagement&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7156926314552156161): Uncover My Unique Tool Stack 🛠️  
@@ -49,9 +51,8 @@ This curated stack not only boosts my learning and development, but also enhance
   
 Now, it's your turn. What's in your technology stack? How do you manage your personal knowledge? Let's learn and grow together! 💬
 
-
-
 ## Main content
+
 I use SecondBrain as my overarching Personal Knowledge Management System, blended with Zettelkasten elements. 
 
 I currently combine the following tool and app-stack for my personal knowledge management and development. Looking at the dimensions - learning and development, health and fitness.
@@ -71,4 +72,5 @@ I currently combine the following tool and app-stack for my personal knowledge m
 + My digital garden to express and share my knowledge in a work out loud manner
 
 Posted on **LINKEDIN** on 2024-01-27_Sat
+
 # Linking

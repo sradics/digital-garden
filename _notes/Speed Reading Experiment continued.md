@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240808060640.png
-date_created: Wednesday, August 7th 2024, 6:09:41 am
-date_modified: Thursday, August 8th 2024, 6:08:20 am
+date_created: 2024-08-07 06:09
+date_modified: 2025-06-25 00:01
 ---
 # [[Speed Reading Experiment continued]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-you-learn-2x-faster-at-zero-cost-and-activity-7226829927256408064-OPvZ?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240808060640.png|400]]  
@@ -35,8 +37,7 @@ The skill is ➠ S...D R.....G
 Type your answer in the chat.  
 (FYI ChatGPT gets it immediately - you too?)  
 ([https://lnkd.in/gz6kA3n6](https://lnkd.in/gz6kA3n6))  
-  
-  
+
 ———  
 P.S.  
 🔔 I share insights daily at 8:00AM (CEST)  
@@ -47,7 +48,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-07_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

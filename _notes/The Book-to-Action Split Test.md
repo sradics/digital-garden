@@ -6,8 +6,10 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 pdf: Book_to_Action_LinkedIn.pdf
-date_created: Thursday, June 5th 2025, 8:01:20 am
-date_modified: Friday, June 6th 2025, 11:55:46 am
+date_created: 2025-06-05 08:01
+date_modified: 2025-06-25 00:01
+aliases: ["The Book-to-Action Split Test "]
+linter-yaml-title-alias: "The Book-to-Action Split Test "
 ---
 # [[The Book-to-Action Split Test ]]
 

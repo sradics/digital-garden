@@ -7,11 +7,13 @@ tags:
   - publish_in_newsletter
   - rating/⭐️⭐️⭐️
   - 12_fav_problems/continuous_learning
-date_created: Tuesday, January 30th 2024, 7:21:41 am
-date_modified: Thursday, February 1st 2024, 7:36:26 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Smart Connections - the next level of working with AI]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_second-brain-and-smart-connection-ai-a-activity-7158005926812143616-ds1b?utm_source=share&utm_medium=member_desktop)
 
 ![[SecondBrain-SmartConnections-LinkedIn.pdf]]
@@ -39,6 +41,7 @@ What could you achieve with such a powerful tool in your arsenal? 💡
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 + A new level of leveraging AI on my Second Brain just appeared over nights. Smart Connections. What an awesome extension.
 + Look at the growing size of my Second Brain ... all my externalized knowledge so far.
 + Each dot - one note. With the size of a note indicating the amount of connections with other notes. That can correlate with importance of that note too.
@@ -48,5 +51,7 @@ What could you achieve with such a powerful tool in your arsenal? 💡
 + This is now a next level of leveraging my Second Brain. A marriage of two powerful tools - Second Brain and AI. It is highly personalized AI and big difference to generic AI.
 
 Posted on **LINKEDIN** on 2024-01-30_Tue
+
 # Linking
+
 * [[My running list of 12 favorite problems#Continuous Learning]]

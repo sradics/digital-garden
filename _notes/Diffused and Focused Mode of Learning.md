@@ -5,8 +5,8 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Friday, January 5th 2024, 9:43:24 am
-date_modified: Sunday, January 28th 2024, 9:45:07 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Diffused and Focused Mode of Learning]]
 
@@ -40,4 +40,5 @@ Also, if you're intrigued by concepts like learning modes, productivity, and bui
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 # Linking
+
 + [[MOC - Learning How to Learn]]

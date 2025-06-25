@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20240704064550.png
-date_created: Wednesday, July 3rd 2024, 6:55:33 am
-date_modified: Thursday, July 4th 2024, 6:46:17 am
+date_created: 2024-07-03 06:55
+date_modified: 2025-06-25 00:01
 ---
 # [[Level Up on LinkedIn Writing]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-fast-track-linkedin-and-gained-key-activity-7214155750481244160-9O2J?utm_source=share&utm_medium=member_desktop)
 
 🚀 How I Fast-Track LinkedIn and gained Key Insights in 3 Days 🚀  
@@ -22,8 +24,7 @@ It’s been 3 days with Brand Built, and I’ve already:
 ✓ run through the 12-week LinkedIn mastery course  
 ✓ attended my first community sessions  
 ✓ experienced an engaging community  
-  
-  
+
 ———  
 My top 5 insights so far:  
 ———  
@@ -36,10 +37,11 @@ To grow an audience, you need to connect and engage with valuable insights from 
 I need to go deeper into defining my Ideal Client Profile.  
   
 Who exactly wants to:  
+
 > learn faster,  
 > keep more, and  
 > is willing to invest time and money for that?  
-  
+
 3️⃣ Profile Optimization:  
 Next steps on my profile - banner, tagline, featured section, and about me.  
   
@@ -58,8 +60,7 @@ These insights have already led to:
 → Setting up my process for better engagement and working on it daily  
 → First changes to my post structure and partially reworked featured section  
 → A tailored and condensed version with key insights from the LinkedIn mastery course  
-  
-  
+
 Being part of the Brand Built community amplifies my progress.  
   
 Working in this community helps me to:  
@@ -67,24 +68,21 @@ Working in this community helps me to:
 → Reflect on my approaches  
 → Increase my commitment and accountability  
 → Gain insights from peers and founders+experts [](https://www.linkedin.com/in/ACoAAAFjpa8B7wpeBT3HiBnn6GitlAjVuum3dLc)[Nat Berman](https://www.linkedin.com/in/nathanielberman/) and [](https://www.linkedin.com/in/ACoAAAFvS4MBjL7DwPIaIty21SMNubtWoscPOOQ)[Darren Mass](https://www.linkedin.com/in/darrenmass/)  
-  
-  
+
 In the next days, I’ll re-watch and learn from the recorded community sessions and expert talks.  
   
 Paralleled with further extensive note-taking and feeding my Second Brain 🧠.  
   
 What is your experience with communities?  
-  
-  
-  
+
 P.S. - Please repost ♻ if you found this useful.
 
 ![[Pasted image 20240704064550.png]]
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 How I FastTrack LinkedIn and gain main insights after 3 days
 (Insights I did not discover yet even after 6 months of daily writing)
 
@@ -112,8 +110,8 @@ In the next days I'll re-watch and learn from the recorded community sessions an
 
 P.S. - Please repost ♻ if you found this useful
 
-
-
 Posted on **LINKEDIN** on 2024-07-03_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

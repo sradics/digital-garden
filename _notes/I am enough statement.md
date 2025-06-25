@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
-date_created: Saturday, February 17th 2024, 6:33:07 am
-date_modified: Sunday, February 25th 2024, 5:39:31 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[I am enough statement]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_have-you-ever-felt-like-your-own-worst-critic-activity-7164551548352610304-U_ki?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240225173846.png|300]]
@@ -49,6 +51,7 @@ Notice the emotions that arise. Let this be the start of a new conversation with
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Thank you Katharina Loth for mentioning this life changing concept to me
 (based on making PRAISE familiar and critisism unfamiliar)
 
@@ -69,4 +72,5 @@ I AM ENOUGH is guiding me everywhere. I made it my phone screen background and I
 So today I'd like to ask your for one simple action. Close your eyes and say to yourself loud and clearly. I AM ENOUGH, I AM SO ENOUGH, it is UNBELIEVABLE HOW ENOUGH I AM and observe your emotions. 
 
 Posted on **LINKEDIN** on 2024-02-17_Sat
+
 # Linking

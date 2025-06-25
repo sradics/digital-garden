@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Monday, September 9th 2024, 6:44:15 am
-date_modified: Tuesday, September 10th 2024, 6:23:46 am
+date_created: 2024-09-09 06:44
+date_modified: 2025-06-25 00:01
 ---
 # [[My ICP]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_they-say-go-niche-find-your-icp-im-not-activity-7238788306170187776-0QXS?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240910062300.png|400]]
 
@@ -75,5 +77,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-09_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - ln_weekly_highlight
   - linkedin/processed
-date_created: Friday, December 27th 2024, 6:27:23 am
-date_modified: Sunday, December 29th 2024, 7:00:58 am
+date_created: 2024-12-27 06:27
+date_modified: 2025-06-25 00:01
 pdf: 2024_KW52_Weekly Highlights.pdf
 ---
 # [[My highlights KW52]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_highlight-from-kw52-in-2024-activity-7278303807552323584-uBiy?utm_source=share&utm_medium=member_desktop)
 
 ![[2024_KW52_Weekly Highlights.pdf]]
@@ -53,5 +55,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-27_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

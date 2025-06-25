@@ -6,8 +6,10 @@ tags:
   - linkedin/processed
   - 12_fav_problems/relationships
 image: Pasted image 20250612193116.png
-date_created: Wednesday, June 11th 2025, 8:25:07 am
-date_modified: Thursday, June 12th 2025, 7:32:12 pm
+date_created: 2025-06-11 08:25
+date_modified: 2025-06-25 00:01
+aliases: ["TheDock AI Forum "]
+linter-yaml-title-alias: "TheDock AI Forum "
 ---
 # [[TheDock AI Forum ]]
 

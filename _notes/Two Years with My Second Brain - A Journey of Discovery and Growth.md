@@ -5,9 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Two Years with My Second Brain - A Journey of Discovery and Growth]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_2-years-of-working-with-my-second-brain-activity-7162724513686753280-eHux?utm_source=share&utm_medium=member_desktop)
 
 ![[2 years working with my Second Brain.pdf]]
@@ -42,6 +46,7 @@ Two years into nurturing my Second Brain, I'm excited to see where this journey 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 + 2920 notes
 + 2304 attachements
 + 5224 files
@@ -71,6 +76,8 @@ Exhanced capabilities from 2 years into growing my Second Brain
 + Via my expressed thoughts in my digital garden I can help others very fast and share my knowledge for deep dive and providing impulses
 
 Posted on **LINKEDIN** on 2024-02-12_Mon
+
 # Linking
+
 + [[MOC Building a 2nd brain]]
 + [[My running list of 12 favorite problems#Continuous Learning]]

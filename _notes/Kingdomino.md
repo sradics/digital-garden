@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20241223055805.png
-date_created: Sunday, December 22nd 2024, 6:10:00 am
-date_modified: Monday, December 23rd 2024, 5:58:58 am
+date_created: 2024-12-22 06:10
+date_modified: 2025-06-25 00:01
 ---
 # [[Kingdomino]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-great-kingdomino-downfall-a-fathers-activity-7276491702087946240-Nw4C?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241223055805.png|400]]
@@ -70,5 +72,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-22_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -8,12 +8,16 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Thursday, May 15th 2025, 7:32:36 am
-date_modified: Friday, May 16th 2025, 7:08:42 am
+date_created: 2025-05-15 07:32
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250516070809.png
+aliases: ["Boot to Action - 3 steps "]
+linter-yaml-title-alias: "Boot to Action - 3 steps "
 ---
 # [[Boot to Action - 3 steps ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ever-read-a-book-and-then-nothing-happens-activity-7328660829845790720-3mBi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250516070809.png|400]]
@@ -72,7 +76,9 @@ P.S. When you know you can transform book highlights into an action plan in unde
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-15_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]
 
   

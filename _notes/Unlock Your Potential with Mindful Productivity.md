@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Sunday, March 17th 2024, 4:57:50 am
-date_modified: Sunday, April 21st 2024, 9:28:27 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Unlock Your Potential with Mindful Productivity]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_longevity-activity-7175053272204881920--_bI?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421092816.png|400]]
@@ -43,6 +45,7 @@ Have you considered how the small things you do every day could lead to big chan
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I have my mind framed with growth loops and constant feedback.
 
 I use the PARI system, a mindful productivity practice that applies mindframing and combines working with a Growth Mindset, Metacognition and Self-Authorship.
@@ -56,5 +59,7 @@ Applied to my daily push up routine:
 With PARI I care about winning repeatedly and building my core strength to pave my path to longevity.
 
 Posted on **LINKEDIN** on 2024-03-17_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Health]]

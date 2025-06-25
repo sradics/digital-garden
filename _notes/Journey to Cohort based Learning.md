@@ -4,11 +4,13 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Sunday, January 28th 2024, 9:52:32 pm
-date_modified: Sunday, January 28th 2024, 9:53:30 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Journey to Cohort based Learning]]
+
 ## LinkedIn Post
+
 [Post on LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_cohortbasedlearning-leadershipdevelopment-activity-7150432783977320449-OzrA?utm_source=share&utm_medium=member_desktop)
 
 🚀 Journey to Cohort-Based Learning: A Transformational Tale 🚀  
@@ -32,6 +34,8 @@ I'm grateful for my early exposure to group-based learning and thrilled to enabl
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-01-28_Sun
+
 # Linking
+
 + [[MOC - Learning How to Learn]]
 + [[MOC Cohort Base Courses]]

@@ -6,12 +6,14 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
   - 12_fav_problems/help_others_grow
-date_created: Monday, April 8th 2024, 5:16:17 am
-date_modified: Sunday, April 21st 2024, 8:30:28 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421081122.png
 ---
 # [[I was tired of constantly re-learning the same things]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-was-tired-of-constantly-re-learning-the-activity-7183003215276208129-uTnM?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421081122.png|400]]
@@ -41,6 +43,7 @@ Want a head start? Send me a DM for my free guide to getting started with PKM.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Hook:
 
 One person:
@@ -73,7 +76,9 @@ Follow me to get more insights on Smart Learning and growing your approach lever
 💡
 
 Posted on **LINKEDIN** on 2024-04-08_Mon
+
 # Linking
+
 + [[MOC Building a 2nd brain]]
 + [[BASB - Learning about Capture]]
 + [[BASB - Learning about Organize]]

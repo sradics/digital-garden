@@ -10,11 +10,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250413065535.png
-date_created: Saturday, April 12th 2025, 7:48:09 am
-date_modified: Sunday, April 13th 2025, 6:55:59 am
+date_created: 2025-04-12 07:48
+date_modified: 2025-06-25 00:01
 ---
 # [[The practical use case]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-abandoned-chatgpt-after-3-weeks-my-shift-activity-7316701634535837696-L1vd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250413065535.png|400]]
@@ -68,12 +70,12 @@ P.S.
 Can't decide yet?  
 Sent me a DM or comment "thinking" and I'll reach out.
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2025-04-12_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Thursday, March 21st 2024, 4:06:00 am
-date_modified: Sunday, April 21st 2024, 9:22:37 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[How I turned skepticism into podcast addiction]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-turned-skepticism-into-podcast-addiction-activity-7176487951441231873-MH9p?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240421092208.png|400]]  
 
@@ -36,6 +38,7 @@ What's a must-listen episode in your book? Please let me know in the comments!
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 For a long time I did not work with PodCasts. I perceived it as too much talking to less insights. And I was wrong! The change came for me when I was watching a PodCast episode by Andrew Huberman and his interview with David Goggins on How to build Immense Inner Strength. The shared insights, the flow of the conversation and the genius perceived from both was deeply touching me. 
 That was my moment of discovery. So far, my drive for efficiency blurred my mind. 
 
@@ -51,4 +54,5 @@ Now I discovered:
 So I'm now on my journey to explore the PodCast world. And I would love to get your recommendations. What is your favorite podcast episode that I should listen to next? Please share in the comments.
 
 Posted on **LINKEDIN** on 2024-03-21_Thu
+
 # Linking

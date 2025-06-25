@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250117062738.png
-date_created: Thursday, January 16th 2025, 7:02:00 am
-date_modified: Friday, January 17th 2025, 6:28:09 am
+date_created: 2025-01-16 07:02
+date_modified: 2025-06-25 00:01
 ---
 # [[Passive or Active knowledge work]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_scrolling-10-insight-zero-only-3-of-activity-7285551523005124608-BUXr?utm_source=share&utm_medium=member_desktop)
   
 ![[Pasted image 20250117062738.png|400]]
@@ -63,13 +65,12 @@ From wasteful doom scrolling to powerful knowledge.
 Ready to take the shortcut to Level 5?
 I'll be your guide on this journey.
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-01-16_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

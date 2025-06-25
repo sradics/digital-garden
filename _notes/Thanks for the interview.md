@@ -7,11 +7,13 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20241012220800.png
-date_created: Friday, October 11th 2024, 9:59:05 pm
-date_modified: Saturday, October 12th 2024, 10:08:26 pm
+date_created: 2024-10-12 06:59
+date_modified: 2025-06-25 00:01
 ---
 # [[Thanks for the interview]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-use-obsidian-and-my-second-brain-for-activity-7250747016245383168-E6ao?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241012220800.png|400]]
@@ -53,6 +55,8 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-11_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]
 + https://share.descript.com/view/fMc4eZc3C5W

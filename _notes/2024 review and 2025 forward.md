@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Wednesday, January 1st 2025, 6:38:58 am
-date_modified: Thursday, January 2nd 2025, 6:20:36 am
+date_created: 2025-01-01 06:38
+date_modified: 2025-06-25 00:01
 ---
 # [[2024 review and 2025 forward]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_8000-followers-one-year-the-mistake-activity-7280115573844324352-_2pq?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250102061954.png|400]]
@@ -83,5 +85,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-01_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

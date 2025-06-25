@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241225065951.png
-date_created: Tuesday, December 24th 2024, 6:22:48 am
-date_modified: Wednesday, December 25th 2024, 7:00:48 am
+date_created: 2024-12-24 06:22
+date_modified: 2025-06-25 00:01
 ---
 # [[The broken toy]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_at-8-i-broke-my-favorite-christmas-gift-activity-7277216476397244416-iG7R?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241225065951.png|400]]
@@ -59,5 +61,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-24_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

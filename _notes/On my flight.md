@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/relationships
 image: Pasted image 20241003030144.png
-date_created: Tuesday, October 1st 2024, 7:48:13 pm
-date_modified: Thursday, October 3rd 2024, 3:02:09 am
+date_created: 2024-10-02 04:48
+date_modified: 2025-06-25 00:01
 ---
 # [[On my flight]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_secondbrainsummit-activity-7247123156165935104-AQlE?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241003030144.png|400]]
@@ -70,8 +72,8 @@ I help people learn how to learn, retain and recall with ease
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-10-02_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240707043522.png
-date_created: Saturday, July 6th 2024, 5:24:33 am
-date_modified: Sunday, July 7th 2024, 4:36:44 am
+date_created: 2024-07-06 05:24
+date_modified: 2025-06-25 00:01
 ---
 # [[Interesting how people do not change their approach to learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_old-habits-die-hard-especially-when-you-activity-7215210306455646208-Fhfr?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240707043522.png|400]]
  Old Habits Die Hard  
@@ -53,6 +55,7 @@ I’m happy to share more insights.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Old habits die hard
 (especially when you are still successful)
 
@@ -95,5 +98,7 @@ I'm happy to share more insights.
 P.S. - Please repost ♻ if you found this useful
 
 Posted on **LINKEDIN** on 2024-07-06_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

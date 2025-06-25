@@ -5,9 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Daily AI usage]]
+
 ## LinkedIn Post
+
 ![[Pasted image 20240225174225.png]]
 
 How AI Has Become My Daily Superpower  
@@ -46,13 +50,12 @@ If you're looking to leverage AI in your routines and could use a guiding hand, 
   
 Let's Inspire Each Other! Share how you're using AI in your daily routines.
 
-
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-ai-has-become-my-daily-superpower-explore-activity-7163804147408965635--yot?utm_source=share&utm_medium=member_desktop)
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I can say than I formed a habit of using AI. By deeply integrating AI in my daily routines, for now nearly one year. It became my first thought when I need to tackle a task. I leverage AI as my assistent, as my sparring partner, and as my coach. These are several of my usages of AI:
 
 + For translations and fine tuning of sentences. I'm not a native English speaker, so it comes hand that I can just prompt: Please phrase in better English; Please translate: German phrasing and combined with phrase in better English as at the moment the first attempt of translation in ChatGPT is often not yet great.
@@ -81,7 +84,6 @@ I'll link several posts that drill down on some of my concrete AI usages in the 
 
 If you might need a helping hand to get it started, let me know. Happy to assist and share my learnings and approaches.  
 
-
-
 Posted on **LINKEDIN** on 2024-02-15_Thu
+
 # Linking

@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20240915063900.png
-date_created: Saturday, September 14th 2024, 5:30:27 am
-date_modified: Sunday, September 15th 2024, 6:39:28 am
+date_created: 2024-09-14 05:30
+date_modified: 2025-06-25 00:01
 ---
 # [[Pay for prevention]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_if-you-dont-pay-for-prevention-youll-pay-activity-7240600658100260864-Eds_?utm_source=share&utm_medium=member_desktop)
   
 ![[Pasted image 20240915063900.png|400]]
@@ -75,7 +77,8 @@ Is now your time? 🤗
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-09-14_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

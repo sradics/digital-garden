@@ -6,11 +6,15 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20250603063650.png
-date_created: Friday, May 30th 2025, 7:18:54 am
-date_modified: Tuesday, June 3rd 2025, 6:37:46 am
+date_created: 2025-05-30 07:18
+date_modified: 2025-06-25 00:01
+aliases: ["Value interviews "]
+linter-yaml-title-alias: "Value interviews "
 ---
 # [[Value interviews ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-give-you-40-for-20-heres-why-you-activity-7334097864215744513-VVtJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250603063650.png|400]]
@@ -56,5 +60,7 @@ Today at 13:00 CEST: Friday Brain Upgrade Newsletter drops Main topic: Knowledge
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-30_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

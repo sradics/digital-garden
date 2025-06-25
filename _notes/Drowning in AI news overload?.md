@@ -7,12 +7,14 @@ tags:
   - publish_in_newsletter
   - 12_fav_problems/help_others_grow
   - rating/⭐️
-date_created: Tuesday, April 2nd 2024, 5:33:49 am
-date_modified: Sunday, April 21st 2024, 8:37:33 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 pdf: AI news processing.pdf
 ---
 # [[Drowning in AI news overload?]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_tame-ai-subscribe-capture-organize-distill-activity-7180828842524061696-pJ_z?utm_source=share&utm_medium=member_desktop)
 ![[AI news processing.pdf]]
 
@@ -40,7 +42,6 @@ What are your favorite AI news sources?
   
 👉 Follow me to learn how to turn information overload into actionable knowledge.
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
@@ -67,5 +68,7 @@ It works like that:
 + I follow my impulse for further catching up on these insights, based on my current projects and appetite for deep dives. With having newsletter insights available at your finger tips, you can leverage the information whenever you need to. 
 
 Posted on **LINKEDIN** on 2024-04-02_Tue
+
 # Linking
+
 + [[MOC Artificial Intelligence]]

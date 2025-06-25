@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - ln_weekly_highlight
 pdf: 2024_KW39_Weekly Highlights.pdf
-date_created: Friday, September 27th 2024, 6:32:22 am
-date_modified: Saturday, September 28th 2024, 6:20:27 am
+date_created: 2024-09-27 06:32
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW39]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_highlight-kw39-2024-activity-7245311293346181120-SxmS?utm_source=share&utm_medium=member_desktop)
 
 ![[2024_KW39_Weekly Highlights.pdf]]
@@ -54,7 +56,8 @@ I help people learn how to learn, retain and recall with ease
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-09-27_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

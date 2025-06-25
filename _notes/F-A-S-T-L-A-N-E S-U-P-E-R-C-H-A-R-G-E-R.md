@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/wealth
   - linkedin/processed
 image: Pasted image 20240513045931.png
-date_created: Sunday, May 12th 2024, 7:11:59 am
-date_modified: Monday, May 13th 2024, 5:01:16 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[F-A-S-T-L-A-N-E S-U-P-E-R-C-H-A-R-G-E-R]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_embarking-on-the-fastlane-to-wealth-activity-7195307639470182400-3jAp?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240513045931.png|400]]
 
@@ -49,11 +51,11 @@ A small impulse from the book — 🔑 F-A-S-T-L-A-N-E S-U-P-E-R-C-H-A-R-G-E-R
 (R)etire, Reward, or Repeat: Choose your path after success.  
   
 Massive thanks to [](https://www.linkedin.com/in/ACoAAAR_4IEByHkCrwrzr18uz8tRGO20J3jHaDg)[MJ DeMarco](https://www.linkedin.com/in/mjdemarco/) for this roadmap to a richer life and [](https://www.linkedin.com/in/ACoAABIy6l0BSCeUsSIjqYoJ5Pb-qZ77FD1bVt8)[Ali Abdaal](https://www.linkedin.com/in/ali-abdaal/) for the impulse through your Youtube video 🌟
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 F-A-S-T-L-A-N-E S-U-P-E-R-C-H-A-R-G-E-R
  
 Today morning started super early. 4AM I started to finish reading the "The Millionaire Fastlane".
@@ -83,13 +85,13 @@ F-A-S-T-L-A-N-E S-U-P-E-R-C-H-A-R-G-E-R
 (G)row - your business by treating it multi-dimensionally, like a game of chess. Treat customers like your boss and reposition complaints to opportunities
 (E)xit - Know when to liquidate your assets, transforming paper money into real money. Know when it’s time to get off the horse and learn to ride a new one
 (R)etire, Reward or Repeat - which, Reward yourself for milestones met along the journey.
- 
 
 Thank you Ali for providing the impulse through your Youtube video. Thank you MJ DeMarco for externalizing your thoughts with that awesome book.
 
-
 Posted on **LINKEDIN** on 2024-05-12_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Wealth]]
 + [[DeMarco-The Millionaire Fastlane]]
 + [[MOC Becoming a Fastlaner]]

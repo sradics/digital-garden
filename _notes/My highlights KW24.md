@@ -5,15 +5,16 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
 image: Pasted image 20240614190053.png
-date_created: Friday, June 14th 2024, 6:50:10 am
-date_modified: Friday, June 14th 2024, 7:01:25 pm
+date_created: 2024-06-14 06:50
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW24]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-top-5-linkedin-insights-this-week-activity-7207275647235174401-HI86?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240614190053.png|400]]
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
@@ -46,5 +47,7 @@ My top: Would you take this fast route to learning? ─ https://www.linkedin.com
 Your turn: What inspired you this week?
 
 Posted on **LINKEDIN** on 2024-06-14_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,8 +6,10 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20250615120252.png
-date_created: Friday, June 13th 2025, 7:52:29 am
-date_modified: Sunday, June 15th 2025, 12:06:16 pm
+date_created: 2025-06-13 07:52
+date_modified: 2025-06-25 00:01
+aliases: ["What a week "]
+linter-yaml-title-alias: "What a week "
 ---
 # [[What a week ]]
 

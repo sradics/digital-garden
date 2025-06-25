@@ -6,11 +6,13 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2024_KW28_Weekly Highlights.pdf
-date_created: Friday, July 12th 2024, 6:53:10 am
-date_modified: Saturday, July 13th 2024, 5:56:42 am
+date_created: 2024-07-12 06:53
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW28]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-top-5-in-kw-28-activity-7217410776007933952-gI4_?utm_source=share&utm_medium=member_desktop)
 
 ![[2024_KW28_Weekly Highlights.pdf]]
@@ -41,11 +43,9 @@ by [Majd A.](https://www.linkedin.com/in/majdalaily/) ─ [https://lnkd.in/eBxMX
 by [Yair Levy](https://www.linkedin.com/in/yairlevyy/) ─ [https://lnkd.in/efFn9imD](https://lnkd.in/efFn9imD)  
   
 ✪ My top: My wife ❤️ passed every exam on the first try ─ [https://lnkd.in/eJAPa8gE](https://lnkd.in/eJAPa8gE)  
-  
-  
+
 Your turn: What inspired you this week?  
-  
-  
+
 P.S. - Please repost ♻ if you found this useful
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
@@ -72,7 +72,6 @@ Life Hacks I know at 32 I wish I knew at 22 by Ben Meer ─ https://www.linkedin
 
 Top 12 Leadership Green Flags by Yair Levy ─ https://www.linkedin.com/posts/yairlevyy_leadership-isnt-a-mystery-its-a-skill-activity-7216913623229607936-I7WN?utm_source=share&utm_medium=member_desktop
 
-
 My top: My wife ❤️ passed every exam on the first try ─ https://www.linkedin.com/posts/sebastiankamilli_my-wife-passed-every-exam-on-the-first-activity-7216327484324130817-x83d?utm_source=share&utm_medium=member_desktop
 
 Your turn: What inspired you this week?
@@ -80,5 +79,7 @@ Your turn: What inspired you this week?
 P.S. - Please repost ♻ if you found this useful
 
 Posted on **LINKEDIN** on 2024-07-12_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

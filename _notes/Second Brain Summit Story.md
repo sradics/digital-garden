@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Saturday, September 28th 2024, 6:34:43 am
-date_modified: Sunday, September 29th 2024, 6:00:04 am
+date_created: 2024-09-28 06:34
+date_modified: 2025-06-25 00:01
 ---
 # [[Second Brain Summit Story]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_secondbrainsummit-activity-7245674286391115776-A_uQ?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240929055928.png|400]]
@@ -79,5 +81,7 @@ What is ONE question I should bring forward for you?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-28_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

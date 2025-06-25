@@ -6,15 +6,16 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2024_KW50_Weekly Highlights.pdf
-date_created: Friday, December 13th 2024, 6:39:53 am
-date_modified: Saturday, December 14th 2024, 7:05:29 am
+date_created: 2024-12-13 06:39
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW50]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_highlights-kw50-in-2024-activity-7273230347306258433-pjvX?utm_source=share&utm_medium=member_desktop)
 
 ![[2024_KW50_Weekly Highlights.pdf]]
-
 
 My top 5️⃣ LinkedIn Insights this Week 💡  
   
@@ -52,13 +53,12 @@ Want to gain deeper insights into Learning with Impact?
   
 EDITION 003 - The effect of Compounding Learning - today 13:00 CET
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-12-13_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

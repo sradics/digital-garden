@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240829062409.png
-date_created: Wednesday, August 28th 2024, 5:30:26 am
-date_modified: Thursday, August 29th 2024, 6:24:35 am
+date_created: 2024-08-28 05:30
+date_modified: 2025-06-25 00:01
 ---
 # [[Principles of working with AI]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_4-principles-for-mastering-ai-collaboration-activity-7234439955232571394-gdJV?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240829062409.png|400]]
@@ -28,15 +30,13 @@ t's dive into the 4 principles:
 Inspired by 📖 Co-Intelligence  
 Living and Working with AI  
 by Ethan Mollick  
-  
-  
+
  ALWAYS INVITE AI to the table (AI First)  
   
 → Use AI to assist you in everyday tasks.  
 → Consider how AI might reshape your role.  
 → Explore how AI can innovate your workflow.  
-  
-  
+
 2) Treat AI LIKA A PERSON  
   
 → AI is fast and knowledgable but not flawless  
@@ -61,15 +61,12 @@ For example I use Switch Writing for my content
 ↳ Books (e.g. Co-Intelligence)  
 ↳ Communities (e.g. AI Exchange)  
 ↳ Newsletters (e.g. [Insidr.ai](http://insidr.ai/), The AI Solopreneur)  
-  
-  
 
 → Check for hallucinations and lies  
 → Stay responsible and accountable  
 align AI’s work with ethics and human values.  
 → Discover sparks of growing intelligence early  
-  
-  
+
 What is ONE principle that you follow when you use AI?  
 
 ———  
@@ -81,7 +78,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-28_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

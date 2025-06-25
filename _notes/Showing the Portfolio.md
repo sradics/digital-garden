@@ -7,11 +7,13 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Wednesday, March 26th 2025, 6:56:48 am
-date_modified: Thursday, March 27th 2025, 4:46:56 am
+date_created: 2025-03-26 06:56
+date_modified: 2025-06-25 00:01
 ---
 # [[Showing the Portfolio]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ive-consolidated-25-years-of-learning-activity-7310556155703885824-nNbZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250327044509.png|400]]
@@ -68,7 +70,9 @@ P.S. Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-26_Wed
+
 # Linking
+
 + [[My Presentations, Talks, Podcast, Videos, Workshops]]
 + Example: [[Learning That Pays Dividends]]
 + [[My running list of 12 favorite problems]]

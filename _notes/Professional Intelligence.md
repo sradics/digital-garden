@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250103071608.png
-date_created: Thursday, January 2nd 2025, 6:22:01 am
-date_modified: Friday, January 3rd 2025, 7:17:39 am
+date_created: 2025-01-02 06:22
+date_modified: 2025-06-25 00:01
 ---
 # [[Professional Intelligence]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ai-handles-iq-but-can-you-master-these-activity-7280478088776323072-s49R?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250103071608.png|400]]
@@ -101,5 +103,7 @@ MQ=3-4
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-02_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

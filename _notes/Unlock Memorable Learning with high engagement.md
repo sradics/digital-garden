@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Wednesday, March 20th 2024, 5:55:21 am
-date_modified: Sunday, April 21st 2024, 9:23:48 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Unlock Memorable Learning with high engagement]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-memorable-learning-with-high-engagement-activity-7176125369849126912-2509?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421092316.png|400]]
@@ -68,4 +70,5 @@ In order to make content engaging and effective in our group coaching sessions w
 Great detailed article by Andrew DeBell - https://www.linkedin.com/pulse/how-use-mayers-12-principles-multimedia-learning-examples-debell/
 
 Posted on **LINKEDIN** on 2024-03-20_Wed
+
 # Linking

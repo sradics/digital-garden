@@ -9,11 +9,15 @@ tags:
   - lightbulb/4-🟢-my_offer
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250604095826.png
-date_created: Wednesday, June 4th 2025, 7:54:29 am
-date_modified: Wednesday, June 4th 2025, 10:02:42 am
+date_created: 2025-06-04 07:54
+date_modified: 2025-06-25 00:01
+aliases: ["3 Steps - 10 Minutes "]
+linter-yaml-title-alias: "3 Steps - 10 Minutes "
 ---
 # [[3 Steps - 10 Minutes ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-wife-asked-whats-got-you-excited-activity-7335914428573315072-NrjT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250604095826.png|400]]
@@ -61,5 +65,7 @@ P.S. I'll share the video and the resulting Summary note in the comments
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-06-04_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

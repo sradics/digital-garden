@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240510044950.png
-date_created: Wednesday, May 8th 2024, 4:55:02 am
-date_modified: Friday, May 10th 2024, 4:50:39 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[How I create presentations directly from my Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_pkm-activity-7193867273005133824-jMOT?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240510044950.png]]
 
@@ -41,7 +43,6 @@ This approach keeps you in your creative flow.
 It reinforces the Express stage of my knowledge management and enables an efficient and integrated presentation creation process within Obsidian.  
   
 👉 Follow me for more insights on leveraging Obsidian for a robust Second Brain
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
@@ -67,5 +68,7 @@ Presentation are a result of the Express stage in my Capture-Organize-Distill-Ex
 Follow me for more insights from working with Obsidian to grow a Second Brain
 
 Posted on **LINKEDIN** on 2024-05-08_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

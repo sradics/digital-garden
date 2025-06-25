@@ -6,12 +6,14 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
   - 12_fav_problems/continuous_learning
-date_created: Tuesday, April 9th 2024, 5:28:00 am
-date_modified: Sunday, April 21st 2024, 8:31:17 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421080906.png
 ---
 # [[How I utilize 23 years knowledge to design impactful leadership sessions]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-use-my-23-years-of-knowledge-to-design-activity-7183357970745831424-TUrs?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421080906.png|400]]
@@ -78,6 +80,8 @@ One CTA:
 Follow me for deeper insights on Building Your Second Brain
 
 Posted on **LINKEDIN** on 2024-04-09_Tue
+
 # Linking
+
 + [[Leadership Coaching]]
 + [[Leadership Development]]

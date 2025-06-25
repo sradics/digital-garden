@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250108070115.png
-date_created: Tuesday, January 7th 2025, 7:13:30 am
-date_modified: Wednesday, January 8th 2025, 7:01:37 am
+date_created: 2025-01-07 07:13
+date_modified: 2025-06-25 00:01
 ---
 # [[Learning Styles Blindspots]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-designed-perfect-trainings-that-bored-activity-7282289885502214144-ZYQN?utm_source=share&utm_medium=member_desktop)
   
 ![[Pasted image 20250108070115.png|400]]
@@ -56,8 +58,7 @@ I failed to invite and include the WHY-Learner.
 Understanding different learning styles revealed my blind spots.  
   
 Now I design trainings that speak to all 4 learning types.  
-  
-  
+
 Ready to transform your approach?  
   
 Want to:  
@@ -69,12 +70,12 @@ Join my Learning Styles Discovery Workshop on January 14th!
 Limited to 30 seats - free but application required!  
 Apply now: [https://lnkd.in/ejcQ5QTn](https://lnkd.in/ejcQ5QTn)
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2025-01-07_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

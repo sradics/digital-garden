@@ -6,8 +6,10 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20250615120108.png
-date_created: Sunday, June 15th 2025, 5:34:10 am
-date_modified: Sunday, June 15th 2025, 12:02:21 pm
+date_created: 2025-06-15 05:34
+date_modified: 2025-06-25 00:01
+aliases: ["PARA Assistant "]
+linter-yaml-title-alias: "PARA Assistant "
 ---
 # [[PARA Assistant ]]
 

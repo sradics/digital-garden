@@ -7,11 +7,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20241016061852.png
-date_created: Tuesday, October 15th 2024, 6:54:48 am
-date_modified: Wednesday, October 16th 2024, 6:19:17 am
+date_created: 2024-10-15 06:54
+date_modified: 2025-06-25 00:01
 ---
 # [[How I write my notes]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_focused-writing-increases-clarity-and-retention-activity-7251834299350446084-EdYQ?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241016061852.png|400]]
@@ -79,5 +81,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-15_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

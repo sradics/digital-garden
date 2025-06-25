@@ -7,11 +7,13 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250106055522.png
-date_created: Sunday, January 5th 2025, 6:55:48 am
-date_modified: Monday, January 6th 2025, 5:56:16 am
+date_created: 2025-01-05 06:55
+date_modified: 2025-06-25 00:01
 ---
 # [[Clearly a What Type - the Ikea Screw Counter]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-admit-i-count-ikea-screws-the-surprising-activity-7281565286988668930-PH5l?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250106055522.png|400]]
@@ -67,5 +69,7 @@ Comment "LEARNING" or DM me "LEARNING"
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-05_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

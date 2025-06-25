@@ -5,12 +5,16 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/continuous_learning
-date_created: Monday, May 26th 2025, 6:10:55 am
-date_modified: Wednesday, May 28th 2025, 7:51:57 am
+date_created: 2025-05-26 06:10
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250528075130.png
+aliases: ["Building Blocks AI assistant "]
+linter-yaml-title-alias: "Building Blocks AI assistant "
 ---
 # [[Building Blocks AI assistant ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-asked-for-feedback-got-destroyed-did-activity-7332646977639264256-laig?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250528075130.png|400]]
@@ -60,5 +64,7 @@ DM me or comment "C02" if you want to know more about it.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-26_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

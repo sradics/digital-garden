@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/relationships
 image: Pasted image 20241108061317.png
-date_created: Thursday, November 7th 2024, 7:21:13 am
-date_modified: Friday, November 8th 2024, 6:14:24 am
+date_created: 2024-11-07 07:21
+date_modified: 2025-06-25 00:01
 ---
 # [[Live impression from the conference]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_speak-your-teams-hidden-language-decoding-activity-7260184247813001217-tBlo?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241108061317.png|400]]
@@ -87,5 +89,7 @@ Want to have me speaking to your team or in your company event
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-07_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

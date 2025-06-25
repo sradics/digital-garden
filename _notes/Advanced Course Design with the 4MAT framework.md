@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240531054740.png
-date_created: Wednesday, May 29th 2024, 4:50:49 pm
-date_modified: Friday, May 31st 2024, 5:48:53 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Advanced Course Design with the 4MAT framework]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_thrilled-to-announce-im-now-a-certified-activity-7201839832229130240-beOH?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240531054740.png|400]]
 
@@ -35,6 +37,7 @@ want to dive deeper into the 4MAT framework, feel free to reach out.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I took the 4MAT Mastering Training Design and I'm now a certified 4MAT Master. Hugh thanks to Hanne Houbak for running such a well crafted course. Thanks Dr Bernice McCarthy for creating such a holistic framework.
 
 I learned so much in 3 days about:
@@ -47,7 +50,8 @@ Amplify your Second Brain and Digital Garden with AI that I'll provide next week
 
 In case you need a helping hand with your course designs and/or would like to get more insights about 4MAT/Learning Types or 4MAT or designing courses/workshops/presentations, please let me know.
 
-
 Posted on **LINKEDIN** on 2024-05-29_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

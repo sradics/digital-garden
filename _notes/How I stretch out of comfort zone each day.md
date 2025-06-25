@@ -6,12 +6,14 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
   - 12_fav_problems/health
-date_created: Thursday, April 4th 2024, 6:02:55 am
-date_modified: Sunday, April 21st 2024, 8:30:12 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 pdf: 4 steps  To Break out of Your Comfort Zone.pdf
 ---
 # [[How I stretch out of comfort zone each day]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_4-steps-to-break-out-of-your-comfort-zone-activity-7181546054272589826-NEq2?utm_source=share&utm_medium=member_desktop)
 
 ![[4 steps  To Break out of Your Comfort Zone.pdf]]
@@ -64,6 +66,8 @@ What's your technique for breaking out of your comfort zone? Share in the commen
 CTA: Follow me for leadership insights
 
 Posted on **LINKEDIN** on 2024-04-04_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[My running list of 12 favorite problems#Health]]

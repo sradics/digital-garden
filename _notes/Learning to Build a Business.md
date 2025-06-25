@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20241024064936.png
-date_created: Wednesday, October 23rd 2024, 6:16:45 am
-date_modified: Thursday, October 24th 2024, 6:50:12 am
+date_created: 2024-10-23 06:16
+date_modified: 2025-06-25 00:01
 ---
 # [[Learning to Build a Business]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_change-is-daunting-but-youre-not-alone-activity-7254733399154724866-nOuP?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241024064936.png|400]]  
@@ -98,8 +100,8 @@ Comment "SmartLearner" if interested.
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-10-23_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

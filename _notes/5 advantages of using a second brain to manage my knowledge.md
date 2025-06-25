@@ -3,8 +3,8 @@ tags:
   - digital_garden
   - epstatus/2-🪴
   - linkedin/processed
-date_created: Saturday, February 4th 2023, 10:13:53 pm
-date_modified: Thursday, May 18th 2023, 6:15:55 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # 5 advantages of using a second brain to manage my knowledge
 
@@ -17,9 +17,9 @@ date_modified: Thursday, May 18th 2023, 6:15:55 pm
 The attached picture shows my knowledge web that I maintain using Obsidian. I partially extract to my digital garden, my approach to working out loud. Each dot represents one piece of knowledge.  
   
 How do you manage your knowledge? What works for you? And where do you struggle?  
-  
 
 Posted on [LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_learning-secondbrain-obsidian-activity-7023895496771436544-isw1?utm_source=share&utm_medium=member_desktop) on 
 
 # Linking
+
 * [[MOC Building a 2nd brain]]

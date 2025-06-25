@@ -7,12 +7,14 @@ tags:
   - publish_in_newsletter
   - 12_fav_problems/health
   - rating/⭐️⭐️
-date_created: Thursday, April 11th 2024, 5:24:30 am
-date_modified: Sunday, April 21st 2024, 8:33:33 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421080426.png
 ---
 # [[Building Strong Habits - One Streak at a time]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-these-8-streaks-help-me-forming-strong-activity-7184082862306930688-wfJl?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421080426.png|400]]
@@ -87,7 +89,9 @@ How do you support yourself with forming your habits? What works that I might al
 Follow me for more insights on Habit formation.
 
 Posted on **LINKEDIN** on 2024-04-11_Thu
+
 # Linking
+
 + [[Habit building]]
 + [[Habit Building and Peloton]]
 + [[The Power of Habit]]

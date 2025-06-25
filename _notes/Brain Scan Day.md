@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20241005023921.png
-date_created: Friday, October 4th 2024, 3:35:16 am
-date_modified: Saturday, October 5th 2024, 2:39:51 am
+date_created: 2024-10-04 12:35
+date_modified: 2025-06-25 00:01
 ---
 # [[Brain Scan Day]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_secondbrainsummit-secondbrainsummit-activity-7247931000570146816-VRvs?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20241005023921.png|400]]
 
@@ -83,8 +85,7 @@ I'll share in a next post.
   
 Interesting what one can read from brain waves in 30 minutes.  
 What is ONE thought that comes to your mind?  
-  
-  
+
 ———  
 P.S.  
 ➕ Follow me for more insights from the [hashtag#secondbrainsummit](https://www.linkedin.com/feed/hashtag/?keywords=secondbrainsummit&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7247931000570146816)
@@ -94,5 +95,7 @@ P.S.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-04_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Wednesday, March 13th 2024, 5:16:00 am
-date_modified: Sunday, April 21st 2024, 9:37:40 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Unlock Growth - Lead with Care Then Knowledge]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-growth-lead-with-care-then-knowledge-activity-7173588682157846528-8NHZ?utm_source=share&utm_medium=member_desktop)
 
 Unlock Growth: Lead with Care, Then Knowledge  
@@ -46,6 +48,7 @@ What ONE way do you show you care in professional relationships? Share below for
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 While learning about "Lightbulb 1: What is one problem or challenge your customer is facing?" I got hooked by the quote:
 
 People don't care how much you know, until they know how much you care
@@ -61,4 +64,5 @@ I can explore the symptoms that are expressed. I can look at ripple effects. And
 And interesting challenge. What is your experience with building connection? What do you associate with: People don't care how much you know, until they know how much you care?
 
 Posted on **LINKEDIN** on 2024-03-13_Wed
+
 # Linking

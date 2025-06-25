@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Sunday, March 24th 2024, 5:57:18 am
-date_modified: Sunday, April 21st 2024, 9:02:57 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Juniors, want a career superpower - Master AI-amplified learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_juniors-want-a-career-superpower-master-activity-7177594372190810112--KuH?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421090232.png|400]]
@@ -37,6 +39,7 @@ Ready to outpace? Let's connect.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 AI is progressing very fast, just to illustrate with areas:
 + Responding to basic customer support inquiries
 + Doing cold outreach & trying to book sales meetings
@@ -69,6 +72,8 @@ An interesting Reddit discussion: https://www.reddit.com/r/cscareerquestions/com
 Learn Wardley Mapping: https://learnwardleymapping.com/climate/
 
 Posted on **LINKEDIN** on 2024-03-24_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]
 + [[MOC Artificial Intelligence]]

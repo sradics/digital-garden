@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
-date_created: Monday, September 2nd 2024, 5:59:00 am
-date_modified: Tuesday, September 3rd 2024, 5:59:37 am
+date_created: 2024-09-02 05:59
+date_modified: 2025-06-25 00:01
 ---
 # [[From Bowling and Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-hit-a-2x-strike-in-bowling-expert-vs-activity-7236251681678594048-2W-9?utm_source=share&utm_medium=member_desktop)
 I hit a 2x Strike in bowling. Expert vs. Noop 
 
@@ -60,5 +62,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-02_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

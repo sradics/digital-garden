@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Thursday, February 8th 2024, 5:16:10 am
-date_modified: Sunday, April 21st 2024, 10:25:15 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Unveiling the Secrets to Building Impactful Learning Experiences]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_behind-the-scenes-of-our-group-coaching-approach-activity-7161267426058289152-IlPM?utm_source=share&utm_medium=member_desktop)
 
 ![[Behind the Scenes of our Group Coaching Approach.pdf]]
@@ -42,6 +44,7 @@ What's your secret to creating engaging learning experiences? Or did you join im
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 + I design our group coaching session for leaders and today want to share core aspects and important learnings when building great learning experiences
 + Our main goal is that Leaders apply knowledge. We reach that with highly engaging and interactive live group coaching sessions where attendees learn and apply, combined with a focussed and short preparation and a strong commitment to take action within 2 weeks. 
 + For preparation we select best fitting Key Insights from our huge Blinkist Library and request participants to read or listen. This takes about 15-30' and provides a knowledge teaser and builds appetite.
@@ -55,4 +58,5 @@ What's your secret to creating engaging learning experiences? Or did you join im
 + If you want to know more about Coaching by Blinkist and/or about my approach to design live cohort based learning sessions, let me know in the comment or reach out to me directly
 
 Posted on **LINKEDIN** on 2024-02-08_Thu
+
 # Linking

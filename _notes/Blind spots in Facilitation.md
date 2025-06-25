@@ -9,11 +9,13 @@ tags:
   - lightbulb/2-🟡-things_they_tried
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250312070524.png
-date_created: Wednesday, March 12th 2025, 7:03:49 am
-date_modified: Wednesday, March 12th 2025, 7:06:17 am
+date_created: 2025-03-12 07:03
+date_modified: 2025-06-25 00:01
 ---
 # [[Blind spots in Facilitation]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_while-youre-proud-of-your-slides-theyre-activity-7305120381378412544-1I2D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250312070524.png|400]]
@@ -70,5 +72,7 @@ Join the German 4MAT Workshop:
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-11_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

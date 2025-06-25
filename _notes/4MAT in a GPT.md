@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Thursday, June 6th 2024, 5:36:39 am
-date_modified: Thursday, June 6th 2024, 5:37:04 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 pdf: 9StepGPTForTrainingDesign.pdf
 ---
 # [[4MAT in a GPT]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_gpt-to-design-a-workshop-following-4mat-9-activity-7204376485145497600-5Opk?utm_source=share&utm_medium=member_desktop)
 ![[9StepGPTForTrainingDesign.pdf]]
 
@@ -67,7 +69,9 @@ What to explore next:
 What do you think? Would you like to try such a GPT?
 
 Posted on **LINKEDIN** on 2024-06-06_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]
 + [[My 4MAT Learning Style]]
 + [[39a07 4MAT Smart Learning]]

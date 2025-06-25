@@ -9,11 +9,15 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250513071424.png
-date_created: Monday, May 12th 2025, 6:21:13 am
-date_modified: Tuesday, May 13th 2025, 7:15:47 am
+date_created: 2025-05-12 06:21
+date_modified: 2025-06-25 00:01
+aliases: ["A next small AI assistant "]
+linter-yaml-title-alias: "A next small AI assistant "
 ---
 # [[A next small AI assistant ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_their-knowledge-is-trapped-yours-can-be-activity-7327573333183520768-35LG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250513071424.png|400]]
@@ -62,5 +66,7 @@ What knowledge could you turn into an assistant to serve you (and others)?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-12_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

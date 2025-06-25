@@ -7,11 +7,13 @@ tags:
   - linkedin/processed
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
-date_created: Monday, September 16th 2024, 5:48:52 am
-date_modified: Tuesday, September 17th 2024, 6:14:08 am
+date_created: 2024-09-16 05:48
+date_modified: 2025-06-25 00:01
 ---
 # [[A Second Brain to Build a Business]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_starting-a-business-is-overwhelming-but-activity-7241324878828564480-hFrD?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240917061051.png|400]]
@@ -70,5 +72,7 @@ Therefore:
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-16_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

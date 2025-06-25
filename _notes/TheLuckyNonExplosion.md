@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20241227062513.png
-date_created: Thursday, December 26th 2024, 7:02:23 am
-date_modified: Friday, December 27th 2024, 6:26:00 am
+date_created: 2024-12-26 07:02
+date_modified: 2025-06-25 00:01
 ---
 # [[TheLuckyNonExplosion]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-9-year-old-chefs-near-fatal-mistake-activity-7277941235602841600-kKpp?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241227062513.png|400]]
@@ -71,5 +73,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-26_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

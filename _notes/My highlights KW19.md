@@ -5,11 +5,12 @@ tags:
   - type/social-media/linkedIn-post-note
   - ln_weekly_highlight
   - linkedin/processed
-date_created: Friday, May 10th 2024, 4:32:24 am
-date_modified: Friday, May 10th 2024, 4:57:16 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240511055644.png
 ---
 # [[My highlights KW19]]
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-top-5-linkedin-posts-this-week-insults-activity-7194599555210924032-ocms?utm_source=share&utm_medium=member_desktop)  
 ![[Pasted image 20240511055644.png|400]]
 
@@ -43,7 +44,9 @@ Your turn: What was YOUR week's highlight?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 Posted on **LINKEDIN** on 2024-05-10_Fri
+
 # Linking
+
 + [[DeMarco-The Millionaire Fastlane]] - connect via I can buy anything I want, but I can't buy time
 + [[Goals checking after 4 months in this year]]
 + [[MOC Becoming a Fastlaner]]

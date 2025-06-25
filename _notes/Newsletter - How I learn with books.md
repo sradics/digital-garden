@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250331054857.png
-date_created: Friday, March 28th 2025, 7:31:38 am
-date_modified: Monday, March 31st 2025, 5:49:16 am
+date_created: 2025-03-28 07:31
+date_modified: 2025-06-25 00:01
 ---
 # [[Newsletter - How I learn with books]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_580-subscribers-already-know-my-next-activity-7311281041946599424-lFpA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250331054857.png|400]]
@@ -42,14 +44,13 @@ P.S. All previous newsletter editions are just a click away
   
 What's your biggest challenge when it comes to reading and retaining information?
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-03-28_Fri
+
 # Linking
+
 + [Published Newsletter](https://pages.quintsmart.com/posts/i-ve-spent-100-hours-perfecting-my-reading-system-steal-it-in-5-minutes-the-friday-brain-upgrade)
 + [[My running list of 12 favorite problems]]

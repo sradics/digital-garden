@@ -10,11 +10,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250311052422.png
-date_created: Monday, March 10th 2025, 6:11:59 am
-date_modified: Tuesday, March 11th 2025, 5:24:39 am
+date_created: 2025-03-10 06:11
+date_modified: 2025-06-25 00:01
 ---
 # [[4MAT Transformation]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn]()
 
 ![[Pasted image 20250311052422.png|400]]
@@ -69,13 +71,12 @@ Join us for the first German 4MAT Mastering Training Design Workshop:
 
 Comment "4MAT" or DM me to secure your place and elevate your knowledge transfer capabilities.
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-03-10_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

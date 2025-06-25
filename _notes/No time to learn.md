@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240820054752.png
-date_created: Monday, August 19th 2024, 6:25:29 am
-date_modified: Tuesday, August 20th 2024, 5:48:23 am
+date_created: 2024-08-19 06:25
+date_modified: 2025-06-25 00:01
 ---
 # [[No time to learn]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_8h-work-8h-sleep-only-8h-left-sorry-activity-7231178306904027136-HeMZ?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240820054752.png|400]]  
 
@@ -64,7 +66,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-19_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

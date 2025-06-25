@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250223062614.png
-date_created: Saturday, February 22nd 2025, 7:45:23 am
-date_modified: Sunday, February 23rd 2025, 6:26:54 am
+date_created: 2025-02-22 07:45
+date_modified: 2025-06-25 00:01
 ---
 # [[From Stuttering to Checkmate]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-myth-of-natural-intelligence-is-holding-activity-7298959857359937536-tx3E?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250223062614.png|400]]
@@ -47,5 +49,7 @@ P.S. Hey LinkedIn-Team - I dare to share a direct link and take the penalty of l
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-22_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

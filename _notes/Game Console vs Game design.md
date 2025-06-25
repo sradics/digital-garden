@@ -9,11 +9,15 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241115064648.png
-date_created: Thursday, November 14th 2024, 5:40:59 am
-date_modified: Friday, November 15th 2024, 6:47:14 am
+date_created: 2024-11-14 05:40
+date_modified: 2025-06-25 00:01
+aliases: [Linking]
+linter-yaml-title-alias: Linking
 ---
 ƒ# [[Game Console vs Game design]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_are-you-using-your-brains-ps5-or-still-activity-7262721035882442754-dBHD?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241115064648.png|400]]  
@@ -78,8 +82,8 @@ Want to gain deeper insights into Learning with Impact?
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-11-14_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20241025064929.png
-date_created: Thursday, October 24th 2024, 6:55:21 am
-date_modified: Friday, October 25th 2024, 6:50:05 am
+date_created: 2024-10-24 06:55
+date_modified: 2025-06-25 00:01
 ---
 # [[Voicepal for writing]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-ghostwriter-charges-999-per-month-activity-7255095700584120321-uwsN?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241025064929.png|400]]
@@ -81,13 +83,12 @@ Want to gain deeper insights into Learning with Impact?
 ➠ Subscribe to my newsletter for exclusive tips and updates
 (from my profile or post header link)
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-10-24_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

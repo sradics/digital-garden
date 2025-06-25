@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Friday, March 22nd 2024, 5:32:36 am
-date_modified: Sunday, April 21st 2024, 9:21:10 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: IdeaCapture.jpg
 ---
 # [[How I Capture My Eureka Moments]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-capture-my-eureka-moments-sick-activity-7176857637475483649-FZMn?utm_source=share&utm_medium=member_desktop)
 
 ![[IdeaCapture.jpg|400]]
@@ -43,6 +45,7 @@ Ready to level up your idea capture for web? Check out my previous post:
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I often have ideas and extending thoughts when I'm on my way. And I found it crucial to capture these ideas for later to develop such ideas further. Often these sparks are important and get lost when context changes. And I observed myself being disappointed when I cannot recap that small lightbulb moment. 
 
 And I observed that for me it is important to have a lightweight inflow of captured thoughts to my Second Brain center that I maintain in Obsidian. For all Online information I already use Matter and with its automated import to Obsidian this work super well already (details on my capturing with Matter: https://www.linkedin.com/posts/sebastiankamilli_secondbrain-efficiency-productivity-activity-7154820795981053952-U1Tg?utm_source=share&utm_medium=member_desktop)
@@ -63,5 +66,7 @@ Benefits:
 I will experiment further with ChatGPT and automatically exporting information, as this would allow to reduce my App stack further and simplify capturing. 
 
 Posted on **LINKEDIN** on 2024-03-22_Fri
+
 # Linking
+
 + [[BASB - Learning about Capture]]

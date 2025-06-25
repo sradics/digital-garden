@@ -8,12 +8,16 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Sunday, January 12th 2025, 6:33:02 am
-date_modified: Monday, January 13th 2025, 6:51:46 am
+date_created: 2025-01-12 06:33
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250113065041.png
+aliases: [Linking]
+linter-yaml-title-alias: Linking
 ---
 [[Learn with more precision]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-grocery-list-is-smarter-than-your-learning-activity-7284101826126204929-FZ2R?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250113065041.png|400]]
@@ -59,5 +63,7 @@ Free but you have to apply: [https://lnkd.in/ejcQ5QTn](https://lnkd.in/ejcQ5QTn)
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-12_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

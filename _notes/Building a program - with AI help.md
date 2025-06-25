@@ -8,11 +8,13 @@ tags:
   - lightbulb/2-🟡-things_they_tried
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250207071315.png
-date_created: Thursday, February 6th 2025, 6:44:24 am
-date_modified: Friday, February 7th 2025, 7:13:55 am
+date_created: 2025-02-06 06:44
+date_modified: 2025-06-25 00:01
 ---
 # [[Building a program - with AI help]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_they-said-ai-would-replace-thinking-activity-7293161636004016128-nHz5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 They said AI would replace thinking...
@@ -67,5 +69,7 @@ Comment "SYNERGY" or DM me to learn more.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-06_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

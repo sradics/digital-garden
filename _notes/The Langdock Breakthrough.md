@@ -7,12 +7,16 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
   - lightbulb/1-🔴-status_quo
-date_created: Monday, May 19th 2025, 7:26:43 am
-date_modified: Tuesday, May 20th 2025, 5:23:50 pm
+date_created: 2025-05-19 07:26
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250521080609.png
+aliases: ["The Langdock Breakthrough "]
+linter-yaml-title-alias: "The Langdock Breakthrough "
 ---
 # [[The Langdock Breakthrough ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_3-days-ago-i-dropped-frustrating-parts-of-activity-7330110124688105473-iyQk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250521080609.png|400]]
@@ -52,13 +56,12 @@ Happy to share more details if this resonates with you!
 P.S. I described The Book-to-Action approach last Friday in my newsletter. 
 Link to this Newsletter edition is in the comments. 
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-05-19_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

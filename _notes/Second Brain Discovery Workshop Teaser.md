@@ -10,11 +10,13 @@ tags:
   - lightbulb/4-🟢-my_offer
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250124072207.png
-date_created: Thursday, January 23rd 2025, 7:15:04 am
-date_modified: Friday, January 24th 2025, 7:22:57 am
+date_created: 2025-01-23 07:15
+date_modified: 2025-06-25 00:01
 ---
 # [[Second Brain Discovery Workshop Teaser]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-to-build-s-second-brain-activity-7288088085559484417-0Uzg?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250124072207.png|400]]
@@ -65,5 +67,7 @@ In 6 days - next Wednesday - details here: [https://lnkd.in/gfXUTJvi](https://ln
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-23_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

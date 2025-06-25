@@ -4,10 +4,13 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Sunday, February 19th 2023, 2:19:06 pm
-date_modified: Thursday, May 18th 2023, 6:15:55 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
+aliases: ["4 pillars of energy "]
+linter-yaml-title-alias: "4 pillars of energy "
 ---
 # [[4 pillars of energy ]]
+
 This morning I added several key insights from the great Blinkist Guide: Master your 4 pillars of Energy to My Second Brain.
 
 This time I took the following approach to process my learnings:
@@ -33,6 +36,6 @@ What a cool usage of Obsidian as My Second Brain, combined with the strength of 
 
 https://digital-garden.ontheagilepath.net/notes-from-guide-master-your-4-pillars-of-energy
 
-
 Posted on **[LINKEDIN](https://www.linkedin.com/posts/sebastiankamilli_secondbrain-obsidian-learning-activity-7033067842983849984-cjeS?utm_source=share&utm_medium=member_desktop)** on 2023-02-19_Sun
+
 # Linking

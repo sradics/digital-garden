@@ -7,11 +7,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250401064352.png
-date_created: Monday, March 31st 2025, 6:28:50 am
-date_modified: Tuesday, April 1st 2025, 6:47:24 am
+date_created: 2025-03-31 06:28
+date_modified: 2025-06-25 00:01
 ---
 # [[Fast overview on my approach to reading]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ive-spent-100-hours-perfecting-my-reading-activity-7312353041859424256-FXjN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250401064352.png|400]]
@@ -57,6 +59,8 @@ P.S. Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-31_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]
 + [[Newsletter - How I learn with books]] published via [✿ I’ve spent 100+ hours perfecting my reading system. Steal it in 5 minutes](https://pages.quintsmart.com/posts/i-ve-spent-100-hours-perfecting-my-reading-system-steal-it-in-5-minutes-the-friday-brain-upgrade)

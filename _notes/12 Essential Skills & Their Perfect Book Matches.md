@@ -5,12 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Sunday, January 28th 2024, 9:40:00 pm
-date_modified: Sunday, January 28th 2024, 9:42:41 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[12 Essential Skills & Their Perfect Book Matches]]
 
 ## LinkedIn post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_12-essential-skills-their-perfect-book-activity-7153327047367344128-kIQO?utm_source=share&utm_medium=member_desktop)
 
 🚀 Supercharge Your Leadership Journey: 12 Essential Skills & Their Perfect Book Matches!  
@@ -58,8 +59,8 @@ Leadership is a journey. Which of these books are you adding to your reading lis
 
 ![[1705485903168.pdf]]
 
-
 ## Previous Post without carousel
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_12-essential-skills-for-new-leaders-activity-7152964632566009856-nB5W?utm_source=share&utm_medium=member_desktop)
 
 💡 12 Essential Skills for New Leaders  
@@ -78,6 +79,6 @@ Leadership is a journey. Which of these books are you adding to your reading lis
   
 Which of these skills do you believe is the most important for new leaders to develop first? Looking forward to read your thoughts below! 👇
 
-
 Posted on **LINKEDIN** on 2024-01-28_Sun
+
 # Linking

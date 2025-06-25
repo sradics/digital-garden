@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240811044135.png
-date_created: Saturday, August 10th 2024, 5:57:11 am
-date_modified: Sunday, August 11th 2024, 4:46:35 am
+date_created: 2024-08-10 05:57
+date_modified: 2025-06-25 00:01
 ---
 # [[The Child That Did Not Speak]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-5-years-of-childhood-silence-shaped-activity-7227916924561600512-SoWw?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240811044135.png|400]]  
 
@@ -58,8 +60,7 @@ And all supporters in the longer journey.
 This profound lesson shaped who I am today.  
   
 What was ONE influential learning moment for you?  
-  
-  
+
 ———  
 P.S.  
 🔔 I share insights daily at 8:00AM (CEST)  
@@ -70,7 +71,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-10_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

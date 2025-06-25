@@ -7,11 +7,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250310055729.png
-date_created: Sunday, March 9th 2025, 7:33:30 am
-date_modified: Monday, March 10th 2025, 5:57:54 am
+date_created: 2025-03-09 07:33
+date_modified: 2025-06-25 00:01
 ---
 # [[Advanced AI Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_immersed-in-ai-first-thinking-with-michaels-activity-7304396366842068992-_P2I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250310055729.png|400]]
@@ -24,8 +26,7 @@ For the past month, I've been immersed in [Michael Simmons](https://www.linkedin
   
 Michael exemplifies Learning in Public.  
 He shares real work in real time—the raw stuff, not the highlights reel.  
-  
-  
+
 From Michael's AI-First thinking classes I learned  
 ———  
 → The concept of a Trademark Idea  
@@ -57,8 +58,8 @@ See you there?
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-03-09_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

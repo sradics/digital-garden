@@ -6,11 +6,13 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2024_KW38_Weekly Highlights.pdf
-date_created: Friday, September 20th 2024, 6:45:39 am
-date_modified: Saturday, September 21st 2024, 6:53:19 am
+date_created: 2024-09-20 06:45
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW38]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-highlights-week-38-of-2024-activity-7242774605130514432-nQGc?utm_source=share&utm_medium=member_desktop)
   
 ![[2024_KW38_Weekly Highlights.pdf]]
@@ -51,5 +53,7 @@ Only 4 days left:
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-20_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

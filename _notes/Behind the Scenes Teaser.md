@@ -8,11 +8,15 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250428060300.png
-date_created: Saturday, April 26th 2025, 7:32:10 am
-date_modified: Monday, April 28th 2025, 6:04:02 am
+date_created: 2025-04-26 07:32
+date_modified: 2025-06-25 00:01
+aliases: ["Behind the Scenes Teaser "]
+linter-yaml-title-alias: "Behind the Scenes Teaser "
 ---
 # [[Behind the Scenes Teaser ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-built-a-mind-reading-ai-command-center-activity-7321775363779354625-6nV-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250428060300.png|400]]
@@ -56,5 +60,7 @@ Get it here: [https://lnkd.in/eRgZmAkn](https://lnkd.in/eRgZmAkn)
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-26_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

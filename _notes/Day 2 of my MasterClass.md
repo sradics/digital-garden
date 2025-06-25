@@ -6,15 +6,16 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240927062638.png
-date_created: Thursday, September 26th 2024, 6:49:02 am
-date_modified: Friday, September 27th 2024, 6:27:08 am
+date_created: 2024-09-26 06:49
+date_modified: 2025-06-25 00:01
 ---
 # [[Day 2 of my MasterClass]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_learning-is-a-journey-we-all-embark-on-activity-7244948970358071296-Dwo6?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240927062638.png|400]]  
-
 
 Learning is a journey we all embark on.
 
@@ -61,13 +62,12 @@ Want to join the waitlist for my next iteration for my masterclass?
 Where I help you LEARN HOW TO LEARN,
 Comment: smart or send me a DM. 
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-09-26_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

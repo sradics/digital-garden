@@ -7,12 +7,14 @@ tags:
   - publish_in_newsletter
   - rating/⭐️⭐️⭐️
   - 12_fav_problems/continuous_learning
-date_created: Sunday, February 4th 2024, 7:56:44 am
-date_modified: Sunday, April 21st 2024, 10:10:39 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421101010.png
 ---
 # [[Accelerated learning unleashed - How I conquered thePower MBA in 30 days]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_accelerated-learning-unleashed-how-i-activity-7159833084647919616-f7MI?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421101010.png|400]]
@@ -55,6 +57,7 @@ As a token of my journey, I have curated a list of 22 books that I discovered du
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 The PowerMBA is an awesome program to learn about many facets of business that consisted of 9 main modules and is supposed to take about 1 year with 15 minutes daily practice to accomplish. I was hooked by the format and set myself a goal. I wanted to get that knowledge faster and complete that within ONE month. Curious how? Read on...
 
 The nine modules were:
@@ -84,7 +87,9 @@ My reward, daily growing insights into business and my higher competence level t
 And I want to share a small result from my learning journey with you. Maybe that inspires and helps you learning in direction of business too. I compiled a list of 22 books that I discovered and used throughout the PowerMBA and made the key insights for each book available im my FREE book space, my Personal Curated Library, at Blinkist. Let me know in the comments if you want to gain access and fast track your learning about business. 
 
 Posted on **LINKEDIN** on 2024-02-04_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[PowerMBA Booklist]]
 + [[Crush the ThePower MBA in 30 Days - Discover my Strategy]]

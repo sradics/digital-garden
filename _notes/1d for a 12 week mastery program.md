@@ -6,11 +6,15 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240702072022.png
-date_created: Monday, July 1st 2024, 6:57:35 am
-date_modified: Tuesday, July 2nd 2024, 7:21:43 am
+date_created: 2024-07-01 06:57
+date_modified: 2025-06-25 00:01
+aliases: [1d fors a 12 weeks mastery program]
+linter-yaml-title-alias: 1d fors a 12 weeks mastery program
 ---
 # [[1d fors a 12 weeks mastery program]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-completed-a-12-week-program-in-activity-7213427690228330496-wRbf?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240702072022.png|400]]
@@ -58,7 +62,6 @@ Want to learn faster and with better retention too?
 DM me “SMART” to follow through.  
   
 P.S. - If you found this useful, please repost ♻️
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
@@ -114,7 +117,6 @@ Proof: *Leonardo da Vinci. (ethos)*
 Format: *Text + Image.* 
 Marketing Channel: *Instagram*
 
-
 Hook: 
 + Create an emotion: surprised, angry, happy,...
 + make the reader think
@@ -134,6 +136,8 @@ One CTA:
 P.S. - Please repost ♻ if you found this useful
 
 Posted on **LINKEDIN** on 2024-07-01_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[12 weeks LinkedIn mastery course]]

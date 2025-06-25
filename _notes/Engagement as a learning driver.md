@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241121071821.png
-date_created: Wednesday, November 20th 2024, 7:08:37 am
-date_modified: Thursday, November 21st 2024, 7:19:39 am
+date_created: 2024-11-20 07:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Engagement as a learning driver]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-comments-are-my-classroom-heres-activity-7264895282532737025-M4GW?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241121071821.png|400]]
@@ -85,5 +87,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-20_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

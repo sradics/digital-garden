@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250122065444.png
-date_created: Tuesday, January 21st 2025, 6:22:38 am
-date_modified: Wednesday, January 22nd 2025, 6:55:29 am
+date_created: 2025-01-21 06:22
+date_modified: 2025-06-25 00:01
 ---
 # [[The new Gold]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_gold-and-bitcoin-hit-all-time-highs-so-activity-7287363315884802048-vHSa?utm_source=share&utm_medium=member_desktop)
   
 ![[Pasted image 20250122065444.png|400]]
@@ -67,5 +69,7 @@ happiness → problems(time) → solution(learn to learn) → happiness
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-21_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

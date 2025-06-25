@@ -7,9 +7,13 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
 pdf: LinkedIn4MonthGrowth.pdf
+date_created: 2024-11-27 06:14
+date_modified: 2025-06-25 00:01
 ---
 # [[LinkedIn Growth Analytics]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_linkedin-4-months-growth-stats-activity-7267432246213545985-67UY?utm_source=share&utm_medium=member_desktop)
 
 ![[LinkedIn4MonthGrowth.pdf]]
@@ -62,12 +66,13 @@ I help people learn how to learn, retain and recall with ease
 Want to gain deeper insights into Learning with Impact?  
 ➠ Subscribe to my newsletter for exclusive tips and updates  
 (from my profile or post header link or via [https://lnkd.in/euDnjSXS](https://lnkd.in/euDnjSXS))
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-27_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

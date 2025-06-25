@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250305072154.png
-date_created: Monday, February 24th 2025, 7:20:04 am
-date_modified: Wednesday, March 5th 2025, 7:23:06 am
+date_created: 2025-02-24 07:20
+date_modified: 2025-06-25 00:01
 ---
 # [[Drowning in Information]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_drowning-in-newsletters-starving-for-insights-activity-7299684717103099904-40yB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250305072154.png|400]]
@@ -76,5 +78,7 @@ Limited to 30 spots. DM or comment "NL" for details!
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-24_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

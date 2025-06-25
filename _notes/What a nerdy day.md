@@ -7,15 +7,16 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250328072943.png
-date_created: Thursday, March 27th 2025, 7:14:34 am
-date_modified: Friday, March 28th 2025, 7:30:06 am
+date_created: 2025-03-27 07:14
+date_modified: 2025-06-25 00:01
 ---
 # [[What a nerdy day]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_what-a-nerdy-day-this-was-i-caught-activity-7310918382403346432-3tqq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250328072943.png|400]]
-
 
 What a nerdy day this was...  
   
@@ -59,8 +60,7 @@ But it's a giant leap for my learning process.
   
 Curious about the Python?  
 → DM or comment "PythonCatcher" for the script  
-  
-  
+
 ———  
 P.S.  
   
@@ -76,11 +76,12 @@ This is the summary as a result from Python script + asking for a summary
 And the Python Script is now available via:  
 [https://lnkd.in/eUV-Emxz](https://lnkd.in/eUV-Emxz)
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-27_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

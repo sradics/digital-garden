@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - ln_weekly_highlight
 pdf: 2025_KW03_Weekly Highlights.pdf
-date_created: Friday, January 17th 2025, 6:35:52 am
-date_modified: Saturday, January 18th 2025, 7:06:01 am
+date_created: 2025-01-17 06:35
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights 2025-KW03]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_week-3-2025-activity-7285913903451054080--7PW?utm_source=share&utm_medium=member_desktop)
   
 ![[2025_KW03_Weekly Highlights.pdf]]
@@ -49,5 +51,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-17_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

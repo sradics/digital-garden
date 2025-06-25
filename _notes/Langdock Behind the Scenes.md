@@ -8,11 +8,15 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250417073951.png
-date_created: Tuesday, April 15th 2025, 7:00:53 am
-date_modified: Thursday, April 17th 2025, 7:40:36 am
+date_created: 2025-04-15 07:00
+date_modified: 2025-06-25 00:01
+aliases: [S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Langdock Behind the Scenes]
+linter-yaml-title-alias: S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Langdock Behind the Scenes
 ---
 # [[S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Langdock Behind the Scenes]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-ai-command-center-3-ways-i-use-langdock-activity-7317788817728442373-IcT2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250417073951.png|400]]
@@ -55,5 +59,7 @@ P.S. Langdock will also be a core component in my soon starting Learning Ecosyst
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-15_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

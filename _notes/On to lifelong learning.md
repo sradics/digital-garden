@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Sunday, December 15th 2024, 6:57:48 am
-date_modified: Monday, December 16th 2024, 6:00:27 am
+date_created: 2024-12-15 06:57
+date_modified: 2025-06-25 00:01
 ---
 # [[On to lifelong learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-4-year-old-who-couldnt-speak-taught-activity-7273954674209165312-XQ7z?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241216055944.png|400]]
@@ -81,5 +83,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-15_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

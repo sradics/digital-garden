@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/continuous_learning
-date_created: Thursday, April 18th 2024, 6:05:29 am
-date_modified: Sunday, April 21st 2024, 8:30:38 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421074812.png
 ---
 # [[Is reading Dead]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_is-reading-dead-or-am-i-doing-something-terribly-activity-7186619556642107393-_2_M?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240421074812.png|400]]
 
@@ -92,4 +94,5 @@ What is your assumption? And what would you suggest to change so that the messag
 👉 I'm highly interested in your opinion and would love to learn with your comments or DMs. 
 
 Posted on **LINKEDIN** on 2024-04-18_Thu
+
 # Linking

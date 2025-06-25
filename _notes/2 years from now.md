@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250205080338.png
-date_created: Wednesday, February 5th 2025, 8:02:00 am
-date_modified: Wednesday, February 5th 2025, 8:04:18 am
+date_created: 2025-02-05 08:02
+date_modified: 2025-06-25 00:01
 ---
 # [[2 years from now]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_in-2-years-will-ai-have-left-you-behind-activity-7292799363938963458---CE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250205080338.png|400]]
@@ -58,5 +60,7 @@ Comment "FUTURE" or DM me to stay informed.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-05_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

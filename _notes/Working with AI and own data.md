@@ -8,11 +8,15 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250515073020.png
-date_created: Wednesday, May 14th 2025, 6:59:11 am
-date_modified: Thursday, May 15th 2025, 7:30:38 am
+date_created: 2025-05-14 06:59
+date_modified: 2025-06-25 00:01
+aliases: ["Working with AI and own data "]
+linter-yaml-title-alias: "Working with AI and own data "
 ---
 # [[Working with AI and own data ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-ai-isnt-failing-you-your-approach-activity-7328297983731511296-lKzM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250515073020.png|400]]
@@ -71,4 +75,5 @@ Posted on **LINKEDIN** on 2025-05-14_Wed
 **LB3:** But the real power comes from creating a collaborative partnership where AI amplifies your unique insights rather than replacing them
 
 # Linking
+
 + [[My running list of 12 favorite problems]]

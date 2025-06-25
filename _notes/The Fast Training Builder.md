@@ -7,12 +7,14 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
-date_created: Friday, April 4th 2025, 7:20:34 am
-date_modified: Tuesday, April 8th 2025, 6:46:24 am
+date_created: 2025-04-04 07:20
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250408064544.png
 ---
 # [[The Fast Training Builder]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_3-workshops-2-hours-1-simple-process-activity-7313802547264147456-isU0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
   
 ![[Pasted image 20250408064544.png|400]]
@@ -67,5 +69,7 @@ No worries. I'm just a comment away.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-04_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

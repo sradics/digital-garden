@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - ln_weekly_highlight
   - linkedin/processed
-date_created: Friday, May 3rd 2024, 5:25:56 am
-date_modified: Friday, May 3rd 2024, 5:26:48 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: MyTop5_KW18.jpg
 ---
 # [[My highlights KW18]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-meaning-over-mvp-to-nutrition-change-activity-7192062842215251968-yADo?utm_source=share&utm_medium=member_desktop)
 
 ![[MyTop5_KW18.jpg|400]]
@@ -24,8 +26,7 @@ This week, I explored:
 ↳ reflected on helping others  
 ↳ found new meaning connection  
 ↳ took a nutrition impulse from Dan Go  
-  
-  
+
 Here are 5 posts that changed my perspective:  
 ‾‾‾‾‾‾‾‾  
 You will never outrun a bad diet by [Dan Go](https://www.linkedin.com/in/danfounder/) ─ [https://lnkd.in/eSZU7fZj](https://lnkd.in/eSZU7fZj)  
@@ -49,6 +50,7 @@ Your turn: What was YOUR week's highlight?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 From Meaning over MVP to nutrition change
 (Top 5 LinkedIn Posts I Loved This Week)
 
@@ -78,9 +80,10 @@ My top:  🌱 Building Collective Intelligence - One Idea at a Time ─ https://
 
 Your turn: What was YOUR week's highlight?
 
-
 Posted on **LINKEDIN** on 2024-05-03_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems#Relationsships]]
 + [[My running list of 12 favorite problems#Health]]
 + Minimum viable Product eBook on ReMarkable

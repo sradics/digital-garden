@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/continuous_learning
-date_created: Monday, June 10th 2024, 5:44:15 am
-date_modified: Tuesday, June 11th 2024, 3:56:38 am
+date_created: 2024-06-10 05:44
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240611033331.png
 ---
 # [[7 sins of Memory]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-7-sins-of-memory-how-my-second-brain-activity-7205826084267831297-S6pT?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240611033331.png|400]]
@@ -63,6 +65,7 @@ Ready to build your Second Brain? Need a starting point? Let's connect!
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Belief: Our mind is for having ideas, not for storing them
 📖 [The Seven Sins of Memory](https://www.blinkist.com/en/nc/reader/the-seven-sins-of-memory-en)
 
@@ -132,5 +135,7 @@ One Story:
 One CTA:
 
 Posted on **LINKEDIN** on 2024-06-10_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 pdf: Screen Capture Workflow.pdf
-date_created: Monday, May 20th 2024, 6:26:17 am
-date_modified: Monday, May 20th 2024, 9:06:53 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Fast Capture while taking a course]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_fast-track-key-insights-during-online-courses-activity-7198223441701875712-DXIj?utm_source=share&utm_medium=member_desktop)
 
 ![[Screen Capture Workflow.pdf]]
@@ -46,6 +48,7 @@ How do you capture notes from presentations? Share your tips below!
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 When I learn through an Online Course I work with a routine of taking extensive notes already while running through the course. To streamline my note making I leverage AI for capturing insights. 
 
 Concrete scenario - I'm watching a workshop or online live presentation that contains slides and I want to extract the text to make a note from it (Slides are not available).  In the past I manually wrote the text to my note. 
@@ -65,8 +68,8 @@ With: "And independent from my notes, what else should I know about topic maps?"
 
 In simple steps I can capture in insight, extend it with further information from my notes and from available world knowledge and enrich my learning about a topic. 
 
-
-
 Posted on **LINKEDIN** on 2024-05-20_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Wednesday, February 19th 2025, 6:35:16 am
-date_modified: Thursday, February 20th 2025, 6:09:25 am
+date_created: 2025-02-19 06:35
+date_modified: 2025-06-25 00:01
 ---
 # [[The founders information overload]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-a-48-year-old-founder-beat-information-activity-7297872363742715905-hbdN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250220060835.png|400]]
@@ -71,5 +73,7 @@ Comment "5" or DM for workshop details.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-19_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

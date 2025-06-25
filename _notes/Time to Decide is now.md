@@ -8,11 +8,15 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250430073446.png
-date_created: Monday, April 28th 2025, 6:10:48 am
-date_modified: Wednesday, April 30th 2025, 7:35:00 am
+date_created: 2025-04-28 06:10
+date_modified: 2025-06-25 00:01
+aliases: ["Time to Decide is now "]
+linter-yaml-title-alias: "Time to Decide is now "
 ---
 # [[Time to Decide is now ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-most-powerful-business-tool-is-brewing-activity-7322499846475583489-GkLg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250430073446.png|400]]
@@ -43,8 +47,7 @@ But ultimately, I recognize a deeper truth about decisions:
   
 We can never predict the future with complete certainty.  
 We can only place informed bets based on the information available to us now.  
-  
-  
+
 What I've learned is that waiting for "perfect information" is often more costly than making a good decision with what you know today.  
   
 Every day of indecision is:  
@@ -75,16 +78,15 @@ and your spot is ready ➠ [https://lnkd.in/eWFzsQaN](https://lnkd.in/eWFzsQaN)
 ———  
 P.S. You have a question ... I'm message away
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
-
-
 
 ———
 P.S. You have a questions ... I'm  message away
 
 Posted on **LINKEDIN** on 2025-04-28_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Friday, April 18th 2025, 7:09:04 am
-date_modified: Monday, April 21st 2025, 6:45:50 am
+date_created: 2025-04-18 07:09
+date_modified: 2025-06-25 00:01
 ---
 # [[The 9 Weeks]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn]()
 
 ![[Pasted image 20250421064457.png|400]]
@@ -77,5 +79,7 @@ Program starts April 28th (10 days left)
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-18_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

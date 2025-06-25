@@ -6,12 +6,14 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
   - 12_fav_problems/help_others_grow
-date_created: Tuesday, April 16th 2024, 5:10:42 am
-date_modified: Sunday, April 21st 2024, 8:33:16 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421075308.png
 ---
 # [[9 Tips how I learn in Sync with my Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_9-tips-how-i-learn-in-sync-with-my-brain-activity-7185894772996231168-HUJh?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240421075308.png|400]]
 
@@ -68,4 +70,5 @@ What works best for you when you have to learning something?
 Follow me for more insights on smart learning
 
 Posted on **LINKEDIN** on 2024-04-16_Tue
+
 # Linking

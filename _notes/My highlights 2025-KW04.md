@@ -6,11 +6,13 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2025_KW04_Weekly Highlights.pdf
-date_created: Friday, January 24th 2025, 7:24:08 am
-date_modified: Saturday, January 25th 2025, 7:02:39 am
+date_created: 2025-01-24 07:24
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights 2025-KW04]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_kw-4-2025-highlights-activity-7288450952863379456-gqnC?utm_source=share&utm_medium=member_desktop)
 
 ![[2025_KW04_Weekly Highlights.pdf]]
@@ -41,8 +43,8 @@ My top > I lost 47 browser tabs today (and I've never been more productive) �
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-01-24_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,14 +6,15 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2024_KW36_Weekly Highlights.pdf
-date_created: Friday, September 6th 2024, 6:43:30 am
-date_modified: Saturday, September 7th 2024, 4:49:08 am
+date_created: 2024-09-06 06:43
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW36]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_highlights-kw36-2024-activity-7237701427811266560-3IGn?utm_source=share&utm_medium=member_desktop)
 ![[2024_KW36_Weekly Highlights.pdf]]
-
 
 My top 5️⃣ LinkedIn Insights this Week 💡  
   
@@ -22,8 +23,7 @@ My top 5️⃣ LinkedIn Insights this Week 💡
 ↳ 21 Powerful Self Reflection Questions  
 ↳ Looking to elevate your communication game?  
 ↳ You don’t need every new AI tool that comes along!  
-  
-  
+
 Here are 5 posts that sparked my thinking:  
 ‾‾‾‾‾‾‾‾  
 ✪ Looking to elevate your communication game?  
@@ -47,8 +47,8 @@ Your turn: What inspired you this week?
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-09-06_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

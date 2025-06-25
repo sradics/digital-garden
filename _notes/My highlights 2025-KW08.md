@@ -6,11 +6,13 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2025_KW08_Weekly Highlights.pdf
-date_created: Friday, February 21st 2025, 7:22:02 am
-date_modified: Saturday, February 22nd 2025, 7:44:30 am
+date_created: 2025-02-21 07:22
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights 2025-KW08]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_weekly-highlights-kw8-2025-activity-7298597404642062336-fR3w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[2025_KW08_Weekly Highlights.pdf]]
@@ -43,5 +45,7 @@ My top > Your brain on knowledge steroids
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-21_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,11 +6,13 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2025_KW05_Weekly Highlights.pdf
-date_created: Friday, January 31st 2025, 7:09:25 am
-date_modified: Saturday, February 1st 2025, 7:42:51 am
+date_created: 2025-01-31 07:09
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights 2025-KW05]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_highlights-week-052025-activity-7290987452893155329-8Q5h?utm_source=share&utm_medium=member_desktop)
 
 ![[2025_KW05_Weekly Highlights.pdf]]
@@ -42,5 +44,7 @@ My top > The Warmest Blanket Is Often The Most Dangerous One ─
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-31_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

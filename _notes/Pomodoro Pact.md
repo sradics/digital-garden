@@ -7,11 +7,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250317060334.png
-date_created: Friday, March 14th 2025, 7:14:51 am
-date_modified: Monday, March 17th 2025, 6:04:57 am
+date_created: 2025-03-14 07:14
+date_modified: 2025-06-25 00:01
 ---
 # [[Pomodoro Pact]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_8-days-into-my-pomodoro-experiment-and-the-activity-7306207645646893056-Bq8S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
   
 ![[Pasted image 20250317060334.png|400]]
@@ -76,5 +78,7 @@ Curious about Pomodoro? Ask me anything in the comments. Let's explore this prod
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-14_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

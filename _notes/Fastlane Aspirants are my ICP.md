@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241210070009.png
-date_created: Monday, December 9th 2024, 6:16:08 am
-date_modified: Tuesday, December 10th 2024, 7:00:37 am
+date_created: 2024-12-09 06:16
+date_modified: 2025-06-25 00:01
 ---
 # [[Fastlane Aspirants are my ICP]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-compounding-secret-sidewalkers-will-never-activity-7271780642768445441-ITVS?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241210070009.png|400]]
@@ -21,8 +23,7 @@ date_modified: Tuesday, December 10th 2024, 7:00:37 am
 The Compounding Secret Sidewalkers Will Never Understand  
   
 → The Fastlaner's Unfair Advantage  
-  
-  
+
 With yesterday's post about time being the most undervalued resource,  
 I found a hunch that I did not understand so far.  
   
@@ -53,16 +54,14 @@ Fastlaners focus on creating scalable businesses and systems that generate signi
 ——————  
   
 Learning how to learn is the fuel for your flywheel to building your fastlane.  
-  
-  
+
 When you learn how to learn  
 → you can accelerate every step on your path to become a Fastlaner  
   
 ⇢ you can iterate faster  
 ⇢ you can build on previous learnings  
 ⇢ you grow a compounding stack of projects insights  
-  
-  
+
 Bad news:  
 ———  
 I don't support Sidewalkers.  
@@ -70,8 +69,7 @@ They just don't get the importance of compounding effects.
   
 Investing in proper approaches to learning is for creating compounding effects.  
 Game over. Respawn please, then I can help you.  
-  
-  
+
 Bad news:  
 ———  
 I don't support sleepy Slowlaners.  
@@ -96,8 +94,7 @@ Be my guest.
   
 Time is too precious to spend sidewalking or slowlaning.  
 Are you ready to shift gears?  
-  
-  
+
 ———  
 P.S.  
 I help people learn how to learn, retain and recall with ease  
@@ -106,13 +103,12 @@ Want to gain deeper insights into Learning with Impact?
 ➠ Subscribe to my newsletter for exclusive tips and updates  
 (from my profile or post header link or via [https://lnkd.in/euDnjSXS](https://lnkd.in/euDnjSXS))
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-12-09_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

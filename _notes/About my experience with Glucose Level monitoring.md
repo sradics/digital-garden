@@ -4,11 +4,13 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Friday, January 26th 2024, 7:21:41 am
-date_modified: Friday, January 26th 2024, 7:22:10 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[About my experience with Glucose Level monitoring]]
+
 ## Linkedin Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_healthtech-biohacking-wellnessjourney-activity-7156556371558039552-HnY9?utm_source=share&utm_medium=member_desktop)
 
 Unleashing the Power of Personal [hashtag#KnowledgeManagement](https://www.linkedin.com/feed/hashtag/?keywords=knowledgemanagement&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7156926314552156161): Uncover My Unique Tool Stack 🛠️  
@@ -47,6 +49,7 @@ This curated stack not only boosts my learning and development, but also enhance
 Now, it's your turn. What's in your technology stack? How do you manage your personal knowledge? Let's learn and grow together! 💬
 
 ## Content preparation
+
 Based on my readings from Outlive by Peter Attia, I did a two weeks experiment and measure my blood sugar levels using a continuous glucose monitor (I used Freestyle Libre 3). 
 
 I wanted to learn: 
@@ -67,7 +70,6 @@ And also interesting to see that especially pasta and wheat products lead to a v
 
 Fascinating how our body works. Thanks for the impulse Peter Attia through your book. And looking forward to further exploring.
 
-
 ![[IMG_6099.jpg]]
 
 ![[IMG_6098.jpg]]
@@ -77,4 +79,5 @@ Fascinating how our body works. Thanks for the impulse Peter Attia through your 
 ![[IMG_6095.jpg]]
 
 Posted on **LINKEDIN** on 2024-01-26_Fri
+
 # Linking

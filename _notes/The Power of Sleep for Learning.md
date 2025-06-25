@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240725060515.png
-date_created: Wednesday, July 24th 2024, 6:27:49 am
-date_modified: Thursday, July 25th 2024, 6:05:49 am
+date_created: 2024-07-24 06:27
+date_modified: 2025-06-25 00:01
 ---
 # [[The Power of Sleep for Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_solve-tough-problems-overnight-facing-activity-7221756317009408001-hdV7?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240725060515.png|400]]  
 
@@ -54,7 +56,6 @@ One Tip to Solve Problems Overnight:
 → No distractions between reflection and sleep
 ↳ Find solutions in your dreams
 
-
 ➠ Your Brain Deserves the Best REST
 
 🧠 What is ONE sleep habit you dare to share?
@@ -62,9 +63,11 @@ One Tip to Solve Problems Overnight:
 P.S. 
 ♻ Repost to help others in your network
 ➕ Follow me for more posts like this
+
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-07-24_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

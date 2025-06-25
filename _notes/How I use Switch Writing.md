@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240826055029.png
-date_created: Sunday, August 25th 2024, 6:19:05 am
-date_modified: Monday, August 26th 2024, 5:51:25 am
+date_created: 2024-08-25 06:19
+date_modified: 2025-06-25 00:01
 ---
 # [[How I use Switch Writing]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-use-switch-writing-to-develop-my-posts-activity-7233352820492496896-5AcP?utm_source=share&utm_medium=member_desktop)
 
 How I use Switch Writing to develop my posts
@@ -69,7 +71,6 @@ I wrote this post with SWITCH WRITING.
 Now up to experimentation Sunday.
 Have fun. Let me know it works.
 
-
 ———  
 P.S.  
 🔔 I share insights da♻ Repost to help others in your network
@@ -81,7 +82,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-25_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

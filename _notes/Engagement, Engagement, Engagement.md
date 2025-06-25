@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240724053621.png
-date_created: Tuesday, July 23rd 2024, 5:48:37 am
-date_modified: Wednesday, July 24th 2024, 5:37:40 am
+date_created: 2024-07-23 05:48
+date_modified: 2025-06-25 00:01
 ---
 # [[Engagement, Engagement, Engagement]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-5-commentsday-goal-made-me-smile-loftily-activity-7221393778606051329-mRTM?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240724053621.png|400]]  
 
@@ -55,9 +57,8 @@ P.S.
 
 ## Content preparation
 
-
-
-
 Posted on **LINKEDIN** on 2024-07-23_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

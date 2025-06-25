@@ -9,11 +9,15 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250514052359
-date_created: Tuesday, May 13th 2025, 7:19:50 am
-date_modified: Wednesday, May 14th 2025, 5:28:34 am
+date_created: 2025-05-13 07:19
+date_modified: 2025-06-25 00:01
+aliases: ["Week 3 - Obsidian, PARA and Capture "]
+linter-yaml-title-alias: "Week 3 - Obsidian, PARA and Capture "
 ---
 # [[Week 3 - Obsidian, PARA and Capture ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_their-knowledge-is-scattered-yours-can-activity-7327936018282692608-LA2n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250514052359.png|300]]
@@ -57,5 +61,7 @@ What's your biggest challenge with organizing your (digital) information?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-13_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

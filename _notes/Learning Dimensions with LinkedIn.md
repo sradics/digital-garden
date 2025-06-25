@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241129070524.png
-date_created: Wednesday, November 27th 2024, 2:49:47 pm
-date_modified: Friday, November 29th 2024, 7:06:12 am
+date_created: 2024-11-27 14:49
+date_modified: 2025-06-25 00:01
 ---
 # [[Learning Dimensions with LinkedIn]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_skip-the-6-month-linkedin-learning-curve-activity-7267794422006788096-3P8X?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241129070524.png|400]]
@@ -99,5 +101,7 @@ Sounds interesting?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-27_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240805061735.png
-date_created: Sunday, August 4th 2024, 6:29:19 am
-date_modified: Monday, August 5th 2024, 6:18:25 am
+date_created: 2024-08-04 06:29
+date_modified: 2025-06-25 00:01
 ---
 # [[What a reading hack]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-tried-this-impactful-reading-approach-activity-7225742308988637184-MLc8?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240805061735.png|400]] 
@@ -46,12 +48,10 @@ The reviews after 25' help with zooming out.
 ➠ I'm at 1/3 of the book already. 
 ➠ Curious on the speed reading hints to come
 
-
 Sunday ... Reading time? 
 Have fun experimenting with a Pomodoro!
 
 What do YOU read at the moment? 
-
 
 ———
 P.S. 
@@ -63,8 +63,8 @@ P.S.
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-08-04_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

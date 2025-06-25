@@ -7,11 +7,15 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250502064226.png
-date_created: Wednesday, April 30th 2025, 7:39:20 am
-date_modified: Friday, May 2nd 2025, 6:43:14 am
+date_created: 2025-04-30 07:39
+date_modified: 2025-06-25 00:01
+aliases: ["Reasons to Join "]
+linter-yaml-title-alias: "Reasons to Join "
 ---
 # [[Reasons to Join ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_3-clear-patterns-why-people-joined-my-program-activity-7323224948007653377-6-Lo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250502064226.png|400]]
@@ -66,5 +70,7 @@ Content Creation (3 participants)
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-30_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

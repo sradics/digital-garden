@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20241105063946.png
-date_created: Monday, November 4th 2024, 6:52:08 am
-date_modified: Tuesday, November 5th 2024, 6:40:14 am
+date_created: 2024-11-04 06:52
+date_modified: 2025-06-25 00:01
 ---
 # [[Reflections on Commenting]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-linkedin-paradox-more-engagement-activity-7259097072618950656-9fhw?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241105063946.png|400]]  
@@ -88,13 +90,12 @@ Want to gain deeper insights into Learning with Impact?
 ➠ Subscribe to my newsletter for exclusive tips and updates
 (from my profile or post header link)
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-11-04_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

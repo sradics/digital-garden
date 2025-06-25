@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240924061752.png
-date_created: Monday, September 23rd 2024, 6:25:36 am
-date_modified: Tuesday, September 24th 2024, 6:19:35 am
+date_created: 2024-09-23 06:25
+date_modified: 2025-06-25 00:01
 ---
 # [[7 Benefits You gain from Writing Daily]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_without-being-a-professional-writer-you-activity-7243861823458807808-qt2Y?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240924061752.png|400]]  
@@ -79,5 +81,7 @@ P.S.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-23_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Tuesday, February 13th 2024, 6:07:33 am
-date_modified: Sunday, April 21st 2024, 10:02:43 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Embracing Complexity - My Journey with Grand Strategy]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_embracing-complexity-my-journey-with-grand-activity-7163079466603266048-5thh?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421100232.png|400]]
@@ -64,6 +66,7 @@ a masterpiece on visualizing strategy and creating a common ground for doing str
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I'm fascinated by Strategy and read several great books in the recent years (find the list of books below). And I noticed a common pattern when I wanted to work with it. Without being in the position of highest power and without having a deep experience and profound understanding of Strategy it is tough to get noticed and to really bring such concepts like applying Wardley Mapping and working with Blue Ocean Strategy forward. 
 
 The challenge is, that these approach are not easy to grasp. It requires a higher initial time invest and is a cognitive challenge to understand the approach. One needs to practice it again and again. Or it might be helpful to supercharge and work with consultation and guidance along the way. 
@@ -94,4 +97,5 @@ For all who would like to dive deeper I can recommend:
 + Schwarmdummheit von Gunter Dueck - nicely explaining the difference between stupid simple (simplistic) and brilliantly simple and the the difference between swarm stupidity and swarm intelligence.
 
 Posted on **LINKEDIN** on 2024-02-13_Tue
+
 # Linking

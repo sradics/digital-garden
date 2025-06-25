@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
-date_created: Sunday, January 21th 2024, 9:27:28 pm
-date_modified: Sunday, January 28th 2024, 9:31:51 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Embarking on a Strategy Odyssey with Wardley Mapping]]
+
 ## Post at LinkedIn
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_embarking-on-a-strategy-odyssey-with-wardley-activity-7154465031273795584-IJMc?utm_source=share&utm_medium=member_desktop)
 
 🌟 Embarking on a Strategy Odyssey with Wardley Maps - Seeking Companions and Mentors!  
@@ -43,5 +45,7 @@ If you know someone adept in the art of Wardley Mapping, I'd be grateful if you 
 👉 [FOLLOW ME](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 Posted on **LINKEDIN** on 2024-01-21_Sun
+
 # Linking
+
 + [[MOC Strategy]]

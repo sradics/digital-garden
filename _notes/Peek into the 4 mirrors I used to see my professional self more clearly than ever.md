@@ -4,11 +4,13 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Wednesday, February 14th 2024, 6:41:52 am
-date_modified: Sunday, April 21st 2024, 10:18:14 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Peek into the 4 mirrors I used to see my professional self more clearly than ever]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_peek-into-the-4-mirrors-i-used-to-see-activity-7163441848059965440-_3Xt?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421101724.png|400]]
@@ -47,6 +49,7 @@ Feel free to explore and perhaps construct one for yourself.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Being aware about own strengths is of high value to leverage and extend these strengths and increase performance. Thanks for Quilco and recommending the Clifton Strenghts Strenghtfinder.  According to that test my 5 most developed strenghts out of a list of 34 are: 
 
 + Activator - make things happen
@@ -77,4 +80,5 @@ And I connect all of these insights and more instructions of how to work with me
 I share my How to work with me in my comment. Maybe you find that interesting and want to use a similar format for yourself. Looking forward to your learnings and impressions. 
 
 Posted on **LINKEDIN** on 2024-02-14_Wed
+
 # Linking

@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Monday, February 26th 2024, 6:25:05 am
-date_modified: Sunday, April 21st 2024, 9:59:29 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Stuck in Decision-Making Quagmire - Find Your Way Out]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_stuck-in-decision-making-quagmire-find-your-activity-7167970929979957248-Nec4?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421095913.png|400]]
@@ -40,6 +42,7 @@ What's your go-to strategy when decisions get tough? How do you avoid the decisi
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Does your company suffer from poor decision making?
 (Discover your way to switch to taking smart decisions)
 
@@ -63,4 +66,5 @@ So next time you need to take an important decision, take a step back and apply 
 Please share your experience with decision making. What works best for you? Where do you struggle?
 
 Posted on **LINKEDIN** on 2024-02-26_Mon
+
 # Linking

@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
   - linkedin/processed
-date_created: Monday, October 7th 2024, 12:36:46 am
-date_modified: Monday, October 7th 2024, 9:50:22 pm
+date_created: 2024-10-07 09:36
+date_modified: 2025-06-25 00:01
 image: Pasted image 20241007214956.png
 ---
 # [[Event Post Processing Post]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_secondbrainsummit-activity-7248980805547343872-ppio?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241007214956.png|400]]
@@ -83,5 +85,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-07_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - ln_weekly_highlight
   - linkedin/processed
-date_created: Friday, September 13th 2024, 6:30:23 am
-date_modified: Saturday, September 14th 2024, 5:27:12 am
+date_created: 2024-09-13 06:30
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW37]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_kw37-2024-highlights-activity-7240237945402662912-dL5w?utm_source=share&utm_medium=member_desktop)
 
 ![[2024_KW37_Weekly Highlights.pdf]]
@@ -54,5 +56,7 @@ P.S.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-13_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

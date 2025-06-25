@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241008215232.png
-date_created: Monday, October 7th 2024, 9:53:41 pm
-date_modified: Tuesday, October 8th 2024, 9:54:16 pm
+date_created: 2024-10-08 06:53
+date_modified: 2025-06-25 00:01
 ---
 # [[I am a Librarian Notetaker]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_im-a-librarian-type-of-notetaker-you-activity-7249297714662752256-nTWK?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241008215232.png|400]]
@@ -92,5 +94,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-07_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

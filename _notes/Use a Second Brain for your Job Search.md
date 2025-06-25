@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/help_others_grow
-date_created: Monday, July 22nd 2024, 5:21:54 am
-date_modified: Tuesday, July 23rd 2024, 5:38:08 am
+date_created: 2024-07-22 05:21
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240723053611.png
 ---
 # [[Use a Second Brain for your Job Search]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_bringbackluke-activity-7221030415132696577-AcHH?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240723053611.png|400]]
 Turn your job search to a research journey
@@ -77,5 +79,7 @@ Thanks Lara Acosta for the coordinated efforts too.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-07-22_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]

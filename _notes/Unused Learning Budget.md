@@ -10,11 +10,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250415065619.png
-date_created: Monday, April 14th 2025, 6:53:38 am
-date_modified: Tuesday, April 15th 2025, 6:58:54 am
+date_created: 2025-04-14 06:53
+date_modified: 2025-06-25 00:01
 ---
 # [[Unused Learning Budget]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_you-are-part-of-the-1-billion-learning-activity-7317426447877304321-Oh9i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250415065619.png|400]]
@@ -91,5 +93,7 @@ Questions? Sent me a DM or comment "INSIGHTS" and I'll reach out.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-14_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

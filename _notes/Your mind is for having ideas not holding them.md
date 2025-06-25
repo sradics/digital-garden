@@ -8,9 +8,13 @@ tags:
   - 12_fav_problems/relationships
   - rating/⭐️
 image: Pasted image 20240421075851.png
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Your mind is for having ideas not holding them]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-mind-is-for-having-ideas-not-holding-activity-7185177462991917057-QrHa?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240421075851.png|400]]  
 
@@ -40,7 +44,6 @@ If you want to start with your Second Brain - Tiago Forte's book - Building a Se
 Want to see mine in action? Check out my Digital Garden: [https://lnkd.in/eTy4U-qE](https://lnkd.in/eTy4U-qE)  
   
 👉 Ready to level up your knowledge work? Follow me for Second Brain tips and inspiration!
-
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
@@ -72,4 +75,5 @@ One CTA:
 👉 Follow me for more insights on Second Brain, and Smart Learning
 
 Posted on **LINKEDIN** on 2024-04-14_Sun
+
 # Linking

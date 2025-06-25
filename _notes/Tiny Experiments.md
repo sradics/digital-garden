@@ -7,11 +7,13 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250306062642.png
-date_created: Wednesday, March 5th 2025, 7:25:08 am
-date_modified: Thursday, March 6th 2025, 6:27:25 am
+date_created: 2025-03-05 07:25
+date_modified: 2025-06-25 00:01
 ---
 # [[Tiny Experiments]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_4783-productivity-books-exist-but-only-activity-7302947696334524416-WyNK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250306062642.png|400]]
@@ -53,4 +55,5 @@ I'm super curios for part II of the book. You too?
 ## Content preparation
 
 # Linking
+
 + [[My running list of 12 favorite problems]]

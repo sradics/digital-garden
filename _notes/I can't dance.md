@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240722051737.png
-date_created: Sunday, July 21st 2024, 7:09:04 am
-date_modified: Monday, July 22nd 2024, 5:18:15 am
+date_created: 2024-07-21 07:09
+date_modified: 2025-06-25 00:01
 ---
 # [[I can't dance]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-cant-dance-i-cant-sing-im-just-standing-activity-7220676813071548416-cRcm?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240722051737.png|400]]
@@ -68,8 +70,8 @@ Want inspiration > Type SMART in the comments
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-07-21_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

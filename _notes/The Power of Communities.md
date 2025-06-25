@@ -6,9 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/relationships
 image: Pasted image 20240711061732.png
+date_created: 2024-07-10 06:23
+date_modified: 2025-06-25 00:01
 ---
 # [[The Power of Communities]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-felt-isolated-in-my-drive-for-learning-activity-7216690227967320064-nWza?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240711061732.png|400]]
@@ -63,11 +67,9 @@ What makes communities strong for me
 Weekly ceremonies, shared materials, available courses, and recordings  
   
 → Super active community leaders  
-  
-  
+
 I experienced firsthand how communities support social aspects and collaborative learning.  
-  
-  
+
 Especially for learning, I experienced:  
 → The importance of accountability buddies  
 → The impact of using modern learning approaches  
@@ -84,15 +86,14 @@ Imagine tapping into the power in collaborative learning.
   
 ➠ Join the waitlist if you want to experience that too.  
 (Link in the comments)  
-  
-  
-  
+
 P.S. - Please repost ♻ and share with your network  
 Spread your word and help your peers grow too!  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 For a longer time I felt isolates with my drive for learning. It was tough to find likeminded people:
 * to exchange with
 * to gain new perspectives
@@ -136,11 +137,10 @@ Implemented main insight I gained.
 There is a real power in collaborative learning. 
 Join the waitlist if you want to experience that too. (Link in the comments) 
 
-
-
-
 P.S. - Please repost ♻ and share with your network 
 
 Posted on **LINKEDIN** on 2024-07-10_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems#Relationsships]]

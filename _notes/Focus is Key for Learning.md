@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
   - linkedin/processed
-date_created: Wednesday, June 26th 2024, 6:30:47 am
-date_modified: Thursday, June 27th 2024, 4:31:33 am
+date_created: 2024-06-26 06:30
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240627042930.png
 ---
 # [[Focus is Key for Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-struggle-with-distractions-and-how-i-activity-7211624247008374784-m5OV?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240627042930.png]]
 
@@ -71,6 +73,8 @@ Let me know how that worked for you?
 What is one tip to better focus?
 
 Posted on **LINKEDIN** on 2024-06-26_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]
 + [[How to overcome resistance and get into deep focus (Pomodoro 2.0)]]

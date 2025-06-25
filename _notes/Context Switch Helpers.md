@@ -6,13 +6,16 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20240809065220.png
+date_created: 2024-08-08 06:50
+date_modified: 2025-06-25 00:01
 ---
 # [[Context Switch Helpers]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-many-tabs-open-20-this-way-i-activity-7227192265964695553-uF6r?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240809065220.png|400]]
-
 
 How many tabs open? 20+ 🤪
 
@@ -61,7 +64,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-08_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

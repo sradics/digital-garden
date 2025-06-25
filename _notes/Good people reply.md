@@ -11,11 +11,15 @@ tags:
   - lightbulb/4-🟢-my_offer
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250521080513.png
-date_created: Wednesday, May 21st 2025, 8:03:48 am
-date_modified: Wednesday, May 21st 2025, 8:06:55 am
+date_created: 2025-05-21 08:03
+date_modified: 2025-06-25 00:01
+aliases: ["Good people reply "]
+linter-yaml-title-alias: "Good people reply "
 ---
 # [[Good people reply ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-lightbulb-diaries-good-people-im-activity-7330835375772344320-4CqY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250521080513.png|400]]
@@ -66,5 +70,7 @@ The connections made through your cohorts are indeed one of the greatest gifts -
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-21_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

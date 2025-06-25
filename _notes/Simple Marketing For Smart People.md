@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/continuous_learning
 image: Pasted image 20240610052358.png
-date_created: Sunday, June 9th 2024, 6:27:07 am
-date_modified: Monday, June 10th 2024, 5:25:17 am
+date_created: 2024-06-09 06:27
+date_modified: 2025-06-25 00:01
 ---
 # [[Simple Marketing For Smart People]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_im-hooked-by-simple-marketing-for-smart-activity-7205471184128278528-2wBB?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240610052358.png|400]]  
 
@@ -58,10 +60,9 @@ What's on your readers mind?
 
 ## Content preparation
 
-
-
-
 Posted on **LINKEDIN** on 2024-06-09_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]
 + [[Notes from Simple Marketing for Smart People]]

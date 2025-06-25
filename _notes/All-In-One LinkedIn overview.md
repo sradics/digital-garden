@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
   - linkedin/processed
-date_created: Monday, April 29th 2024, 5:42:19 am
-date_modified: Monday, April 29th 2024, 7:06:49 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: LinkedInHub.png
 ---
 # [[All-In-One LinkedIn overview]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-struggle-to-keep-track-of-our-linkedin-activity-7190613295769231361-CNZ1?utm_source=share&utm_medium=member_desktop)
 ![[LinkedInHub.png]]
 
@@ -23,8 +25,7 @@ It is an evolution of expressing directly from my Second Brain, featuring:
 ↳ Posts linked to extra resources for deeper learning.  
 ↳ Quickly find what interests you with themed collections.  
 ↳ Anyone can access and download materials (like slide decks).  
-  
-  
+
 My observations 👀 ─ It’s fascinating to see how each post interconnects, forming a growing web of topics. Each post is a step forward in a much larger journey.  
   
 Here’s a peek at my process:  
@@ -42,6 +43,7 @@ I'll soon share the tech stack behind my digital garden.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Hook:
 
 Do you also find it difficult to remember posts on LinkedIn. And does your saved item list grow more an more? I implemented a solution to get an overview of all my LinkedIn post, enriched with further deep dive information per post, linked with further knowledge. Now all available in my digital garden 🌱. 
@@ -68,5 +70,7 @@ Please let me know if that is helpful for you too! What might enhance that exper
 I'll also soon share the tech stack for my digital garden. Follow me for more.
 
 Posted on **LINKEDIN** on 2024-04-29_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

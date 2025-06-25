@@ -6,12 +6,14 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
   - rating/⭐️⭐️
-date_created: Wednesday, March 27th 2024, 5:20:35 am
-date_modified: Sunday, April 21st 2024, 8:56:35 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421085541.png
 ---
 # [[47 and working in Startups_Scaleups]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_47-and-counting-how-i-become-a-startup-swiss-activity-7178662201728073728-2JeI?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240421085541.png|400]]  
 
@@ -41,6 +43,7 @@ How do you adapt in a fast-paced world? Share your best tips below!
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I'm 47 now and work since 2009 in startups/scaleups. Fast pacing environments. And I reached a top contributor role several times. 
 
 Special incredients that pay off in such environments were for me:
@@ -58,5 +61,7 @@ One great effect for myself is staying young by being together with younger peop
 To summarize - invest in always learning, mental flexibility, social skills, context awareness, being healthy and curiosity in in individuals and generation specifics. Avoid equilibrium.
 
 Posted on **LINKEDIN** on 2024-03-27_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems#Leading questions to discover more of my 12 questions]]

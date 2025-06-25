@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/continuous_learning
 image: Pasted image 20240624232917.png
-date_created: Monday, June 24th 2024, 5:12:55 am
-date_modified: Monday, June 24th 2024, 11:29:42 pm
+date_created: 2024-06-24 05:12
+date_modified: 2025-06-25 00:01
 ---
 # [[MetaCognition and a Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_think-you-know-how-to-learn-how-metacognition-activity-7210907038443347968-eY_0?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240624232917.png|400]]  
 
@@ -38,8 +40,7 @@ Here’s how my Second Brain supports my metacognition:
 → Monitoring my projects and goals to evaluate my learning strategies  
 → Using templates and checklists to streamline learning and productivity  
 → Summarizing and synthesizing key insights and takeaways  
-  
-  
+
 🧐 Questions for Self-Reflection on your Learning:  
   
 When approaching a new topic, consider these questions to reflect on your learning strategy:  
@@ -59,6 +60,7 @@ Let’s connect and explore smart approaches together.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 + ability to self-critique their approach
 + thinking about your thinking
 + knowledge of yourself as a learner
@@ -95,11 +97,12 @@ When you want to learn something, consider these questions to reflect on your ap
 Dr. John Hattie
 “Students who actively reflect on their learning processes are more likely to understand complex concepts and retain information longer.”
 
-
  National Center for Education Statistics indicate that students who use metacognitive strategies have a 15-20% higher retention rate
 
 Posted on **LINKEDIN** on 2024-06-24_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[From Collector to Creator - module One - cognition]]
 + [[What is metacognition- (Exploring the Metacognition Cycle)]]

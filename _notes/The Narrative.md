@@ -9,11 +9,15 @@ tags:
   - lightbulb/5-🔵-their_new-life
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250519070307.png
-date_created: Friday, May 16th 2025, 7:14:35 am
-date_modified: Monday, May 19th 2025, 7:04:11 am
+date_created: 2025-05-16 07:14
+date_modified: 2025-06-25 00:01
+aliases: ["The Narrative "]
+linter-yaml-title-alias: "The Narrative "
 ---
 # [[The Narrative ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_3-territories-that-separate-future-proof-activity-7329023096743460864-Lpq_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250519070307.png|400]]
@@ -63,5 +67,7 @@ Today 13:00 CEST I drop the Book-to-Action approach
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-16_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

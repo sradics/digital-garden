@@ -7,11 +7,15 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
-date_created: Monday, April 21st 2025, 6:51:26 am
-date_modified: Tuesday, April 22nd 2025, 7:01:34 am
+date_created: 2025-04-21 06:51
+date_modified: 2025-06-25 00:01
+aliases: ["7 days left "]
+linter-yaml-title-alias: "7 days left "
 ---
 # [[7 days left ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_9-weeks-to-master-what-took-me-4-years-to-activity-7319963148134871040-XS60?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250422070108.png|400]]
@@ -52,5 +56,7 @@ See the powerful connection between AI and a Second Brain in action.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-21_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

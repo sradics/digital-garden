@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250126062207.png
-date_created: Saturday, January 25th 2025, 7:10:42 am
-date_modified: Sunday, January 26th 2025, 6:22:34 am
+date_created: 2025-01-25 07:10
+date_modified: 2025-06-25 00:01
 ---
 # [[A call for a Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_when-life-pulls-the-career-rug-does-activity-7288812771985481728-_WWb)
 
 ![[Pasted image 20250126062207.png|400]]
@@ -67,5 +69,7 @@ I keep it small group format to ensure everyone gets value.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-25_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

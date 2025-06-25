@@ -8,12 +8,14 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Wednesday, December 4th 2024, 6:55:05 am
-date_modified: Thursday, December 5th 2024, 6:35:19 am
+date_created: 2024-12-04 06:55
+date_modified: 2025-06-25 00:01
 image: Pasted image 20241205063438.png
 ---
 # [[Strength of Working in Public]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_plant-grow-share-i-turned-1000-scattered-activity-7269968715805290497-QPpk?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20241205063438.png|400]]  
 
@@ -94,4 +96,5 @@ Posted on **LINKEDIN** on 2024-12-04_Wed
 🌱 Learn how to Learn - https://digital-garden.ontheagilepath.net/moc-learning-how-to-learn
 
 # Linking
+
 + [[My running list of 12 favorite problems]]

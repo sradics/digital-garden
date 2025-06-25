@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/relationships
   - linkedin/processed
 image: Pasted image 20240825061022.png
-date_created: Saturday, August 24th 2024, 6:19:59 am
-date_modified: Sunday, August 25th 2024, 6:11:41 am
+date_created: 2024-08-24 06:19
+date_modified: 2025-06-25 00:01
 ---
 # [[Thanks to my LinkedIn community]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-admit-im-on-linkedin-2-6hday-and-activity-7232990245275774976-ZpkB?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240825061022.png|400]]  
 
@@ -69,10 +71,6 @@ And please feel inv
 
 ## Content preparation
 
-
-
-
-
-
 # Linking
+
 + [[My running list of 12 favorite problems]]

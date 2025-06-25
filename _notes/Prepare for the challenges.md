@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241118030929.png
-date_created: Sunday, November 17th 2024, 7:25:23 am
-date_modified: Monday, November 18th 2024, 3:10:26 am
+date_created: 2024-11-17 07:25
+date_modified: 2025-06-25 00:01
 ---
 # [[Prepare for the challenges]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-8-hour-move-went-perfectly-then-came-activity-7263808155388633088-Whvu?utm_source=share&utm_medium=member_desktop)
   
 ![[Pasted image 20241118030929.png]]
@@ -72,5 +74,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-17_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,12 +6,14 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
   - lightbulb/5-🔵-their_new-life
-date_created: Thursday, September 19th 2024, 6:04:49 am
-date_modified: Friday, September 20th 2024, 6:23:04 am
+date_created: 2024-09-19 06:04
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240920062215.png
 ---
 # [[Recall in Minutes]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_learning-takes-time-but-recalling-insights-activity-7242412229826936833-UQCn?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240920062215.png|400]]  
@@ -80,5 +82,7 @@ What was ONE moment a fast recall would have helped you?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-19_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

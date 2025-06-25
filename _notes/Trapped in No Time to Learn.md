@@ -9,11 +9,13 @@ tags:
   - lightbulb/2-🟡-things_they_tried
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250218072440.png
-date_created: Monday, February 17th 2025, 6:29:30 am
-date_modified: Tuesday, February 18th 2025, 7:25:01 am
+date_created: 2025-02-17 06:29
+date_modified: 2025-06-25 00:01
 ---
 # [[Trapped in No Time to Learn]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_trapped-in-the-no-time-to-learn-paradox-activity-7297147772850315265-cSuZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250218072440.png|400]]
@@ -62,13 +64,12 @@ Consistent small deposits yield massive returns over time.
 This Wednesday I run my (free)  "Learning That Pays Dividends" workshop.
 Comment or DM "5" and I'll send you the details.
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-02-17_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250318060047.png
-date_created: Monday, March 17th 2025, 6:55:28 am
-date_modified: Tuesday, March 18th 2025, 6:01:41 am
+date_created: 2025-03-17 06:55
+date_modified: 2025-06-25 00:01
 ---
 # [[Compounding Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_remember-that-feeling-of-building-with-lego-activity-7307294661390278660-TabZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250318060047.png|400]]  
@@ -73,5 +75,7 @@ Join me in building something remarkable with your knowledge
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-17_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

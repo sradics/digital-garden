@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241209061358.png
-date_created: Sunday, December 8th 2024, 6:25:28 am
-date_modified: Monday, December 9th 2024, 6:15:12 am
+date_created: 2024-12-08 06:25
+date_modified: 2025-06-25 00:01
 ---
 # [[Seeing  people struggle hurts]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-most-undervalued-resource-isnt-money-activity-7271418254315642881-USB1?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241209061358.png|400]]
@@ -89,5 +91,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-08_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

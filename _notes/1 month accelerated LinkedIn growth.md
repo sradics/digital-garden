@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 pdf: LinkedInMonthlyGrowth.pdf
-date_created: Wednesday, July 31st 2024, 6:27:42 am
-date_modified: Thursday, August 1st 2024, 6:18:48 am
+date_created: 2024-07-31 06:27
+date_modified: 2025-06-25 00:01
 ---
 # [[1 month accelerated LinkedIn growth]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_one-month-linkedin-growth-stats-activity-7224293405172862976-uXD1?utm_source=share&utm_medium=member_desktop)
 My pivotal month on LinkedIn  
   
@@ -18,8 +20,7 @@ My pivotal month on LinkedIn
 → 25% more total followers (11 years on LN)  
 → engagement up 2650% (53 comments/day vs 2/d)  
 → impressions up about 70%  
-  
-  
+
 Such changes need a high investment.  
 Each day:  
   
@@ -55,7 +56,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-07-31_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

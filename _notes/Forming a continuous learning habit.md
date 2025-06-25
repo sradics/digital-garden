@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241231072151.png
-date_created: Monday, December 30th 2024, 6:54:47 am
-date_modified: Tuesday, December 31st 2024, 7:22:51 am
+date_created: 2024-12-30 06:54
+date_modified: 2025-06-25 00:01
 ---
 # [[Forming a continuous learning habit]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-forgotten-curiosity-is-worth-millions-activity-7279390776520785920-hKUY?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241231072151.png|400]]
@@ -73,5 +75,7 @@ Take Your First Step to Unlock you Curiosity again:
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-30_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

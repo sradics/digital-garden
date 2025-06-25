@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Tuesday, June 11th 2024, 5:53:31 am
-date_modified: Wednesday, June 12th 2024, 5:03:31 am
+date_created: 2024-06-11 05:53
+date_modified: 2025-06-25 00:01
 pdf: EffectiveBookReading.pdf
 ---
 # [[Fast processing Simple Marketing for Smart People]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-make-reading-books-7x-more-effective-activity-7206188440961384448-JZYd?utm_source=share&utm_medium=member_desktop)
 
 ![[EffectiveBookReading.pdf]]
@@ -90,7 +92,9 @@ One Story:
 One CTA:
 
 Posted on **LINKEDIN** on 2024-06-11_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [Great articles about the forgetting curve by Anne-Laure Le Cunff](https://nesslabs.com/ebbinghaus-forgetting-curve)
 + [[Notes from Simple Marketing for Smart People]]

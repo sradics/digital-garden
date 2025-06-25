@@ -7,11 +7,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250308062126.png
-date_created: Friday, March 7th 2025, 6:43:29 am
-date_modified: Saturday, March 8th 2025, 6:22:00 am
+date_created: 2025-03-07 06:43
+date_modified: 2025-06-25 00:01
 ---
 # [[Focus with Pomodoro]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-10-day-pomodoro-experiment-is-revealing-activity-7303670975412293632-nv6t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250308062126.png|400]]
@@ -75,5 +77,7 @@ What is one insight you can share?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-07_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

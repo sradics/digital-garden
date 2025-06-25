@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250216062634.png
-date_created: Saturday, February 15th 2025, 7:07:22 am
-date_modified: Sunday, February 16th 2025, 6:27:23 am
+date_created: 2025-02-15 07:07
+date_modified: 2025-06-25 00:01
 ---
 # [[The Learning Alchemist]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-alchemy-of-knowledge-how-i-turn-activity-7296422907331641344-227i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250216062634.png]]
@@ -68,5 +70,7 @@ how they've benefited from these (similar) workshops!
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-15_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

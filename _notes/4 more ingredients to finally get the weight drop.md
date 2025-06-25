@@ -4,8 +4,8 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Monday, January 23rd 2023, 6:55:25 am
-date_modified: Thursday, May 18th 2023, 6:15:55 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # 4 more ingredients to finally get the weight drop
 
@@ -28,6 +28,7 @@ I'm feeling strong, even more awake and energised and happy that I found a solut
 Posted on [LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_okr-weightloss-nutrition-activity-7023171343990849536-Yhya?utm_source=share&utm_medium=member_desktop) on January 2023
 
 # Linking
+
 + [[MOC OKRs]]
 + [[MOC Vegan Living]]
 + [[Atomic Habits - James Clear]]

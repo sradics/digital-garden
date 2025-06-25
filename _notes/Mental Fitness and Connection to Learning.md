@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/continuous_learning
-date_created: Monday, June 24th 2024, 11:33:18 pm
-date_modified: Monday, June 24th 2024, 11:33:59 pm
+date_created: 2024-06-24 23:33
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240625202700.png
 ---
 # [[Mental Fitness and Connection to Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_mental-physical-fitness-is-crucial-for-activity-7211261871486627840-9GXu?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240625202700.png|400]]
 
@@ -70,6 +72,7 @@ Lets support each other on our learning journey! ⬇️
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Main topic:
 + claim: mental & physical fitness is essential for learning
 + Story: I once worked for 30h on an important database upgrade. It included a nightshift. After 30 hours I had to implement an important final SQL-Update and it was just impossible to catch any clear thought. I was so tired, so exhausted and it felt terrible. This was for me a clear connection, that our mind need rest in order function properly. 
@@ -88,5 +91,7 @@ By prioritizing fitness, you ensure your learning journey is sustainable and enj
 How do you maintain your fitness amidst continuous learning? Share your strategies in the comments!
 
 Posted on **LINKEDIN** on 2024-06-24_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

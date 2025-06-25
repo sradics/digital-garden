@@ -7,12 +7,14 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/1-🔴-status_quo
   - lightbulb/4-🟢-my_offer
-date_created: Saturday, February 8th 2025, 6:39:30 am
-date_modified: Sunday, February 9th 2025, 6:19:06 am
+date_created: 2025-02-08 06:39
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250209061816.png
 ---
 # [[The Masters Degree]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_finally-got-my-masters-degree-now-i-can-activity-7293886237684191232-SarZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250209061816.png|400]]
@@ -48,5 +50,7 @@ Want the full story? Read this week's newsletter
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-08_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

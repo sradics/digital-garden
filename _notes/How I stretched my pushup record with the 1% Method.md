@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Saturday, April 6th 2024, 5:24:34 am
-date_modified: Saturday, April 6th 2024, 5:24:49 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[How I stretched my pushup record with the 1% Method]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-stretched-my-pushup-record-with-the-activity-7182285921365458945-qiMQ?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421082202.png|400]]
@@ -35,6 +37,7 @@ What is your experience with mornings boost productivity?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 New records in March. With following the 1% Method and aiming for progress each day I was able to stretch my daily pushup record to now 304 in 6 minutes. Just copy this simple approach:
 + DAILY push-ups, to your limits. 2 iterations. 
 + it just takes some minutes .. the effect comes through daily repetitions and stretching our of your comfort zone
@@ -47,9 +50,9 @@ You might become a member of the 5AM club - my experience in 2024:
 - I recommend eliminating distractions and prioritizing high-value, disciplined activities
 - I love the power mix of spirituality, emotional well-being, physical health, and learning - 20-20-20 formula applied
 
-
-
 Posted on **LINKEDIN** on 2024-04-06_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems#Health]]
 + [[Atomic Habits - James Clear]]

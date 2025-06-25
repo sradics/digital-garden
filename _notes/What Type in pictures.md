@@ -8,15 +8,16 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250110071410.png
-date_created: Thursday, January 9th 2025, 7:12:31 am
-date_modified: Friday, January 10th 2025, 7:14:42 am
+date_created: 2025-01-09 07:12
+date_modified: 2025-06-25 00:01
 ---
 # [[What Type in pictures]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-learning-style-demanded-discomfort-activity-7283014762190258176-ds7-?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250110071410.png|400]]
-
 
 My Learning Style demanded discomfort.  
   
@@ -57,8 +58,7 @@ Apply now: [https://lnkd.in/ejcQ5QTn](https://lnkd.in/ejcQ5QTn)
 (Like switching house locations mid-construction. Yes, really!)  
   
 And maybe, just maybe, inspired some of you along the way.  
-  
-  
+
 All this growth?  
 Started with understanding my Learning Style.  
   
@@ -75,12 +75,12 @@ Having my 4MAT teacher and mentor present is such an honour.
 You need to meet her  
 ———
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2025-01-09_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

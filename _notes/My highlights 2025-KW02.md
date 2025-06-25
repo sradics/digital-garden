@@ -6,11 +6,13 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2025_KW02_Weekly Highlights.pdf
-date_created: Friday, January 10th 2025, 7:17:48 am
-date_modified: Saturday, January 11th 2025, 7:38:46 am
+date_created: 2025-01-10 07:17
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights 2025-KW02]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_2025-kw-02-highlights-activity-7283377038667702273-eSVg?utm_source=share&utm_medium=member_desktop)
 
 ![[2025_KW02_Weekly Highlights.pdf]]
@@ -52,5 +54,7 @@ Apply now: [https://lnkd.in/ejcQ5QTn](https://lnkd.in/ejcQ5QTn)
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-10_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

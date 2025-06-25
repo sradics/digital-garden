@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Friday, February 9th 2024, 6:28:00 am
-date_modified: Sunday, April 21st 2024, 10:23:02 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Unleash the untapped power of Blinkist]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unleash-the-untapped-power-of-blinkist-activity-7161629854231158784-dSKB?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421102231.png|400]]
@@ -43,6 +45,7 @@ What are your Blinkist habits that have proven beneficial? I'd love to hear abou
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I noticed through many observations in user interviews and conversations with friends and relatives that many started using Blinkist but do not leverage it's full potential. 
 I run an experiment to learn about my usage. As employee at Blinkist, I'm given a free Blinkist access too. But I decided to also have my own paid account. This way I can understand, if I get enough value from it through my usage and can get much better in a users perspective. Let me share some of my behaviors I build over years of using Blinkist to inspire you to extend your use cases and get more benefits too.
 
@@ -66,6 +69,8 @@ So in summary, I established several behaviors over the years of using Blinkist,
 Link to my post about 10 features of Blinkist
 
 Posted on **LINKEDIN** on 2024-02-09_Fri
+
 # Linking
+
 + [[MOC Learning]]
 + [[My running list of 12 favorite problems#Continuous Learning]]

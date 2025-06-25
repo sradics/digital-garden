@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240510045126.png
-date_created: Tuesday, May 7th 2024, 4:40:32 am
-date_modified: Friday, May 10th 2024, 4:52:28 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[AI and compressing]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-llm-compression-expansion-and-translation-activity-7193504928336687104-T-xz?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240510045126.png]]
 My LLM — compression, expansion, and translation  
@@ -34,16 +36,14 @@ I upload documents to ChatGPT to extract insights, providing my specific questio
   
 →← Speed-read books:  
 With [Blinkist](https://www.linkedin.com/company/blinkist/), I skim key insights quickly and explore related content with its AI recommendations  
-  
-  
+
 ‾‾‾‾‾‾  
 ←→ Content creation:  
 To expand initial ideas into detailed content drafts for marketing materials, such as landing pages. I especially leverage the 5 Lightbulbs by [](https://www.linkedin.com/in/ACoAAADIwlUBRzxXl9jQaCOCKhUAm_B_BF8XDYg)[Billy Broas](https://www.linkedin.com/in/billybroas/) that help me with initial ideas.  
   
 ←→ Idea generation:  
 Starting from a simple prompt, LLMs help me brainstorm and explore ideas further. E.g. for finding new connections with Smart Connections in Obsidian.  
-  
-  
+
 ➟Transformation➟  
 ‾‾‾‾‾‾‾‾  
 ➟ Multilingual support:  
@@ -59,8 +59,7 @@ For instance to learn about the connection between the 4 learning types and the 
   
 My next experiment with AI compression and translation:  
 I'm currently reading the Fastlane Millionaire. A mind blowing book.  
-  
-  
+
 How do you use AI for compression, expansion, and translation?  
   
 👉Follow me for more on AI to grow a Second Brain
@@ -68,9 +67,9 @@ How do you use AI for compression, expansion, and translation?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 LLM — compression, expansion, and translation
 (the best about any topic—in the right form for any given context)
-
 
 How can I store information in a way that it helps me with later retrieval and usage to create new knowledge? How can I distill to the main insights for me?
 
@@ -99,9 +98,10 @@ I'm currently reading the Fastlane Millionaire. A mind blowing book. And I'll ta
 
 What is your experience with AI and compression, expansion, and translation?
 
-
 Posted on **LINKEDIN** on 2024-05-07_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [Main article by Dan Shipper](https://every.to/chain-of-thought/what-can-language-models-actually-do) - Matter insights [[What Can Language]]
 + [[How to better remember what you read]]

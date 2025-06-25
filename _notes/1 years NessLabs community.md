@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/health
   - linkedin/processed
 image: Pasted image 20240520210325.png
-date_created: Sunday, May 19th 2024, 6:10:43 am
-date_modified: Monday, May 20th 2024, 5:58:22 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[1 years NessLabs community]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_metacognition-pact-pari-activity-7197861034563448833-F1SN?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240520210325.png|400]]
 
@@ -36,8 +38,7 @@ Currently exploring this course, helping me transition from consuming to creatin
   
 🌱 Mind Gardening:  
 Engaging with peers on topics like productivity, lifelong learning, and creativity enriched my understanding of "Mind Gardening."  
-  
-  
+
 Engaging in Waves: My Interaction with NessLabs  
 ——  
 Fascinating how my engagement with NessLabs ebbs and flows.  
@@ -71,6 +72,8 @@ I find it super interesting, how I'm engaging in waves with NessLabs. It feels g
 Then I'm switching off for some moments, but like the reminders of what is going on via a the regular eMail updates on upcoming sessions and content added. In addition I learn a lot through Anne-Laure Le Cunff's awesome writing. The regular newsletters are often a highlight I capture in my Second Brain. Thanks for that consistent work and inspiration!
 
 Posted on **LINKEDIN** on 2024-05-19_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Health]]
 + [[2nd pass for Ikigai - Das Geheimnis der kleinen Dinge]]

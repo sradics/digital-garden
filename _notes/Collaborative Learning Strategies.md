@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Tuesday, March 19th 2024, 6:15:50 am
-date_modified: Sunday, April 21st 2024, 9:24:43 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Collaborative Learning Strategies]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_7-ingredients-for-collaborative-learning-activity-7175770545857167360-0ryR?utm_source=share&utm_medium=member_desktop)
 ![[Collaborative Learning.pdf]]
 
@@ -41,13 +43,12 @@ Harnessing these strategies isn't just about learning; it's about evolving toget
 
 What's YOUR best collaborative learning tip? Share in the comments!
 
-
-
 ![[BRAC Cycle.jpg]]
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 7 keys to supercharge your collaborative learning
 
 When you implement collaborative learning consider the following aspects.
@@ -61,4 +62,5 @@ When you implement collaborative learning consider the following aspects.
 + Have learners make commitments DURING the session. Get concrete and tie the commitment to specific situations. When-Then or If-Then statements are helpful.
 
 Posted on **LINKEDIN** on 2024-03-19_Tue
+
 # Linking

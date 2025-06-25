@@ -7,11 +7,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250119062302.png
-date_created: Saturday, January 18th 2025, 7:07:23 am
-date_modified: Sunday, January 19th 2025, 6:23:43 am
+date_created: 2025-01-18 07:07
+date_modified: 2025-06-25 00:01
 ---
 # [[Conversion Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-450-comments-to-2-conversions-how-activity-7286276205249458177-3jv1?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250119062302.png|400]]
@@ -55,5 +57,7 @@ Want the full strategy breakdown? → [https://lnkd.in/eEcAiRMr](https://lnkd.in
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-18_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

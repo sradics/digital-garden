@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/relationships
   - linkedin/processed
 image: Pasted image 20240913051922.png
-date_created: Thursday, September 12th 2024, 5:35:35 am
-date_modified: Friday, September 13th 2024, 5:22:35 am
+date_created: 2024-09-12 05:35
+date_modified: 2025-06-25 00:01
 ---
 # [[5k Followers]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-3k-to-5k-followers-my-60-growth-journey-activity-7239875586645454848-3415?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240913051922.png|400]]
 From 3K to 5K Followers: My 60% Growth Journey in 2.5 Months  
@@ -80,5 +82,7 @@ P.S.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-12_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241122070618.png
-date_created: Thursday, November 21st 2024, 7:20:33 am
-date_modified: Friday, November 22nd 2024, 7:06:59 am
+date_created: 2024-11-21 07:20
+date_modified: 2025-06-25 00:01
 ---
 # [[Rapid Fire Writing]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5-words-10-seconds-infinite-creativity-activity-7265257705907396609-fagR?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241122070618.png]]
@@ -86,13 +88,12 @@ Want to gain deeper insights into Learning with Impact?
 ➠ Subscribe to my newsletter for exclusive tips and updates
 (from my profile or post header link)
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-11-21_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

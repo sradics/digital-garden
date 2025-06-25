@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Monday, March 4th 2024, 5:53:58 am
-date_modified: Sunday, April 21st 2024, 9:42:05 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Post about 12 rules for Life]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_12-rules-for-life-to-help-through-todays-activity-7170334725339860994-iKCL?utm_source=share&utm_medium=member_desktop)
 
 12 Rules for Life to help through today’s chaotic times  
@@ -59,6 +61,7 @@ Which rule resonates most you? Have you found success in applying these principl
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 + "Hold your head high and strike the posture of a winner"
 	+ This connects well to the Power Poses: https://www.linkedin.com/posts/sebastiankamilli_transform-your-week-with-2-minute-power-poses-activity-7160180278718582785-bMjw?utm_source=share&utm_medium=member_desktop
 + "Care for yourself like you would for a loved one"
@@ -84,5 +87,7 @@ Which rule resonates most you? Have you found success in applying these principl
 12 rules for life by Jordan B. Peterson
 
 Posted on **LINKEDIN** on 2024-03-04_Mon
+
 # Linking
+
 + [[12 rules for life]]

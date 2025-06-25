@@ -6,14 +6,16 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240616190108.png
-date_created: Sunday, June 16th 2024, 4:43:54 pm
-date_modified: Sunday, June 16th 2024, 7:01:47 pm
+date_created: 2024-06-16 16:43
+date_modified: 2025-06-25 00:01
+aliases: [Linking]
+linter-yaml-title-alias: Linking
 ---
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-3-discoveries-transformed-my-learning-activity-7208141936300298241-RM_g?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240616190108.png|400]]
-
 
 How 3 Discoveries Transformed My Learning Approach Forever  
   
@@ -41,15 +43,14 @@ These breakthroughs turned learning into a source of happiness and meaning for m
   
 Now, I’m on a mission to help others transform their learning experiences.  
 Imagine your learning becoming engaging, manageable, and highly efficient.  
-  
-  
+
 Ready for your next level?  
 Let's connect and follow my journey. Exciting updates are on the way!
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Looking back I experienced several pivotal changes when it comes to learning.
 
 For about 44 year of my life, learning was connotated with being tedious, overwhelming, time-consuming and rigid. 
@@ -73,10 +74,8 @@ Now I'm on my journey to help others to level up their experience with learning.
 
 Up for your next level? Let's connect and follow my next steps more closely. News upcoming soon.
 
-
-
-
-
 Posted on **LINKEDIN** on 2024-06-16_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]

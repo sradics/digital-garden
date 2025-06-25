@@ -7,11 +7,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241015063649.png
-date_created: Monday, October 14th 2024, 6:54:52 am
-date_modified: Tuesday, October 15th 2024, 6:38:14 am
+date_created: 2024-10-14 06:54
+date_modified: 2025-06-25 00:01
 ---
 # [[Differentiate the Why and How of learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-how-can-be-a-distraction-from-your-activity-7251472098903093248-t0WN?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241015063649.png|400]]
@@ -82,5 +84,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-14_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

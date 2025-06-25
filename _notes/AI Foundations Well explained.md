@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Monday, August 26th 2024, 6:10:41 am
-date_modified: Tuesday, August 27th 2024, 5:23:39 am
+date_created: 2024-08-26 06:10
+date_modified: 2025-06-25 00:01
 ---
 # [[AI Foundations Well explained]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-should-travel-more-by-train-says-my-brain-activity-7233715261688741889-eLNK?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240827052306.png|400]]
@@ -34,8 +36,7 @@ FIVE ROLES FOR AI
 🤖 — Persona briefing example  
 "You are an expert at marketing. When asked to generate slogan ideas you come up with ideas that are different from each other, clever, and interesting. You use clever wordplay..."  
 — 🤖  
-  
-  
+
 2) AI as CREATIVE  
 "LLM are connection machines. They are trained by generating relationships between tokens that may seem unrelated to humans..."  
 AI adds randomness too  
@@ -44,8 +45,7 @@ AI adds randomness too
 [https://lnkd.in/eZWTXtFc](https://lnkd.in/eZWTXtFc)  
   
 "... GPT-4 outperformed all but 9.4 percent of humans tested in generating CREATIVE IDEAS"  
-  
-  
+
 3) AI as COWORKER  
 → Most our jobs will overlap with AI capabilities  
 (Only 36 job categories out of 1016 had no overlap)  
@@ -65,11 +65,9 @@ AI adds randomness too
 highlight areas for improvement  
 → asking for reflections  
 → there for a dialog  
-  
-  
+
 What is ONE insight on AI you recently got?  
-  
-  
+
 ———  
 P.S.  
 🔔 I share insights daily at 8:00AM (CEST)  
@@ -80,7 +78,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-26_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

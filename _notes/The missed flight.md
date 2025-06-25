@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20241107071856.png
-date_created: Wednesday, November 6th 2024, 6:43:10 am
-date_modified: Thursday, November 7th 2024, 7:19:28 am
+date_created: 2024-11-06 06:43
+date_modified: 2025-06-25 00:01
 ---
 # [[The missed flight]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_today-morning-i-missed-that-important-flight-activity-7259821835666493441-gxji?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241107071856.png|400]]
@@ -58,8 +60,8 @@ When was the last time you got in a "little" hurry?
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-11-06_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

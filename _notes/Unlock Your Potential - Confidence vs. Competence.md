@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Thursday, February 29th 2024, 5:56:18 am
-date_modified: Sunday, April 21st 2024, 9:47:58 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Unlock Your Potential - Confidence vs. Competence]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-your-potential-confidence-vs-competence-activity-7168877593771888641-AcuN?utm_source=share&utm_medium=member_desktop)
 
 Unlock Your Potential: Confidence vs. Competence 🧠💡  
@@ -54,6 +56,7 @@ I'd love to hear how you might use this matrix for your own growth.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 "It’s crucial to distinguish between confidence, the belief in our abilities in general, and competence, the knowledge of our qualifications in a certain field." (from The Confidence Code by Katty Kay and Claire Shipman)
 
 When I thought deeper about the difference between Confidence and Competence I formed the confidence-competence matrix that can be used for reflecting on topics. You can apply it in four steps:
@@ -76,7 +79,9 @@ Let's look at one example:
 ![[Competence-Confidence-Matrix.png]]
 
 Posted on **LINKEDIN** on 2024-02-29_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]
 + [[About Confidence and Competence]]
 + [[Notes from Confidence and Self Esteem]]

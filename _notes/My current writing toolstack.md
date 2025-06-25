@@ -7,10 +7,13 @@ tags:
   - linkedin/processed
 image: Pasted image 20240523044328.png
 dte_created: Wednesday, May 22nd 2024, 6:29:23 am
-date_modified: Thursday, May 23rd 2024, 4:44:04 am
+date_modified: 2025-06-25 00:01
+date_created: 2024-06-07 21:08
 ---
 # [[My current writing toolstack]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_11-tools-that-power-my-daily-linkedin-writing-activity-7198934830703673344-4Xi9?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240523044328.png|400]]
@@ -34,9 +37,7 @@ Here are the 11 tools that support my daily writing (🤖 for AI):
 → Excalidraw (in Obsidian) for maps and diagrams  
 → 🤖 Gemini 1.5 pro AI for 2nd perspective  
 → Google Slides for creating Carousels  
-  
-  
-  
+
 Each of these tools plays a vital role in my content creation process, helping me stay organized, inspired, and productive.  
   
 How do you support your writing?
@@ -65,7 +66,8 @@ These 11  tools support my daily writing (🤖 for AI):
 
 What supports your writing?
 
-
 Posted on **LINKEDIN** on 2024-05-22_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

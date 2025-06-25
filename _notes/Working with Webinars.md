@@ -8,12 +8,14 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Saturday, November 30th 2024, 6:59:41 am
-date_modified: Sunday, December 1st 2024, 6:39:26 am
+date_created: 2024-11-30 06:59
+date_modified: 2025-06-25 00:01
 image: Pasted image 20241201063834.png
 ---
 # [[Working with Webinars]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_95-of-executives-ignore-this-crucial-skill-activity-7268519229211959296-YnWo?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241201063834.png|400]]
@@ -96,6 +98,8 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-30_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]
 + [[We are what we repeatedly do - Quote reflection]]

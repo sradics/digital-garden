@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Sunday, February 25th 2024, 5:57:05 am
-date_modified: Sunday, February 25th 2024, 4:05:59 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[On Writing]]
+
 ## LinkedIn Post
+
 🤔💡Tired of writing no one wants to read?  
 (elevate your writing with these 8 key ingredients distilled from 6 books)  
   
@@ -59,7 +61,9 @@ Ready to master these strategies? Share your takeaway below! ⭐
 + Lean into the process of writing - enjoy it
 
 [Presentation on GDrive](https://docs.google.com/presentation/d/1JhjlZNbuqXrAzFZ9Q-Q9FwPT2aMlbT_68EKzxavabf4/edit?usp=sharing)
+
 ## LinkedIn instructions
+
 + trim fluff and use straightforward language to make your point.
 + Maintaining focus and consistency - align with your professional identity and goals
 + Start with a compelling question, a surprising fact, or a relatable challenge. Then introduce tension or conflict and relate it to challenges before offering solutions or insights
@@ -71,7 +75,9 @@ Ready to master these strategies? Share your takeaway below! ⭐
 + Avoid confusing, repeating, and boring content. Instead, focus on making your LinkedIn posts interesting and surprising
 
 Posted on **LINKEDIN** on 2024-02-25_Sun
+
 # Linking
+
 * [[The Ultimate Guide to Writing Online – Write of Passage]]
 * [[Thinking about Essays]]
 * [[My personal writing style]]

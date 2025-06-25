@@ -6,12 +6,15 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 pdf: Book notes capture workflow.pdf
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Book Notes Capturing with ChatGPT]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_chatgpt-your-book-highlights-into-actionable-activity-7196773912750211073-1V-g?utm_source=share&utm_medium=member_desktop)
 ![[Book notes capture workflow.pdf]]
-
 
 How to chatGPT Your Book Highlights into Actionable Insights  
 (from 📚book highlight to Second Brain note in 3 steps)  
@@ -46,11 +49,11 @@ Accuracy and completeness are crucial.
 ———  
   
 👉 Let me know how that works for you
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 How to use speed capture your book highlights with ChatGPT
 (from (physical) book highlight to Second Brain note in 2 steps)
 
@@ -64,9 +67,8 @@ There are still the limits of max. 10 images per chat. And even with tuning the 
 
 Will you try that too?
 
-
-
-
 Posted on **LINKEDIN** on 2024-05-16_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

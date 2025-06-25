@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
-date_created: Tuesday, February 20th 2024, 7:16:42 am
-date_modified: Sunday, February 25th 2024, 5:34:18 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[13 Mindful productivity books]]
+
 ## LinkedIn Post
+
 🌱📚 Top 13 Books to Transform Your Approach with Mindful Productivity 💡✨  
 (Unlock Key Insights from all 13 Books in My Personal Curated Library for FREE!)  
   
@@ -46,6 +48,7 @@ And for all interested - here you can directly access my free to use space on [B
 ![[13 Books to Transform Your Approach with Mindful Productivity.pdf]]
 
 ## Content preparation
+
 🌱📚 Top 13 Books to Transform Your Approach with Mindful Productivity 💡✨
 (Unlock Key Insights from all 13 Books in My Personal Curated Library for FREE!)
 
@@ -70,6 +73,8 @@ During my journey into writing, deep work, and self-organization, I stumbled upo
 + The Extended Mind by Annie Murphy Paul
 
 Posted on **LINKEDIN** on 2024-02-20_Tue
+
 # Linking
+
 + [[Mindful productivity masterclass recording]]
 + [[Digital Productivity Pyramid]]

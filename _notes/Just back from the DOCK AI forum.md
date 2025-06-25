@@ -5,9 +5,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/relationships
-date_created: Thursday, June 12th 2025, 7:28:56 pm
-date_modified: Thursday, June 12th 2025, 7:30:06 pm
+date_created: 2025-06-12 19:28
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250612192929.png
+aliases: ["Just back from the DOCK AI forum "]
+linter-yaml-title-alias: "Just back from the DOCK AI forum "
 ---
 # [[Just back from the DOCK AI forum ]]
 

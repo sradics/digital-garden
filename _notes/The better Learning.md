@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240705060827.png
-date_created: Thursday, July 4th 2024, 7:08:46 am
-date_modified: Friday, July 5th 2024, 6:10:37 am
+date_created: 2024-07-04 07:08
+date_modified: 2025-06-25 00:01
 ---
 # [[The better Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_on-this-day-2-years-ago-i-quit-depending-activity-7214513537203736576-evm9?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240705060827.png|400]]
@@ -87,5 +89,7 @@ Today I:
 You can experience that too! DM me SMART if you want to get a fast lane to start.
 
 Posted on **LINKEDIN** on 2024-07-04_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]

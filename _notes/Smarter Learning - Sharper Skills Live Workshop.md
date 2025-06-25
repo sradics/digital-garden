@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/help_others_grow
-date_created: Wednesday, May 1st 2024, 8:07:10 am
-date_modified: Wednesday, May 1st 2024, 9:38:42 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240501093619.png
 ---
 # [[Smarter Learning - Sharper Skills Live Workshop]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-smarter-learning-and-sharper-skills-activity-7191337343948103680-7GwG?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240501093619.png|400]]
 
@@ -63,7 +65,9 @@ We explore:
 Let's together learn smarter, not harder. See you in the workshop?
 
 Posted on **LINKEDIN** on 2024-05-01_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]
 + [[MOC - Learning How to Learn]]
 + [[Notes from Learn like a Pro]]

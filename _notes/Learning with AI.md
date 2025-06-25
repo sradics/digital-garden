@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20240905065037.png
-date_created: Wednesday, September 4th 2024, 6:22:09 am
-date_modified: Thursday, September 5th 2024, 6:51:14 am
+date_created: 2024-09-04 06:22
+date_modified: 2025-06-25 00:01
 ---
 # [[Learning with AI]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_you-say-i-have-no-time-to-learn-i-say-activity-7236976425361158145-0kGZ?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240905065037.png|400]]
@@ -79,5 +81,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-04_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

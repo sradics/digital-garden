@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Saturday, December 21st 2024, 7:05:46 am
-date_modified: Sunday, December 22nd 2024, 6:07:07 am
+date_created: 2024-12-21 07:05
+date_modified: 2025-06-25 00:01
 ---
 # [[Insights from Learning with AI]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-traditional-learning-methods-are-costing-activity-7276129028854448128-RoDi?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241222060632.png|400]]
@@ -58,5 +60,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-21_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

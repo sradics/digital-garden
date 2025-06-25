@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240701065509.png
-date_created: Sunday, June 30th 2024, 8:53:28 am
-date_modified: Monday, July 1st 2024, 6:56:42 am
+date_created: 2024-06-30 08:53
+date_modified: 2025-06-25 00:01
 ---
 # [[Emotional Learning through Peloton]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_pedaling-through-breakthroughs-energy-activity-7213091386458279936-1WAI?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240701065509.png|400]]
 
@@ -61,16 +63,14 @@ Choose an activity where your thoughts can wander.
 Have your tools ready.  
 Cycling near my creativity space, I can immediately follow up on my thoughts.  
 Create a routine that blends focused and diffused modes.  
-  
-  
+
 Have you experienced such magical moments of learning?  
 If not yet, what is ONE thing you’d love to try?
-
-
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I did a 90 minute intense Peloton workout. And in the last 5 minutes, being exhausted, near to closing the session it happened. Matt played Darude-Sandstorm and it was like pure energy to my muscles. 250 Watts plus and 5 minutes of intensity. 
 
 At such a high, I can sense a full range of emotions. It's when also tears show, when I feel super connected. It was a moment of being happy.
@@ -91,9 +91,8 @@ What are the special ingredient:
 Did you experience such magic moments of learning too?
 If not yet, what is ONE thing, you would love to try?
 
-
-
-
 Posted on **LINKEDIN** on 2024-06-30_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

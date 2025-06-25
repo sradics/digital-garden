@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241119064658.png
-date_created: Monday, November 18th 2024, 5:59:22 am
-date_modified: Tuesday, November 19th 2024, 6:48:02 am
+date_created: 2024-11-18 05:59
+date_modified: 2025-06-25 00:01
 ---
 # [[Work with your energy]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_freedom-at-3-am-how-i-turn-my-odd-energy-activity-7264170506222800897-98dR?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241119064658.png|400]]
@@ -88,6 +90,8 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-18_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]
 + Inspired by [[Manage your energy, not your time]]

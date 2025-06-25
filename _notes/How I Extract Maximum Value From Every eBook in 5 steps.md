@@ -7,12 +7,14 @@ tags:
   - publish_in_newsletter
   - 12_fav_problems/help_others_grow
   - rating/⭐️
-date_created: Saturday, March 30th 2024, 6:22:03 am
-date_modified: Sunday, April 21st 2024, 8:43:48 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 pdf: Steps to a highly distilled and expressed knowledge.pdf
 ---
 # [[How I Extract Maximum Value From Every eBook in 5 steps]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5-step-code-system-for-making-your-ebook-activity-7179756749854232576-CbAy?utm_source=share&utm_medium=member_desktop)
 
 ![[Steps to a highly distilled and expressed knowledge.pdf]]
@@ -37,6 +39,7 @@ Bonus: Find the hidden Easter egg 🥚 in my slides!
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I just read Kieran Drews highly valuable eBook with 10 tips to make your content irresistible. But how can I make sure that I  leverage that reading? Will I remember these 39 pages? 
 
 To make key insights from the eBook stick, I processed it through my Capture-Organize-Distill-Express flow. 
@@ -51,10 +54,12 @@ You can CODE your knowledge this way:
 ✪ Amplify with AI. Explore new connections, get a super distilled version. I use Smart Connections in Obsidian.
 
 ## Rule of One
+
 Problem: Make key insights from eBooks stick
 Solution: CODE and amplify AI
 Story: my approach
 One call: Follow me
 
 Posted on **LINKEDIN** on 2024-03-30_Sat
+
 # Linking

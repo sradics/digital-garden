@@ -9,11 +9,15 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250425072435.png
-date_created: Thursday, April 24th 2025, 7:35:23 am
-date_modified: Friday, April 25th 2025, 7:25:04 am
+date_created: 2025-04-24 07:35
+date_modified: 2025-06-25 00:01
+aliases: ["One Year from Now "]
+linter-yaml-title-alias: "One Year from Now "
 ---
 # [[One Year from Now ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ive-invested-in-7-courses-that-became-digital-activity-7321052073456791552-AN-l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250425072435.png|400]]
@@ -68,5 +72,7 @@ I'll also share the recording from my Langdock usage later today...
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-24_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

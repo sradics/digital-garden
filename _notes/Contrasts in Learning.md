@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240816060320.png
-date_created: Thursday, August 15th 2024, 6:59:11 am
-date_modified: Friday, August 16th 2024, 6:04:18 am
+date_created: 2024-08-15 06:59
+date_modified: 2025-06-25 00:01
 ---
 # [[Contrasts in Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_do-you-still-work-with-windows-311-what-activity-7229728703243526145-XDWd?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240816060320.png|400]]
@@ -44,8 +46,7 @@ It's a decision, sure! It takes effort!
   
 Ready to break through inertia?  
 I get your back, my friend ... reach out.  
-  
-  
+
 ———  
 P.S. IMPACTFUL LEARNING is my thing  
 🔔 I share insights daily at 8:00AM (CEST)  
@@ -56,7 +57,8 @@ P.S. IMPACTFUL LEARNING is my thing
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-15_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

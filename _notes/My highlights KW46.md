@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - ln_weekly_highlight
 pdf: 2024_KW46_Weekly Highlights.pdf
-date_created: Friday, November 15th 2024, 6:50:03 am
-date_modified: Friday, November 15th 2024, 9:20:37 pm
+date_created: 2024-11-15 06:50
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW46]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_weekly-highlights-kw-46-in-2024-ugcPost-7263083355661910017-U_K6?utm_source=share&utm_medium=member_desktop)
 
 ![[2024_KW46_Weekly Highlights.pdf]]
@@ -31,8 +33,7 @@ beginner to pro by [Nami Assir](https://www.linkedin.com/in/videosmarketing/) �
   
 Procrastination isn’t about time management. by [Chirag Gupta](https://www.linkedin.com/in/chirag1202/) ─  
 [https://lnkd.in/eTKEF2C7](https://lnkd.in/eTKEF2C7)  
-  
-  
+
 Want to build a six-figure business? Master these 10 mental models now.  
 by [Elias Kalyvas](https://www.linkedin.com/in/eliaskalyvas/) ─ [https://lnkd.in/eUhEj6pw](https://lnkd.in/eUhEj6pw)  
   
@@ -55,7 +56,8 @@ Want to gain deeper insights into Learning with Impact?
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-11-15_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -5,14 +5,15 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
-date_created: Sunday, January 28th 2024, 5:58:13 am
-date_modified: Sunday, January 28th 2024, 9:01:33 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Automate Your Life - Freeing Time for What Matters Most]]
 
 ![[PKM toolstack.excalidraw.png]]
 
 ## LinkedIn post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_knowledgemanagement-activity-7157288696088596480--eoj?utm_source=share&utm_medium=member_desktop)
 
 Unleash Your Potential: Automate Your Life for What Truly Matters! 🚀  
@@ -45,6 +46,7 @@ Are you ready to embrace [hashtag#automation](https://www.linkedin.com/feed/hash
 ⭐ Knowledge not shared is knowledge lost, and your feedback is gold! What's your take on automation? Have you tried it yet?
 
 ## Content preparation
+
 Automate Your Life: Freeing Time for What Matters Most
 (Automations in my PKM)
 
@@ -68,4 +70,5 @@ In the context of looking at automations I can also highly recommend to look at 
 Especially on the first 3 levels, the tools available are already on a high maturity level and one can automate and simplify a lot, just by leveling up and using appropriate available tool. And at the same time, unlearn wasteful and meaningless manual work and dedicate the free time for higher order activities that help yourself and others to become better.
 
 Posted on **LINKEDIN** on 2024-01-28_Sun
+
 # Linking

@@ -8,11 +8,13 @@ tags:
   - lightbulb/5-🔵-their_new-life
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20240911064533.png
-date_created: Tuesday, September 10th 2024, 6:25:46 am
-date_modified: Wednesday, September 11th 2024, 6:46:07 am
+date_created: 2024-09-10 06:25
+date_modified: 2025-06-25 00:01
 ---
 # [[Opening Workshop Effortless Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_imagine-youre-a-wisdom-worker-and-you-activity-7239150762038104064-Gnxs?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240911064533.png|400]]  
@@ -72,8 +74,8 @@ I help people learn how to learn, retain and recall with ease
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-09-10_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

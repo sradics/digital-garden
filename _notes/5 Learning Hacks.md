@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/continuous_learning
 image: Pasted image 20240708210308.png
-date_created: Monday, July 8th 2024, 6:10:21 am
-date_modified: Monday, July 8th 2024, 9:03:35 pm
+date_created: 2024-07-08 06:10
+date_modified: 2025-06-25 00:01
 ---
 # [[5 Learning Hacks]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-was-so-tired-of-forgetting-what-i-learned-activity-7215965358375997440-bfaP?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240708210308.png|400]]  
 I was so tired of forgetting what I learned  
@@ -70,7 +72,6 @@ P.S. - Please repost ♻ if you found this useful
 
 ## Content preparation
 
-
 + efficiently process information connected to my learning topic
 	+ build a capture pipeline that allows to fast forward relevant information in your learning funnel
 	+ then highlight what is important
@@ -89,7 +90,6 @@ P.S. - Please repost ♻ if you found this useful
 	+ as thinking partner - to find connections
 + express/apply fast. Use the learnings and do something with it. 
 	+ Already writing about it, sharing it with some is a great next step
-
 
 ([[Notes from Simple Marketing for Smart People|details for Belief-Claim-Proof]])
 Belief: *A notebook is a secret weapon of top creatives.* 
@@ -117,5 +117,7 @@ One CTA:
 P.S. - Please repost ♻ if you found this useful
 
 Posted on **LINKEDIN** on 2024-07-08_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

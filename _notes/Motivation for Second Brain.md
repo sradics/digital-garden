@@ -3,10 +3,11 @@ tags:
   - digital_garden
   - epstatus/2-🪴
   - linkedin/processed
-date_created: Saturday, February 4th 2023, 5:23:06 pm
-date_modified: Thursday, May 18th 2023, 6:15:55 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # Motivation for Second Brain
+
 We consume a huge amount of information, but fail to leverage it to grow our knowledge. 🤯
 
 We pay for books/courses/studies and invest hours but we don't make it stick. What a waste! 🗑️
@@ -20,4 +21,5 @@ Let's maximize our potential and make the most of the vast amounts of informatio
 Posted on [LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_secondbrain-obsidian-personalgrowth-activity-7027651180814049280-oDwE?utm_source=share&utm_medium=member_desktop) on [[2023-02-04_Sat]]
 
 # Linking
+
 + [[MOC Building a 2nd brain]]

@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Sunday, March 3rd 2024, 5:41:50 am
-date_modified: Sunday, April 21st 2024, 9:43:19 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[7 years Remarkable]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-the-power-of-hybrid-note-taking-activity-7169979946772217856-V2bg?utm_source=share&utm_medium=member_desktop)
 
 ![[7yearsWriting.jpg|400]]
@@ -63,4 +65,5 @@ Experiments & Wishes
 + ChatGPT can now analyze written text even better. So I'll observe how much easier I can directly process my notes with AI to summarize notebooks and extract actions
 
 Posted on **LINKEDIN** on 2024-03-03_Sun
+
 # Linking

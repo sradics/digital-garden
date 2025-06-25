@@ -8,11 +8,13 @@ tags:
   - publish_in_newsletter
   - linkedin/processed
 image: Pasted image 20240428111021.png
-date_created: Wednesday, April 24th 2024, 6:09:14 am
-date_modified: Sunday, April 28th 2024, 5:23:14 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Implemented my First GPT and experimenting]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_building-my-linkedin-gpt-assistant-in-just-activity-7188793790793420800-xC7y?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240428111021.png|400]]
@@ -55,6 +57,7 @@ Building your own GPT is not just about efficiency; it’s about leveraging comp
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I externalized my growing knowledge on writing in a GPT and now have an assistent for my daily LinkedIn posts. Thanks to  all my data prepared in my Second Brain it was super smooth to feed the briefing data to the GPT. 
 
 Steps:
@@ -90,5 +93,7 @@ In summary - I can highly recommend playing with building your own GPT. It leads
 👉 Follow me for more insights on working with a Second Brain and start growing your own
 
 Posted on **LINKEDIN** on 2024-04-24_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

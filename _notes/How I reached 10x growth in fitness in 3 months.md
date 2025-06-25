@@ -7,12 +7,14 @@ tags:
   - publish_in_newsletter
   - rating/⭐️
   - 12_fav_problems/health
-date_created: Sunday, March 31st 2024, 7:17:28 am
-date_modified: Sunday, April 21st 2024, 8:42:17 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: 10xGrowthIn3Months.jpg
 ---
 # [[How I reached 10x growth in fitness in 3 months]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-reached-10x-growth-in-fitness-in-activity-7180096813796855808-ajz5?utm_source=share&utm_medium=member_desktop)
 ![[10xGrowthIn3Months.jpg|400]]
 
@@ -35,6 +37,7 @@ Follow me for becoming your accountability partner and let's share learnings and
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 💪 How I reached 10x growth in fitness in 3 months
 (and how you reach that with 5 simple steps too) 
 
@@ -52,4 +55,5 @@ I follow 5 simple steps. Build your routine this way:
 Follow me for becoming your accountability partner and let's share learnings and motivate each other
 
 Posted on **LINKEDIN** on 2024-03-31_Sun
+
 # Linking

@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/continuous_learning
 image: Pasted image 20240503052152.png
-date_created: Thursday, May 2nd 2024, 5:28:37 am
-date_modified: Friday, May 3rd 2024, 5:23:04 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Learning is Connected with Happiness]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-grandma-sparked-my-love-of-learning-activity-7191692889804935170-XwvB?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240503052152.png|400]]
 
@@ -77,5 +79,7 @@ Did you also already discover that magic link between Learning & Happiness? What
 Follow me for inspirations about learning and feed your happiness too 💌 
 
 Posted on **LINKEDIN** on 2024-05-02_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

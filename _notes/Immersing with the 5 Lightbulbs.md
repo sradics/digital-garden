@@ -5,9 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Immersing with the 5 Lightbulbs]]
+
 ## LinkedIn Post
+
 ![[Pasted image 20240225173528.png|400]]
 
 Discover Marketing with a Customer-Centric Approach: First insights from The 5 Lightbulbs®  
@@ -36,11 +40,11 @@ I recently wrote about brilliantly simple solutions, and 'The 5 Lightbulbs' fits
 👉 FOLLOW ME for updates as I continue to explore the depths of customer-centric marketing, inspired by the 5 Lightbulbs. Have you experienced a shift in your marketing or knowledge management approach? Share your story in the comments!
 
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_discover-marketing-with-a-customer-centric-activity-7164913945953161216-4Zuk?utm_source=share&utm_medium=member_desktop)
-  
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I just started with the course The 5 Lightbulbs, a marketing methodology developed by Billy Broas. I was inspired by the way Tiago Forte presented the topic of Second Brain in a way that showed me a solution for my problem to work with information and manage my knowledge. I remember my path of first reading through Tiago's high valuable online content, registering for his newsletter and being further inspired with a series of articles around Second Brain, followed by reading several of his books and finally taking the big step and running through the Second Brain cohort. I learned a lot and was driven from the topic. At the same time it was the well crafted marketing funnel that provided that path to a WIN:WIN situation. For me, to get further insights, to grow trust that investing more provides value and for Tiago to lead me though his Second Brain world.
 And along that path I learned that Billy Broas inspired the marketing approach behind that. With first impressions of his course I can already see why that worked so well for me (and several thousand more course attendees) . The 5 Lightbulbs is a customer centric approach. It is based on the following 5 intertwined steps:
 
@@ -62,5 +66,7 @@ Some things I already discovered:
 I recently wrote about brilliantly simple solutions, and I can already see, how the 5 lightbulbs is one. It his a highly distilled framework that is derived on many years of experience from Billy Broas. And I'm now looking forward to deep dive.
 
 Posted on **LINKEDIN** on 2024-02-18_Sun
+
 # Linking
+
 + [[140 The 5 Lightbulbs marketing self paced course]]

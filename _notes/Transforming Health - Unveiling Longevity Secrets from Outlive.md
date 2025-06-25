@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
-date_created: Sunday, January 28th 2024, 9:54:53 pm
-date_modified: Sunday, January 28th 2024, 9:56:01 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Transforming Health - Unveiling Longevity Secrets from Outlive]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_longevity-healthtransformation-outlive-activity-7150085203116359680-qh-7?utm_source=share&utm_medium=member_desktop)
 
   🌟 Transforming Health: Unveiling Longevity Secrets from "Outlive" 🌟  
@@ -36,4 +38,5 @@ Dive into my detailed notes from "Outlive" and embark on your journey to a bette
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-Jan
+
 # Linking

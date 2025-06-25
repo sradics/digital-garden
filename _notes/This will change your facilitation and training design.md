@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250211061235.png
-date_created: Monday, February 10th 2025, 6:11:46 am
-date_modified: Tuesday, February 11th 2025, 6:13:38 am
+date_created: 2025-02-10 06:11
+date_modified: 2025-06-25 00:01
 ---
 # [[This will change your facilitation and training design]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-ran-100s-of-workshops-many-focused-on-activity-7294611073041649665-n76n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250211061235.png|400]]
@@ -57,5 +59,7 @@ Comment "4MAT" or DM me for details.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-10_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

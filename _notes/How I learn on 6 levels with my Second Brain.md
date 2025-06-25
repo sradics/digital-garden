@@ -6,12 +6,14 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
   - 12_fav_problems/continuous_learning
-date_created: Sunday, April 14th 2024, 7:38:34 pm
-date_modified: Sunday, April 21st 2024, 8:31:11 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421075606.png
 ---
 # [[How I learn on 6 levels with my Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-learn-on-6-levels-with-my-second-brain-activity-7185539884877500416-5UnI?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421075606.png|400]]
@@ -61,6 +63,8 @@ Let's look at the 6 Bloom Taxonomy levels and how they map with Second Brain C-O
 Follow me for deeper insights to working with a Second Brain and leveraging the effect of compounding knowledge
 
 Posted on **LINKEDIN** on 2024-04-14_Sun
+
 # Linking
+
 + [[MOC Learning]]
 + [[Notes for Session 3 - Learning Types]]

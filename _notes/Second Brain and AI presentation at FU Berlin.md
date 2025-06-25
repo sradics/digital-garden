@@ -7,11 +7,13 @@ tags:
   - linkedin/processed
   - rating/⭐️
 image: Pasted image 20240428110632.png
-date_created: Thursday, April 25th 2024, 4:50:51 am
-date_modified: Sunday, April 28th 2024, 5:21:34 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Second Brain and AI presentation at FU Berlin]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_amplify-your-mind-with-a-second-brain-activity-7189156177916698624-sSLU?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240428110632.png|400]]
@@ -54,6 +56,8 @@ It was an impulse setting event. After that session, for sure with an overload, 
 So - tell me if such a live insights session, combined with a high level overview on Second Brain + AI is interesting for you or your team too. Just directly in the comments or write me a DM. Based on interest, I'll run a next session.
 
 Posted on **LINKEDIN** on 2024-04-25_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]
 + my presentation slides - [[Presentation Second Brain]]

@@ -6,20 +6,22 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240813055217.png
-date_created: Monday, August 12th 2024, 6:16:44 am
-date_modified: Tuesday, August 13th 2024, 5:54:03 am
+date_created: 2024-08-12 06:16
+date_modified: 2025-06-25 00:01
+aliases: [Learning Misbeliefs]
+linter-yaml-title-alias: Learning Misbeliefs
 ---
 # [[Learning Misbeliefs]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_7-affirmations-for-fast-laners-to-rewire-activity-7228641817578086400-Yy5K?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240813055217.png|400]]
-
 
 7 affirmations for FAST LANERS 
 
 → To rewire for yourself for learning
 → Turn 10 self-doubts to empowering beliefs
-
 
 Do you sometimes or even regularly tell yourself things you can't do?
 
@@ -54,8 +56,6 @@ On to a great week!
 
 What is your ONE to build on this week?
 
-
-
 ———  
 P.S.  
 🔔 I share insights daily at 8:00AM (CEST)
@@ -66,8 +66,8 @@ P.S.
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-08-12_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -4,12 +4,14 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Saturday, June 22nd 2024, 6:29:13 am
-date_modified: Sunday, June 23rd 2024, 6:30:51 am
+date_created: 2024-06-22 06:29
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240623063120.png
 ---
 # [[Holistic Learning in 5 Dimensions]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_you-can-take-your-learning-to-the-next-level-activity-7210182234090156032-AY84?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240623063120.png|400]]
 
@@ -78,5 +80,7 @@ One Story:
 One CTA:
 
 Posted on **LINKEDIN** on 2024-06-22_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

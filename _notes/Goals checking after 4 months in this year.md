@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/health
   - linkedin/processed
 image: 4MonthsIn2024CheckIn.jpg
-date_created: Saturday, May 4th 2024, 3:12:58 am
-date_modified: Sunday, May 5th 2024, 5:18:11 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Goals checking after 4 months in this year]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_turns-out-i-spent-a-full-work-week-exercising-activity-7192425215312711680-a1Ll?utm_source=share&utm_medium=member_desktop)
 ![[4MonthsIn2024CheckIn.jpg|400]]
 Turns out, I spent a full WORK WEEK exercising each month..
@@ -81,5 +83,7 @@ Regarding forming habits and knowing that it takes more than 200 days to form;do
 What is your challenge? And how are you following through this year. Let's connect if you want to form accountability partnerships. Together stronger!
 
 Posted on **LINKEDIN** on 2024-05-04_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

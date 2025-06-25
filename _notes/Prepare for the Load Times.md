@@ -8,12 +8,14 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Tuesday, November 12th 2024, 6:09:03 am
-date_modified: Wednesday, November 13th 2024, 6:35:38 am
+date_created: 2024-11-12 06:09
+date_modified: 2025-06-25 00:01
 image: Pasted image 20241113063444.png
 ---
 # [[Prepare for the Load Times]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_workshops-relocations-and-presentations-activity-7261996244758052864-2Q_k?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241113063444.png]]  
@@ -88,5 +90,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-12_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

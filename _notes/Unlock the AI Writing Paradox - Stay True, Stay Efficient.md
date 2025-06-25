@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Tuesday, February 27th 2024, 6:18:15 am
-date_modified: Sunday, April 21st 2024, 9:52:54 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Unlock the AI Writing Paradox - Stay True, Stay Efficient]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-the-ai-writing-paradox-stay-true-activity-7168152874105954304-mF0k?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421095247.png|400]]
@@ -42,6 +44,7 @@ What's your take? How do you balance the use of AI in your writing? Share your t
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I'm using AI a lot to support my writing and at the same time I'm also interested in writing and expressing myself. I'm not a native English speaker and want to writer properly to provide a value to my audience.
 I asked myself how much AI support is appropriate to still express myself and at the same time bridge the language gap, being efficient and effective too. James Presbitero Jr. wrote an interesting article about the three layers of AI augmentation (link in the comments).
 
@@ -68,5 +71,7 @@ A good guiding question: “How much of myself is in this piece of writing?”
 Inspired by James Presbitero Jr. and his article The Three Layers of AI Augmentation: https://medium.com/@jamespresbiterojr/the-three-layers-of-ai-augmentation-71d8b25b8329
 
 Posted on **LINKEDIN** on 2024-02-27_Tue
+
 # Linking
+
 + [[On Writing]]

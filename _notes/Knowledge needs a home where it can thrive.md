@@ -8,11 +8,15 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250428060130.png
-date_created: Friday, April 25th 2025, 7:26:22 am
-date_modified: Monday, April 28th 2025, 6:02:21 am
+date_created: 2025-04-25 07:26
+date_modified: 2025-06-25 00:01
+aliases: ["Knowledge needs a home where it can thrive "]
+linter-yaml-title-alias: "Knowledge needs a home where it can thrive "
 ---
 # [[Knowledge needs a home where it can thrive ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_knowledge-without-a-home-dies-mine-grew-activity-7321412977369272320-82sD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250428060130.png|400]]
@@ -64,5 +68,7 @@ P.P.S.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-25_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

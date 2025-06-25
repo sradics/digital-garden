@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/relationships
 image: Pasted image 20241110063117.png
-date_created: Saturday, November 9th 2024, 6:53:43 am
-date_modified: Sunday, November 10th 2024, 6:33:19 am
+date_created: 2024-11-09 06:53
+date_modified: 2025-06-25 00:01
 ---
 # [[The network master]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-18th-centurys-linkedin-one-mans-activity-7260909040006762496-zJT5?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241110063117.png|400]]
@@ -67,5 +69,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-11-09_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

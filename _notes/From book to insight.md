@@ -6,12 +6,16 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
   - lightbulb/3-🟠-my_approach
-date_created: Tuesday, May 6th 2025, 6:54:04 am
-date_modified: Thursday, May 8th 2025, 6:33:13 am
+date_created: 2025-05-06 06:54
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250508063244.png
+aliases: ["From book to insight "]
+linter-yaml-title-alias: "From book to insight "
 ---
 # [[From book to insight ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_knowledge-action-power-i-turned-30-years-activity-7325399007332085760-PSC1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
   
 ![[Pasted image 20250508063244.png|400]]
@@ -60,5 +64,7 @@ Which would you like to know more about?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-06_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

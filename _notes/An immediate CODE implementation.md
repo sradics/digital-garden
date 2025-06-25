@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250204083115.png
-date_created: Tuesday, February 4th 2025, 6:45:10 am
-date_modified: Tuesday, February 4th 2025, 8:32:13 am
+date_created: 2025-02-04 06:45
+date_modified: 2025-06-25 00:01
 ---
 # [[An immediate CODE implementation]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-one-student-outperformed-the-teacher-activity-7292436778119053313-Uiwx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250204083115.png|400]]
@@ -50,5 +52,7 @@ Comment "5" to get your copy.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-04_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

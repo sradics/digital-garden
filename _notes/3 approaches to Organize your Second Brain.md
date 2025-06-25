@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Tuesday, June 4th 2024, 6:08:24 am
-date_modified: Wednesday, June 5th 2024, 4:34:38 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240605043321.png
 ---
 # [[3 approaches to Organize your Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-use-3-powerful-approaches-to-organize-all-activity-7203651769107689473--5Hw?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240605043321.png|400]]
 I use 3 powerful approaches to organize all information  
@@ -71,6 +73,7 @@ Share your tips and let's learn together!
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I use 3 powerful approaches to organize all information
 
 I observe several patterns when I'm looking for information. 
@@ -118,5 +121,7 @@ I use the integrated Smart Connections AI in Obsidian and a specialized GPT to l
 What way to organize your information works for you best❓ 
 
 Posted on **LINKEDIN** on 2024-06-04_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,12 +6,14 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
   - 12_fav_problems/continuous_learning
-date_created: Tuesday, April 23rd 2024, 6:06:05 am
-date_modified: Wednesday, April 24th 2024, 6:31:24 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240424062924.png
 ---
 # [[Introducing the 4 Learning Types]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_im-definitely-a-what-learner-and-you-exploring-activity-7188431478718889984-fYFp?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240424062924.png|400]]
 
@@ -52,6 +54,7 @@ Next - I’ll explore how a Second Brain amplifies our learning efficiency by al
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I'm a WHAT learner and You?
 (exploring 4MAT)
 
@@ -85,5 +88,7 @@ So follow me to learn more about it.
 One CTA:
 
 Posted on **LINKEDIN** on 2024-04-23_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]

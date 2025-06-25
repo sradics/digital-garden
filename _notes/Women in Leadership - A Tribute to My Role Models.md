@@ -4,11 +4,13 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Friday, February 2nd 2024, 4:38:57 am
-date_modified: Sunday, April 21st 2024, 10:13:00 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Women in Leadership - A Tribute to My Role Models]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_women-in-leadership-a-tribute-to-my-role-activity-7159092824389337089-0mdB?utm_source=share&utm_medium=member_desktop)
 
 🔥Women in Leadership: A Tribute to My Role Models✨  
@@ -60,11 +62,13 @@ Who are the women who have illuminated your path? What specific lessons have the
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I'm designing our group coaching sessions. And for each session I fully immerse in the topic, I read a lot, interview people and think about best ways to connect content and exercises in a way that attendees have an exceptional experience and leave sessions with a concrete impulse to apply the learnings right away. 
 
 Recently I co-created our Women in Leadership Group Coaching with Katharina. And I deeply connected to how grateful I am to have worked and work with so many great Women in very different leadership dimensions. I'd like to take the time today to thank you for being great role models, for your inspiration, your passion and many great moments. 
 
 ## 18 women that had an exceptional influence on my career
+
 Victoria - Thank you for opening the world of product development and fast paced drive for product discovery and creating product outcomes. And especially for listening and for taking care personally as my lead. 
 
 Christine D'Ercole - I admire your strength and passion combined with your emotional touch for each Peloton session you coach us. Each PowerZone cycling session creates a special moment for me. And I love your storytelling based on your outstanding achievements. 
@@ -102,4 +106,5 @@ Laura and Quynh - Thank you for your passion for agile and learning. I remember 
  Anne-Laure Le Cunff - thanks for for great insights in mindful productivity, for your great writings and for building the NessLabs community
 
 Posted on **LINKEDIN** on 2024-02-02_Fri
+
 # Linking

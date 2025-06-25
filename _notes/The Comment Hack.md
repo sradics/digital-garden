@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241217070741.png
-date_created: Monday, December 16th 2024, 6:02:11 am
-date_modified: Tuesday, December 17th 2024, 7:08:27 am
+date_created: 2024-12-16 06:02
+date_modified: 2025-06-25 00:01
 ---
 # [[The Comment Hack]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-linkedin-engagement-strategy-i-shouldnt-activity-7274317729384349696-DHAU?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241217070741.png|400]]
@@ -107,5 +109,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-16_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

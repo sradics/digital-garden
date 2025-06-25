@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241017064335.png
-date_created: Wednesday, October 16th 2024, 6:42:45 am
-date_modified: Thursday, October 17th 2024, 6:44:07 am
+date_created: 2024-10-16 06:42
+date_modified: 2025-06-25 00:01
 ---
 # [[Order and Chaos - revived]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_starting-a-business-is-overwhelming-but-activity-7252196748721274880-bn7r?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241017064335.png|400]]
@@ -59,5 +61,7 @@ Comment "SmartLearner" if interested.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-16_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

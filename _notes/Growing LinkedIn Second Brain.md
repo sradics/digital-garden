@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20240731060934.png
-date_created: Tuesday, July 30th 2024, 7:40:05 am
-date_modified: Wednesday, July 31st 2024, 6:10:02 am
+date_created: 2024-07-30 07:40
+date_modified: 2025-06-25 00:01
 ---
 # [[Growing LinkedIn Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_129-notes-271-links-15k-words-linkedin-activity-7223931073561313281-B5Ze?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240731060934.png|400]]
@@ -36,7 +38,6 @@ With details on:
 → Tuning your LinkedIn Profile  
 → Driving LinkedIn engagement  
 → Meta: Building your Second Brain  
-  
 
 → with full access to that knowledge  
 → as your growth amplifier for LinkedIn  
@@ -44,8 +45,7 @@ With details on:
   
 ➠ Subscribe to my newsletter 😁  
 ➠ I"ll share your download link soon  
-  
-  
+
 P.S.  
 ♻ Repost to help others in your network  
 ➕ Follow me for more posts like this
@@ -54,7 +54,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-07-30_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

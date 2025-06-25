@@ -5,9 +5,11 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/help_others_grow
-date_created: Tuesday, June 17th 2025, 7:27:30 am
-date_modified: Wednesday, June 18th 2025, 7:26:10 am
+date_created: 2025-06-17 07:27
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250618072536.png
+aliases: ["The Merge "]
+linter-yaml-title-alias: "The Merge "
 ---
 # [[The Merge ]]
 

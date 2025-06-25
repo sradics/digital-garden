@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241218062846.png
-date_created: Tuesday, December 17th 2024, 7:09:14 am
-date_modified: Wednesday, December 18th 2024, 6:29:18 am
+date_created: 2024-12-17 07:09
+date_modified: 2025-06-25 00:01
 ---
 # [[About Mastery - my path with Smart Connect]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-notes-are-keeping-secrets-from-you-activity-7274679943404437504-N5OY?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241218062846.png|400]]
@@ -92,5 +94,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-17_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

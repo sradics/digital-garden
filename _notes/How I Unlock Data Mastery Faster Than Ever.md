@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Tuesday, March 26th 2024, 6:05:55 am
-date_modified: Sunday, April 21st 2024, 8:59:19 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[How I Unlock Data Mastery Faster Than Ever]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_level-up-your-data-game-activity-7178299657909886976-PeCD?utm_source=share&utm_medium=member_desktop)
 
 ![[Next Level of Data Analysis.pdf]]
@@ -35,6 +37,7 @@ Ever felt swamped by data analysis, eg for your social media results? [Julius.AI
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 For my recent analysis of LinkedIn post statistics I leveraged the powerful Julius.AI data analysis tool. This saved me quite some time and also reduced costs of working with several tools to analyze and visualize data.
 
 Some core benefits for me:
@@ -52,6 +55,8 @@ Another great example of AI amplified learning and fast outcome creation. Having
 Have fun exploring your next level of working with data!
 
 Posted on **LINKEDIN** on 2024-03-26_Tue
+
 # Linking
+
 + [[MOC Artificial Intelligence]]
 + [[My running list of 12 favorite problems#Continuous Learning]]

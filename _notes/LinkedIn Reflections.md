@@ -8,12 +8,14 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/2-🟡-things_they_tried
   - lightbulb/3-🟠-my_approach
-date_created: Sunday, February 2nd 2025, 6:30:31 am
-date_modified: Monday, February 3rd 2025, 6:42:05 am
+date_created: 2025-02-02 06:30
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250203064128.png
 ---
 # [[LinkedIn Reflections]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-linkedin-game-i-refuse-to-play-anymore-activity-7291711978404761600-zWBK?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250203064128.png|400]]
@@ -68,5 +70,7 @@ I'm all yours.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-02_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

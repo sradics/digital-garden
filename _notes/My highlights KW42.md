@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - ln_weekly_highlight
 pdf: 2024_KW42_Weekly Highlights.pdf
-date_created: Friday, October 18th 2024, 6:50:58 am
-date_modified: Saturday, October 19th 2024, 5:46:08 am
+date_created: 2024-10-18 06:50
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW42]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-highlights-in-kw-422024-activity-7252921349600342017-zm0a?utm_source=share&utm_medium=member_desktop)
   
 ![[2024_KW42_Weekly Highlights.pdf]]
@@ -23,8 +25,7 @@ My top 5️⃣ LinkedIn Insights this Week
 ↳ AI is not responsible or irresponsible. We are.  
 ↳ Your "How" can be a distraction from your "Why"  
 ↳ 21 Ways to Manage Stress & Improve Mental Health  
-  
-  
+
 Here are 5 posts that sparked my thinking:  
 ‾‾‾‾‾‾‾‾  
 The Pain of Being Different by [Chirag Gupta](https://www.linkedin.com/in/chirag1202/)  
@@ -40,8 +41,7 @@ Making high-stake decisions by [Joshua Suulola 🔥](https://www.linkedin.com/in
 ─ [https://lnkd.in/eq98PYzt](https://lnkd.in/eq98PYzt)  
   
 My top > Your "How" can be a distraction from your "Why" ─ [https://lnkd.in/eXZ3GpA8](https://lnkd.in/eXZ3GpA8)  
-  
-  
+
 ———  
 P.S.  
 I help people learn how to learn, retain and recall with ease  
@@ -52,8 +52,8 @@ I help people learn how to learn, retain and recall with ease
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-10-18_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

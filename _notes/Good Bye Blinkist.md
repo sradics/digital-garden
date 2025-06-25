@@ -6,9 +6,13 @@ tags:
   - 12_fav_problems/relationships
   - linkedin/processed
 image: Pasted image 20240930063023.png
+date_created: 2024-09-29 06:12
+date_modified: 2025-06-25 00:01
 ---
 # [[Good Bye Blinkist]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_475-years-with-one-of-the-best-employers-activity-7246036401425629184-D_v2?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240930063023.png|400]]
@@ -66,10 +70,8 @@ You are deep in my thoughts. Forever. ❤️
 
 ## Content preparation
 
-
-
-
-
 Posted on **LINKEDIN** on 2024-09-29_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -7,11 +7,13 @@ tags:
   - publish_in_newsletter
   - rating/⭐️⭐️⭐️
   - 12_fav_problems/continuous_learning
-date_created: Monday, January 29th 2024, 6:12:49 am
-date_modified: Thursday, February 1st 2024, 7:38:08 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Leveraging Smart Connections to get inspiration for Expressing my thoughts]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_knowledgemanagement-activity-7157643564754063360--Kaa?utm_source=share&utm_medium=member_desktop)
  ✨ Imagine if your notes could generate ideas for you. Now, they can. 💡  
 (How I leverage my Second Brain with Smart Connections-AI to get inspired for my posts)  
@@ -44,6 +46,7 @@ Are you leveraging AI for your content creation or note-taking? What has been yo
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 + The problem: I grow my Second Brain using Obsidian and I want to leverage AI to work with my notes to express my thoughts and getting inspired on content to write about. 
 + In Obsidian I use the plugin Smart Connections by Brian Petro. Via SmartConnections I can work with several AI LLMs on my local notes.
 + I used my 12 running problems I'm focussing on to define the context for Smart Connections (if curios you can find my 12 running problems linked in the comments)
@@ -65,5 +68,7 @@ And this provided me great input for my previous post. Based on that input and f
 BTW. I today also became a support for Smart Connections and will be able to work with a GPT directly on my notes. I'll provide updates soon on my experiences with this great extension.
 
 Posted on **LINKEDIN** on 2024-01-29_Mon
+
 # Linking
+
 * [[My running list of 12 favorite problems#Continuous Learning]]

@@ -5,11 +5,15 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
 image: Pasted image 20250604075315.png
-date_created: Tuesday, June 3rd 2025, 6:39:55 am
-date_modified: Wednesday, June 4th 2025, 7:54:09 am
+date_created: 2025-06-03 06:39
+date_modified: 2025-06-25 00:01
+aliases: ["Note making next level "]
+linter-yaml-title-alias: "Note making next level "
 ---
 # [[Note making next level ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_his-249-course-beats-even-his-book-last-activity-7335546601899282432-TM9g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250604075315.png|400]]
@@ -54,5 +58,7 @@ Have fun with your Note Making Deep Dive
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-06-03_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

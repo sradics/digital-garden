@@ -6,11 +6,15 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240501094031.png
-date_created: Tuesday, April 30th 2024, 5:49:38 am
-date_modified: Wednesday, May 1st 2024, 9:41:34 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
+aliases: [S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Building a Digital Garden]
+linter-yaml-title-alias: S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Building a Digital Garden
 ---
 # [[S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Building a Digital Garden]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_10year-how-i-built-my-thriving-mind-garden-activity-7190968148601286656-EeUH?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240501094031.png|400]]  
 $10/Year: How I Built My Thriving 'Mind Garden'  
@@ -42,6 +46,7 @@ I’m considering a deeper dive into this process. Would that be valuable to you
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 How I grow my Mind Garden and express myself
 (a complete tech stack for just $10/YEAR)
 
@@ -67,5 +72,7 @@ So publishing new thoughts take me some seconds.
 Are you interested in learning more about that? I think about documenting my approach in more detail, so let me know if that is of value for you.
 
 Posted on **LINKEDIN** on 2024-04-30_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

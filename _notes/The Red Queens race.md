@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250214065826.png
-date_created: Thursday, February 13th 2025, 6:59:47 am
-date_modified: Friday, February 14th 2025, 6:59:22 am
+date_created: 2025-02-13 06:59
+date_modified: 2025-06-25 00:01
 ---
 # [[The Red Queens race]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-hidden-power-of-compound-learning-activity-7295698379437723648-p8QD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250214065826.png|400]]
@@ -75,5 +77,7 @@ Thanks [Madhesh Senthilvel](https://www.linkedin.com/in/madheshs/) for the inspi
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-13_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

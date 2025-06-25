@@ -4,11 +4,15 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Monday, February 5th 2024, 5:49:29 am
-date_modified: Sunday, April 21st 2024, 10:08:19 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
+aliases: [S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Power Poses]
+linter-yaml-title-alias: S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Power Poses
 ---
 # [[S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Power Poses]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_transform-your-week-with-2-minute-power-poses-activity-7160180278718582785-bMjw?utm_source=share&utm_medium=member_desktop)
   
 ![[Pasted image 20240421100803.png]]
@@ -41,6 +45,7 @@ For more on the science of body language, check out the TED Talk linked in the c
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 + Background: It is Monday - so let's start strong in our week
 + for our body language small changes make a big difference and it is the first thing others notice and it affects how others treat you
 + core message: tiny tweaks can lead to big changes
@@ -58,5 +63,7 @@ For more on the science of body language, check out the TED Talk linked in the c
 share via a comment: [TED Talk about body language](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?language=en)
 
 Posted on **LINKEDIN** on 2024-02-05_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]

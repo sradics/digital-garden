@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/relationships
 image: Pasted image 20240619070758.png
-date_created: Tuesday, June 18th 2024, 6:06:13 am
-date_modified: Wednesday, June 19th 2024, 7:08:30 am
+date_created: 2024-06-18 06:06
+date_modified: 2025-06-25 00:01
 ---
 # [[Thanks to Boris for many years of influencing my career]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_a-journey-of-influence-and-inspiration-with-activity-7208725148068122624-66s-?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240619070758.png|400]]  
 
@@ -60,7 +62,6 @@ So many connection points. Interesting to notice that in hindsight.
 
 I'm inspired by your passion and your attitude towards continuous learning and improvements. Thanks for being such an influencer and for me a person to look up to. 
 
-
 ([[Notes from Simple Marketing for Smart People|details for Belief-Claim-Proof]])
 Belief: *A notebook is a secret weapon of top creatives.* 
 Claim: *Top thinkers and creatives relied on notebooks throughout history.* 
@@ -81,7 +82,9 @@ One Story:
 One CTA:
 
 Posted on **LINKEDIN** on 2024-06-18_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems#Relationsships]]
 + [[My Agile Coach Knowledge Portfolio]]
 + [[MOC Agile Learning Path]]

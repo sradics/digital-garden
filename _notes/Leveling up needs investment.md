@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20241204064930.png
-date_created: Tuesday, December 3rd 2024, 7:11:50 am
-date_modified: Wednesday, December 4th 2024, 6:50:16 am
+date_created: 2024-12-03 07:11
+date_modified: 2025-06-25 00:01
 ---
 # [[Leveling up needs investment]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_cyber-week-confession-i-bought-it-all-now-activity-7269606545552719872-WQcU?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241204064930.png|400]]
@@ -77,5 +79,7 @@ What ONE recent purchase will you turn into Power?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-03_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

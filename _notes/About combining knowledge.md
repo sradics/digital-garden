@@ -7,11 +7,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250309073142.png
-date_created: Saturday, March 8th 2025, 6:57:56 am
-date_modified: Sunday, March 9th 2025, 7:32:41 am
+date_created: 2025-03-08 06:57
+date_modified: 2025-06-25 00:01
 ---
 # [[About combining knowledge]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-secret-to-effective-landing-pages-isnt-activity-7304033207165865984-fx82?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250309073142.png|400]]
@@ -76,5 +78,7 @@ Comment or DM "compound" if you'd like to learn more about building your own kno
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-08_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

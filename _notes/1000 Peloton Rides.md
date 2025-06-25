@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
   - linkedin/processed
-date_created: Saturday, August 17th 2024, 6:57:14 am
-date_modified: Sunday, August 18th 2024, 5:48:41 am
+date_created: 2024-08-17 06:57
+date_modified: 2025-06-25 00:01
 ---
 # [[1000 Peloton Rides]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-emotional-journey-1000-done-in-3-years-activity-7230453875219087360-I1-z?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240818054759.png|400]]  
 My Emotional Journey: 1,000 done in 3 Years
@@ -69,7 +71,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-17_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

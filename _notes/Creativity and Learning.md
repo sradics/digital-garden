@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240912052909.png
-date_created: Wednesday, September 11th 2024, 6:47:04 am
-date_modified: Thursday, September 12th 2024, 5:33:48 am
+date_created: 2024-09-11 06:47
+date_modified: 2025-06-25 00:01
 ---
 # [[Creativity and Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-connecting-two-dots-brought-me-to-tears-activity-7239513173882544128-kM15?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240912052909.png|400]]
@@ -82,5 +84,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-11_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -4,12 +4,14 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Friday, June 21st 2024, 6:04:20 am
-date_modified: Sunday, June 23rd 2024, 6:30:05 am
+date_created: 2024-06-21 06:04
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240623062826.png
 ---
 # [[My highlights KW25]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-top-5-linkedin-insights-this-week-activity-7209819845243150338-qpWX?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240623062826.png|400]]
 
@@ -40,6 +42,7 @@ Your turn: What inspired you this week?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 My top 5️⃣ LinkedIn Insights this Week 💡  
 (ease ❌ progress;Emotional Intelligence;Agile Entrepreneurship;❗🔢)
 
@@ -65,5 +68,7 @@ My top: A 16 year Journey of Influence and Inspiration by Boris Gloger ─ https
 Your turn: What inspired you this week?
 
 Posted on **LINKEDIN** on 2024-06-21_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

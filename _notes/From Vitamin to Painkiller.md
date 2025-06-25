@@ -8,12 +8,16 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Tuesday, April 22nd 2025, 7:12:15 am
-date_modified: Wednesday, April 23rd 2025, 6:59:58 am
+date_created: 2025-04-22 07:12
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250423065946.png
+aliases: ["From Vitamin to Painkiller "]
+linter-yaml-title-alias: "From Vitamin to Painkiller "
 ---
 # [[From Vitamin to Painkiller ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_their-someday-system-is-bleeding-them-dry-activity-7320325617340551169-I7hc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250423065946.png|400]]
@@ -61,8 +65,7 @@ folders, tabs, and notes for something you know you (maybe) saved?
 These aren't minor inconveniences.  
 They're productivity killers with real costs.  
 To your career, business, and wellbeing.  
-  
-  
+
 P.S.  
   
 Onboarding for our inaugural cohort is open ➠  
@@ -70,18 +73,16 @@ Onboarding for our inaugural cohort is open ➠
 [https://lnkd.in/eWFzsQaN](https://lnkd.in/eWFzsQaN)  
   
 Just 6 days left to join at founding member pricing - after that, you'll wait at least 9 more weeks.  
-  
-  
+
 P.P.S.  
 Today I'll order the integrated 4MAT Learning Styles self-test for each attendee ([Hanne Houbak](https://www.linkedin.com/in/hanne-houbak-4aa5252/) .. we'll start soon)
-
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-04-22_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

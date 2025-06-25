@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/relationships
   - linkedin/processed
 image: Pasted image 20241018064450.png
-date_created: Thursday, October 17th 2024, 6:45:36 am
-date_modified: Friday, October 18th 2024, 6:45:27 am
+date_created: 2024-10-17 06:45
+date_modified: 2025-06-25 00:01
 ---
 # [[AB Test - What is your favorite]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_you-have-joined-an-ab-test-did-you-notice-activity-7252558960551948288-1wm9?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241018064450.png|400]]
@@ -38,8 +40,7 @@ Do you prefer Version 1:
 → shorter  
 → longer sentences  
 → Flow from Problem - Outcome - Solution - CTA  
-  
-  
+
 Or Version 2:  
 ———  
 [https://lnkd.in/em5xfEeX](https://lnkd.in/em5xfEeX)  
@@ -47,13 +48,13 @@ Or Version 2:
 → longer  
 → shorter sentences  
 → Flow from Problem - Solution - Outcome - CTA  
-  
-  
+
 Which version is your favorite? (And why?)
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-10-17_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

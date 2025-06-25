@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241027050530.png
-date_created: Saturday, October 26th 2024, 6:51:03 am
-date_modified: Sunday, October 27th 2024, 5:05:59 am
+date_created: 2024-10-26 06:51
+date_modified: 2025-06-25 00:01
 ---
 # [[Benefits of Building a Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-notes-reflect-who-i-am-today-theyre-activity-7255820649783349248-9MhG?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241027050530.png|400]]  
@@ -70,8 +72,8 @@ Want to gain deeper insights into Learning with Impact?
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-10-26_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -8,9 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20240916053550.png
+date_created: 2024-09-15 06:51
+date_modified: 2025-06-25 00:01
 ---
 # [[I want you to progress in your career]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-want-you-to-progress-in-your-career-activity-7240962570600222720-Nd70?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240916053550.png|400]]  
@@ -58,8 +62,8 @@ P.S.
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-09-15_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

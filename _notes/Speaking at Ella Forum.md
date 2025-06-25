@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241112055624.png
-date_created: Monday, November 11th 2024, 6:45:50 am
-date_modified: Tuesday, November 12th 2024, 5:56:49 am
+date_created: 2024-11-11 06:45
+date_modified: 2025-06-25 00:01
 ---
 # [[Speaking at Ella Forum]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_thursday-at-ella-forums-learn-to-build-activity-7261633823115735040-J-ca?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241112055624.png|400]]
@@ -44,8 +46,7 @@ I recommend:
 Here's to a week filled with great learning experiences.  
   
 What is ONE learning you project for this week?  
-  
-  
+
 ———  
 P.S.  
 I help people learn how to learn, retain and recall with ease  
@@ -58,7 +59,8 @@ Want to gain deeper insights into Learning with Impact?
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-11-11_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -5,13 +5,15 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Thursday, February 1st 2024, 5:53:55 am
-date_modified: Thursday, February 1st 2024, 7:33:20 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[The 5 books that had the highest impact on me]]
+
 ![[IMG_6143.jpg|300]]
 
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unleash-growth-9-books-that-transformed-activity-7158730757836816384-4B8i?utm_source=share&utm_medium=member_desktop)
 Unleash Growth: 9 Books That Transformed My Life🚀  
 (Uncover my surprise for you inside!)  
@@ -47,6 +49,7 @@ Do you agree that knowledge not shared is knowledge lost?🌟
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Storyline:
 Since I started my professional career back in 2001 I read 100+ books and each book had an influence on me. But some had an outstanding one. Each of my favorite 9 books implanted a thought, that shaped my behavior and actions until today. 
 That is such an important value I gain from reading. Connecting to the rich experience of others and growing my own world of thoughts.  
@@ -83,4 +86,5 @@ Insight: Opened the world of early stage product development and fast experiment
 And I have a surprise for you. From the 9 books mentioned that are also available with the key insights on Blinkist, I will make available in my Book Space (think of it like my own Personal Curated Library which I can lend books to you for free). To get access, please share one your most influential books in the comments. 
 
 Posted on **LINKEDIN** on 2024-02-01_Thu
+
 # Linking

@@ -7,12 +7,14 @@ tags:
   - publish_in_newsletter
   - 12_fav_problems/continuous_learning
   - rating/⭐️
-date_created: Saturday, April 20th 2024, 5:38:06 am
-date_modified: Sunday, April 21st 2024, 8:30:50 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 pdf: 5ChangesAnd3GreatBooksAboutLearning.pdf
 ---
 # [[5 changes to Learning and 3 main books]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-5-main-changes-to-learning-and-3-influencing-activity-7187359341069414400-VmQK?utm_source=share&utm_medium=member_desktop)
 
 ![[5ChangesAnd3GreatBooksAboutLearning.pdf]]
@@ -66,7 +68,9 @@ I radically changed my approach to learning
 📖 Learn like a Pro by Dr. Barbara Oakley and Olav Schewe
 
 Posted on **LINKEDIN** on 2024-04-20_Sat
+
 # Linking
+
 + [[MOC - Learning How to Learn]]
 + [[MOC Learning]]
 + [[MOC Building a 2nd brain]]

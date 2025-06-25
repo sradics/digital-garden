@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/relationships
   - linkedin/processed
-date_created: Saturday, August 31st 2024, 6:52:31 am
-date_modified: Sunday, September 1st 2024, 7:02:59 am
+date_created: 2024-08-31 06:52
+date_modified: 2025-06-25 00:01
 ---
 # [[The Pitch Transformer]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-went-into-a-pitch-transformer-grilled-activity-7235526900528414721-eeIj?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240901070218.png|400]]
@@ -70,5 +72,7 @@ What is ONE thought this sparked for you?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-08-31_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

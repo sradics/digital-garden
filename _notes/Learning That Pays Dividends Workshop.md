@@ -10,11 +10,13 @@ tags:
   - lightbulb/4-🟢-my_offer
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250212070742.png
-date_created: Tuesday, February 11th 2025, 6:17:58 am
-date_modified: Wednesday, February 12th 2025, 7:08:30 am
+date_created: 2025-02-11 06:17
+date_modified: 2025-06-25 00:01
 ---
 # [[Learning That Pays Dividends Workshop]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_when-your-knowledge-compounds-like-money-activity-7294973458520657922-60df?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
   
 ![[Pasted image 20250212070742.png|400]]
@@ -50,5 +52,7 @@ Comment "DIVIDEND" or DM me to reserve your spot.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-11_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

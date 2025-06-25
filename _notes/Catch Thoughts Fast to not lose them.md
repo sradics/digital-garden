@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241113184221.png
-date_created: Wednesday, November 13th 2024, 6:37:13 am
-date_modified: Wednesday, November 13th 2024, 6:42:57 pm
+date_created: 2024-11-13 06:37
+date_modified: 2025-06-25 00:01
 ---
 # [[Catch Thoughts Fast to not lose them]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn]()
 
 ![[Pasted image 20241113184221.png|400]]
@@ -77,7 +79,8 @@ Want to gain deeper insights into Learning with Impact?
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-11-13_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

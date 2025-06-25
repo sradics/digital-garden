@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240507042028.png
-date_created: Monday, May 6th 2024, 4:07:25 am
-date_modified: Tuesday, May 7th 2024, 4:20:53 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Getting Started with your Second Brain]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-smarter-learning-three-steps-to-start-activity-7193150025290383360-b0eK?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240507042028.png|400]]
   Unlock Smarter Learning: Three Steps to Start with Your Second Brain 🧠  
@@ -78,10 +80,8 @@ Create your initial PARA structure and start to organize your first notes. I rec
 
 I promise rich discoveries, fun along the way and likely some challenges. Let me know how it goes and leave me a DM if you might need a helping hand.
 
-
-
-
-
 Posted on **LINKEDIN** on 2024-05-06_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

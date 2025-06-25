@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Saturday, May 18th 2024, 6:05:18 am
-date_modified: Sunday, May 19th 2024, 6:05:34 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240519060516.png
 ---
 # [[Learning about Uncertainty]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_3-steps-to-stay-motivated-amid-uncertainty-activity-7197498650304872448-v-1O?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240519060516.png|400]]
@@ -55,6 +57,7 @@ What’s your go-to strategy for staying motivated in uncertain times?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 3 steps how to stay Motivated amid Uncertainty
 (think Scenarios — vivid Vision — Backcast goals)
 
@@ -91,7 +94,9 @@ Through these 3 steps we:
 What's your go-to strategy for staying motivated in uncertain times?
 
 Posted on **LINKEDIN** on 2024-05-18_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[Curiosity Reflections]]
 + [[Intentional Curiosity- Get your Brain to Focus on What Matters|Intentional Curiosity- Get your Brain to Focus on What Matters]]

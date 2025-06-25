@@ -10,11 +10,13 @@ tags:
   - lightbulb/2-🟡-things_they_tried
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20240919055849.png
-date_created: Wednesday, September 18th 2024, 6:26:46 am
-date_modified: Thursday, September 19th 2024, 6:01:34 am
+date_created: 2024-09-18 06:26
+date_modified: 2025-06-25 00:01
 ---
 # [[Upcoming Masterclass]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_skip-the-forgetting-curve-this-simple-choice-activity-7242049957774458882-GCHE?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240919055849.png|400]]
@@ -65,5 +67,7 @@ Only 6 days left to my virtual MASTERCLASS
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-09-18_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

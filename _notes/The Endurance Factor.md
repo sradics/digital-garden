@@ -8,11 +8,15 @@ tags:
   - lightbulb/2-🟡-things_they_tried
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250424073038.png
-date_created: Wednesday, April 23rd 2025, 7:16:00 am
-date_modified: Thursday, April 24th 2025, 7:31:44 am
+date_created: 2025-04-23 07:16
+date_modified: 2025-06-25 00:01
+aliases: ["The Endurance Factor "]
+linter-yaml-title-alias: "The Endurance Factor "
 ---
 # [[The Endurance Factor ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-paradox-of-their-fastlane-skip-the-activity-7320687986793226241-Mnqr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250424073038.png|400]]
@@ -82,5 +86,7 @@ My AI Workflow with [Langdock](https://www.linkedin.com/company/langdock/) - [ht
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-23_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241213063651.png
-date_created: Thursday, December 12th 2024, 7:09:01 am
-date_modified: Friday, December 13th 2024, 6:37:55 am
+date_created: 2024-12-12 07:09
+date_modified: 2025-06-25 00:01
 ---
 # [[Time to say thank you]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-day-i-stopped-hiding-my-stories-and-started-activity-7272868009788989440-v1N_?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241213063651.png|400]]
@@ -92,6 +94,8 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-12_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]
 + Edition 001 - https://pages.quintsmart.com/posts/newsletter-edition-001

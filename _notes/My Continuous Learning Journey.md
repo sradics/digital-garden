@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240526045854.png
-date_created: Saturday, May 25th 2024, 6:43:49 am
-date_modified: Sunday, May 26th 2024, 5:00:09 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[My Continuous Learning Journey]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-ride-the-ai-wave-and-learn-smarter-activity-7200042949588434944-9EVE?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240526045854.png|400]]  
 
@@ -54,6 +56,7 @@ My smarter learning formula includes:
 ↳ AI amplification for each step in my learning journey  
   
 Want to evolve your own learning journey? Let's connect!
+
 ## Content preparation
 
 How I surf the AI wave and learn smarter every day
@@ -80,11 +83,10 @@ My ever evolving approach for Smarter Learni+ The Building a Second Brain method
 
 Would you like to build you our path to smarter learning? Let's talk!
 
-
-
-
 Posted on **LINKEDIN** on 2024-05-25_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]
 + [[MOC Building a 2nd brain]]
 + [[My Learning Journey]]

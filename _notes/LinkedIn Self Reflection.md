@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20241202063126.png
-date_created: Sunday, December 1st 2024, 7:10:30 am
-date_modified: Monday, December 2nd 2024, 6:31:55 am
+date_created: 2024-12-01 07:10
+date_modified: 2025-06-25 00:01
 ---
 # [[LinkedIn Self Reflection]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_fragile-habits-strong-connections-the-activity-7268881629165637632-L7-b?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241202063126.png|400]]
@@ -106,5 +108,7 @@ Want to gain deeper insights into Learning with Impact?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-01_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

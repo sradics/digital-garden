@@ -7,12 +7,14 @@ tags:
   - publish_in_newsletter
   - 12_fav_problems/help_others_grow
   - rating/⭐️
-date_created: Wednesday, April 17th 2024, 5:04:13 am
-date_modified: Sunday, April 21st 2024, 8:30:43 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 pdf: 6 Learn Better Strategies AND Second Brain.pdf
 ---
 # [[I struggled to retain what I learned for decades]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_6-learn-better-strategies-combined-with-second-activity-7186257105169920000-7t-i?utm_source=share&utm_medium=member_desktop)
 ![[6 Learn Better Strategies AND Second Brain.pdf]]
 
@@ -94,6 +96,8 @@ Employ Effective Learning techniques like self-quizzing and repeated recall
 📖
 
 Posted on **LINKEDIN** on 2024-04-17_Wed
+
 # Linking
+
 + [[MOC Building a 2nd brain]]
 + [[MOC Learning]]

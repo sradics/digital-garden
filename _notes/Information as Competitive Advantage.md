@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250210060913.png
-date_created: Sunday, February 9th 2025, 6:20:03 am
-date_modified: Monday, February 10th 2025, 6:09:39 am
+date_created: 2025-02-09 06:20
+date_modified: 2025-06-25 00:01
 ---
 # [[Information as Competitive Advantage]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_everyone-has-access-to-information-only-activity-7294248681518579712-E-zb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250210060913.png|400]]
@@ -53,13 +55,12 @@ This is what happens when you turn information into power.
 Ready to turn your knowledge into your edge?
 Comment "5" to be first in line when Compound Growth opens.
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-02-09_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

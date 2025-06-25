@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250320071034.png
-date_created: Tuesday, March 18th 2025, 6:58:31 am
-date_modified: Thursday, March 20th 2025, 7:11:23 am
+date_created: 2025-03-18 06:58
+date_modified: 2025-06-25 00:01
 ---
 # [[A small Compounder example]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-book-highlights-to-business-transformation-activity-7307657038031912960-U4PA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250320071034.png|400]]
@@ -68,5 +70,7 @@ You share, I deliver, you both win. That's compound growth in action.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-18_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

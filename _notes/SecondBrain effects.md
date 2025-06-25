@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250120063134.png
-date_created: Sunday, January 19th 2025, 6:50:49 am
-date_modified: Monday, January 20th 2025, 6:32:06 am
+date_created: 2025-01-19 06:50
+date_modified: 2025-06-25 00:01
 ---
 # [[SecondBrain effects]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ill-start-tomorrow-i-said-this-1095-days-activity-7286638694013259776-9KQG?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250120063134.png|400]]
@@ -71,5 +73,7 @@ I'll add you to the waiting list for this knowledge acceleration journey.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-19_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

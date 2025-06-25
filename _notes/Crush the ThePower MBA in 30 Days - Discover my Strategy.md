@@ -5,12 +5,15 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Crush the ThePower MBA in 30 Days - Discover my Strategy]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_20-thepower-mba-books-activity-7160542661148315648-DyiY?utm_source=share&utm_medium=member_desktop)
 ![[20 PowerMBA Bibs.pdf]]
-
 
 🔥Crush the ThePower MBA in 30 Days: Discover my Strategy! 🎯  
 (and dive into my Personal Curated Library for FREE!)  
@@ -78,7 +81,9 @@ Dive into my journey and explore my curated selection of 22 insightful books for
 + Building a Story Brand by Donald Miller
 
 Posted on **LINKEDIN** on 2024-02-06_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[My running list of 12 favorite problems#Help others to grow]]
 + [[34.01 PowerMBA]]

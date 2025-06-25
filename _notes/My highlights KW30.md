@@ -6,11 +6,15 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2024_KW30_Weekly Highlights.pdf
-date_created: Friday, July 26th 2024, 6:12:28 am
-date_modified: Saturday, July 27th 2024, 6:22:01 am
+date_created: 2024-07-26 06:12
+date_modified: 2025-06-25 00:01
+aliases: [My highlights KW29]
+linter-yaml-title-alias: My highlights KW29
 ---
 # [[My highlights KW29]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_weekly-highlights-kw302024-ugcPost-7222470011339059200-DQWT?utm_source=share&utm_medium=member_desktop)
 ![[2024_KW30_Weekly Highlights.pdf]]
 
@@ -50,6 +54,7 @@ Your turn: What inspired you this week?
 P.S.  
 ♻ Repost to help others in your network  
 ➕ Follow me for more posts like this
+
 ## Content preparation
 
 My top 5️⃣ LinkedIn Insights this Week 💡  
@@ -88,5 +93,7 @@ P.S.
 ➕ Follow me for more posts like this
 
 Posted on **LINKEDIN** on 2024-07-26_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

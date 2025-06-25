@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Monday, July 29th 2024, 6:37:19 am
-date_modified: Tuesday, July 30th 2024, 7:39:19 am
+date_created: 2024-07-29 06:37
+date_modified: 2025-06-25 00:01
 ---
 # Argument Time through better learning
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_time-is-our-scarcest-resource-the-trouble-activity-7223568158022905856-bvzl?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240730073844.png|400]]
@@ -65,9 +67,8 @@ P.S.
 
 ## Content preparation
 
-
-
-
 Posted on **LINKEDIN** on 2024-07-29_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

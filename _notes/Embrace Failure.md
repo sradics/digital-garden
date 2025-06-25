@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240819062144.png
-date_created: Sunday, August 18th 2024, 5:51:22 am
-date_modified: Monday, August 19th 2024, 6:22:22 am
+date_created: 2024-08-18 05:51
+date_modified: 2025-06-25 00:01
 ---
 # [[Embrace Failure]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_before-you-spend-1-more-second-worrying-activity-7230815954492964864-8tjo?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240819062144.png|400]]
@@ -59,7 +61,6 @@ Instead
 → learn smarter
 → learn faster
 
-
 ➠ What’s holding you back?
 
 ———  
@@ -72,8 +73,8 @@ P.S.
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-08-18_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

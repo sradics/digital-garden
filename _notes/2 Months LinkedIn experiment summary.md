@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/relationships
   - linkedin/processed
 pdf: LinkedIn2MonthGrowth.pdf
-date_created: Sunday, September 1st 2024, 7:04:37 am
-date_modified: Monday, September 2nd 2024, 5:54:44 am
+date_created: 2024-09-01 07:04
+date_modified: 2025-06-25 00:01
 ---
 # [[2 Months LinkedIn experiment summary]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_2-month-linkedin-growth-activity-7235889518959108097-4obp?utm_source=share&utm_medium=member_desktop)
 ![[LinkedIn2MonthGrowth.pdf]]
 
@@ -75,8 +77,8 @@ P.S.
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-09-01_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

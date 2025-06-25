@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - ln_weekly_highlight
 pdf: 2024_KW29_Weekly Highlights.pdf
-date_created: Friday, July 19th 2024, 5:54:09 am
-date_modified: Saturday, July 20th 2024, 6:05:14 am
+date_created: 2024-07-19 05:54
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW29]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_highlight-of-week-29-in-2024-activity-7219943369337171968-xQC7?utm_source=share&utm_medium=member_desktop)
 ![[2024_KW29_Weekly Highlights.pdf]]
 
@@ -22,8 +24,7 @@ This week, I explored:
 ↳ Part One of my LinkedIn Second Brain  
 ↳ 8 bad habits block you from finding a job  
 ↳ The 9 most important minutes of yr kid’s day  
-  
-  
+
 Here are 5 posts that sparked my thinking:  
 ‾‾‾‾‾‾‾‾  
 ✪ Engagement vs Enforcement  
@@ -51,9 +52,10 @@ P.S. - Please repost ♻ if you found this useful
 
 ## Content preparation
 
-
 \
 
 Posted on **LINKEDIN** on 2024-07-19_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

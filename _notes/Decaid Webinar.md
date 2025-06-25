@@ -7,11 +7,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
-date_created: Thursday, April 3rd 2025, 6:27:26 am
-date_modified: Friday, April 4th 2025, 7:19:22 am
+date_created: 2025-04-03 06:27
+date_modified: 2025-06-25 00:01
 ---
 # [[Decaid Webinar]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ai-knowledge-gap-68-of-companies-stuck-activity-7313440148560465920-pscj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250404071751.png|400]]
@@ -51,5 +53,7 @@ Don't wait for others to lead the way.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-03_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - ln_weekly_highlight
-date_created: Friday, April 5th 2024, 5:39:54 am
-date_modified: Sunday, April 21st 2024, 8:30:17 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421082606.png
 ---
 # [[My highlights KW14]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5-linkedin-posts-that-changed-how-i-think-activity-7181908457766158336-VmXb?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421082606.png|400]]  
@@ -39,6 +41,7 @@ What LinkedIn posts inspired you this week? Share them below!
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 5 LinkedIn Posts That Changed How I Think This Week (Because LinkedIn Posts DO Influence People...)
 
 This week on LinkedIn, I loved the fact-rich presentation about Climate Change and education, copied a powerful Notion template, laughed on the aim for simplicity, reflected on growth and extracted value from eBooks with AI:
@@ -57,4 +60,5 @@ My top post: 🏆 ✨How I Extract Maximum Value From Every eBook in 5 steps - h
 What LinkedIn posts inspired you this week? Share them below!
 
 Posted on **LINKEDIN** on 2024-03-29_Fri
+
 # Linking

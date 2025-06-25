@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - ln_weekly_highlight
-date_created: Friday, March 29th 2024, 5:31:55 am
-date_modified: Sunday, April 21st 2024, 8:44:37 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421084417.png
 ---
 # [[My highlights KW13]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn]()
 
 ![[Pasted image 20240421084417.png|400]]
@@ -36,6 +38,7 @@ What were your highlights this week?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 5 LinkedIn Posts That Changed How I Think This Week (Because LinkedIn Posts DO Influence People...)
 
 This week on LinkedIn, I loved the mix of inspiration and practicality:
@@ -54,4 +57,5 @@ My top post: 🏆 7 AI tools I leverage daily (Based on 1 year experimentation) 
 What were your highlights this week?
 
 Posted on **LINKEDIN** on 2024-03-29_Fri
+
 # Linking

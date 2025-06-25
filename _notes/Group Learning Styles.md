@@ -6,12 +6,16 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
-date_created: Thursday, May 8th 2025, 6:41:55 am
-date_modified: Friday, May 9th 2025, 6:04:39 am
+date_created: 2025-05-08 06:41
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250509060357.png
+aliases: ["Group Learning Styles "]
+linter-yaml-title-alias: "Group Learning Styles "
 ---
 # [[Group Learning Styles ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_skip-the-one-size-fits-all-that-bores-half-activity-7326123868014665729-F_ON?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250509060357.png|400]]
@@ -53,5 +57,7 @@ Does it affect how you work?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-08_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

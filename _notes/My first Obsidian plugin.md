@@ -8,11 +8,15 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250506063145.png
-date_created: Monday, May 5th 2025, 7:29:08 am
-date_modified: Tuesday, May 6th 2025, 6:34:12 am
+date_created: 2025-05-05 07:29
+date_modified: 2025-06-25 00:01
+aliases: ["My first Obsidian plugin "]
+linter-yaml-title-alias: "My first Obsidian plugin "
 ---
 # [[My first Obsidian plugin ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_3-clicks-to-import-entire-courses-into-your-activity-7325035971530448896-k6eL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250506063145.png|400]]
@@ -55,5 +59,7 @@ Now I'm waiting for Plugin approval. I'll share once it is  available for downlo
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-05-05_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

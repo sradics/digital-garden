@@ -8,11 +8,13 @@ tags:
   - lightbulb/2-🟡-things_they_tried
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250108174444.png
-date_created: Wednesday, January 8th 2025, 7:03:42 am
-date_modified: Wednesday, January 8th 2025, 5:48:20 pm
+date_created: 2025-01-08 07:03
+date_modified: 2025-06-25 00:01
 ---
 # [[It is not VARK]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-learning-style-lie-i-believed-i-even-activity-7282652292191850496-2ZEa?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250108174444.png|400]]
@@ -81,5 +83,7 @@ Apply now: [https://lnkd.in/ecP8T_jp](https://lnkd.in/ecP8T_jp)
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-08_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

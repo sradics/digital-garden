@@ -5,13 +5,16 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/continuous_learning
-date_created: Friday, February 23rd 2024, 5:47:34 am
-date_modified: Sunday, February 25th 2024, 4:22:20 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240225162044.png
 ---
 # [[Curiosity Reflections]]
+
 ![[Pasted image 20240225162044.png|400]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlocking-the-power-of-curiosity-a-journey-activity-7166703262983770112-A72l?utm_source=share&utm_medium=member_desktop)
 
 🌀 Unlocking the Power of Curiosity: A Journey Through the Curiosity Matrix  
@@ -44,10 +47,10 @@ By nurturing these habits of a curious mind, I've found better health, more syst
 👍 SHARE this to inspire curiosity in others.  
 💭 What might be interesting for you to explore next? Let's explore together in the comments 💭
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Thanks to Anne Le Caunff for providing the next great tool for self reflection (find the link to her great article in the comments). I just used the Curiosity Matrix for self reflection on my curiosity habits. 
 
 + very high Liminal Creativity - I love exploring that gap between what I know and don't know and I can fall in love with problems to explore
@@ -64,6 +67,8 @@ With that reflection I can also share that nurturing curiosity is highly possibl
 What might be interesting for you to explore next? 
 
 Posted on **LINKEDIN** on 2024-02-23_Fri
+
 # Linking
+
 + [[MOC Learning]]
 + [[My running list of 12 favorite problems#Continuous Learning]] and [[My running list of 12 favorite problems#Help others to grow]]

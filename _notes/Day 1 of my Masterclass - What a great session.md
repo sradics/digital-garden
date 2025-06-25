@@ -7,11 +7,13 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20240926064600.png
-date_created: Wednesday, September 25th 2024, 6:01:33 am
-date_modified: Thursday, September 26th 2024, 6:46:42 am
+date_created: 2024-09-25 06:01
+date_modified: 2025-06-25 00:01
 ---
 # [[Day 1 of my Masterclass - What a great session]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_knowledge-is-everywhere-few-know-how-to-activity-7244586523197599744-iQUE?utm_source=share&utm_medium=member_desktop)
   
 ![[Pasted image 20240926064600.png|400]]
@@ -57,12 +59,12 @@ Looking forward!
 Want to join the waitlist for my next iteration for this masterclass? 
 Comment: smart or send me a DM. 
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-09-25_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

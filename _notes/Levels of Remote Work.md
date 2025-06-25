@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Wednesday, February 21st 2024, 5:16:02 am
-date_modified: Sunday, February 25th 2024, 4:35:25 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Levels of Remote Work]]
+
 ## LinkedIn Post
+
 ![[Pasted image 20240225162648.png]]
 
 🧭 Navigating Level 5 of Remote Work: A Journey of Empowerment and Efficiency 🚀  
@@ -45,6 +47,7 @@ I experience the high potential of remote work when approached with intentionali
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Recently I prepared a session about Hybrid Teams and the topic of efficiency and found the model of 5 levels of remote work. And I took some time to reflect on the level that I reached since I joined Blinkist. 
 
 I currently work in a team with team members located across Europe. The time difference is within 1h.  We have live sessions on demand and work a lot via written and asynchronous communication. On Mondays we align on main topics for the week in a live, digital session for about 1 hour. And we run a daily short 15 minutes live sync to shortly update each other on important things that happened and what we will do on that day, mention where we might need support and work together. This session could also be done async, but it adds the important aspect of seeing each other, having some face time, laughing with each other and bonding. 
@@ -69,7 +72,9 @@ I scan my Slack message several times a day. This way I can detect where my cont
 I summary I think we reached level 5 of remote work in our team. This way of working provides me a high level of accountability, I'm self empowered, feel highly productive as I can leverage my strengths and through our commonly shared purpose to help leaders apply knowledge this leads to high motivation leading to great outcomes that we can measure from our clients feedback. 
 
 Posted on **LINKEDIN** on 2024-02-21_Wed
+
 # Linking
+
 + [[Leadership Development]]
 + [[The surprising traits of good remote leaders|The surprising traits of good remote leaders]]
 + [[Notes from Mindful Productivity for Remote Workers]]

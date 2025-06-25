@@ -36,6 +36,8 @@ date_modified: Monday, April 22nd 2024, 6:22:05 am
 + [[Hint for editing]]
 + [[6 writing hints by Daniel Pink]]
 + [[An aspect of better writing on LinkedIn]]
++ [[The Ultimate Guide to Writing Online – Write of Passage]]
++ [[Magnetic writing tips distilled]]
 
 ## About newsletters 
 + [[3 techniques to improve your emails 🪩]]
@@ -57,6 +59,7 @@ Make your comments section FUN for people.
 
 ## Books about writing
 + [my Blinkist Space](http://www.blinkist.com/nc/spaces/invites/730d2517-4692-4861-94cd-b0009c1f98fd?messageType=specific_title)
++ [[WritingGuide-WEB.pdf]] - super detailed 700 pages about writing
 
 ## My Posts about Writing
 + [[On Writing]] referencing several interesting books about writing

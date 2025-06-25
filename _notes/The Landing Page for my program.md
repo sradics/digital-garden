@@ -7,11 +7,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250410053342.png
-date_created: Wednesday, April 9th 2025, 6:05:02 am
-date_modified: Thursday, April 10th 2025, 5:34:43 am
+date_created: 2025-04-09 06:05
+date_modified: 2025-06-25 00:01
 ---
 # [[The Landing Page for my program]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_im-calling-on-designers-marketers-and-activity-7315614503059021824-CgyA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250410053342.png|400]]
@@ -56,5 +58,7 @@ The stage is yours. Tear it apart so I can rebuild it stronger.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-09_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

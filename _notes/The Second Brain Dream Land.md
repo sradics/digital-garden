@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: "[Pasted image 20250121062030.png"
-date_created: Monday, January 20th 2025, 6:35:44 am
-date_modified: Tuesday, January 21st 2025, 6:21:23 am
+date_created: 2025-01-20 06:35
+date_modified: 2025-06-25 00:01
 ---
 # [[The Second Brain Dream Land]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-lost-47-browser-tabs-today-and-ive-never-activity-7287001062916435968-Ut_f?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250121062030.png|400]]
@@ -60,5 +62,7 @@ Deal?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-20_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

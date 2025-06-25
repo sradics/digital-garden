@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Thursday, June 27th 2024, 5:47:51 am
-date_modified: Friday, June 28th 2024, 8:59:17 am
+date_created: 2024-06-27 05:47
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240628085730.png
 ---
 # [[Combine Todoist and Obsidian]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_faster-smarter-better-todoist-meets-activity-7211986684064731137-8SuE?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240628085730.png|400]]
 
@@ -101,5 +103,7 @@ How do you manage your tasks?
 Did you already integrate your task manager? 
 
 Posted on **LINKEDIN** on 2024-06-27_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems#Continuous Learning]]

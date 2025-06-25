@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250403062118.png
-date_created: Wednesday, April 2nd 2025, 7:31:22 am
-date_modified: Thursday, April 3rd 2025, 6:22:34 am
+date_created: 2025-04-02 07:31
+date_modified: 2025-06-25 00:01
 ---
 # [[Finding Time is the most crucial challenge]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ive-identified-4-common-learning-roadblocks-activity-7313078015452676096-XPQ-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250403062118.png|400]]
@@ -53,5 +55,7 @@ P.S. Curious about my time-saving learning system?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-02_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

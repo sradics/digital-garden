@@ -6,11 +6,15 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20250530065749.png
-date_created: Wednesday, May 28th 2025, 7:53:54 am
-date_modified: Friday, May 30th 2025, 6:59:43 am
+date_created: 2025-05-28 07:53
+date_modified: 2025-06-25 00:01
+aliases: ["The Why for Book to Action "]
+linter-yaml-title-alias: "The Why for Book to Action "
 ---
 # [[The Why for Book to Action ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5-books-zero-implementation-their-knowledge-activity-7333378114447671296-DpTA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250530065749.png|400]]
@@ -51,5 +55,7 @@ Picture yourself:
 What would that change for you?
 
 Posted on **LINKEDIN** on 2025-05-28_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

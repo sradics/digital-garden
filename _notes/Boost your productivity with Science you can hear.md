@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Friday, March 1st 2024, 7:06:38 am
-date_modified: Sunday, April 21st 2024, 9:46:52 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Boost your productivity with Science you can hear]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_boost-your-productivity-with-science-you-activity-7169255086777462786-6Sdu?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421094624.png|400]]
@@ -37,6 +39,7 @@ I'm curious about your strategies. What helps you tune out the noise and lock in
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 A booster in productivity with Science I can hear
 (How I switch super fast to deep work full focus mode)
 
@@ -61,6 +64,8 @@ Further supporting aspect of creating deep work phases:
 + I work with metacognition and observe my energy levels. If I feel that my batteries are low and I can't focus I embed a break, take a walk, get fresh air, exercise and super efficient for me, I take a power nap.
 
 Posted on **LINKEDIN** on 2024-03-01_Fri
+
 # Linking
+
 + [[MOC Learning]]
 + [[My running list of 12 favorite problems#Continuous Learning]]

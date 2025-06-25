@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
   - linkedin/processed
-date_created: Wednesday, June 19th 2024, 7:53:20 am
-date_modified: Wednesday, June 19th 2024, 9:11:35 am
+date_created: 2024-06-19 07:53
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240619091011.png
 ---
 # [[The Claim for Smart Learning]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-does-the-following-statement-apply-to-activity-7209087669723639809-wOkF?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240619091011.png|400]]
 How does the following statement apply to your own career and professional development?  
@@ -21,15 +23,13 @@ continuous advancement is more critical than ever.
   
 While change has always been a constant,  
 AI and automation are driving an unprecedented pace and scale.  
-  
 
 Proactive upskilling helps professionals stay competitive and excel in their fields.  
   
 Embrace smart learning approaches now to stay ahead,  
 enhance your career resilience,  
 and unlock new opportunities for growth and innovation.  
-  
-  
+
 ———REFLECTION  
   
 You might consider the following questions to reflect:  
@@ -61,7 +61,9 @@ You’ve read the statement and skimmed the reflection questions. What resonated
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-06-19_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]
 + [[ChainOfBeliefs.excalidraw]]
 + [[Questions that might come from the main Statement]]

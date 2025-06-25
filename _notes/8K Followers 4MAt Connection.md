@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250114071215.png
-date_created: Monday, January 13th 2025, 6:54:30 am
-date_modified: Tuesday, January 14th 2025, 7:13:01 am
+date_created: 2025-01-13 06:54
+date_modified: 2025-06-25 00:01
 ---
 # [[8K Followers 4MAt Connection]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-25k-to-8k-followers-a-matter-activity-7284464250905899008-lOEh?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250114071215.png|400]]
@@ -61,5 +63,7 @@ FREE but limited spots - Apply now:
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-13_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

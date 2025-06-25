@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 image: Pasted image 20240614064339.png
-date_created: Thursday, June 13th 2024, 6:53:18 am
-date_modified: Friday, June 14th 2024, 6:47:38 am
+date_created: 2024-06-13 06:53
+date_modified: 2025-06-25 00:01
 ---
 # [[Obsidian Packaged]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_would-you-take-this-fast-route-to-learning-activity-7206920731857727488-Iwiz?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240614064339.png|400]]  
 Would you take this fast route to learning?  
@@ -66,5 +68,7 @@ I could provide you with a prepackaged Second Brain setup based on Obsidian wher
 Would that be interesting for you? What might be important starter components you would need in addition?
 
 Posted on **LINKEDIN** on 2024-06-13_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

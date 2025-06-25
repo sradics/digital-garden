@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241007003331.png
-date_created: Saturday, October 5th 2024, 5:27:44 am
-date_modified: Monday, October 7th 2024, 12:34:00 am
+date_created: 2024-10-05 14:27
+date_modified: 2025-06-25 00:01
 ---
 # [[Reflection Time 2 Days Second Brain Summit]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_secondbrainsummit-activity-7248329143816192000-wns9?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241007003331.png|400]]
@@ -108,8 +110,8 @@ Thank you Tiago Forte & team 💚
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-10-05_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

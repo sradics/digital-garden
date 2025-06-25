@@ -7,12 +7,14 @@ tags:
   - publish_in_newsletter
   - 12_fav_problems/health
   - rating/⭐️⭐️
-date_created: Saturday, April 13th 2024, 6:13:23 am
-date_modified: Sunday, April 21st 2024, 8:34:06 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 pdf: TurnRoutinesIntoPurposefulRituals.pdf
 ---
 # [[I cracked the Code to Perseverance]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_turn-your-routines-to-powerful-rituals-activity-7184809157126950912-ODPG?utm_source=share&utm_medium=member_desktop)
 
 ![[TurnRoutinesIntoPurposefulRituals.pdf]]
@@ -85,4 +87,5 @@ One CTA:
 Follow me if you want to discover more about forming rituals
 
 Posted on **LINKEDIN** on 2024-04-13_Sat
+
 # Linking

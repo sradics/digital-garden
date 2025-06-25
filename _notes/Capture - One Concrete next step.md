@@ -9,11 +9,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250131064250.png
-date_created: Thursday, January 30th 2025, 6:19:58 am
-date_modified: Friday, January 31st 2025, 6:43:28 am
+date_created: 2025-01-30 06:19
+date_modified: 2025-06-25 00:01
 ---
 # [[Capture - One Concrete next step]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_15-people-thought-they-knew-how-to-take-notes-activity-7290624922568065027-fCiT?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250131064250.png|400]]
@@ -64,5 +66,7 @@ Comment "48" to continue the journey.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-01-30_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

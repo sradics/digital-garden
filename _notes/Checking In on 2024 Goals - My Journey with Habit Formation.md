@@ -5,13 +5,15 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
-date_created: Friday, January 19th 2024, 9:32:48 pm
-date_modified: Sunday, January 28th 2024, 9:36:55 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Checking In on 2024 Goals - My Journey with Habit Formation]]
+
 ![[Pasted image 20240128213441.png|400]]
 
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_habitformation-personalgrowth-activity-7154048480250855424-Fgpj?utm_source=share&utm_medium=member_desktop)
 
 🌟 Checking In on 2024 Goals: My Journey with Habit Formation 🌟  
@@ -36,7 +38,9 @@ Now, I'd love to hear from you! What are your 2024 goals and routines? How do yo
 [hashtag#HabitFormation](https://www.linkedin.com/feed/hashtag/?keywords=habitformation&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154048480250855424) [hashtag#PersonalGrowth](https://www.linkedin.com/feed/hashtag/?keywords=personalgrowth&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154048480250855424)
 
 Posted on **LINKEDIN** on 2024-01-28_Sun
+
 # Linking
+
 * [[Atomic Habits - James Clear]]
 * [[Habit]]
 * [[4 Tips for forming Habits]]

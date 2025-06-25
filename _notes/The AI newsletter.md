@@ -7,12 +7,14 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
-date_created: Saturday, February 1st 2025, 7:43:54 am
-date_modified: Sunday, February 2nd 2025, 6:28:55 am
+date_created: 2025-02-01 07:43
+date_modified: 2025-06-25 00:01
 image: Pasted image 20250202062359.png
 ---
 # [[The AI newsletter]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_im-all-processors-i-mean-all-ears-activity-7291348854812147712-TDob?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250202062359.png|400]]
@@ -46,5 +48,7 @@ Get this week's newsletter + our AI relationship DNA blueprint:
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-01_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

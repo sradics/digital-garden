@@ -7,11 +7,15 @@ tags:
   - linkedin/processed
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20250428060559.png
-date_created: Monday, April 28th 2025, 6:04:42 am
-date_modified: Monday, April 28th 2025, 6:06:35 am
+date_created: 2025-04-28 06:04
+date_modified: 2025-06-25 00:01
+aliases: ["Learnign Ecosystem Mastery - Dialog "]
+linter-yaml-title-alias: "Learnign Ecosystem Mastery - Dialog "
 ---
 # [[Learnign Ecosystem Mastery - Dialog ]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_learning-ecosystem-mastery-program-starts-activity-7322147266650165248-_i9K?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250428060559.png|400]]
@@ -42,5 +46,7 @@ Master AI-Enhanced Learning Explore the unexpected depth of AI partnership in le
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-04-28_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

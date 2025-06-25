@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - publish_in_newsletter
   - linkedin/processed
-date_created: Thursday, January 25th 2024, 10:19:52 am
-date_modified: Sunday, January 28th 2024, 9:09:06 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Habit Building and Peloton]]
+
 ## Post on LinkedIn
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_fitnessjourney-healthyhabits-motivation-activity-7156222426803048448-Jace?utm_source=share&utm_medium=member_desktop)
 
 Unveiling My Secret: 129 Weeks of Consistent Workouts and What Keeps Me Going 🚴‍♂️💪  
@@ -43,7 +45,6 @@ These habits didn't form overnight. It was books like:
 👉 [FOLLOW ME](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli) for more insights into forming habits and leading yourself.  
   
 Now, over to you. Are you ready to step out of your comfort zone? What's your secret to maintaining a fitness routine?
-
 
 ## Content notes
 
@@ -80,4 +81,5 @@ What really helped me forming this habit:
 In the comments you can find some distilled versions of it. 
 
 Posted on **LINKEDIN** on 2024-01-25_Thu
+
 # Linking

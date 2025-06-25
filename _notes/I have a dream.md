@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20240823052239.png
-date_created: Thursday, August 22nd 2024, 5:41:30 am
-date_modified: Friday, August 23rd 2024, 5:25:15 am
+date_created: 2024-08-22 05:41
+date_modified: 2025-06-25 00:01
 ---
 # [[I have a dream]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-dreamed-of-a-ceo-who-took-a-bold-decision-activity-7232265254565543937-r5c0?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240823052239.png|400]]  
 
@@ -53,7 +55,6 @@ Same budget, much HIGHER OUTCOME
 
 What's your ONE workspace learning experience?
 
-
 ———  
 P.S.  
 🔔 I share insights daily at 8:00AM (CEST)
@@ -64,8 +65,8 @@ P.S.
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-08-22_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -9,11 +9,13 @@ tags:
   - lightbulb/2-🟡-things_they_tried
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250127064516.png
-date_created: Sunday, January 26th 2025, 6:27:19 am
-date_modified: Monday, January 27th 2025, 6:45:46 am
+date_created: 2025-01-26 06:27
+date_modified: 2025-06-25 00:01
 ---
 # [[The Iceberg is melting - Inertia at play]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-warmest-blanket-is-often-the-most-dangerous-activity-7289175183565729792-soPJ?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250127064516.png|400]]
@@ -58,13 +60,12 @@ you wonder why you stayed so long!"
 From bed to brain -- 3 days left until your Discover your Second Brain workshop
 (and prepare for the Third Brain) 
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2025-01-26_Sun
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

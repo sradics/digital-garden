@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 pdf: MOCs for Fast Information Retrieval.pdf
-date_created: Monday, June 3rd 2024, 4:39:42 am
-date_modified: Tuesday, June 4th 2024, 6:04:41 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Advantages of working with Maps of Content]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_maps-of-content-to-retain-knowledge-fast-activity-7203296914769858562-qYQy?utm_source=share&utm_medium=member_desktop)
 ![[MOCs for Fast Information Retrieval.pdf]]
 
@@ -82,6 +84,8 @@ I introduce a MOC when:
 How do you structure your learning insights? Is working with a Map of Content something you would like to try?
 
 Posted on **LINKEDIN** on 2024-06-03_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]
 + [[MOC Building a 2nd brain]]

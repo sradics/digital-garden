@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241106064101.png
-date_created: Tuesday, November 5th 2024, 6:43:41 am
-date_modified: Wednesday, November 6th 2024, 6:41:28 am
+date_created: 2024-11-05 06:43
+date_modified: 2025-06-25 00:01
 ---
 # [[3 Streaming Methods for LinkedIn bursts]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_warning-this-may-cause-explosive-creativity-activity-7259459523021565952-x7u1?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241106064101.png|400]]  
@@ -18,8 +20,7 @@ date_modified: Wednesday, November 6th 2024, 6:41:28 am
 Warning: This may cause explosive creativity  
   
 → Streaming with: Freewriting, Freelining, Freetalking  
-  
-  
+
 I attend the Note-MAKING mastery course by Nick Milo.  
 Recently, the three Streaming Methods for writing made me reflect.  
   
@@ -80,11 +81,9 @@ I like the AI that converts long spoken text into structured, shorter form.
   
 My applications:  
 → When I'm on my walk  
-  
-  
+
 Freewriting, Freelining, Freetalking - which ONE catches your attention?  
-  
-  
+
 ———  
 P.S.  
 I help people learn how to learn, retain and recall with ease  
@@ -93,12 +92,12 @@ Want to gain deeper insights into Learning with Impact?
 ➠ Subscribe to my newsletter for exclusive tips and updates  
 (from my profile or post header link)
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-11-05_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

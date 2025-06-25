@@ -6,11 +6,15 @@ tags:
   - linkedin/processed
   - 12_fav_problems/continuous_learning
 image: Pasted image 20240804062709.png
-date_created: Saturday, August 3rd 2024, 6:17:42 am
-date_modified: Sunday, August 4th 2024, 6:27:50 am
+date_created: 2024-08-03 06:17
+date_modified: 2025-06-25 00:01
+aliases: ["[[Access to Knowledge is Only Potential Power]"]
+linter-yaml-title-alias: "[[Access to Knowledge is Only Potential Power]"
 ---
 # [[Access to Knowledge is Only Potential Power]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_your-knowledge-is-only-potential-power-activity-7225379967197454338-p5gs?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240804062709.png|400]]  
 
@@ -48,16 +52,14 @@ Next time you capture an information → ask:
 ➠ Why must I use this?  
 ➠ When will I use this?  
 And schedule your knowledge date.  
-  
-  
+
 Now, may I ask for your help?  
   
 What should I do with all my hoarded  
 books, newsletters, articles?  
   
 What is ONE tip you can share?  
-  
-  
+
 ———  
 P.S.  
 🔔 I share insights daily at 8:00AM (CEST)  
@@ -109,15 +111,14 @@ books, newsletters, articles?
 
 What is ONE tip you can share?
 
-
 ———
 P.S. 
 🔔 I share insights daily at 8:00AM (CEST)
 ♻ Repost to help others in your network
 ➕ Follow me for more posts like this
 
-
-
 Posted on **LINKEDIN** on 2024-08-03_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

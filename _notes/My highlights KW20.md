@@ -6,11 +6,13 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 image: Pasted image 20240518055338.png
-date_created: Friday, May 17th 2024, 5:26:59 am
-date_modified: Saturday, May 18th 2024, 5:56:35 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW20]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_my-top-5-linkedin-insights-this-week-activity-7197128781965262849-xnXS?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240518055338.png|400]]  
 
@@ -67,5 +69,7 @@ https://www.linkedin.com/posts/sebastiankamilli_a-strong-summarization-workflow-
 Your turn: What inspired you this week?
 
 Posted on **LINKEDIN** on 2024-05-17_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -8,11 +8,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
 image: Pasted image 20241211064344.png
-date_created: Tuesday, December 10th 2024, 7:02:31 am
-date_modified: Wednesday, December 11th 2024, 6:44:43 am
+date_created: 2024-12-10 07:02
+date_modified: 2025-06-25 00:01
 ---
 # [[The Newsletter accelerator]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-theory-to-practice-how-my-newsletter-activity-7272143050229833729-sJXs?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241211064344.png|400]]
@@ -82,5 +84,7 @@ What is ONE thing you learned about newsletters?
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-10_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

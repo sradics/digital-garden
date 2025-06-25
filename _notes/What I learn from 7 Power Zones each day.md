@@ -6,12 +6,14 @@ tags:
   - linkedin/processed
   - publish_in_newsletter
   - 12_fav_problems/health
-date_created: Sunday, April 7th 2024, 6:31:36 am
-date_modified: Sunday, April 21st 2024, 8:30:22 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421081543.png
 ---
 # [[What I learn from 7 Power Zones each day]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_what-i-learn-from-7-power-zones-each-day-activity-7182648302012661760-FTpf?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421081543.png|400]]
@@ -55,6 +57,7 @@ How do you conquer your daily challenges!
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 What I learn from 7 PowerZones each day
 ()
 
@@ -91,7 +94,9 @@ Zone 7 - Max effort, sustainable for a few seconds, >150% FTP
 Super intense zone. Taps the limits. And I feel proud to have energized my willpower. I can't say that I really like this Zone 😉
 
 Posted on **LINKEDIN** on 2024-04-07_Sun
+
 # Linking
+
 + [[Notes from book Outlive - topic Longevity]]
 + [[Transforming Health - Unveiling Longevity Secrets from Outlive]]
 + [[My running list of 12 favorite problems#Health]]

@@ -6,11 +6,13 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2024_KW32_Weekly Highlights.pdf
-date_created: Friday, August 9th 2024, 6:57:45 am
-date_modified: Saturday, August 10th 2024, 5:53:48 am
+date_created: 2024-08-09 06:57
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW32]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5-highlights-in-kw322024-ugcPost-7227554610981355520-Sxtc?utm_source=share&utm_medium=member_desktop)
 ![[2024_KW32_Weekly Highlights.pdf]]
   
@@ -59,7 +61,8 @@ P.S.
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-09_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20240718063403.png
-date_created: Wednesday, July 17th 2024, 6:09:59 am
-date_modified: Thursday, July 18th 2024, 6:34:40 am
+date_created: 2024-07-17 06:09
+date_modified: 2025-06-25 00:01
 ---
 # [[What a lifelong reading list]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_i-sat-on-53000-unused-book-highlights-activity-7219219314942316545-LOaj?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240718063403.png|400]]
@@ -69,14 +71,12 @@ Does that sound interesting?
 
 P.S. - Please repost ♻ if you found this useful
 
-
-
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-07-17_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

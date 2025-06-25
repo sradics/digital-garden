@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/relationships
   - linkedin/processed
   - lightbulb/4-🟢-my_offer
-date_created: Tuesday, December 31st 2024, 7:24:15 am
-date_modified: Wednesday, January 1st 2025, 6:37:27 am
+date_created: 2024-12-31 07:24
+date_modified: 2025-06-25 00:01
 ---
 # [[Poll for Lead Magnets]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_transform-yourself-into-a-knowledge-powerhouse-activity-7279753776306040832-MGMy?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20250101063644.png|400]]
@@ -65,5 +67,7 @@ Happy new year, dear LinkedIn family.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-31_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

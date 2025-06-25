@@ -7,11 +7,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - li
 image: Pasted image 20241009222246.png
-date_created: Tuesday, October 8th 2024, 10:05:48 pm
-date_modified: Wednesday, October 9th 2024, 10:23:17 pm
+date_created: 2024-10-09 07:05
+date_modified: 2025-06-25 00:01
 ---
 # [[Small but huge impact]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_secondbrainsummit-activity-7249660131800416256-h8xJ?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241009222246.png|400]]
@@ -80,6 +82,8 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-08_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]
 + [[Small but huge impact quote by Benjamin Labatut]]

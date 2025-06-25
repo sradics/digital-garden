@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/continuous_learning
   - linkedin/processed
 pdf: Example - 4MAT for Workshop Design.pdf
-date_created: Saturday, June 1st 2024, 11:08:21 pm
-date_modified: Saturday, June 1st 2024, 11:10:21 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[holistic learning experience with 4MAT designed workshops]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_a-holistic-learning-experience-with-4mat-activity-7202579637078503424-4jko?utm_source=share&utm_medium=member_desktop)
 
 ![[Example - 4MAT for Workshop Design.pdf]]
@@ -74,5 +76,7 @@ One Story:
 One CTA:
 
 Posted on **LINKEDIN** on 2024-06-01_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

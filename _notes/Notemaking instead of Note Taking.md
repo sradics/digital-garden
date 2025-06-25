@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241010220713.png
-date_created: Wednesday, October 9th 2024, 10:26:43 pm
-date_modified: Thursday, October 10th 2024, 10:08:10 pm
+date_created: 2024-10-10 07:26
+date_modified: 2025-06-25 00:01
 ---
 # [[Notemaking instead of Note Taking]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_from-passive-notes-to-active-insights-activity-7250022264765562881-ZAUE?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241010220713.png|400]]
@@ -84,5 +86,7 @@ I help people learn how to learn, retain and recall with ease
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-10-09_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Monday, March 11th 2024, 6:22:40 am
-date_modified: Sunday, April 21st 2024, 9:36:11 am
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Feeling overwhelmed about AI]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_feeling-overwhelmed-about-ai-are-you-at-activity-7172871427547713536-V-UE?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421093549.png]]
@@ -38,6 +40,7 @@ I'm building a community for those who want to accelerate their AI learning. If 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I can observe a low investment in continuous learning. I observe people being overwhelmed with all the input. At the same time I experience AI everyday and based on its current capabilities and AI's rapid development there should be an immediate need to heavily learn, unlearn and adjust to the changing world. 
 
 Are we in a state of equilibrium? Are we at risk of not adapting quickly enough?
@@ -59,5 +62,7 @@ Let's connect. Please add your thoughts in the comments and/or write me a direct
 Inspired by Anne Laure Le Cunff - Chaos surfing, from surving to thriving in chaotic times.
 
 Posted on **LINKEDIN** on 2024-03-11_Mon
+
 # Linking
+
 + [[MOC Artificial Intelligence]]

@@ -6,11 +6,13 @@ tags:
   - 12_fav_problems/help_others_grow
   - linkedin/processed
 image: Pasted image 20241022054313.png
-date_created: Monday, October 21st 2024, 5:57:47 am
-date_modified: Tuesday, October 22nd 2024, 5:43:46 am
+date_created: 2024-10-21 05:57
+date_modified: 2025-06-25 00:01
 ---
 # [[Excurs on Posting Style Differences]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_marketing-success-hinges-on-understanding-activity-7254008516892323840-iRsP?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20241022054313.png|400]]  
 
@@ -38,8 +40,7 @@ Super brief, the Five Lightbulbs:
 These Five Lightbulbs shaped version 1 in the A/B test!  
   
 Billy helped me analyze and rewrite version 1 ⇢ [https://lnkd.in/epvaewtE](https://lnkd.in/epvaewtE)).  
-  
-  
+
 The post has a clear structure with the intention to:  
   
 → Show that I understand you (LB1)  
@@ -69,8 +70,7 @@ It blew my mind, once I understood the structure:
 Do you see the power of such a structured approach?  
   
 What is ONE immediate thought?  
-  
-  
+
 (Tomorrow I'll write about the results from the A/B test. See you?)  
   
 ———  
@@ -85,8 +85,8 @@ Want to gain deeper insights into Learning with Impact?
 
 ## Content preparation
 
-
-
 Posted on **LINKEDIN** on 2024-10-21_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

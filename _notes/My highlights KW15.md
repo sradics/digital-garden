@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - ln_weekly_highlight
-date_created: Friday, April 12th 2024, 5:34:08 am
-date_modified: Sunday, April 28th 2024, 5:07:39 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240421080300.png
 ---
 # [[My highlights KW15]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_level-up-your-linkedin-feed-with-my-top-5-activity-7184445147131060225-Dgcm?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20240421080300.png|400]]
@@ -78,4 +80,5 @@ What was your highlight on LinkedIn this week?
 👉 Follow me for more your weekly insights filtered through my lense!
 
 Posted on **LINKEDIN** on 2024-04-12_Fri
+
 # Linking

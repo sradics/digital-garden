@@ -8,12 +8,14 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-date_created: Thursday, December 5th 2024, 6:36:12 am
-date_modified: Friday, December 6th 2024, 6:46:18 am
+date_created: 2024-12-05 06:36
+date_modified: 2025-06-25 00:01
 image: Pasted image 20241206064542.png
 ---
 # [[When it needs precision and when one can go a little more easy]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_when-i-cook-i-like-to-improvise-the-activity-7270331200500600832-nyJf?utm_source=share&utm_medium=member_desktop)
 
 ![[Pasted image 20241206064542.png|400]]
@@ -79,5 +81,7 @@ Newsletter No. TWO will be out tomorrow.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2024-12-05_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

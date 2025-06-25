@@ -6,15 +6,16 @@ tags:
   - ln_weekly_highlight
   - linkedin/processed
 pdf: 2025_KW01_Weekly Highlights.pdf
-date_created: Friday, January 3rd 2025, 7:26:30 am
-date_modified: Saturday, January 4th 2025, 5:35:22 am
+date_created: 2025-01-03 07:26
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights 2025-KW01]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_kw01-2025-highlights-ugcPost-7280840822940426241-5I7E?utm_source=share&utm_medium=member_desktop)
 
 ![[2025_KW01_Weekly Highlights.pdf]]
-
 
 My top 5️⃣ LinkedIn Insights this Week 💡  
   
@@ -51,12 +52,12 @@ Want to gain deeper insights into Learning with Impact?
 ➠ Subscribe to my newsletter for exclusive tips and updates  
 (from my profile or post header link or via [https://lnkd.in/euDnjSXS](https://lnkd.in/euDnjSXS))
 
-
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2025-01-03_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

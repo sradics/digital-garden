@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - 12_fav_problems/help_others_grow
 image: Pasted image 20240712062507.png
-date_created: Thursday, July 11th 2024, 6:20:42 am
-date_modified: Friday, July 12th 2024, 6:28:56 am
+date_created: 2024-07-11 06:20
+date_modified: 2025-06-25 00:01
 ---
 # [[Second Brain - How to start]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_second-brain-is-getting-attention-activity-7217051970673475584-SMSa?utm_source=share&utm_medium=member_desktop)
   
 ![[Pasted image 20240712062507.png|400]]
@@ -100,13 +102,13 @@ Can you share it with someone?
 Closed the information gap for where to start?  
 For more information, contact me.  
 Happy to jump on a call!  
-  
-  
+
 P.S. - Please repost ♻ if you found this useful
 
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 🧠 Second Brain 🧠  is getting attention
 
 How ignorant I was to not yet explain:
@@ -183,11 +185,10 @@ Closed the information gap for where to start?
 For me information, contact me. 
 Happy to jump on a call!
 
-
 P.S. - Please repost ♻ if you found this useful
 
-
-
 Posted on **LINKEDIN** on 2024-07-11_Thu
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]

@@ -5,11 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - publish_in_newsletter
-date_created: Wednesday, January 31st 2024, 5:39:17 am
-date_modified: Thursday, February 1st 2024, 7:33:38 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[Speed of Trust and Leadership]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_unlock-leadership-success-with-trust-boost-activity-7158368331333328897-RLes?utm_source=share&utm_medium=member_desktop)
 Unlock Leadership Success with Trust: Boost Speed, Reduce Costs! 🚀  
 (Discover 12 trust building tips that help me establishing trust)  
@@ -55,6 +57,7 @@ Curious about your story: How has trust shaped your approach to leadership?
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Why:
 The ability to establish, grow, extend, and restore trust with all stakeholders is the key leadership competency.
 
@@ -71,6 +74,7 @@ Trust is based on the 4 cores:
 + Results - build a track record of deeds
 
 ### Trust building elements
+
 How: Attention + Interest + Time are a powerful combination for trust building.
 
 12 hints to grow trust:
@@ -90,5 +94,7 @@ How: Attention + Interest + Time are a powerful combination for trust building.
 + Be open to what is expressed and check yourself if you aim to understand or if you are just looking for confirmation and mirroring yourself. 
 
 Posted on **LINKEDIN** on 2024-01-31_Wed
+
 # Linking
+
 + [[The SPEED of Trust]]

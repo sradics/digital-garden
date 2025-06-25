@@ -6,12 +6,14 @@ tags:
   - linkedin/processed
   - rating/⭐️⭐️
   - 12_fav_problems/help_others_grow
-date_created: Saturday, April 27th 2024, 5:31:12 am
-date_modified: Saturday, April 27th 2024, 12:08:00 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240428111406.png
 ---
 # [[7 Advantages from Working out loud in my digital garden]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_building-collective-intelligence-one-activity-7189896055679787008-rBdN?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240428111406.png|400]]
 
@@ -78,7 +80,9 @@ thanks for your inspiration Anne-Laure Le Cunff and Maggie Appleton
 + I'm not yet there with the design and usability of my digital garden. So I wonder, what would help you to better leverage this knowledge?
 
 Posted on **LINKEDIN** on 2024-04-27_Sat
+
 # Linking
+
 + [[My running list of 12 favorite problems#Help others to grow]]
 + [[My running list of 12 favorite problems#Continuous Learning]]
 + [[MOC Digital Garden]]

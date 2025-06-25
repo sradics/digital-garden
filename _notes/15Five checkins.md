@@ -4,11 +4,13 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - linkedin/processed
-date_created: Thursday, February 22nd 2024, 5:36:16 am
-date_modified: Sunday, February 25th 2024, 4:24:24 pm
+date_created: 2024-06-07 21:08
+date_modified: 2025-06-25 00:01
 ---
 # [[15Five checkins]]
+
 ## LinkedIn Post
+
 🗝️ Unlocking Growth 🌱 Through Reflection: My Journey with Weekly Check-Ins Using [15Five](https://www.linkedin.com/company/15five/)  
   
 Embarking on a journey towards self-improvement, I've recently started forming a habit that's already changing the way I work and grow. Each week, I dedicate time for a short, asynchronous check-in to reflect on my progress, emotions, and priorities, leveraging the powerful tool 15Five.  
@@ -42,6 +44,7 @@ So, are you giving yourself the space to reflect and grow? Are you communicating
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 I build a habit of weekly short asynchronous check-ins to reflect on how I'm doing, on my progress and for setting priorities for the upcoming week. We use 15Five for that. My reflections are shared with my lead and she can directly comment on insights provided. This supports getting into a rhythm of self reflection and helps me and my lead with expressing my development, my needs and deriving support. When we notice patterns or changes that need a more detailed conversation, we schedule such sessions on demand. Both of us bring long term experience to the table, so that on demand is working greatly. For the beginning I would recommend have One-on-Ones scheduled regularly, to not hide away from deeper reflection and to build trust and connection.
 
 The weekly reflection consists of 3 main components. 
@@ -60,7 +63,9 @@ These questions provide a great impulse for further reflection. I take what I wo
 In summary this weekly short 10-15 minutes check-in is a valuable instrument for self reflection and deriving adjustments. It provides important insights for my lead and enables richer connection and support. It is great for supporting Remote Work as I can do that in my time, it is based on written async communication and can be shared, supporting interactions directly on my inputs. In combination with on demand in person one-on-one's it is a great extension that provides flexibility.
 
 Posted on **LINKEDIN** on 2024-02-22_Thu
+
 # Linking
+
 + [[Leadership Development]]
 + [[Speed of Trust and Leadership]]
 + [[MOC Feedback]]

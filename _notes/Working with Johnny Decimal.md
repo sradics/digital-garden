@@ -5,12 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/continuous_learning
   - linkedin/processed
-date_created: Wednesday, June 12th 2024, 5:19:28 am
-date_modified: Thursday, June 13th 2024, 6:02:44 am
+date_created: 2024-06-12 05:19
+date_modified: 2025-06-25 00:01
 image: Pasted image 20240613060035.png
 ---
 # [[Working with Johnny Decimal]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_how-i-use-a-johnny-decimal-inspired-system-activity-7206550832270487554-azXl?utm_source=share&utm_medium=member_desktop)
 ![[Pasted image 20240613060035.png|400]]
 
@@ -50,6 +52,7 @@ But I got the inspiration to think about a numbering scheme from it.
 👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
 ## Content preparation
+
 Since early stage of working with my Note Taking system I'm using a numbering system that is inspired by the Johnny Decimal system to organize information. 
 
 I can find things faster when I need to look for a number instead remembering a folder name. So in my PARA folder structure, where I organise information by actionability and distinguish between Projects, Areas, Resources and Archives I use a numbering system. Each project or area gets a number. 
@@ -71,5 +74,7 @@ Such a numbering system is especially helpful when you system grows over time an
 Do you use a similar approach? What is your experience with it?
 
 Posted on **LINKEDIN** on 2024-06-12_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

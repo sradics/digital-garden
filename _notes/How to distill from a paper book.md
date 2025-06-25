@@ -8,11 +8,13 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
 image: Pasted image 20250325073419.png
-date_created: Monday, March 24th 2025, 7:16:57 am
-date_modified: Tuesday, March 25th 2025, 7:35:07 am
+date_created: 2025-03-24 07:16
+date_modified: 2025-06-25 00:01
 ---
 # [[How to distill from a paper book]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_that-moment-when-you-realize-youve-highlighted-activity-7309831394740850689-zoKx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250325073419.png|400]]
@@ -53,5 +55,7 @@ And happy mind wandering.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-03-24_Mon
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

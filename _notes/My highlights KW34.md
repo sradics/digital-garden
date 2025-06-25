@@ -6,11 +6,13 @@ tags:
   - linkedin/processed
   - journalling/weekly_notes
 pdf: 2024_KW34_Weekly Highlights.pdf
-date_created: Friday, August 23rd 2024, 5:35:29 am
-date_modified: Saturday, August 24th 2024, 6:18:29 am
+date_created: 2024-08-23 05:35
+date_modified: 2025-06-25 00:01
 ---
 # [[My highlights KW34]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_5-top-highlights-kw342024-activity-7232627757019529216-30xB?utm_source=share&utm_medium=member_desktop)
 
 ![[2024_KW34_Weekly Highlights.pdf]]
@@ -51,7 +53,8 @@ Your turn: What inspired you this week?
 
 ## Content preparation
 
-
 Posted on **LINKEDIN** on 2024-08-23_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

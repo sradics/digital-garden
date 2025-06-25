@@ -10,11 +10,13 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 image: Pasted image 20250213065751.png
-date_created: Wednesday, February 12th 2025, 7:12:18 am
-date_modified: Thursday, February 13th 2025, 6:58:41 am
+date_created: 2025-02-12 07:12
+date_modified: 2025-06-25 00:01
 ---
 # [[Compounding starts with you]]
+
 ## LinkedIn Post
+
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_the-investment-portfolio-youre-completely-activity-7295335843790008323-fhmD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
 ![[Pasted image 20250213065751.png|400]]
@@ -68,5 +70,7 @@ Comment "5" or DM me to reserve your spot.
 ## Content preparation
 
 Posted on **LINKEDIN** on 2025-02-12_Wed
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

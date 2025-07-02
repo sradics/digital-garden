@@ -5,11 +5,14 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/relationships
+  - ln_reference
 image: Pasted image 20250629124747.png
-aliases: ["From Crisis to success "]
+aliases:
+  - "From Crisis to success "
 linter-yaml-title-alias: "From Crisis to success "
 date_created: 2025-06-29 12:30
 date_modified: 2025-06-29 12:48
+cover: "[[Pasted image 20250629124747.png]]"
 ---
 # [[From Crisis to success ]]
 

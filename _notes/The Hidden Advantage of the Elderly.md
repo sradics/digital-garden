@@ -5,8 +5,10 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/help_others_grow
+  - ln_reference
 image: Pasted image 20250629124958.png
-aliases: ["The Hidden Advantage of the Elderly "]
+aliases:
+  - "The Hidden Advantage of the Elderly "
 linter-yaml-title-alias: "The Hidden Advantage of the Elderly "
 date_created: 2025-06-26 06:24
 date_modified: 2025-06-29 12:52

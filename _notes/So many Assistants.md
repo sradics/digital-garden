@@ -5,10 +5,12 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/help_others_grow
+  - ln_reference
 image: Pasted image 20250624071713.png
 date_created: 2025-06-19 07:39
 date_modified: 2025-06-25 00:01
-aliases: ["So many Assistants "]
+aliases:
+  - "So many Assistants "
 linter-yaml-title-alias: "So many Assistants "
 ---
 # [[So many Assistants ]]

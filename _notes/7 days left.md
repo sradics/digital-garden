@@ -9,8 +9,10 @@ tags:
   - lightbulb/4-🟢-my_offer
 date_created: 2025-04-21 06:51
 date_modified: 2025-06-25 00:01
-aliases: ["7 days left "]
+aliases:
+  - "7 days left "
 linter-yaml-title-alias: "7 days left "
+image: Pasted image 20250422070108.png
 ---
 # [[7 days left ]]
 

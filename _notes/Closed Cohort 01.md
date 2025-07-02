@@ -5,6 +5,7 @@ tags:
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/relationships
   - linkedin/processed
+  - ln_reference
 date_created: 2025-06-24 09:00
 date_modified: 2025-06-29 12:55
 aliases:

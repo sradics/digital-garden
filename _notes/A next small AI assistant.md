@@ -8,10 +8,12 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
+  - ln_reference
 image: Pasted image 20250513071424.png
 date_created: 2025-05-12 06:21
 date_modified: 2025-06-25 00:01
-aliases: ["A next small AI assistant "]
+aliases:
+  - "A next small AI assistant "
 linter-yaml-title-alias: "A next small AI assistant "
 ---
 # [[A next small AI assistant ]]

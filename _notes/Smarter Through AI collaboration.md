@@ -7,8 +7,10 @@ tags:
   - 12_fav_problems/help_others_grow
 date_created: 2025-06-06 11:15
 date_modified: 2025-06-25 00:01
-aliases: ["Smarter Through AI collaboration "]
+aliases:
+  - "Smarter Through AI collaboration "
 linter-yaml-title-alias: "Smarter Through AI collaboration "
+image: Pasted image 20250606115329.png
 ---
 # [[Smarter Through AI collaboration ]]
 

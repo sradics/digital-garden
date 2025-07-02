@@ -5,10 +5,13 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/help_others_grow
+  - ln_reference
 date_created: 2025-06-15 16:12
 date_modified: 2025-06-25 00:01
-aliases: ["Prompting is dead "]
-linter-yaml-title-alias: "Prompting is dead "
+aliases:
+  - "Prompting is dead "
+linter-yaml-title-alias: Prompting is dead
+image: Pasted image 20250617072414.png
 ---
 # [[Prompting is dead ]]
 
@@ -16,7 +19,7 @@ linter-yaml-title-alias: "Prompting is dead "
 
 [Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_prompting-is-dead-heres-what-replaced-it-activity-7340257501013069824-1gIn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
-![[Pasted image 20250617072414.png]]
+![[Pasted image 20250617072414.png|400]]
 
 Prompting is dead. Here's what replaced it.
 

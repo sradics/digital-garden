@@ -8,10 +8,11 @@ tags:
   - lightbulb/1-🔴-status_quo
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
-image: Pasted image 20250514052359
+image: Pasted image 20250514052359.png
 date_created: 2025-05-13 07:19
 date_modified: 2025-06-25 00:01
-aliases: ["Week 3 - Obsidian, PARA and Capture "]
+aliases:
+  - "Week 3 - Obsidian, PARA and Capture "
 linter-yaml-title-alias: "Week 3 - Obsidian, PARA and Capture "
 ---
 # [[Week 3 - Obsidian, PARA and Capture ]]

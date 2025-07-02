@@ -9,7 +9,8 @@ tags:
   - lightbulb/3-🟠-my_approach
   - lightbulb/5-🔵-their_new-life
 date_created: 2025-04-18 07:09
-date_modified: 2025-06-25 00:01
+date_modified: 2025-06-29 14:30
+image: Pasted image 20250421064457.png
 ---
 # [[The 9 Weeks]]
 

@@ -5,10 +5,12 @@ tags:
   - type/social-media/linkedIn-post-note
   - linkedin/processed
   - 12_fav_problems/help_others_grow
+  - ln_reference
 image: Pasted image 20250615120252.png
 date_created: 2025-06-13 07:52
 date_modified: 2025-06-25 00:01
-aliases: ["What a week "]
+aliases:
+  - "What a week "
 linter-yaml-title-alias: "What a week "
 ---
 # [[What a week ]]

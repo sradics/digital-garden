@@ -7,10 +7,12 @@ tags:
   - linkedin/processed
   - lightbulb/3-🟠-my_approach
   - lightbulb/4-🟢-my_offer
+  - ln_reference
 image: Pasted image 20250417073951.png
 date_created: 2025-04-15 07:00
 date_modified: 2025-06-25 00:01
-aliases: [S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Langdock Behind the Scenes]
+aliases:
+  - S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Langdock Behind the Scenes
 linter-yaml-title-alias: S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Langdock Behind the Scenes
 ---
 # [[S03 QuintSmart/030-039 Areas/35 LinkedIn posting/Langdock Behind the Scenes]]

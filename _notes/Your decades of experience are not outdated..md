@@ -10,6 +10,7 @@ linter-yaml-title-alias: "Your decades of experience are not outdated. "
 date_created: 2025-06-29 13:00
 date_modified: 2025-06-29 13:00
 image: Pasted image 20250629130110.png
+cover: "[[Pasted image 20250629130110.png]]"
 ---
 # [[Your decades of experience are not outdated. ]]
 

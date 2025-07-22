@@ -4,8 +4,10 @@ tags:
   - epstatus/2-🪴
   - type/social-media/linkedIn-post-note
   - 12_fav_problems/help_others_grow
+  - linkedin/processed
 image: Pasted image 20250714072440.png
-aliases: ["Become an information master in 9 weeks "]
+aliases:
+  - "Become an information master in 9 weeks "
 linter-yaml-title-alias: "Become an information master in 9 weeks "
 date_created: 2025-07-14 07:23
 date_modified: 2025-07-14 07:25

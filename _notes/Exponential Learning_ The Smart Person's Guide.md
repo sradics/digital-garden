@@ -1,8 +1,8 @@
 ---
 tags:
   - digital_garden
-  - type/fleeting-note
   - epstatus/0-🌰
+  - type/newsletter
 aliases:
   - "Exponential Learning: The Smart Person's Guide"
 linter-yaml-title-alias: "Exponential Learning: The Smart Person's Guide"

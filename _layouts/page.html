@@ -74,8 +74,8 @@ layout: default
         {{ content }}
      
         
-        <div class="container-fluid">
-            {{ "#### 20 recent plants in my digital garden" | markdownify }}
+        <div class="container-fluid posts">
+            {{ "### 20 recent plants in my digital garden" | markdownify }}
         <div class="row row-cols-3 g-4">
         
         {% assign columnCounter = 0 %}
@@ -98,7 +98,7 @@ layout: default
 
 
 
-            <div class="card cardspacer h-100">
+            <div class="card cardspacer h-100 bg-white">
             {% if page.image %}
               <img src="{{ site.baseurl }}/assets/{{ page.image }}" class="card-img-top">
             {% elsif page.pdf %}
@@ -142,7 +142,7 @@ layout: default
         
    <div class="col-sm-4">
         
-        {{ "#### Maps of Content" | markdownify }}
+        {{ "### Maps of Content" | markdownify }}
         
         
         {% for page in  site.notes %}
@@ -160,7 +160,10 @@ layout: default
         <div>
             <a href="javascript:highlightByMaturity('.none');" class="maturitySelecter">undefined</a> → 
             <a href="javascript:highlightByMaturity('.nut');" class="maturitySelecter">nut 🌰</a> → <a href="javascript:highlightByMaturity('.seedling');" class="maturitySelecter">seedling 🌱</a> → <a href="javascript:highlightByMaturity('.plotted_plant');" class="maturitySelecter">potted plant 🪴</a> → <a href="javascript:highlightByMaturity('.tree');" class="maturitySelecter">tree 🌳</a> → <a href="javascript:highlightByMaturity('.ancient_tree');" class="maturitySelecter">ancient tree 🍁</a> → <a href="javascript:highlightByMaturity('.fallen_leaf');" class="maturitySelecter">fallen leaf 🍂</a></div>
-        {{ "#### Pages" | markdownify }}
+        
+        <h3 style="margin-top:50px;">Pages</h3>
+        <div style="max-height: 3000px;" class="overflow-auto">
+            
         {% for page in site.notes %}
         {% assign epstatus = 'none' %}
         {% assign note_type = '' %}
@@ -234,6 +237,7 @@ layout: default
         
         <br>
         {% endfor %}  
+        </div>
     </div>  
          
 

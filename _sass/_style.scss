@@ -4,19 +4,223 @@ $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
-$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+
+//$border-radius-pill:0.2rem;
+
+/* 1. Define your custom color palette as Sass variables */
+$primary-blue: #2C65B1;
+$accent-orange: #FA6E4C;
+$accent-teal: #69C9C8;
+$dark-blue-text: #23518E;
+$light-bg: #F7F7F7;
+$hover-blue: #4375B9;
+
+/* 2. Override Bootstrap's default theme color variables */
+$primary:       $primary-blue;
+$secondary:     $accent-teal;
+$warning:       $accent-orange;
+$dark:          $dark-blue-text;
+$light:         $light-bg;
+
+$body-bg: $light-bg;
+
+/* 3. Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap');
+
+$footer-bg: #000;
+$footer-text-color: #FFF;
+$footer-border-color: #dee2e6;
+
+// 2. Override the default variables with your own values.
+// This is where you set your custom hover color.
+$link-hover-color: #69C9C8; // Your --accent-teal color
+
+// You can also change the default link color here for a consistent theme
+$link-color: #2C65B1; // Your --primary-blue color
+
+.posts {
+  background-color: $light-bg;
+}
+
+
+
+.navbar {
+  background-color: $dark-blue-text;
+  backdrop-filter: blur(10px);
+  margin-bottom: 30px;
+
+  .brand-area a {
+    text-decoration: none;
+  }
+
+  h5 {
+    
+    
+    margin-bottom: 1.25rem;
+    font-size: 1.2rem;
+    color: $light-bg; // Assumes $dark-blue-text is defined globally
+}
+
+h5 a{
+  
+  margin-bottom: 1.25rem;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: $light-bg; // Assumes $dark-blue-text is defined globally
+
+}
+
+  .navbar-brand {
+     color: $light-bg;
+
+      &:hover {
+          color: $accent-teal; // Assumes $hover-blue is defined globally
+      }
+
+      &.active {
+        color: $accent-teal; // Uses your accent teal for hover/active
+      }
+  }
+
+  .nav-link {
+    color: $light-bg;
+      &:hover {
+          color: $accent-teal; // Assumes $hover-blue is defined globally
+      }
+      &.active {
+        color: $accent-teal; // Uses your accent teal for hover/active
+     }
+  }
+}
+
+
+.footer-custom {
+    background-color: $footer-bg;
+    color: $footer-text-color;
+    font-size: 1.0rem;
+    margin-top: 20px;
+
+    h5 {
+        font-family: 'Inter', sans-serif;
+        font-weight: 600;
+        margin-bottom: 1.25rem;
+        font-size: 1.2rem;
+        color: $accent-teal; // Assumes $dark-blue-text is defined globally
+    }
+
+    h5 a{
+      font-family: 'Inter', sans-serif;
+      font-weight: 600;
+      margin-bottom: 1.25rem;
+      font-size: 1.5rem;
+      text-decoration: none;
+      color: $accent-teal; // Assumes $dark-blue-text is defined globally
+   }
+
+    .list-unstyled a {
+        color: $footer-text-color;
+        text-decoration: none;
+        transition: color 0.2s ease-in-out;
+        line-height: 2;
+
+        &:hover {
+            color: $primary-blue; // Assumes $primary-blue is defined globally
+        }
+    }
+    
+    .brand-text {
+        color: $accent-teal; // Assumes $dark-blue-text is defined globally
+    }
+}
+
+.ais-SearchBox-input {
+    width: 100%;
+    border-radius: $border-radius;
+    border: 1px solid $color-border;
+    font-size: 1rem;
+    color: $color-text;
+    background-color: $light-bg;
+    box-shadow: rgba(119, 122, 175, 0.3) 0 0px 0px 0 inset;
+    border:0px solid #d9d9d9;
+
+    &:focus {
+        border-color: $primary-blue; // Assumes $primary-blue is defined globally
+        box-shadow: 0 0 0 0.25rem rgba(44, 101, 177, 0.25);
+    }
+}
+
+.footer-bottom {
+    border-top: 1px solid $footer-border-color;
+    font-size: 1.0rem;
+    
+    a {
+         color: $footer-text-color;
+         text-decoration: none;
+        
+        &:hover {
+            color: $primary-blue; // Assumes $primary-blue is defined globally
+            text-decoration: underline;
+        }
+    }
+}
+
+h1, h2, h3, h4, h5, h6, .font-serif, .brand-area {
+  font-family: 'Lora', serif;
+}
+
+.note-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid #e9ecef;
+  background-color: #FFF;
+}
+
+.note-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 1rem 1.5rem rgba(0, 0, 0, 0.1) !important;
+}
+
+.tag {
+  border: 1px solid $accent-teal;
+  color: $accent-teal;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  text-decoration: none;
+}
+
+.tag:hover {
+  background-color: $accent-teal;
+  color: white;
+}
+
+
+.form-control:focus {
+  border-color: var(--primary-blue);
+  box-shadow: 0 0 0 0.25rem rgba(44, 101, 177, 0.25);
+}
+
+.footer-icon {
+  color: var(--dark-blue-text);
+  transition: color 0.3s ease;
+}
+.footer-icon:hover {
+  color: var(--primary-blue);
+}
 
 body {
+  font-family: 'Inter', sans-serif;
+  background-color: $light-bg;
+  color: $dark;
+
   box-sizing: content-box;
-  font-family: $font-family;
+  //font-family: $font-family;
   margin: 0 auto;
   line-height: 1.7;
   padding: 4vh 6vw;
+  padding-top: 10px;
   overflow-x: hidden;
   color: $color-text;
   font-size: 1rem;
   max-width: 80em;
+  
   /*width: 80em; */   
   @media (min-width: 1000px) {
     font-size: 1.2rem;
@@ -24,21 +228,12 @@ body {
     
 }
 
-main {
-  /*width: 80em;*/        
-}
 
 time {
   color: $color-subtext;
   margin: 0.5em 0 1em;
 }
 
-footer {
-  margin: 2em 0;
-  font-size: 0.8em;
-  color: mix($color-text, white, 80%);
-  padding-top: 1em;
-}
 
 img {
   max-width: 100%;
@@ -69,6 +264,41 @@ hr {
 }
 
 
+body h1,body .h1 {
+  color: $dark-blue-text;
+  font-size: 1.3em;
+  font-weight: 600;
+}
+body h2, body .h2 {
+  color: $primary-blue;
+  font-size: 1.2em;
+  font-weight: 600;
+}
+body h3, body .h3 {
+  color: $accent-orange;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+body h4, body .h4 {
+  color: $accent-teal;
+  font-size: 1em;
+  font-weight: 500;
+  font-variant: small-caps;
+}
+body h5, body .h5 {
+  color: $dark-blue-text;
+  font-size: 0.95em;
+  font-weight: 500;
+  font-variant: small-caps;
+}
+
+body h6, body .h6 {
+  color: $primary-blue;
+  font-size: 0.9em;
+  font-weight: 400;
+  font-variant: small-caps;
+}  
+
 h1,
 h2,
 h3,
@@ -82,21 +312,21 @@ h6 {
 
 a {
   transition: background 300ms;
-  padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
-  color: $color-primary;
+  
   &:hover {
-    color: black !important;
-    background: #fffaf1;
+    text-decoration: underline;
+    border-bottom: $light-bg 1px solid;
   }
-  &:after {
+    
+  /*&:after {
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
     content: "↗";
     color: #aaaaaa;
   }
+  */  
   &.internal-link:after,
   &.footnote:after,
   &.reversefootnote:after {
@@ -107,10 +337,6 @@ a {
 *:focus {
   background: #ffe8bc !important;
   color: black !important;
-}
-
-nav {
-  margin: 1em 0 3em;
 }
 
 
@@ -149,7 +375,7 @@ text.graphlink {
 }
 
 #chartArea {
-    background-color: ghostwhite;
+    background-color: #FFF;
     width: 1000px;
     height: 800px;
 }

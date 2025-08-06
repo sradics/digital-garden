@@ -5,11 +5,22 @@ id: home
 permalink: /
 ---
 
-# Welcome to my digital garden! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  I'm publishing early thoughts on topics Agility, Lean, Product Discovery and Delivery, Management. Have fun exploring.
-</p>
+<section class="text-center mb-5 py-5">
+    <h1 class="display-4 fw-bold mb-3">A Garden of Evolving Ideas 🌱</h1>
+    <p class="lead text-muted col-lg-8 mx-auto">
+        This is a collection of my thoughts, notes, and explorations on Second Brain, Learning, Agility, and more. Like a garden, these ideas are constantly growing and evolving.
+    </p>
+    <div class="mt-4">
+
+        <div id="searchbox" class="form-control form-control-lg rounded-pill w-75 mx-auto"></div>
+    
+        <div id="brand-list"></div>
+        <div id="hits">
+
+        </div>
+    </div>
+</section>
 
 
 

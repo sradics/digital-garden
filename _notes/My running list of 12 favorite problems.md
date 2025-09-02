@@ -32,9 +32,18 @@ date_modified: 2025-06-25 06:10
 
 12. How can I **design a sustainable lifestyle that naturally promotes longevity through the integration of optimal nutrition, movement, stress management, and meaningful relationships**?
 
+### Practical and lifestyle problems (from a 4-step guide)
+
+13. How can I design an effective online learning community that sustains itself?
+14. How can I cook healthy meals for my family every day that doesn’t take too much time and also taste good?
+15. How can I exercise joyfully every day?
+16. How can I build a bootstrapped company serving people globally while preserving free time?
+17. How can I teach timeless values to my kids when my own are evolving?
+18. Where in the world do we want to live to inspire adventure and stability for our kids?
+19. How do I support people I care about without interfering in their growth?
+
 ![[Feynmans 12 favorite problems#Nice open ended questions to define or find my 12 questions]]
 
 # Linking
 
 + Source: [[Feynmans 12 favorite problems]]
-

@@ -1,9 +1,9 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - status/draft
 ---
 # [[Use Botpress to build your sales assistant in minutes ]]
 ## LinkedIn Post

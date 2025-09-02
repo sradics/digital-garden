@@ -1,9 +1,9 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - status/draft
 ---
 # [[A higher level of freedom to implement ]]
 ## LinkedIn Post

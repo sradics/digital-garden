@@ -1,18 +1,24 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - 12_fav_problems/help_others_grow
+image: Pasted image 20250917061141.png
+aliases:
+  - "Der Lebenslauf "
+linter-yaml-title-alias: "Der Lebenslauf "
+date_created: 2025-09-02 07:12
+date_modified: 2025-09-17 06:12
 ---
 # [[Der Lebenslauf ]]
+
 ## LinkedIn Post
-[Post at LinkedIn]()
-  
 
-👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_gestern-habe-ich-meinen-lebenslauf-geschrieben-activity-7368523108535812096-9F55?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
-## Content preparation
+![[Pasted image 20250917061141.png|400]]
 
 Gestern habe ich meinen Lebenslauf geschrieben.
 
@@ -52,9 +58,12 @@ Sich zuerst fragen: "Wie kann KI mich bei der Aufgabe unterstützen?"
 
 Bei welcher Aufgabe könntest du als nächstes AI-First denken?
 
+👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
-
+## Content preparation
 
 Posted on **LINKEDIN** on 2025-09-02_Tue
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

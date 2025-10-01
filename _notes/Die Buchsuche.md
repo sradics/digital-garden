@@ -1,18 +1,28 @@
 ---
-tags: 
-- digital_garden
-- epstatus/2-🪴
-- type/social-media/linkedIn-post-note
-
+tags:
+  - digital_garden
+  - epstatus/2-🪴
+  - type/social-media/linkedIn-post-note
+  - linkedin/processed
+  - 12_fav_problems/help_others_grow
+image: Pasted image 20251001094259.png
+aliases:
+  - "Die Buchsuche "
+linter-yaml-title-alias: "Die Buchsuche "
+date_created: 2025-09-19 06:23
+date_modified: 2025-10-01 09:43
 ---
 # [[Die Buchsuche ]]
+
 ## LinkedIn Post
-[Post at LinkedIn]()
-  
 
-👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
+[Post at LinkedIn](https://www.linkedin.com/posts/sebastiankamilli_ich-hab-mal-wieder-meinen-eigenen-test-nicht-activity-7374683455038705664-8b3S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1M1pkBgWCYPhT45EpfLiHzViQqRWNCIv4)
 
-## Content preparation
+[Short video](https://share.descript.com/view/HQAgZAOgF25)
+
+<iframe src="https://share.descript.com/embed/HQAgZAOgF25" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+![[Pasted image 20251001094259.png|400]]
 
 Ich hab mal wieder meinen eigenen Test nicht bestanden. 
 
@@ -39,7 +49,6 @@ Und dann fällt der Groschen: Ich habe nichts vom Erfassen - Entwickeln - Erscha
 → eigene Gedanken und Verknüpfungen entwickeln
 → gleich in an Alltag einbinden und Neues damit erschaffen
 
-
 Falls es dir genauso geht - am Dienstag zeige ich einen Schnelldurchlauf: Erfassen - Entwickeln - Erschaffen...
 
 Live im Webinar: 23. September, 19:00 Uhr
@@ -49,8 +58,12 @@ Live im Webinar: 23. September, 19:00 Uhr
 
 Anmeldung in 20s: https://quintsmart.com/learning-ecosystem-webinar 
 
+👉 [FOLLOW ME on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sebastiankamilli)
 
+## Content preparation
 
 Posted on **LINKEDIN** on 2025-09-19_Fri
+
 # Linking
+
 + [[My running list of 12 favorite problems]]

@@ -20,20 +20,20 @@ It takes you 7 simple steps, doable in 5 minutes to open your Obsidian-Second Br
 3) Unpack to a folder, where you can find it in the next step again.
 (on Mac I e.g. unpacked in folder /Users/sebastiankamilli/Documents/MySecondBrain-1.0.0)
 
-![[Pasted image 20250428081627.png|400]]
+![[S03 QuintSmart/Archive/328 1st Cohort Learning Ecosystem Mastery/Week 1/attachments/Pasted image 20250428081627.png|400]]
 
 4) Start Obsidian and open the Second-Brain in Obsidian
 ![[OpenVault.png|400]]
 
 Important! Pick the folder **MySecondBrain-1.0.0**, then open it.
-![[Pasted image 20250428082002.png]]
+![[S03 QuintSmart/Archive/328 1st Cohort Learning Ecosystem Mastery/Week 1/attachments/Pasted image 20250428082002.png]]
 
 5) Open with Trust author and enable plugins to enable the full plugin-functionality.
 
 ![[TrustAuthor.png|400]]
 
 6) You should now see the Start here page in Obsidian
-![[Pasted image 20250428082105.png]]
+![[S03 QuintSmart/Archive/328 1st Cohort Learning Ecosystem Mastery/Week 1/attachments/Pasted image 20250428082105.png]]
 
 7) Have fun exploring the Second Brain. 
 

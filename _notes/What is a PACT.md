@@ -119,4 +119,4 @@ By consistently working with PACTs, you develop the ability to navigate uncertai
 - Source: [[Cunff-Tiny Experiments]]
 - [[Pomodoro Pact]]
 - [[SMART goals are not so smart- make a PACT instead]]
-- [[PACT assistant knowledge base]] - a more detailed knowledge base created with Gemini Deep Research
+- [[S03 QuintSmart/030-039 Areas/39a11 My Assistant Network/Pacey PACT Assistant/PACT assistant knowledge base]] - a more detailed knowledge base created with Gemini Deep Research

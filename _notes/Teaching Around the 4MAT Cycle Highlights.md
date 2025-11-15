@@ -457,7 +457,7 @@ An idea is a concept when it naturally connects: to learners, to content, and to
 
 You write the description of the content you hope to teach in the oval at the bottom of the page, as illustrated below, and then attempt to find the overarching idea and write it into the umbrella
 
-![[Pasted image 20250504200525.png]]
+![[S03 QuintSmart/300-399 Projects/349 2nd Cohort Learning Ecosystem Mastery/Week 2/attachments/Pasted image 20250504200525.png]]
 
 ### Finding the Concept
 
@@ -467,7 +467,7 @@ You write the description of the content you hope to teach in the oval at the bo
 
 ## Review Questions
 
-![[Pasted image 20250504201516.png|400]]
+![[S03 QuintSmart/300-399 Projects/349 2nd Cohort Learning Ecosystem Mastery/Week 2/attachments/Pasted image 20250504201516.png|400]]
 
 ### Mapping of stages to actions
 

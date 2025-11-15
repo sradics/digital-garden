@@ -18,4 +18,4 @@ Previously a Leadership Learning Course Builder at Blinkist and Senior Agile Coa
 
 # Linking
 
-- Bio generated with [[S03 QuintSmart/300-399 Projects/339 Running Through AI discovery/Notes from week 2#Prompt for generating a short BIO]]
+- Bio generated with [[S03 QuintSmart/Archive/339 Running Through AI discovery/Notes from week 2#Prompt for generating a short BIO]]
